@@ -7,3 +7,34 @@
 # graphical_culture = westerngfx
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
 
+hanculture = {
+	graphical_culture = asiangfx
+
+	chuhan = {
+		dynasty_names = {
+			Bi Chu Dao Deng Han Jiang Ju Liu Lu Pi Qing Ruo Shang Sui Xiang Xiong Xu Yin Zeng Zhao
+		}
+	}
+	qihan = {
+		dynasty_names = {
+			An Chen Guan Guo Jiang Lai Lu Mi Qi Song Teng Tian Wu Yan Yue
+		}
+	}
+	qinhan = {
+		dynasty_names = {
+			Cai Cao Dai Ji Jin Sai Ti Wei Wen Xing Yong Zhai Zheng Zhou
+		}
+	}
+	shuhan = {
+		primary = TMP #Whatever nation is in Sichuan
+		dynasty_names = {
+			Dan Fu Gong He Ju Kaiming Lang Li Nu Pu Rang Sou Zong Yi
+		}
+	}
+	fusou = {
+		primary = HTA
+		dynasty_names = {
+			Amori Fukasa Hakata Hata Itsuki Kado Kara Kure Kuzu Mamori Masa Omomuro Oroka Oto Sakazuki Tsuzura Tani Tomoe
+		}
+	}
+}
