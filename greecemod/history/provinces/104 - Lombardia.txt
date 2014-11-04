@@ -1,0 +1,19 @@
+#104 - romania
+
+owner = ITA
+controller = ITA
+culture = roman
+religion = sunni
+hre = no
+base_tax = 14 
+trade_goods = cloth
+manpower = 7
+fort1 = yes
+temple = yes
+capital = "Milano"
+citysize = 110000	# Estimated
+add_core = ITA
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

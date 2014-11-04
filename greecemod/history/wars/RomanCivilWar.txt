@@ -1,0 +1,10 @@
+name = "Roman Civil War"
+war_goal = {
+	type = imperialism
+	casus_belli = imperialism
+}
+
+1444.1.1 = {
+	add_attacker = ITA
+	add_defender = SPQ
+}

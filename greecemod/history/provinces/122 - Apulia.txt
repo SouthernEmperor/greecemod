@@ -1,0 +1,18 @@
+#122 - Apulia
+
+owner = SPQ
+controller = SPQ
+culture = roman 
+religion = orthodox
+hre = no 
+base_tax = 3
+trade_goods = salt
+manpower = 2
+fort1 = yes 
+capital = "Taranto"
+citysize = 25000 # Estimated 
+add_core = SPQ
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

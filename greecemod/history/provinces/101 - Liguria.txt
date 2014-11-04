@@ -1,0 +1,25 @@
+#101 - Liguria
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = roman
+religion = sunni
+hre = no
+base_tax = 10
+trade_goods = naval_supplies
+manpower = 5
+fort1 = yes
+capital = "Genova"
+citysize = 45000 # Estimated
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+1000.1.1 = {
+		add_permanent_province_modifier = {
+			name = center_of_trade_modifier
+			duration = -1
+		}
+}

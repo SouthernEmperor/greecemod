@@ -1,0 +1,7 @@
+﻿#if you're reusing tags please delete tags in other countries file before putting them in here
+
+l_english:
+ ITA: "Italya"
+ ITA_ADJ: "Italyan"
+ SPQ: "SPQR"
+ SPQ_ADR: "Roman"

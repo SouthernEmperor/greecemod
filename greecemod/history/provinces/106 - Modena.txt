@@ -1,0 +1,20 @@
+#106 - Modena
+
+owner = ITA
+controller = ITA
+culture = roman 
+religion = sunni 
+hre = no 
+base_tax = 5    
+trade_goods = wine
+manpower = 2    
+fort1 = yes 
+capital = "Modena" 
+citysize = 25000	# Estimated 
+temple = yes		# 12th century
+university = yes	# Founded 1175
+add_core = ITA
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

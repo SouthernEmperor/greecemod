@@ -1,0 +1,18 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = roman
+religion = sunni
+technology_group = eastern
+historical_rival = SPQ
+capital = 104 #Mediolanum
+
+1444.1.1 = {
+	monarch = {
+		name = "Nedim I"
+		dynasty = "Kayseri"
+		birth_date = 1425.1.1		
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}

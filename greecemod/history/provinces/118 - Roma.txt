@@ -1,0 +1,20 @@
+#118 - Roma
+
+owner = SPQ
+controller = SPQ
+culture = roman 
+religion = orthodox
+hre = no
+base_tax = 12
+trade_goods = grain
+manpower = 8
+fort1 = yes 
+capital = "Roma" 
+citysize = 300000
+temple = yes
+marketplace = yes
+add_core = SPQ
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

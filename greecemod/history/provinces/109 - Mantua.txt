@@ -1,0 +1,18 @@
+#109 - Mantua
+ 
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = roman 
+religion = sunni 
+hre = no 
+base_tax = 9        
+trade_goods = grain
+manpower = 4        
+fort1 = yes 
+capital = "Mantova" 
+citysize = 22000
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

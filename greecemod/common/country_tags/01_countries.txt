@@ -1,0 +1,10 @@
+#If you're recycling tags, please delete the old listing in the other file before coming here
+
+# Special countries..
+REB = "countries/Rebels.txt"
+PIR = "countries/Pirates.txt"
+NAT = "countries/Natives.txt"
+
+#Italy
+ITA = "countries/Italya.txt"
+SPQ = "countries/SPQR.txt"

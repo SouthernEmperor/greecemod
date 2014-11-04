@@ -1,0 +1,18 @@
+#120 - Abbruzzi
+
+owner = SPQ
+controller = SPQ
+culture = roman 
+religion = sunni
+hre = no 
+base_tax = 5 
+trade_goods = wine 
+manpower = 3
+fort1 = yes 
+capital = "L'Aquila" 
+citysize = 17000 
+add_core = SPQ
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

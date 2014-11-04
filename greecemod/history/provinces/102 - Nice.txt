@@ -1,0 +1,19 @@
+#102 - Nice
+
+owner = ITA
+controller = ITA
+add_core = ITA
+culture = roman
+religion = sunni
+hre = no
+base_tax = 4
+trade_goods = fish
+manpower = 2
+fort1 = yes
+capital = "Nice"
+citysize = 12000 # Estimated
+marketplace = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

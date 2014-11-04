@@ -1,0 +1,17 @@
+government = noble_republic
+mercantilism = 0.1
+primary_culture = roman
+religion = orthodox
+technology_group = eastern
+historical_rival = ITA
+capital = 118 #Rome
+
+1444.1.1 = {
+	monarch = {
+		name = "Marcus Augustus"
+		birth_date = 1400.6.27		
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}

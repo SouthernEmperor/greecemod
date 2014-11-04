@@ -1,0 +1,19 @@
+#123 - Calabria
+
+owner = SPQ
+controller = SPQ
+culture = roman 
+religion = orthodox
+hre = no 
+base_tax = 2
+trade_goods = fish
+manpower = 2
+fort1 = yes
+capital = "Reggio di Calabria"
+citysize = 22000 
+marketplace = yes
+add_core = SPQ
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

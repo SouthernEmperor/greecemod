@@ -1,0 +1,19 @@
+#103 - Piedmont
+
+owner = ITA
+controller = ITA
+culture = roman
+religion = sunni
+hre = no
+base_tax = 7
+trade_goods = cloth
+manpower = 3
+fort1 = yes
+capital = "Torino"
+citysize = 35000 # Estimated
+add_core = ITA
+marketplace = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
