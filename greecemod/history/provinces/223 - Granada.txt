@@ -1,0 +1,18 @@
+#223 - Granada
+
+owner = TRS
+controller = TRS
+add_core = TRS
+culture = andalusian
+religion = sunni
+hre = no
+base_tax = 6
+trade_goods = salt
+manpower = 3 
+fort1 = yes
+capital = "Granada"
+citysize = 60000
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

@@ -1,0 +1,21 @@
+#227 - Lisboa
+
+owner = GAL
+controller = GAL
+culture = arab_iberian
+religion = sunni
+capital = "Lisboa"
+trade_goods = fish
+hre = no
+base_tax = 10
+manpower = 3
+citysize = 47000
+add_core = GAL
+add_core = LUS
+fort1 = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+marketplace = yes
+temple = yes
+discovered_by = eastern

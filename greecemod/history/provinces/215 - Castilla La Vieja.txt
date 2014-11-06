@@ -1,0 +1,19 @@
+#215 - Valladolid
+
+owner = GAL
+controller = GAL
+add_core = GAL
+culture = celtiberian
+religion = sunni
+hre = no
+base_tax = 4
+trade_goods = wool 
+manpower = 2
+fort1 = yes
+capital = "Valladolid"
+marketplace = yes	# Medina del Campo fair 
+citysize = 2500
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

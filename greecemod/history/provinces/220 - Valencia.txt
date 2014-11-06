@@ -1,0 +1,19 @@
+#220 - València
+
+owner = CIT
+controller = CIT
+add_core = CIT
+culture = hispanic
+religion = sunni
+hre = no
+base_tax = 8 
+trade_goods = cloth
+manpower = 4
+fort1 = yes
+capital = "València" 
+citysize = 35000
+marketplace = yes # València was the center of peninsular trade with the Mediterranean, surpassing Barcelona
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

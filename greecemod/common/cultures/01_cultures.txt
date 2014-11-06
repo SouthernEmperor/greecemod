@@ -9,13 +9,53 @@
 
 latin = {
 		graphical_culture = easterngfx
-
+		
+		aquitanian = {
+		}
+		
+		hispanic = {
+			primary = SPA
+		}
+		
+		illyrian = {
+		}
+		
 		roman = {
-			primary = SPQ
+			primary = ROM			
+		}
+
+}
+
+mustarib = {
+		graphical_culture = muslimgfx
+		
+		arab_breton = {
+		}
+		
+		arab_brythonic = {
+		}
+		
+		arab_iberian = {
+		}
+		
+		arab_latin = {
+		}
+}
+
+celtic = {
+
+		celtiberian = {
+		}
+
+}
+
+semitic = {
+
+		andalusian = {
+		
 		}
 }
 		
-
 hanculture = {
 		graphical_culture = asiangfx
 		

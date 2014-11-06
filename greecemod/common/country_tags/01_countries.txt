@@ -5,6 +5,16 @@ REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
+#Iberia
+CIT = "countries/Citerior.txt"
+GAL	= "countries/Gallaecia.txt"
+LUS = "countries/Lusitanya.txt"
+NAV = "countries/Vasconia.txt"
+SPA = "countries/Hispania.txt"
+TRC = "countries/Tarraconensis.txt"
+TRS = "countries/Tartessos.txt"
+
 #Italy
 ITA = "countries/Italya.txt"
+ROM = "countries/Rome.txt"
 SPQ = "countries/SPQR.txt"

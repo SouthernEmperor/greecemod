@@ -1,0 +1,24 @@
+government = merchant_republic
+#aristocracy_plutocracy = 4
+#centralization_decentralization = -3
+#innovative_narrowminded = -2
+mercantilism = 0.1
+#offensive_defensive = 5
+#land_naval = -3
+#quality_quantity = 2
+#serfdom_freesubjects = -2
+primary_culture = andalusian
+religion = sunni
+add_accepted_culture = berber
+technology_group = muslim
+capital = 224	# Tartessos
+
+1444.1.1 = {
+	monarch = {
+		name = "Geryon"
+		birth_date = 1395.6.6		
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}

@@ -1,0 +1,19 @@
+#231 - Porto
+
+owner = GAL
+controller = GAL
+culture = celtiberian
+religion = sunni
+capital = "Porto"
+trade_goods = wine
+hre = no
+base_tax = 10
+manpower = 5
+citysize = 8000
+add_core = GAL
+fort1 = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+marketplace = yes

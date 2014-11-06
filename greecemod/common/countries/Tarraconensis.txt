@@ -1,37 +1,21 @@
-#Country Name: Please see filename.
+# TRC = Tarraconensis
 
-graphical_culture = westerngfx
+graphical_culture = easterngfx
 
-color = { 237 29 36 }
+color = { 127 106 0 }
 
 historical_idea_groups = {
-	maritime_ideas
-	religious_ideas
-	defensive_ideas
+	land_ideas
 	administrative_ideas
-	trade_ideas
-	quality_ideas
-	innovativeness_ideas
+	religious_ideas
 	diplomatic_ideas
-}
+	trade_ideas
+	ceremony_ideas
+	domestic_trade_ideas
+	aristocracy_ideas
+	quality_ideas
+	economic_ideas
 
-historical_units = {
-	eastern_medieval_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	ottoman_spahi
-	ottoman_sekban
-	ottoman_reformed_spahi
-	ottoman_reformed_janissary
-	ottoman_toprakli_hit_and_run
-	ottoman_nizami_cedid
-	ottoman_toprakli_dragoon
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-	ottoman_new_model
-	ottoman_lancer
 }
 
 monarch_names = {
@@ -123,8 +107,4 @@ leader_names = {
 	"Verginius"
 	"Veturius"
 	"Volumnius"
-}
-
-ship_names = {
-	Dacicus Aquila Fides Christianus Iustitia Virtus Clementia Armata Persicus Satyra Libertas Tigris Oceanus Victoria Taurus Augustus Particus Eufrates Danubius Nilus Fortuna Olivus Germanicus Sarmaticus Gothicus Pax Pietas Triumphus 
 }

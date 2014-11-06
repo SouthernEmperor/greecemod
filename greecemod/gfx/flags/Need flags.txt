@@ -1,0 +1,5 @@
+The following countries are in the game but need flags:
+-Citerior (CIT)
+-Hispania (SPA)
+-Lusitanya (LUS)
+-Tarraconensis (TRC)

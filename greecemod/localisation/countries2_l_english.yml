@@ -1,7 +1,23 @@
 ﻿#if you're reusing tags please delete tags in other countries file before putting them in here
 
-l_english:
+l_english: 
+ CIT: "Citerior"
+ CIT_ADJ: "Citerioran"
+ GAL: "Gallaecia"
+ GAL_ADJ: "Gallaecian"
  ITA: "Italya"
  ITA_ADJ: "Italyan"
+ LUS: "Lusitanya"
+ LUS_ADJ: "Lusitanyan"
+ NAV: "Vasconia"
+ NAV_ADJ: "Vasconian"
+ ROM: "Rome"
+ ROM_ADJ: "Roman"
+ SPA: "Hispania"
+ SPA_ADJ: "Hispanian"
  SPQ: "SPQR"
- SPQ_ADR: "Roman"
+ SPQ_ADJ: "Senatorial"
+ TRC: "Tarraconensis"
+ TRC_ADJ: "Tarraconensian"
+ TRS: "Tartessos"
+ TRS_ADJ: "Tartesian"

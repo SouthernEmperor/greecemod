@@ -1,4 +1,4 @@
-government = noble_republic
+government = oligarchic_republic
 mercantilism = 0.1
 primary_culture = roman
 religion = orthodox

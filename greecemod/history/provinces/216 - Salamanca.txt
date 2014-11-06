@@ -1,0 +1,19 @@
+#216 - Salamanca
+
+owner = GAL
+controller = GAL
+add_core = GAL
+culture = celtiberian
+religion = sunni
+hre = no
+base_tax = 6
+trade_goods = grain
+manpower = 7
+fort1 = yes
+capital = Salamanca
+citysize = 4000
+university = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

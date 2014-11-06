@@ -1,7 +1,22 @@
 ﻿#cultures should go here, I guess?
 
 l_english:
+ latin: "Latin"
+ aquitanian: "Aquitanian"
+ hispanic: "Hispanic"
+ illyrian: "Illyrian"
  roman: "Roman"
+ transalpine: "Transalpine"
+ mustarib: "Musta'rib"
+ arab_breton: "Arab-Breton"
+ arab_brythonic: "Arab-Brythonic"
+ arab_iberian: "Arab-Iberian"
+ arab_latin: "Arab-Latin"
+ celtic: "Celtic"
+ celtiberian: "Celtiberian"
+ semitic: "Semitic"
+ andalusian: "Andalusian"
+ hanculture: "Han"
  chuhan: "Chu Han"
  qihan: "Qi Han"
  qinhan: "Qin Han"

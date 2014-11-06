@@ -2,7 +2,7 @@
 
 owner = ITA
 controller = ITA
-culture = roman
+culture = arab_latin
 religion = sunni
 hre = no
 base_tax = 5

@@ -1,0 +1,19 @@
+#1750 - Alàcant
+
+owner = CIT
+controller = CIT
+add_core = CIT
+culture = hispanic
+religion = sunni
+hre = no
+base_tax = 7
+trade_goods = wine
+manpower = 3 
+fort1 = yes
+capital = "Alàcant" 
+citysize = 8000
+marketplace = yes # València was the center of peninsular trade with the Mediterranean, surpassing Barcelona
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
