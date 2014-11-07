@@ -2,6 +2,7 @@
 
 owner = GAL
 controller = GAL
+add_core = GAL
 add_core = TRC
 culture = celtiberian
 religion = sunni

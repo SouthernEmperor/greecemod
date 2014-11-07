@@ -158,12 +158,9 @@ WUR	= "countries/Wurttemberg.txt"
 	
 #Spain
 ARA	= "countries/Aragon.txt"
-CAS	= "countries/Castille.txt"
-CAT	= "countries/Catalunya.txt"
-GRA	= "countries/Granada.txt"
-NAV	= "countries/Navarra.txt"
-POR	= "countries/Portugal.txt"
-SPA	= "countries/Spain.txt"
+CAS = "countries/Castille.txt"
+POR = "countries/Portugal.txt"
+GRA = "countries/Granada.txt"
 
 #Italy
 AQU	= "countries/Aquileia.txt"
