@@ -87,3 +87,32 @@ hanculture = {
 		}
 	}
 }
+
+west_germanic = {
+	graphical_culture = westerngfx
+
+	frankish =  {
+		primary = FRK
+	}
+	frisian = {
+		primary = FRI
+	}
+	angle = {
+		primary = ANG
+	}
+	batavain = {
+		primary = BAT #Batavaria hasn't been created
+	}
+	saxon = {
+		primary = SAX
+	}
+	jute = {
+		primary = JUT #Jutland hasn't been created
+	}
+	lombard = {
+		primary = LOM #Lombardia hasn't been created
+	}
+	thuringii = {
+		primary = THU #Thuringa hasn't been created alternately MRC
+	}
+}
