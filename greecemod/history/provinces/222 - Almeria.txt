@@ -1,6 +1,6 @@
 #222 - Almería
 
-owner = TRS		#Mustapha Sa'd King of Granada
+owner = TRS
 controller = TRS
 add_core = TRS
 add_core = CIT

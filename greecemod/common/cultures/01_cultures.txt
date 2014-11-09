@@ -7,6 +7,35 @@
 # graphical_culture = westerngfx
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
 
+west_germanic = {
+	graphical_culture = westerngfx
+
+		frankish =  {
+			primary = FRK
+		}
+		frisian = {
+			#primary = FRI
+		}
+		angle = {
+			#primary = ANG
+		}
+		batavian = {
+			#primary = BAT #Batavaria hasn't been created
+		}
+		saxon = {
+			#primary = SAX
+		}
+		jute = {
+			#primary = JUT #Jutland hasn't been created
+		}
+		lombard = {
+			#primary = LOM #Lombardia hasn't been created
+		}
+		thuringii = {
+			#primary = THU #Thuringa hasn't been created alternately MRC
+		}
+}
+
 latin = {
 		graphical_culture = easterngfx
 		
@@ -85,34 +114,5 @@ hanculture = {
 			dynasty_names = {
 				Amori Fukasa Hakata Hata Itsuki Kado Kara Kure Kuzu Mamori Masa Omomuro Oroka Oto Sakazuki Tsuzura Tani Tomoe
 		}
-	}
-}
-
-west_germanic = {
-	graphical_culture = westerngfx
-
-	frankish =  {
-		primary = FRK
-	}
-	frisian = {
-		primary = FRI
-	}
-	angle = {
-		primary = ANG
-	}
-	batavain = {
-		primary = BAT #Batavaria hasn't been created
-	}
-	saxon = {
-		primary = SAX
-	}
-	jute = {
-		primary = JUT #Jutland hasn't been created
-	}
-	lombard = {
-		primary = LOM #Lombardia hasn't been created
-	}
-	thuringii = {
-		primary = THU #Thuringa hasn't been created alternately MRC
 	}
 }

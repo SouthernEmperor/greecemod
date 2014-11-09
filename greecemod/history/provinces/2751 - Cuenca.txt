@@ -1,8 +1,7 @@
 #2751 - Cuenca
 
-owner = LUS
-controller = LUS
-add_core = LUS
+owner = CIT
+controller = CIT
 add_core = CIT
 culture = hispanic
 religion = sunni

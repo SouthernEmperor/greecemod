@@ -1,8 +1,8 @@
 #212 - Girona
 
-owner = CIT
-controller = CIT
-add_core = CIT
+owner = TRC
+controller = TRC
+add_core = TRC
 culture = hispanic
 religion = sunni
 hre = no
