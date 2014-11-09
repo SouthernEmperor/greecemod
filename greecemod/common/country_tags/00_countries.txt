@@ -178,7 +178,6 @@ VEN	= "countries/Venice.txt"
 #Low Countries
 BRB	= "countries/Brabant.txt"
 FLA	= "countries/Flanders.txt"
-FRI	= "countries/Friesland.txt"
 GEL	= "countries/Gelre.txt"
 HAI	= "countries/Hainaut.txt"
 HOL	= "countries/Holland.txt"

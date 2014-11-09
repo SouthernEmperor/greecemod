@@ -7,7 +7,7 @@ NAT = "countries/Natives.txt"
 
 #Iberia
 CIT = "countries/Citerior.txt"
-GAL	= "countries/Gallaecia.txt"
+GAL = "countries/Gallaecia.txt"
 LUS = "countries/Lusitanya.txt"
 NAV = "countries/Vasconia.txt"
 SPA = "countries/Hispania.txt"
@@ -18,3 +18,11 @@ TRS = "countries/Tartessos.txt"
 ITA = "countries/Italya.txt"
 ROM = "countries/Rome.txt"
 SPQ = "countries/SPQR.txt"
+
+#West Germanics
+FRK	= "countries/Frankreich.txt"
+ANG	= "countries/Angleland.txt"
+FRI	= "countries/Frisia.txt"
+ALL	= "countries/Allemannia.txt"
+SAX	= "countries/Saxony.txt"
+MRC	= "countries/Marcomannia.txt"
