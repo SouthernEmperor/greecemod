@@ -51,7 +51,7 @@ celtic = {
 
 semitic = {
 
-		andalusian = {
+		tartessian = {
 		
 		}
 }

@@ -99,32 +99,32 @@
  PROV98: "Utrecht"
  PROV99: "Gelre"
  PROV100: "Friesland"
- PROV101: "Liguria"
- PROV102: "Nice"
- PROV103: "Piedmont"
- PROV104: "Lombardia"
- PROV105: "Parma"
- PROV106: "Modena"
- PROV107: "Brescia"
- PROV108: "Verona"
- PROV109: "Mantua"
- PROV110: "Trent"
- PROV111: "Friuli"
- PROV112: "Venezia"
- PROV113: "Ferrara"
- PROV114: "Romagna"
- PROV115: "Pisa"
- PROV116: "Firenze"
- PROV117: "Siena"
- PROV118: "Roma"
- PROV119: "Ancona"
- PROV120: "Abruzzi"
- PROV121: "Napoli"
- PROV122: "Salento"
- PROV123: "Calabria"
- PROV124: "Messina"
- PROV125: "Palermo"
- PROV126: "Malta"
+ PROV101: "Liguria" #done
+ PROV102: "Cemenelum" #done
+ PROV103: "Taurinorum" #done
+ PROV104: "Transpadana" #done
+ PROV105: "Parma" #done
+ PROV106: "Mutina" #done
+ PROV107: "Brixia" #done
+ PROV108: "Verona" #done
+ PROV109: "Mantua" #done
+ PROV110: "Tridentum" #done
+ PROV111: "Aquileia" #done
+ PROV112: "Venetia" #done
+ PROV113: "Aemilia" #done
+ PROV114: "Arminium" #done
+ PROV115: "Pisae" #done
+ PROV116: "Etruria" #done
+ PROV117: "Cosa" #done
+ PROV118: "Latium" #done
+ PROV119: "Umbria" #done
+ PROV120: "Samnium" #done
+ PROV121: "Campania" #done
+ PROV122: "Calabria" #done
+ PROV123: "Bruttium" #done
+ PROV124: "Syracuse" #done
+ PROV125: "Panormos" #done
+ PROV126: "Melita" #done
  PROV127: "Sardinia"
  PROV128: "Kärnten"
  PROV129: "Krain"
@@ -140,16 +140,16 @@
  PROV139: "Hum"
  PROV140: "Bosnia"
  PROV141: "Serbia"
- PROV142: "Corfu"
- PROV143: "Albania"
- PROV144: "Epirus"
- PROV145: "Morea"
- PROV146: "Athens"
+ PROV142: "Heptanese" #done
+ PROV143: "Chaonia" #done
+ PROV144: "Epirus" #done
+ PROV145: "Laconia" #done
+ PROV146: "Attica" #done
  PROV147: "Thessaly"
- PROV148: "Macedonia"
- PROV149: "Edirne"
+ PROV148: "Macedonia" #done
+ PROV149: "Thrace" #done
  PROV150: "Tarnovo"
- PROV151: "Constantinople"
+ PROV151: "Bosporus" #done
  PROV152: "Varasd"
  PROV153: "Pest"
  PROV154: "Szepes"
@@ -222,13 +222,13 @@
  PROV221: "Murcia"
  PROV222: "Almería"
  PROV223: "Granada"
- PROV224: "Andalucía"
+ PROV224: "Tartessos" #done
  PROV225: "Córdoba"
- PROV226: "Gibraltar"
- PROV227: "Lisboa"
+ PROV226: "Herahqliyah" #done
+ PROV227: "al-Isbunyah" #done
  PROV228: "Beira"
  PROV229: "Alentejo"
- PROV230: "Algarve"
+ PROV230: "al-Gharb" #done
  PROV231: "Porto"
  PROV232: "Bragança"
  PROV233: "Cornwall"
@@ -314,18 +314,18 @@
  PROV313: "Arkhangelsk"
  PROV314: "Vologda"
  PROV315: "Finnmark"
- PROV316: "Kocaeli"
- PROV317: "Hüdavendigar"
- PROV318: "Sugla"
- PROV319: "Mentese"
- PROV320: "Rhodes"
- PROV321: "Cyprus"
- PROV322: "Kütahya"
- PROV323: "Konya"
+ PROV316: "Chalcedon" #done
+ PROV317: "Mysia" #done
+ PROV318: "Ionia" #done
+ PROV319: "Caria" #done
+ PROV320: "Rhodes" #done
+ PROV321: "Cyprus" #done
+ PROV322: "Phrygia" #done
+ PROV323: "Lycaonia" #done
  PROV324: "Karaman"
- PROV325: "Kastamonu"
- PROV326: "Ankara"
- PROV327: "Adana"
+ PROV325: "Paphlagona" #done
+ PROV326: "Galatia" #done
+ PROV327: "Cilicia" #done
  PROV328: "Sinop"
  PROV329: "Sivas"
  PROV330: "Trebizond"
@@ -1771,7 +1771,7 @@
  PROV1770: "Ostmarch"
  PROV1771: "Erz"
  PROV1772: "Pozsony"
- PROV1773: "Achaea"
+ PROV1773: "Achaea" #done
  PROV1774: "Treviso"
  PROV1775: "Holstein"
  PROV1776: "Karelia"
@@ -1846,7 +1846,7 @@
  PROV1845: "Pyongan"
  PROV1846: "Amasya"
  PROV1847: "Shiribeshi"
- PROV1848: "Hamid"
+ PROV1848: "Pisidia" #done
  PROV1849: "Hama"
  PROV1850: "Yaran"
  PROV1851: "Coimbra"
@@ -1860,7 +1860,7 @@
  PROV1859: "Chelmno"
  PROV1860: "Norfolk"
  PROV1861: "Derby"
- PROV1862: "Cremona"
+ PROV1862: "Cremona" #done
  PROV1863: "Graz"
  PROV1864: "Somogy"
  PROV1865: "Ghent"
@@ -1931,8 +1931,8 @@
  PROV1930: "Åland"
  PROV1931: "East Frisia"
  PROV1932: "Gulf of Satalia"
- PROV1933: "Bari"
- PROV1934: "Lucania"
+ PROV1933: "Apulia" #done
+ PROV1934: "Lucania" #done
  PROV1935: "Semigallia"
  PROV1936: "Kovno"
  PROV1937: "Grodno"
@@ -2293,15 +2293,15 @@
  PROV2293: "Yawuri"
  PROV2294: "Warri"
  PROV2295: "Atakora" 
- PROV2296: "Biga"
- PROV2297: "Saruhan"
- PROV2298: "Tekke"
- PROV2299: "Bolu"
+ PROV2296: "Troas" #done
+ PROV2297: "Lydia" #done
+ PROV2298: "Lycia" #done
+ PROV2299: "Bithynia" #done
  PROV2300: "Bozok"
- PROV2301: "Kayseri"
+ PROV2301: "Cappadocia" #done
  PROV2302: "Içel"
  PROV2303: "Malatya"
- PROV2304: "Canik"
+ PROV2304: "Pontus" #done
  PROV2305: "Erzincan"
  PROV2306: "Mush"
  PROV2307: "Van"

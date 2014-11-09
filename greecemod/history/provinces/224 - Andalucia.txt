@@ -3,7 +3,7 @@
 owner = TRS
 controller = TRS
 add_core = TRS
-culture = andalusian
+culture = tartessian
 religion = sunni
 hre = no
 base_tax = 8
