@@ -1,0 +1,20 @@
+# 87 Calais - Principal cities: Calais
+
+owner = FRK
+controller = FRK 
+capital = "Calais"
+citysize = 13000
+culture = frankish
+religion = catholic
+hre = no
+base_tax = 5
+trade_goods = fish
+manpower = 3
+add_core = FRK
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+#customs_house = yes # Exception to the rule, trade junction & established here
+fort1 = yes
+marketplace = yes # 'The Brightest Jewel in the English Crown'

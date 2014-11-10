@@ -1,15 +1,9 @@
 government = despotic_monarchy
-#aristocracy_plutocracy = -4
-#centralization_decentralization = 3
-#innovative_narrowminded = -1
 mercantilism = 0.1
-#offensive_defensive = -2
-#land_naval = -2
-#quality_quantity = -1
-#serfdom_freesubjects = -2
 primary_culture = frankish
 religion = catholic
 technology_group = western
+historical_rival = SAX
 capital = 91 # Hainaut
 national_focus = DIP
 

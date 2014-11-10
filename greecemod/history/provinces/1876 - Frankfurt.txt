@@ -1,0 +1,17 @@
+# 1876 - Frankfurt
+capital = "Frankfurt"
+culture = frankish
+religion = catholic
+trade_goods = grain
+owner = FRK
+base_tax = 8
+manpower = 4
+fort1 = yes
+citysize = 8000
+add_core = FRK
+controller = FRK
+hre = no
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

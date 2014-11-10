@@ -1,0 +1,22 @@
+# 90 Vlaanderen - Principal cities: Brugge
+
+owner = FRK
+controller = FRK
+capital = "Brugge"
+citysize = 75000
+culture = breton
+religion = catholic
+hre = no
+base_tax = 6
+trade_goods = cloth
+manpower = 3
+add_core = FRK
+unrest = 4
+marketplace = yes
+courthouse = yes # Exception, organised in this region
+textile = yes
+fort1 = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

@@ -1,0 +1,18 @@
+# 95 Breda - Principal cities: 's Hertogenbosch & Breda
+
+owner = FRL
+controller = FRK 
+capital = "'s Hertogenbosch"
+citysize = 16000
+culture = frisian
+religion = catholic
+hre = no
+base_tax = 7
+trade_goods = cloth
+manpower = 4
+add_core = FRK
+fort1 = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
