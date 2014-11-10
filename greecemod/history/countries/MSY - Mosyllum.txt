@@ -1,0 +1,17 @@
+government = merchant_republic
+mercantilism = 0.1
+primary_culture = helleno_somali
+religion = hellenic_pagan
+technology_group = muslim
+capital = 2786
+
+1444.1.1 = {
+	monarch = {
+		name = "Husaayn VI"
+		dynasty = "Keralid"
+		birth_date = 1416.8.19
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+}

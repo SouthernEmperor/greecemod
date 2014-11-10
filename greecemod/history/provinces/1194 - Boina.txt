@@ -1,0 +1,12 @@
+#1194 - Boina
+owner = IRA
+controller = IRA
+add_core = IRA
+capital = "Majunga"
+culture = exodite
+religion = sunni
+trade_goods = unknown
+hre = no
+base_tax = 2
+
+1500.9.1 = { discovered_by = POR } # Diego Dias

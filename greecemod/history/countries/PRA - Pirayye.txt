@@ -1,0 +1,17 @@
+government = merchant_republic
+mercantilism = 0.1
+primary_culture = exodite
+religion = sunni
+technology_group = muslim
+capital = 1201
+
+1444.1.1 = {
+	monarch = {
+		name = "Abd Al-Rahman"
+		dynasty = "Pirayyid"
+		birth_date = 1416.8.19
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}

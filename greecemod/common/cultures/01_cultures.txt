@@ -115,4 +115,27 @@ hanculture = {
 				Amori Fukasa Hakata Hata Itsuki Kado Kara Kure Kuzu Mamori Masa Omomuro Oroka Oto Sakazuki Tsuzura Tani Tomoe
 		}
 	}
+}puntlanders = {
+		graphical_culture = africangfx
+
+		helleno_somali = {
+			primary = MSY
+		}
+		judeo_somali = {
+			primary = PAN
+			dynasty_names = {
+				Iskariot Halit Aleph Mokum Shlomonid 
+			}
+		}
+
+}
+azanians = {
+		graphical_culture = africangfx
+
+		isian = {
+		}
+		exodite = {
+			primary = PRA
+		}
+
 }

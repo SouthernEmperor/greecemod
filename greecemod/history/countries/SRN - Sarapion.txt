@@ -1,0 +1,17 @@
+government = merchant_republic
+mercantilism = 0.1
+primary_culture = isian
+religion = isaya
+technology_group = muslim
+capital = 1205
+
+1444.1.1 = {
+	monarch = {
+		name = "Zeno"
+		dynasty = "Isid"
+		birth_date = 1416.8.19
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+}

@@ -1,0 +1,185 @@
+MSY_ideas = {
+    start = {
+        light_ship_cost = -0.25
+        trade_steering = 0.075
+    }
+    bonus = {
+        navy_tradition_decay = -0.01
+    }
+    trigger = {
+        tag = MSY
+    }
+    free = yes
+    library_mosyllum = {
+        adm_tech_cost_modifier = -0.05
+        dip_tech_cost_modifier = -0.05
+    }
+    punt_training = {
+        land_attrition = -0.06
+    }
+    gate_erythraean = {
+        trade_efficiency = 0.1
+        merchants = 1
+    }
+    erythraean_pirates = {
+        global_ship_recruit_speed = -0.1
+    }
+    postsomali_admin = {
+        adm_tech_cost_modifier = -0.05
+        idea_cost = -0.1
+    }
+    thesean_expedition = {
+        colonists = 1
+    }
+    diadromes = {
+        enemy_core_creation = 1.0
+    }
+}
+exodite_emirate_ideas = {
+    start = {
+        naval_attrition = -0.25
+        missionaries = 1
+    }
+    bonus = {
+        free_leader_pool = 1
+    }
+    trigger = {
+	OR = {
+        tag = IRA
+        tag = PRA
+    	}
+    }
+    free = yes
+    sharia = {
+        tolerance_own = 1
+    }
+    secondexodus = {
+        may_explore = yes
+    }
+    socotid_weyn = {
+        colonists = 1
+    }
+    almalik_edict = {
+        build_cost = -0.3
+    }
+    casterelaxation = {
+        advisor_pool = 1
+        advisor_cost = -0.06
+    }
+    xhidhidka = {
+        diplomats = 1
+    }
+    yaqub_reform = {
+        naval_maintenance_modifier = -0.25
+    }
+}
+PAN_ideas = {
+    start = {
+        recover_navy_morale_speed = 0.06
+        naval_maintenance_modifier = -0.25
+    }
+    bonus = {
+        missionaries = 1
+    }
+    trigger = {
+        tag = PAN
+    }
+    free = yes
+    merchant_repairing = {
+        sea_repair = yes
+    }
+    ciidankabadda = {
+        naval_forcelimit_modifier = 0.3
+    }
+    foreignexpeditions = {
+        colonists = 1
+    }
+    integratingsomalia = {
+        core_creation = -0.25
+    }
+    jewishpirates = {
+        war_exhaustion = -0.015
+        blockade_efficiency = 0.33
+    }
+    starbuilders = {
+        heavy_ship_cost = -0.25
+    }
+    hatcompany = {
+        naval_attrition = -0.25
+    }
+}
+SRN_ideas = {
+    start = {
+        merchants = 1
+        discipline = 0.15
+    }
+    bonus = {
+        free_leader_pool = 1
+    }
+    trigger = {
+        tag = SRN
+    }
+    free = yes
+    firstandonly = {
+        infantry_power = 0.15
+    }
+    sarapiontactics = {
+        leader_land_shock = 1
+    }
+    zanjscourge = {
+        colonists = 1
+    }
+    davidianreform = {
+        artillery_cost = -0.1
+        cavalry_cost = -0.1
+        infantry_cost = -0.1
+    }
+    adapttactic = {
+        mil_tech_cost_modifier = -0.075
+    }
+    nopeacepls = {
+        leader_land_fire = 1
+    }
+    sarapionbonds = {
+        war_exhaustion = -0.02
+    }
+}
+minor_sarapionite = {
+    start = {
+        trade_efficiency = 0.15
+        global_prov_trade_power_modifier = 0.2
+    }
+    bonus = {
+        diplomats = 1
+    }
+    trigger = {
+		OR = {
+			tag = NCN
+			tag = OPN
+		}
+    }
+    free = yes
+    greatmarket = {
+        merchants = 1
+    }
+    greatarmies = {
+        land_forcelimit_modifier = 0.3
+    }
+    surroundenemies = {
+        defensiveness = 0.2
+    }
+    greathouse = {
+        colonists = 1
+    }
+    isayaecumenical = {
+        tolerance_heathen = 2
+    }
+    tribediplomacy = {
+        mercenary_cost = -0.15
+        possible_mercenaries = 1.0
+    }
+    sarapionicthemes = {
+        reduced_stab_impacts = yes
+    }
+}
+

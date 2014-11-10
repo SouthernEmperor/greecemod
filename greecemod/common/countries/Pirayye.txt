@@ -1,0 +1,110 @@
+# PRA = Pirayye
+
+graphical_culture = africangfx
+
+color = { 234 55 55 }
+
+historical_idea_groups = {
+	naval_ideas
+	trade_ideas
+	exploration_ideas
+	religious_ideas
+	maritime_ideas
+	administrative_ideas
+	expansion_ideas
+	offensive_ideas
+	quality_ideas
+	economic_ideas
+
+}
+
+monarch_names = {
+	"Ali #0" = 10
+	"Abbas #0" = 10
+	"Abdullah #0" = 10
+	"Abd Al-Wali #0" = 10
+	"Fawzi #0" = 10
+	"Faruq #0" = 10
+	"Fikri #0" = 10
+	"Jafar #0" = 10
+	"Harun #0" = 10
+	"Rashid #0" = 10
+	"Faris #0" = 10
+	"Hisham #0" = 10
+	"Hasib #0" = 10
+	"Hasan #0" = 10
+	"Hosni #0" = 10
+	"Kamal #0" = 10
+	"Jibril #0" = 10
+	"Jawdat #0" = 10
+	"Karam #0" = 10
+	"Jalal #0" = 10
+	"Mu'tasim #0" = 10
+	"Na'im #0" = 10
+	"Nasib #0" = 10
+	"Nasser #0" = 10
+	"Najib #0" = 10
+	"Nadir #0" = 10
+	"Nadim #0" = 10
+	"Lufti #0" = 10
+	"Khaliq #0" = 10
+	"Khalid #0" = 10
+	"Mahdi #0" = 10
+	"Mahir #0" = 10
+	"Mahmud #0" = 10
+	"Khaled #0" = 10
+	"Khalil #0" = 10
+}
+
+leader_names = {
+	"Abtidoon"
+	"Abaskuul"
+	"Aadan"
+	"Ashkir"
+	"Ayax"
+	"Ayuub"
+	"Cabdinaasir"
+	"Cabdalle"
+	"Cabdishakuur"
+	"Cabdullaahi"
+	"Cabdow"
+	"Caalin"
+	"Daacad"
+	"Faarax"
+	"Faaruq"
+	"Food"
+	"Geganius"
+	"Genucius"
+	"Herminius"
+	"Horatius"
+	"Iulius"
+	"Iunius"
+	"Larcius"
+	"Lucretius"
+	"Manlius"
+	"Menenius"
+	"Minucius"
+	"Nautius"
+	"Numicius"
+	"Oppius"
+	"Papirius"
+	"Pinarius"
+	"Poetelius"
+	"Postumius"
+	"Quinctilius"
+	"Quinctius"
+	"Romilius"
+	"Sempronius"
+	"Sergius"
+	"Servilius"
+	"Sestius"
+	"Sicinus"
+	"Sulpicius"
+	"Tarpeius"
+	"Tarquinius"
+	"Tullius"
+	"Valerius"
+	"Verginius"
+	"Veturius"
+	"Volumnius"
+}

@@ -1,0 +1,110 @@
+# NCN = Nicon
+
+graphical_culture = africangfx
+
+color = { 119 170 149 }
+
+historical_idea_groups = {
+	quality_ideas
+	offensive_ideas
+	exploration_ideas
+	quantity_ideas
+	naval_ideas
+	administrative_ideas
+	humanist_ideas
+	defensive_ideas
+	expansion_ideas
+	economic_ideas
+
+}
+
+monarch_names = {
+	"Amed #0" = 10
+	"Amir #0" = 10
+	"Alexandros #0" = 10
+	"Ajax #0" = 10
+	"Badun #0" = 10
+	"Kabdas #0" = 10
+	"Kabbas #0" = 10
+	"Kabdikamos #0" = 10
+	"Komo #0" = 10
+	"Karalos #0" = 10
+	"Kadmados #0" = 10
+	"Tafik #0" = 10
+	"Sofi #0" = 10
+	"Zeid #0" = 10
+	"Arsamos #0" = 10
+	"Tokow #0" = 10
+	"Aberi #0" = 10
+	"Assanos #0" = 10
+	"Soleman #0" = 10
+	"Asin #0" = 10
+	"Osni #0" = 10
+	"Zeno #0" = 10
+	"Zaid #0" = 10
+	"Os #0" = 10
+	"Ireis #0" = 10
+	"Idegos #0" = 10
+	"Olo #0" = 10
+	"Odavos #0" = 10
+	"Nakaros #0" = 10
+	"Astekos #0" = 10
+	"Aleios #0" = 10
+	"Manir #0" = 10
+	"Lokman #0" = 10
+	"Keir #0" = 10
+	"Kaleid #0" = 10
+}
+
+leader_names = {
+	"Abtidoon"
+	"Abaskuul"
+	"Aadan"
+	"Ashkir"
+	"Ayax"
+	"Ayuub"
+	"Cabdinaasir"
+	"Cabdalle"
+	"Cabdishakuur"
+	"Cabdullaahi"
+	"Cabdow"
+	"Caalin"
+	"Daacad"
+	"Faarax"
+	"Faaruq"
+	"Food"
+	"Geganius"
+	"Genucius"
+	"Herminius"
+	"Horatius"
+	"Iulius"
+	"Iunius"
+	"Larcius"
+	"Lucretius"
+	"Manlius"
+	"Menenius"
+	"Minucius"
+	"Nautius"
+	"Numicius"
+	"Oppius"
+	"Papirius"
+	"Pinarius"
+	"Poetelius"
+	"Postumius"
+	"Quinctilius"
+	"Quinctius"
+	"Romilius"
+	"Sempronius"
+	"Sergius"
+	"Servilius"
+	"Sestius"
+	"Sicinus"
+	"Sulpicius"
+	"Tarpeius"
+	"Tarquinius"
+	"Tullius"
+	"Valerius"
+	"Verginius"
+	"Veturius"
+	"Volumnius"
+}

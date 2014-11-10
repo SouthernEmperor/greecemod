@@ -1,0 +1,110 @@
+# SRN = Sarapion
+
+graphical_culture = africangfx
+
+color = { 40 108 105 }
+
+historical_idea_groups = {
+	quality_ideas
+	offensive_ideas
+	exploration_ideas
+	quantity_ideas
+	naval_ideas
+	administrative_ideas
+	humanist_ideas
+	defensive_ideas
+	expansion_ideas
+	economic_ideas
+
+}
+
+monarch_names = {
+	"Amed #0" = 10
+	"Amir #0" = 10
+	"Alexandros #0" = 10
+	"Ajax #0" = 10
+	"Badun #0" = 10
+	"Kabdas #0" = 10
+	"Kabbas #0" = 10
+	"Kabdikamos #0" = 10
+	"Komo #0" = 10
+	"Karalos #0" = 10
+	"Kadmados #0" = 10
+	"Tafik #0" = 10
+	"Sofi #0" = 10
+	"Zeid #0" = 10
+	"Arsamos #0" = 10
+	"Tokow #0" = 10
+	"Aberi #0" = 10
+	"Assanos #0" = 10
+	"Soleman #0" = 10
+	"Asin #0" = 10
+	"Osni #0" = 10
+	"Zeno #0" = 10
+	"Zaid #0" = 10
+	"Os #0" = 10
+	"Ireis #0" = 10
+	"Idegos #0" = 10
+	"Olo #0" = 10
+	"Odavos #0" = 10
+	"Nakaros #0" = 10
+	"Astekos #0" = 10
+	"Aleios #0" = 10
+	"Manir #0" = 10
+	"Lokman #0" = 10
+	"Keir #0" = 10
+	"Kaleid #0" = 10
+}
+
+leader_names = {
+	"Abtidon"
+	"Abaskolos"
+	"Adan"
+	"Askir"
+	"Ajax"
+	"Aiub"
+	"Kabdinasir"
+	"Kabdallos"
+	"Kabdishakur"
+	"Kabdulla"
+	"Kabdo"
+	"Kalin"
+	"Dakad"
+	"Farax"
+	"Faruk"
+	"Fod"
+	"Geganios"
+	"Hektoros"
+	"Paris"
+	"Horatios"
+	"Nasser"
+	"Unos"
+	"Larkios"
+	"Lukretios"
+	"Halif"
+	"Idegos"
+	"Strategos"
+	"Nautikos"
+	"Numidos"
+	"Azanos"
+	"Soleman"
+	"Kaleid"
+	"Virgilos"
+	"Aegis"
+	"Christos"
+	"Thekiros"
+	"Atenos"
+	"Kyklops"
+	"Kyriakos"
+	"Lakonos"
+	"Alexandros"
+	"Ptolemaios"
+	"Polyphemos"
+	"Polyblankos"
+	"Tarkinos"
+	"Tullius"
+	"Mohamedos"
+	"Kekyros"
+	"Theseios"
+	"Herakles"
+}

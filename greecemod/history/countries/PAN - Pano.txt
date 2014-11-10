@@ -1,0 +1,17 @@
+government = noble_republic
+mercantilism = 0.1
+primary_culture = judeo_somali
+religion = jewish
+technology_group = muslim
+capital = 1206
+
+1444.1.1 = {
+	monarch = {
+		name = "Judas Onecoin"
+		dynasty = "Iscariot"
+		birth_date = 10.1.1
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+}
