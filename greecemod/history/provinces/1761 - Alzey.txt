@@ -1,15 +1,15 @@
-#77 - Pfalz
+#1761 - Alzey
 
-owner = FRK
-controller = FRK
-capital = "Heidelberg"
-culture = frankish
+capital = "Worms"
+culture = rheinlaender
 religion = catholic
 trade_goods = wine
-base_tax = 6
-manpower = 2
+owner = FRK
+base_tax = 7
+manpower = 3
 fort1 = yes
 citysize = 10000
+controller = FRK
 add_core = FRK
 hre = no
 discovered_by = eastern

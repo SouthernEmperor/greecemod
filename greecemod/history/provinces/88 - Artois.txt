@@ -1,9 +1,9 @@
-# 90 Vlaanderen - Principal cities: Brugge
+# 88 Artois - Principal cities: Arras, Saint-Omer & Lille
 
 owner = FRK
 controller = FRK
-capital = "Brugge"
-citysize = 75000
+capital = "Arras"
+citysize = 35500
 culture = frankish
 religion = catholic
 hre = no
@@ -11,10 +11,7 @@ base_tax = 6
 trade_goods = cloth
 manpower = 3
 add_core = FRK
-unrest = 4
 marketplace = yes
-courthouse = yes # Exception, organised in this region
-textile = yes
 fort1 = yes
 discovered_by = eastern
 discovered_by = western

@@ -1,0 +1,20 @@
+# 75 Elsass - Principal cities: Strasbourg
+
+owner = FRK
+controller = FRK 
+capital = "Straﬂburg"
+citysize = 14000
+culture = frankish
+religion = catholic
+hre = no
+base_tax = 7
+trade_goods = wine
+manpower = 5
+add_core = ALS
+fort1 = yes
+marketplace = yes # Trade Center
+temple = yes # La Notre Dame de Strasbourg (finished 1439)
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

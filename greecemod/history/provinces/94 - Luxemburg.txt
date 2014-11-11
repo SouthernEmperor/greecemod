@@ -1,17 +1,17 @@
-#77 - Pfalz
+# 94 Luxembourg - Principal cities: Luxembourg
 
 owner = FRK
-controller = FRK
-capital = "Heidelberg"
+controller = FRK 
+capital = "Luxemburg"
+citysize = 9000
 culture = frankish
-religion = catholic
-trade_goods = wine
-base_tax = 6
-manpower = 2
-fort1 = yes
-citysize = 10000
-add_core = FRK
+religion = catholic 
 hre = no
+base_tax = 6
+trade_goods = iron
+manpower = 2
+add_core = FRK
+fort1 = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

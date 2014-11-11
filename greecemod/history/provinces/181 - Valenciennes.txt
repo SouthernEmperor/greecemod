@@ -1,17 +1,17 @@
-#77 - Pfalz
+# 181 Rethel
 
 owner = FRK
 controller = FRK
-capital = "Heidelberg"
+capital = "Rethel"
+citysize = 13000
 culture = frankish
 religion = catholic
-trade_goods = wine
-base_tax = 6
-manpower = 2
-fort1 = yes
-citysize = 10000
-add_core = FRK
 hre = no
+base_tax = 6
+trade_goods = cloth
+manpower = 2
+add_core = FRK 
+fort1 = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

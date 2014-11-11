@@ -1,0 +1,28 @@
+# 1744 Antwerp - Principal cities: Antwerp
+
+owner = FRI
+controller = FRI
+capital = "Antwerp"
+citysize = 75000
+culture = frisian
+religion = catholic
+hre = no
+base_tax = 8
+trade_goods = cloth
+manpower = 3
+add_core = FRI
+unrest = 4
+marketplace = yes
+courthouse = yes # Exception, organised in this region
+fort1 = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+1000.1.1 = {
+		add_permanent_province_modifier = {
+			name = center_of_trade_modifier
+			duration = -1
+		}
+}

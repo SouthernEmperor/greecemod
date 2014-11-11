@@ -1,0 +1,18 @@
+# 100 Friesland - Principal cities: Groningen & Leeuwarden
+
+owner = FRI
+controller = FRI
+capital = "Groningen"
+citysize = 9000
+culture = frisian
+religion = catholic
+hre = no
+base_tax = 6
+trade_goods = fish 
+manpower = 4
+add_core = FRI
+fort1 = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

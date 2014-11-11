@@ -1,0 +1,20 @@
+# 189 Lothringen - Principal cities: Nancy
+
+owner = FRK
+controller = FRK 
+capital = "Nancy"
+citysize = 5500
+culture = frankish
+religion = catholic
+hre = no
+base_tax = 6
+trade_goods = iron
+manpower = 6
+add_core = LOR
+fort1 = yes
+fort2 = yes # Fort de Joux
+temple = yes # La Basilique Saint-Epvre
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

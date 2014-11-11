@@ -1,0 +1,20 @@
+# 186 Champagne - Principal cities: Reims
+
+owner = FRK
+controller = FRK
+capital = "Reims"
+citysize = 15000
+culture = breton
+religion = catholic
+hre = no
+base_tax = 7
+trade_goods = wine
+manpower = 6
+add_core = FRK
+fort1 = yes
+marketplace = yes
+temple = yes # Cathedral of Reims, coronation place of the French kings
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

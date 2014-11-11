@@ -1,16 +1,16 @@
-#77 - Pfalz
-
 owner = FRK
 controller = FRK
-capital = "Heidelberg"
+add_core = FRK
 culture = frankish
 religion = catholic
-trade_goods = wine
-base_tax = 6
-manpower = 2
+trade_goods = grain
+capital = "Köln"
+base_tax = 8
+manpower = 3
+citysize = 40000
+marketplace = yes
 fort1 = yes
-citysize = 10000
-add_core = FRK
+#customs_house = yes
 hre = no
 discovered_by = eastern
 discovered_by = western

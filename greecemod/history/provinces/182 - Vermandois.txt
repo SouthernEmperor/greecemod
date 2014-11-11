@@ -1,0 +1,18 @@
+# 182 Vermandois - Principal cities: Compiègne
+
+owner = FRK
+controller = FRK
+capital = "Compiègne"
+citysize = 10000
+culture = breton
+religion = catholic
+hre = no
+base_tax = 5
+trade_goods = grain
+manpower = 4
+add_core = FRK
+fort1 = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
