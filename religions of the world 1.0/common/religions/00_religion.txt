@@ -1,0 +1,495 @@
+# If you add religions, and use those tags, do not change them without changing everywhere they are used.
+
+# Uses all 'modifiers' possible thats exported as a Modifier.
+
+christian = {
+	defender_of_faith = yes
+	
+	catholic = {
+		color = { 0.8 0.8 0 }
+		allowed_conversion = {
+			reformed
+			protestant
+		}
+		country = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		
+		on_convert = {
+			change_religion = catholic
+			add_stability = -3
+		}
+		
+		heretic = { BOGOMILIST WALDENSIAN FRATICELLI HUSSITE LOLLARD 
+SOCINIAN }
+		
+		papacy = yes	# Can play with papacy stuff...
+	}
+
+	protestant = {
+		color = { 0 0 0.7 }
+		allowed_conversion = {
+			reformed
+			catholic
+		}
+		country = {
+			global_tax_modifier = 0.1
+			idea_cost = -0.10
+		}
+		
+		on_convert = {
+			change_religion = protestant
+			add_stability = -3
+			remove_country_modifier = counter_reformation
+			remove_country_modifier = 
+
+the_statue_in_restraint_of_appeals
+			remove_country_modifier = bavarian_jesuits
+			remove_country_modifier = the_societas_jesu
+			remove_country_modifier = the_declaration_of_indulgence
+			remove_country_modifier = de_heretico_comburendo
+			
+			if = {
+				limit = {
+					NOT = { has_country_flag = 
+
+reformation_money }
+				}
+				add_years_of_income = 1.0
+			}
+			set_country_flag = reformation_money
+		}
+		
+		heretic = { PENTECOSTAL PURITAN CONGREGATIONALIST }
+		
+		date = 1517.10.31
+	}
+
+	reformed = {
+		color = { 0.3 0.3 0.9 }
+		allowed_conversion = {
+			protestant
+			catholic
+		}
+		country = {
+			trade_efficiency = 0.1
+			advisor_pool = 1
+		}
+		
+		on_convert = {
+			change_religion = reformed
+			add_stability = -3
+			remove_country_modifier = counter_reformation
+			remove_country_modifier = 
+
+the_statue_in_restraint_of_appeals
+			remove_country_modifier = bavarian_jesuits
+			remove_country_modifier = the_societas_jesu
+			remove_country_modifier = the_declaration_of_indulgence
+			remove_country_modifier = de_heretico_comburendo		
+
+	
+			if = {
+				limit = {
+					NOT = { has_country_flag = 
+
+reformation_money }
+				}
+				add_years_of_income = 1.0
+			}
+			set_country_flag = "reformation_money" 
+		}
+		
+		heretic = { METHODIST BAPTIST QUAKER }
+		
+		date = 1536.5.1
+	}
+
+	orthodox = {
+		color = { 0.7 0.5 0 }
+                allowed_conversion = {
+	                 coptic
+		}
+		country = {
+			stability_cost_modifier = -0.1
+			tolerance_own = 1
+		}
+		
+		heretic = { OLD_BELIEVER MOLOKAN DUKHOBOR KHLYST SKOPTSY 
+
+ICONOCLAST }
+		
+		has_patriarchs = yes		# Uses patriarch authority
+		misguided_heretic = yes		#other christians hate them less
+	}
+
+        copticr = {
+		color = { 0.6 0.3 0.45 }
+                allowed_conversion = {
+	                 orthodox
+		}
+		country = {
+			stability_cost_modifier = -0.1
+			tolerance_own = 1
+		}
+		
+		heretic = { OLD_BELIEVER MOLOKAN DUKHOBOR KHLYST SKOPTSY 
+
+ICONOCLAST }
+		
+		has_patriarchs = yes		# Uses patriarch authority
+		misguided_heretic = yes		#other christians hate them less
+	}
+	
+	crusade_name = CRUSADE
+}
+
+abrahamicr = {
+
+       jewishr = {
+		color = { 1 0.5 0.75 }
+		country = {
+			tolerance_heretic = 2
+			tolerance_heathen = 1
+		}
+		
+		heretic = { KABBALAH }
+	}
+
+	crusade_name = CRUSADE
+}
+
+muslim = {
+	defender_of_faith = yes
+	
+	sunni = {
+		color = { 0 0.6 0 }
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country = {
+			tolerance_own = 1
+			heir_chance = 1.0
+		}
+		
+		heretic = { BEKTASHI AHMADI ZIKRI YAZIDI }
+		
+		uses_piety = yes				# Uses piety mechanics
+	}
+
+	shiite = {
+		color = { 0 0.8 0 }
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country = {
+			heir_chance = 1.0
+			land_morale = 0.25
+		}
+		
+		heretic = { HURUFI ZAIDI }
+		
+		uses_piety = yes				# Uses piety mechanics
+	}
+
+ibadir = {
+		color = { 0.3 0.6 0.3 }
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country = {
+			tolerance_own = 1
+			heir_chance = 1.0
+		}
+		
+		heretic = { BEKTASHI AHMADI ZIKRI YAZIDI }
+		
+		uses_piety = yes				# Uses piety mechanics
+		
+		}
+	
+	crusade_name = JIHAD
+}
+
+buddhistr = {
+
+	theravada = {
+		color = { 0.8 0.3 0 }
+		country = {
+			tolerance_heretic = 2
+			tolerance_heathen = 1
+		}
+		
+		heretic = {  YISHEN }
+	}
+
+        vajrayana = {
+		color = { 0.6 0.6 0.9 }
+		country = {
+			tolerance_heretic = 2
+			tolerance_heathen = 1
+		}
+		
+		heretic = {  YISHEN }
+	}
+
+
+	shinto = {
+		color = { 0.8 0 0 }
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country = {
+			land_morale = 0.5
+			tolerance_heathen = -1
+		}
+		
+		heretic = { SHUGENDO }
+	}
+	
+	crusade_name = CRUSADE
+}
+
+chineser = {
+
+       confucianism = {
+		color = { 0.8 0 0.9 }
+		country = {
+			tolerance_heretic = 2
+			tolerance_heathen = 1
+		}
+		
+		heretic = { FOLK_RELIGION MAHAYANA }
+	}
+
+       taoismr = {
+		color = { 0.3 0.5 0.7 }
+		country = {
+			tolerance_heretic = 2
+			tolerance_heathen = 1
+		}
+		
+		heretic = { FOLK_RELIGION MAHAYANA }
+	}
+
+	crusade_name = CRUSADE
+}
+
+vedicr = {
+
+       hinduism = {
+		color = { 0 0.8 0.8 }
+                allowed_conversion = {
+	                 sikh
+		}
+		country = {
+			global_tax_modifier = 0.05
+			tolerance_heretic = 2
+		}
+		
+		heretic = { BHAKTI }
+	}
+        
+        sikh = {
+		color = { 0.55 0.22 0.96 }
+                 allowed_conversion = {
+	                 hinduism
+		}
+		country = {
+			global_tax_modifier = 0.10
+			tolerance_heretic = 1
+                        tolerence_heathen = 1
+		}
+		heretic = { NAMDHARI }
+	}
+        
+
+	crusade_name = CRUSADE
+}
+
+southamericanr = {
+
+	amazonian = {
+		color = { 0.6 0.2 0.1 }
+                province = {
+			local_missionary_strength = 0.20
+		}
+		country = {
+			tolerance_heretic = 2
+			tolerance_heathen = 1
+		}
+		
+		heretic = {  JAGUAR_TRIBE }
+                
+                annex = yes
+	}
+
+        inti = {
+		color = { 0.45 0.45 0.15 }
+                province = {
+			local_missionary_strength = 0.20
+		}
+		country = {
+                        global_tax_modifier = 0.15
+                        stability_cost_modifier = 0.1 
+		}
+		
+		heretic = {  INCA_WAR_GOD }
+                
+                annex = yes
+	}
+
+        carribbean = {
+		color = { 0.2 0.35 0.45 }
+                province = {
+			local_missionary_strength = 0.20
+		}
+		country = {
+			tolerance_heretic = 2
+			tolerance_heathen = 1
+		}
+		
+		heretic = { SHARK_TRIBE }
+                
+                annex = yes
+	}
+	
+	crusade_name = CRUSADE
+}
+
+northamericanr = {
+
+        greatplains = {
+		color = { 0.3 0.3 0.5 }
+                province = {
+			local_missionary_strength = 0.35
+		}
+		country = {
+			tolerance_heretic = 2
+			tolerance_heathen = 1
+		}
+		
+		heretic = { HAWK_TRIBE }
+                
+                annex = yes
+	}
+	
+        greatspirit = {
+		color = { 0.6 0.3 0.3 }
+                province = {
+			local_missionary_strength = 0.35
+		}
+		country = {
+			tolerance_heretic = 2
+			tolerance_heathen = 1
+		}
+		
+		heretic = { GRIZZLY_BEAR_TRIBE }
+                
+                annex = yes
+	}
+
+        greatbasin = {
+		color = { 0.3 0.5 0.3 }
+                province = {
+			local_missionary_strength = 0.35
+		}
+		country = {
+			tolerance_heretic = 2
+			tolerance_heathen = 1
+		}
+		
+		heretic = { SNAKE_TRIBE }
+               
+                annex = yes
+	}
+	crusade_name = CRUSADE
+}
+
+centralamericanr = {
+
+        teotl = {
+		color = { 0 0.3 0.3 }
+		province = {
+			local_missionary_strength = 0.5
+		}
+		country = {
+			global_manpower_modifier = 0.15
+			stability_cost_modifier = 0.10
+		}
+		
+		heretic = { TEOTL_WAR_GOD }
+                
+                annex = yes
+	}
+
+        itzamna = {
+		color = { 0.3 0.5 0.7 }
+		province = {
+			local_missionary_strength = 0.5
+		}
+		country = {
+			technology_cost = -0.15
+                        stability_cost_modifier = 0.10                     
+		}
+
+		heretic = { ITZAMNA_WAR_GOD }
+                
+                annex = yes
+	}
+
+	crusade_name = CRUSADE
+}
+
+pagan = {
+
+	animism = {
+		color = { 0.5 0.0 0.0 }
+		province = {
+			local_missionary_strength = 0.20
+		}
+		country = {
+			tolerance_heretic = 2
+			defensiveness = -0.5
+		}
+		
+		heretic = { BEAR_SPIRIT SNAKE_CLAN }
+		
+		annex = yes
+	}
+
+        voodoor = {
+		color = { 0.25 0.5 0.28 }
+		province = {
+			local_missionary_strength = 0.20
+		}
+		country = {
+			tolerance_heretic = 2
+                        land_morale = 0.25
+                        stability_cost_modifier = 0.1
+			defensiveness = -0.5
+		}
+		
+		heretic = { ZOMBIE }
+		
+		annex = yes
+	}
+	
+	shamanism = {
+		color = { 0.5 0.3 0.3 }
+		province = {
+			local_missionary_strength = 0.20
+		}
+		country = {
+			tolerance_heretic = 2
+			defensiveness = -0.5
+		}
+		
+		heretic = { GOAT_SKULL }
+		
+		annex = yes		
+	}
+	
+	crusade_name = CRUSADE
+}
