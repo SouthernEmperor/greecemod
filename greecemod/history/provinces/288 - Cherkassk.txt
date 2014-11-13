@@ -1,0 +1,14 @@
+#288 - Cherkassk
+
+owner = SCY
+controller = SCY
+culture = scythian
+religion = zoroastrian
+hre = no
+base_tax = 2
+trade_goods = grain
+manpower = 2
+capital = "Cherkassk"
+citysize = 4100
+fort1 = yes
+add_core = SCY

@@ -55,6 +55,13 @@ semitic = {
 		
 		}
 }
+
+iranian = {
+
+		scythian = {
+			primary = SCY
+		}
+}
 		
 hanculture = {
 		graphical_culture = asiangfx
@@ -86,7 +93,8 @@ hanculture = {
 				Amori Fukasa Hakata Hata Itsuki Kado Kara Kure Kuzu Mamori Masa Omomuro Oroka Oto Sakazuki Tsuzura Tani Tomoe
 		}
 	}
-}puntlanders = {
+}
+puntlanders = {
 		graphical_culture = africangfx
 
 		helleno_somali = {

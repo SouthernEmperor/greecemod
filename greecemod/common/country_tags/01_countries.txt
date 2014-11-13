@@ -27,6 +27,9 @@ ALL	= "countries/Allemannia.txt"
 SAX	= "countries/Saxony.txt"
 MRC	= "countries/Marcomannia.txt"
 
+#Steppes
+SCY = "countries/Scythia.txt"
+
 #East Africa
 MSY = "countries/Mosyllum.txt"
 IRA = "countries/Raphta.txt"

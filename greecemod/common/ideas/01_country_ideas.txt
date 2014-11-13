@@ -182,4 +182,39 @@ minor_sarapionite = {
         reduced_stab_impacts = yes
     }
 }
+SCY_ideas = {
+    start = {
+        war_exhaustion = -0.05
+        land_forcelimit_modifier = 0.25
+    }
+    bonus = {
+        prestige = 1.0
+    }
+    trigger = {
+        tag = UKR
+    }
+    free = yes
+    legend_of_the_amazons = {
+        manpower_recovery_speed = 0.25
+    }
+    kurgans = {
+        legitimacy = 1.0
+    }
+    noble_horsemen = {
+        leader_land_shock = 1
+    }
+    fed_from_horse_blood = {
+        cavalry_power = 0.2
+    }
+    might_makes_right = {
+        core_creation = -0.2
+    }
+    steppe_tolerance = {
+        no_religion_penalty = yes
+    }
+    ritual_cannabis = {
+        reduced_stab_impacts = yes
+        stability_cost_modifier = -0.1
+    }
+}
 

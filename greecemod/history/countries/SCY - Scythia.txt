@@ -1,0 +1,18 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = scythian
+religion = buddhism
+technology_group = eastern
+capital = 283 #Zaphorozia
+
+1444.1.1 = {
+	monarch = {
+		name = "Haleh I"
+		dynasty = "Xsaryashi"
+		birth_date = 1420.1.1
+		adm = 2
+		dip = 6
+		mil = 5
+		female = yes
+	}
+}
