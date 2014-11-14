@@ -9,15 +9,15 @@
 
 west_germanic = {
 	graphical_culture = westerngfx
-	
+
 	frankish =  {
 		primary = FRK
 	}
 	frisian = {
-		#primary = FRI
+		primary = FRI
 	}
 	angle = {
-		#primary = ANG
+		primary = ANG
 	}
 	batavian = {
 		#primary = BAT #Batavaria hasn't been created
@@ -32,56 +32,15 @@ west_germanic = {
 	thuringii = {
 		#primary = THU #Thuringa hasn't been created alternately MRC
 	}
-
-	pommeranian =  {
-		primary = POM
-	}
-	prussian = {
-		primary = PRU
-	}
-	hannoverian = {
-		primary = HAN
-	}
 	hessian = {
 		primary = HES
 	}
 	saxon = {
 		primary = SAX
 	}
-	rheinlaender = {
-		primary = SWI
-	}
-	bavarian = {
-		primary = BAV
-	}
-	austrian = {
-		primary = HAB
-	}
-	dutch = {
-		primary = NED
-		dynasty_names = {
-			"van Oranje" Nassau "van Wassenberg" "van Henegouwen" 
-			"van Haspinga" "van Limburg" "van Lotharingen" 
-			"van Leuven" "van Brabant" "van Egmont"
-		}
-	}
-	flemish = {
-		primary = FLA
-			dynasty_names = {
-			"van Oranje" Nassau "van Wassenberg" "van Henegouwen" 
-			"van Haspinga" "van Limburg" "van Lotharingen" 
-			"van Leuven" "van Brabant" "van Egmont"
-		}
-	}
-	
-	dynasty_names = { 
-		"von Oldenburg" "von Mecklenburg" "von Hohenzollern" "von Habsburg"
-		"von Zweibrücken" "von Wittelsbach" "von Holstein" "von Hesse-Kassel" "von Holstein-Gottorp"
-		"von Pfalz-Neumarkt" "von Braunschweig-Lüneburg" "von Hannover" "von Wettin"
-	}
 }
 
-scandinavian = {
+north_germanic = {
 	graphical_culture = westerngfx
 
 	swedish = {

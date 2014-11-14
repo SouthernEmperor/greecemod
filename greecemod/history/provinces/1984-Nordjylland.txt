@@ -1,0 +1,20 @@
+#Nordjylland
+
+owner = ANG
+controller = ANG
+add_core = ANG
+culture = jute
+religion = catholic
+hre = no
+base_tax = 2
+trade_goods = grain
+manpower = 2
+capital = "Aalborg"
+is_city = yes
+temple = yes
+fort1 = yes
+marketplace = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

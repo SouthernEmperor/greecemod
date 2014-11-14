@@ -1,6 +1,10 @@
 ﻿#cultures should go here, I guess?
 
 l_english:
+ north_germanic: "North Germanic"
+ swedish: "Svenska"
+ danish: "Dane"
+ norwegian: "Norsk"
  west_germanic: "West Germanic"
  frankish: "Frankish"
  frisian: "Frisian"

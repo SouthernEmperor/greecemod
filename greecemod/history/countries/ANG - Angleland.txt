@@ -1,0 +1,22 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = Angle
+religion = catholic
+technology_group = western
+historical_rival = FRI
+capital = 1775 # Holstein
+national_focus = DIP
+
+1423.7.3 = {
+	Monarch = {
+		name = "Aelfred"
+		monarch_name = "Aelfred V"
+		dynasty = "of Kiel"
+		birth_date = 1423.7.3
+		death_date = 1483.8.30
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
