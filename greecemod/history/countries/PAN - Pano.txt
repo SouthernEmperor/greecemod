@@ -10,8 +10,8 @@ capital = 1206
 		name = "Judas Onecoin"
 		dynasty = "Iscariot"
 		birth_date = 10.1.1
-		adm = 4
-		dip = 6
-		mil = 3
+		adm = 6
+		dip = 1
+		mil = 6
 	}
 }
