@@ -62,7 +62,6 @@
   "yaqub_reform_desc": "Admiral Yaqub ibn Abdullah was a great man, who wrote a text\
     \ called \"On the Principle of Naval Constructs. Similar to al-Malik's work, it\
     \ allows us to spend less money maintaining our naval forces."
-"l_english":
   "PAN_ideas": "Panic Ideas"
   "PAN_ideas_bonus": "Panic Ambitions"
   "PAN_ideas_start": "Panic Traditions"
@@ -150,7 +149,7 @@
   "tribediplomacy": "Tribal Diplomacy"
   "tribediplomacy_desc": "Our negotiations with tribes further into Azania have proven\
     \ fruitful, as they are willing to cheaply send us mercenaries."
-	  "fed_from_horse_blood": "Fed from Horse Blood"
+  "fed_from_horse_blood": "Fed from Horse Blood"
   "fed_from_horse_blood_desc": "It is said our children learn to ride before they\
     \ can walk, and that is not entirely false. With the expertise of our riders,\
     \ our horsemen can fight better than ever, driving our enemies back to their walls."
@@ -177,9 +176,9 @@
   "ritual_cannabis_desc": "For generations our people have used the magic of soma\
     \ to pleasure ourselves. Now, we may spread this practice and its wonderful effects\
     \ to our subject peoples - to keep them placated."
-  "scythian_ideas": "Scythian Ideas"
-  "scythian_ideas_bonus": "Scythian Ambitions"
-  "scythian_ideas_start": "Scythian Traditions"
+  "SCY_ideas": "Scythian Ideas"
+  "SCY_ideas_bonus": "Scythian Ambitions"
+  "SCY_ideas_start": "Scythian Traditions"
   "steppe_tolerance": "Steppe Tolerance"
   "steppe_tolerance_desc": "Even amongst the civilized peoples of the world, our Scythia\
     \ has been renowned as a place of tolerance, where religious minorities can practice\

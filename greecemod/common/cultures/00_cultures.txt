@@ -9,8 +9,7 @@
 
 west_germanic = {
 	graphical_culture = westerngfx
-
-}
+	
 	frankish =  {
 		primary = FRK
 	}
