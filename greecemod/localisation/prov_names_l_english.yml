@@ -452,7 +452,7 @@
  PROV451: "Kabul"
  PROV452: "Badakhshan"
  PROV453: "Qarshi"
- PROV454: "Samarkand"
+ PROV454: "Marakanda" #done
  PROV455: "Kyzylkum"
  PROV456: "Turkestan"
  PROV457: "Tashkent"
@@ -502,10 +502,10 @@
  PROV501: "Barbados"
  PROV502: "Trinidad"
  PROV503: "Kutch"
- PROV504: "Thatta"
+ PROV504: "Patala" #done
  PROV505: "Sehwan"
- PROV506: "Multan"
- PROV507: "Lahore"
+ PROV506: "Hesudrus" #done
+ PROV507: "Sakala" #done
  PROV508: "Kashmir"
  PROV509: "Kangra"
  PROV510: "Sirhind"
@@ -1097,7 +1097,7 @@
  PROV1096: "Cape Verde"
  PROV1097: "Fernando Po"
  PROV1098: "St. Helena"
- PROV1099: "Socotra"
+ PROV1099: "Dioscoridius"
  PROV1100: "Mahe"
  PROV1101: "Diego Garcia"
  PROV1102: "Mauritius"
@@ -1325,11 +1325,11 @@
  PROV1324: "Eastern Euxine Sea"
  PROV1325: "Lake Balaton"
  PROV1326: "Hyrcanian Ocean"
- PROV1327: "Aral Sea"
- PROV1328: "Gulf of Suez"
- PROV1329: "Red Sea"
+ PROV1327: "Chorasmian Sea"
+ PROV1328: "North Arabian Gulf"
+ PROV1329: "South Arabian Gulf"
  PROV1330: "Bab el Mandeb"
- PROV1331: "Gulf of Aden"
+ PROV1331: "Dioscoridian Sea"
  PROV1332: "Sea of Oman"
  PROV1333: "Mascate Coast"
  PROV1334: "Straits of Hormuz"
@@ -2070,13 +2070,13 @@
  PROV2070: "Chaubisi Rajya"
  PROV2071: "Limbuwan"
  PROV2072: "Bhakkar"
- PROV2073: "Baltistan"
+ PROV2073: "Aornos" #done
  PROV2074: "Ladakh"
  PROV2075: "Doaba"
- PROV2076: "Sialkot"
- PROV2077: "Margalla"
- PROV2078: "Sind Sagar"
- PROV2079: "Derajat"
+ PROV2076: "Bucephala" #done
+ PROV2077: "Taxila" #done
+ PROV2078: "Hydroatis" #done
+ PROV2079: "Acesines" #done
  PROV2080: "Srikakulam"
  PROV2081: "Lakhnor"
  PROV2082: "Raipur"
@@ -2124,7 +2124,7 @@
  PROV2124: "Yarkand"
  PROV2125: "Kochkor"
  PROV2126: "Chuy"
- PROV2127: "Yashilkul"
+ PROV2127: "Ferghana" #done
  PROV2128: "Ngari"
  PROV2129: "Changtang"
  PROV2130: "Nyingchi"
@@ -2950,4 +2950,3 @@
  PROV2950: "Buhera"
  PROV2951: "Manikya"
  PROV2952: "Madanda"
- 

@@ -1,0 +1,175 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 161 126 128 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Agenor #0" = 10
+	"Agis #0" = 10
+	"Antigonos #0" = 10
+	"Antipater #0" = 10
+	"Arkesilas #0" = 10
+	"Artopates #0" = 10
+	"Asandros #0" = 10
+	"Chariklios #0" = 10
+	"Deinomenes #0" = 10
+	"Demaratos #0" = 10
+	"Dion #0" = 10
+	"Doryssos #0" = 10
+	"Eurykrates #0" = 10
+	"Gekin #0" = 10
+	"Heraklios #0" = 10
+	"Hippokrates #0" = 10
+	"Kleombrotos #0" = 10
+	"Kleomenes #0" = 10
+	"Koinos #0" = 10
+	"Krateros #0" = 10
+	"Laomedon #0" = 10
+	"Leonidas #0" = 10
+	"Leonnatos #0" = 10
+	"Lysander #0" = 10
+	"Lysimachos #0" = 10
+	"Menandros #0" = 10
+	"Neoptolemos #0" = 10
+	"Niketor #0" = 10
+	"Peithon #0" = 10
+	"Perdikkas #0" = 10
+	"Peukestos #0" = 10
+	"Philippos #0" = 10
+	"Philotas #0" = 10
+	"Pleistoanax #0" = 10
+	"Poros #0" = 10
+	"Ptolemaios #0" = 10
+	"Pythagoreas #0" = 10
+	"Stasanor #0" = 10
+	"Sibyrtios #0" = 10
+	"Taxiles #0" = 10
+	"Timarchos #0" = 10
+}
+
+leader_names = {
+	Agenorid
+	Antigonid
+	Antipatrid
+	Arkesilid
+	Asandrid
+	Heraklid
+	Kleomenid
+	Koinid
+	Kraterid
+	Laomedonid
+	Leonnatid
+	Lysimachid
+	Menandrid
+	Peithonid
+	Perdikkid
+	Peukestid
+	Philippid
+	Philotid
+	Porid
+	Ptolemaid
+	Stasanid
+	Sibyrtid
+	Taxilid
+}
+
+ship_names = {
+	Aither
+	Ananke
+	Aphrodite
+	Apollon
+	Ares
+	Aretmis
+	Asteria
+	Astraios
+	Athena
+	Atlas
+	Aura
+	Chaos
+	Chronos
+	Clymene
+	Demeter
+	Dione
+	Dionysos
+	Eos
+	Epimetheus
+	Erebos
+	Eros
+	Eurybia
+	Eurynome
+	Gaia
+	Hades
+	Helios
+	Hephaistos
+	Hera
+	Hermera
+	Hermes
+	Hestia
+	Hyperion
+	Hypnos
+	Iapetos
+	Koios
+	Kreios
+	Lelantos
+	Leto
+	Menoitios
+	Metis
+	Mnemosyne
+	Nesoi
+	Nyx
+	Oceanos
+	Ophion
+	Ouranos
+	Ourea
+	Pallas
+	Perses
+	Phanes
+	Phoibe
+	Pontus
+	Poseidon
+	Prometheus
+	Rhea
+	Selene
+	Styx
+	Tartarus
+	Tethys
+	Thalassa
+	Thanatos
+	Theia
+	Themis
+	Zeus
+}
+
+
+	

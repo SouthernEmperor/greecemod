@@ -7,6 +7,20 @@
 # graphical_culture = westerngfx
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
 
+hellenistic = {
+
+		graphical_culture = easterngfx
+	
+		greek = {
+			primary = GRE
+		}
+		
+		anatolian = {
+			#primary = TUR
+		}
+	
+}
+
 latin = {
 		graphical_culture = easterngfx
 		
@@ -52,6 +66,10 @@ celtic = {
 semitic = {
 
 		tartessian = {
+		
+		}
+		
+		phoenician = {
 		
 		}
 }

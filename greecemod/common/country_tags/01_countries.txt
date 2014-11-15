@@ -19,6 +19,28 @@ ITA = "countries/Italya.txt"
 ROM = "countries/Rome.txt"
 SPQ = "countries/SPQR.txt"
 
+#Hellenic League
+ATH = "countries/Athens.txt"
+#BIT = "countries/Bithynia.txt"
+#CAR = "countries/Caria.txt"
+#CRN = "countries/Corinth.txt"
+EPI = "countries/Epirus.txt"
+#LAR = "countries/Larissa.txt"
+#LES = "countries/Lesbos.txt"
+#LYD = "countries/Lydia.txt"
+#MAC = "countries/Macedonia.txt"
+#PON = "countries/Pontus.txt"
+#PHR = "countries/Phrygia.txt"
+#RHO = "countries/Rhodes.txt"
+#SIC = "countries/Syracuse.txt"
+#SPR = "countries/Sparta.txt"
+#THR = "countries/Thrace.txt"
+#TMK = "countries/Taurimark.txt"
+#TRO = "countries/Troy.txt"
+
+#Other Greek and Minor Asian states
+BYZ = "countrites/ByzantineEmpire.txt"
+
 #West Germanics
 FRK	= "countries/Frankreich.txt"
 ANG	= "countries/Angleland.txt"

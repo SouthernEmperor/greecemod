@@ -340,9 +340,6 @@ baltic	= {
 
 byzantine = {
 	graphical_culture = easterngfx
-	greek = {
-		primary = GRE
-	}
 	goths = {
 		primary = FEO
 		dynasty_names = { 

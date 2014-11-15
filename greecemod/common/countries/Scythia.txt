@@ -81,15 +81,24 @@ monarch_names = {
 }
 
 leader_names = {
-	Ataraxashi
+	Ahriman
+	Ameretat
+	Arash
+	Ashtad
 	Attar
+	Bahman
 	Charmchi
-	Darayavashi
-	Kamboujieshi
-	Khoroushi
+	Fereydoun
+	Govad
+	Haurvatat
+	Nairyosangha
+	Ormazd
+	Rashn
 	Rostami
-	Satrapmoez
-	Xsaryashi
+	Sarosh
+	Sohrab
+	Tahmuras
+	Zal
 }
 
 ship_names = {
