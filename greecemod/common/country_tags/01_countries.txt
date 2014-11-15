@@ -39,7 +39,7 @@ EPI = "countries/Epirus.txt"
 #TRO = "countries/Troy.txt"
 
 #Other Greek and Minor Asian states
-BYZ = "countrites/ByzantineEmpire.txt"
+BYZ = "countries/ByzantineEmpire.txt"
 
 #West Germanics
 FRK	= "countries/Frankreich.txt"
