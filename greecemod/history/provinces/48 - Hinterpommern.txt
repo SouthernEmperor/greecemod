@@ -1,0 +1,32 @@
+#48 - Hinterpommern
+
+owner = SAX
+controller = SAX
+add_core = SAX
+culture = rugii
+religion = catholic
+hre = no
+base_tax = 3
+trade_goods = fish
+manpower = 4
+fort1 = yes
+capital = "Kolberg"
+citysize = 6000
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+1450.1.1   = { citysize = 10000 }
+1480.1.1   = { marketplace = yes }
+1500.1.1   = { citysize = 12000 }
+1529.1.1   = { add_core = BRA fort2 = yes }
+1534.1.1   = { religion = protestant }
+1550.1.1   = { citysize = 14500 base_tax = 4 }
+1648.10.24 = { owner = BRA controller = BRA }
+1701.1.18  = {	owner = PRU
+		controller = PRU
+		add_core = PRU
+		remove_core = BRA
+	     }
+1806.7.12  = { hre = no } # The Holy Roman Empire is dissolved

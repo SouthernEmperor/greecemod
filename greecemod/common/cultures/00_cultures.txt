@@ -32,9 +32,6 @@ west_germanic = {
 	thuringii = {
 		#primary = THU #Thuringa hasn't been created alternately MRC
 	}
-	hessian = {
-		primary = HES
-	}
 	saxon = {
 		primary = SAX
 	}
@@ -201,9 +198,6 @@ french	= {
 	aquitaine = {
 		primary = TOU
 	}
-	burgundian = {
-		primary = BUR
-	}
 	occitain = {
 		primary = PRO
 	}
@@ -269,26 +263,19 @@ south_slavic = {
 	dynasty_names = { "Trpimirovic" "Svetoslavic" "Kosovic" "Kresimirovic" "Zrinski" "Domagojevic" "Hrvatinic" "Kotromanic" "Brankovic" "Lazarevic"}
 }
 	
-west_slavic = {	
+east_germanic = {	
 	graphical_culture = westerngfx
 
-	czech = {
-		primary = BOH
+	rugii = {
+		primary = RGI #Rugii not made yet
 	}
-	polish = {
-		graphical_culture = easterngfx
-		primary = POL		
+	burgundian = {
+		primary = BUR
 	}
-	
-	schlesian = {
-		primary = SIL
+	vandal = {
+		primary = VAN #vandals not made yet
 	}
-	
-	dynasty_names = {
-		Gryf Piast Jagiellon Wisniowiecki Sobieski Leszczynski 
-		Poniatowski Radziwill Zamoyski Potocki Lubomirski   
-		Premyslovci Podebrad  
-	}
+
 }
 
 magyar = {	

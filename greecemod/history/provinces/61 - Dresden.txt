@@ -1,17 +1,16 @@
-# 86 - Munster
+#61 - Saxony
 
-owner = FRK
-controller = FRK
-culture = saxon
+owner = SAX
+controller = SAX
+culture = thuringii
 religion = catholic
-trade_goods = cloth
-capital = "Münster"
+capital = "Meissen"
+trade_goods = iron
+hre = no
 base_tax = 6
 manpower = 2
-citysize = 8000
-hre = no
+citysize = 3500
 fort1 = yes
-add_core = FRK
 add_core = SAX
 discovered_by = eastern
 discovered_by = western

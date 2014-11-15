@@ -1,0 +1,18 @@
+#51 - Ruppin
+
+owner = SAX
+controller = SAX
+add_core = SAX
+culture = saxon
+religion = catholic
+hre = no
+base_tax = 5
+trade_goods = grain
+manpower = 1
+fort1 = yes
+capital = "Neuruppin"
+citysize = 6500
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

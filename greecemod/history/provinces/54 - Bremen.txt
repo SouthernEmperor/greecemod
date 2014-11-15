@@ -1,18 +1,18 @@
-# 86 - Munster
+#54 - Stade
 
-owner = FRK
-controller = FRK
+owner = SAX
+controller = SAX
 culture = saxon
 religion = catholic
-trade_goods = cloth
-capital = "Münster"
-base_tax = 6
-manpower = 2
-citysize = 8000
+capital = "Bremervörde"
+trade_goods = fish
 hre = no
+base_tax = 6
+manpower = 4
+citysize = 8000
 fort1 = yes
-add_core = FRK
 add_core = SAX
+temple = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

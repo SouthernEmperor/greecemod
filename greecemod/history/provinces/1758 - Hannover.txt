@@ -1,17 +1,16 @@
-# 86 - Munster
+#1758 - Hannover
 
-owner = FRK
-controller = FRK
+owner = SAX
+controller = SAX
 culture = saxon
 religion = catholic
+capital = "Hannover"
 trade_goods = cloth
-capital = "Münster"
-base_tax = 6
-manpower = 2
-citysize = 8000
 hre = no
+base_tax = 7
+manpower = 4
+citysize = 12000
 fort1 = yes
-add_core = FRK
 add_core = SAX
 discovered_by = eastern
 discovered_by = western

@@ -1,17 +1,16 @@
-# 86 - Munster
+#59 - Wittenberg
 
-owner = FRK
-controller = FRK
+owner = SAX
+controller = SAX
 culture = saxon
 religion = catholic
-trade_goods = cloth
-capital = "Münster"
-base_tax = 6
-manpower = 2
-citysize = 8000
+capital = "Wittenberg"
+trade_goods = wool
 hre = no
+base_tax = 5
+manpower = 2
+citysize = 4000
 fort1 = yes
-add_core = FRK
 add_core = SAX
 discovered_by = eastern
 discovered_by = western

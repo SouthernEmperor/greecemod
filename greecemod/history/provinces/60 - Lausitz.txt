@@ -1,18 +1,17 @@
-# 86 - Munster
+#60 - Lausitz
 
-owner = FRK
-controller = FRK
-culture = saxon
+owner = SAX
+controller = SAX
+add_core = SAX
+capital = "Bautzen"
+culture = lombard
 religion = catholic
 trade_goods = cloth
-capital = "Münster"
-base_tax = 6
-manpower = 2
-citysize = 8000
 hre = no
+base_tax = 4
+manpower = 1
+citysize = 4000
 fort1 = yes
-add_core = FRK
-add_core = SAX
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
