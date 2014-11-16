@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = greek
+religion = hellenic_pagan
+technology_group = western
+capital = 144
+
+1444.1.1 = {
+	monarch = {
+		name = "Thales I"
+		dynasty = "Kleomenid"
+		birth_date = 1399.4.9	
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}

@@ -72,6 +72,10 @@ semitic = {
 		phoenician = {
 		
 		}
+		
+		egyptian = {
+			primary = EGY
+		}
 }
 
 iranian = {

@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = greek
+religion = hellenic_pagan
+technology_group = western
+capital = 149
+
+1444.1.1 = {
+	monarch = {
+		name = "Kosmas I"
+		dynasty = "Laomedonid"
+		birth_date = 1412.12.28	
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}

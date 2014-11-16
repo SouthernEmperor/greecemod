@@ -2,17 +2,17 @@
 
 graphical_culture = easterngfx
 
-color = { 161 126 128 }
+color = { 229 170 87 }
 
 historical_idea_groups = {
-	defensive_ideas
 	offensive_ideas
-	religious_ideas
+	defensive_ideas
 	spy_ideas
 	trade_ideas
-	diplomatic_ideas
+	religious_ideas
 	economic_ideas
-	quality_ideas
+	diplomatic_ideas
+	innovativeness_ideas
 }
 
 historical_units = {
@@ -76,7 +76,7 @@ monarch_names = {
 	"Kleomenes #0" = 10
 	"Kleon #0" = 10
 	"Koinos #0" = 10
-	"Kosmas #1" = 10
+	"Kosmas #0" = 10
 	"Krateros #0" = 10
 	"Laomedon #0" = 10
 	"Leonidas #0" = 10
@@ -90,7 +90,7 @@ monarch_names = {
 	"Niketor #0" = 10
 	"Nikodemos #0" = 10
 	"Nikolaos #0" = 10
-	"Nikomedes #0" = 10
+	"Nikomedes #1" = 10
 	"Pankratios #0" = 10
 	"Panther #0" = 10
 	"Peithon #0" = 10
@@ -217,6 +217,3 @@ ship_names = {
 	Themis
 	Zeus
 }
-
-
-	

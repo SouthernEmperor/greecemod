@@ -1,0 +1,26 @@
+#137 - Ragusa
+
+owner = EPI
+controller = EPI
+culture = illyrian
+religion = catholic
+capital = "Narona"
+trade_goods = naval_supplies
+hre = no
+base_tax = 5
+manpower = 3
+citysize = 8500
+fort1 = yes
+add_core = EPI
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+add_local_autonomy = 25
+
+1000.1.1 = {
+	add_permanent_province_modifier = {
+		name = center_of_trade_modifier
+		duration = -1
+	}
+}

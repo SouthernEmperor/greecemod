@@ -1,3 +1,5 @@
 name = "greecemod"
-path = "mod/greecemod"
+path = "mod\greecemod"
 supported_version = "1.8"
+replace = "history/countries/CRN - Cornwall.txt"
+replace = "history/countries/ATH - Athens.txt"

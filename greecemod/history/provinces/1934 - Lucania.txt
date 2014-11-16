@@ -3,7 +3,7 @@
 owner = SPQ
 controller = SPQ
 culture = roman
-religion = orthodox 
+religion = hellenic_pagan 
 hre = no 
 base_tax = 2
 trade_goods = wine

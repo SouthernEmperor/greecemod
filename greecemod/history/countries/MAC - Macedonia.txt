@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = greek
+religion = hellenic_pagan
+technology_group = western
+capital = 148
+
+1444.1.1 = {
+	monarch = {
+		name = "Nikomedes I"
+		dynasty = "Antipatrid"
+		birth_date = 1407.2.15	
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+}

@@ -1,0 +1,14 @@
+#2750 - Plovdiv / Upper Thrace
+
+owner = THR
+controller = THR
+culture = greek
+religion = hellenic_pagan
+capital = "Seuthopolis"
+trade_goods = grain
+hre = yes
+base_tax = 4
+manpower = 2
+citysize = 11000
+fort1 = yes
+add_core = THR

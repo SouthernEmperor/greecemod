@@ -1,0 +1,19 @@
+#356 - Cyrenaica
+
+owner = CRN
+controller = CRN
+culture = egyptian
+religion = sunni
+capital = "Benghazi"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 2
+add_local_autonomy = 15
+citysize = 5800
+add_core = MAM
+add_core = CRN
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

@@ -1,0 +1,16 @@
+government = administrative_republic
+mercantilism = 0.1
+primary_culture = greek
+religion = hellenic_pagan
+technology_group = western
+capital = 147
+
+1444.1.1 = {
+	monarch = {
+		name = "Deinomenes Taxilid"
+		birth_date = 1381.5.4
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+}

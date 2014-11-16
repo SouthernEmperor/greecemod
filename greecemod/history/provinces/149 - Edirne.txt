@@ -1,0 +1,14 @@
+#149 - Edirne
+
+owner = THR
+controller = THR
+culture = greek
+religion = hellenic_pagan
+capital = "Orestias"
+trade_goods = grain
+hre = yes
+base_tax = 5
+manpower = 2
+citysize = 13500
+fort1 = yes
+add_core = THR
