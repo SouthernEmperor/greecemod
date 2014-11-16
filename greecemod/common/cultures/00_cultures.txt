@@ -20,21 +20,23 @@ west_germanic = {
 		primary = ANG
 	}
 	batavian = {
-		#primary = BAT #Batavaria hasn't been created
+		primary = BAT #Batavaria hasn't been created
 	}
 
 	jute = {
-		#primary = JUT #Jutland hasn't been created
+		primary = JUT #Jutland hasn't been created
 	}
 	lombard = {
-		#primary = LOM #Lombardia hasn't been created
+		primary = LOM #Lombardia hasn't been created
 	}
 	thuringii = {
-		#primary = THU #Thuringa hasn't been created alternately MRC
+		primary = MRC
 	}
 	saxon = {
 		primary = SAX
 	}
+	alemanni =  {
+		primary = ALL
 }
 
 north_germanic = {
