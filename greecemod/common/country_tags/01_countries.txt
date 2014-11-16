@@ -45,9 +45,9 @@ BYZ = "countries/ByzantineEmpire.txt"
 FRK	= "countries/Frankreich.txt"
 ANG	= "countries/Angleland.txt"
 FRI	= "countries/Frisia.txt"
-ALL	= "countries/Allemannia.txt"
+#ALL	= "countries/Allemannia.txt"
 SAX	= "countries/Saxony.txt"
-MRC	= "countries/Marcomannia.txt"
+#MRC	= "countries/Marcomannia.txt"
 
 #Steppes
 SCY = "countries/Scythia.txt"
