@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = anatolian
+religion = hellenic_pagan
+technology_group = western
+capital = 316
+
+1444.1.1 = {
+	monarch = {
+		name = "Lysander I"
+		dynasty = "Arkesilid"
+		birth_date = 1405.7.16	
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+}

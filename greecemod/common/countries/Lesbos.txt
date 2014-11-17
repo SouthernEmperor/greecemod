@@ -37,12 +37,9 @@ historical_units = {
 monarch_names = {
 	"Alexandra #0" = -10
 	"Antigone #0" = -10
-	"Aphrodite #0" = -10
-	"Artemis #0" = -10
 	"Berenike #0" = -10
 	"Chloe #0" = -10
 	"Chrysanthe #0" = -10
-	"Demeter #0" = -10
 	"Doris #0" = -10
 	"Eirene #0" = -10
 	"Eudoxia #0" = -10
@@ -59,6 +56,7 @@ monarch_names = {
 	"Kleopatra #0" = -10
 	"Lysandra #0" = -10
 	"Maria #0" = -10
+	"Megara #1" = -20
 	"Melissa #0" = -10
 	"Metrodora #0" = -10
 	"Nike #0" = -10
@@ -77,10 +75,28 @@ monarch_names = {
 	"Xena #0" = -10
 	"Zenobia #0" = -10
 	"Zoe #0" = -10
+	"NinjaCow64 #0" = 1
+	"KaiserElectric #0" = 1
+	"JoanK #0" = 1
 }
 
 leader_names = {
-	" "
+	Ananke
+	Aphrodite
+	Artemis
+	Athena
+	Aura
+	Eileithyia
+	Dione
+	Gaia
+	Hera
+	Hestia
+	Nike
+	Nyx
+	Phoibe
+	Rhea
+	Thalia
+	Theia
 }
 
 ship_names = {

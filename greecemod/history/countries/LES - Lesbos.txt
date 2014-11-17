@@ -1,0 +1,17 @@
+government = administrative_republic
+mercantilism = 0.1
+primary_culture = anatolian
+religion = hellenic_pagan
+technology_group = western
+capital = 2348
+
+1444.1.1 = {
+	monarch = {
+		name = "Megara"
+		birth_date = 1425.12.25
+		adm = 6
+		dip = 6
+		mil = 6
+		female = yes
+	}
+}

@@ -1,0 +1,16 @@
+government = noble_republic
+mercantilism = 0.1
+primary_culture = anatolian
+religion = hellenic_pagan
+technology_group = western
+capital = 2296
+
+1444.1.1 = {
+	monarch = {
+		name = "Priam Kleomenid"
+		birth_date = 1408.9.11
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+}
