@@ -1,4 +1,4 @@
-government = administrative_republic
+government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = anatolian
 religion = hellenic_pagan
@@ -7,7 +7,8 @@ capital = 2348
 
 1444.1.1 = {
 	monarch = {
-		name = "Megara"
+		name = "Megara I"
+		dynasty = "Eileithyia"
 		birth_date = 1425.12.25
 		adm = 6
 		dip = 6
