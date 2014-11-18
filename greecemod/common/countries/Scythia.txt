@@ -40,7 +40,6 @@ monarch_names = {
 	"Dara #0" = -20
 	"Darya #0" = -20
 	"Daryush #0" = 10
-	"Elaheh #0" = 10
 	"Elaheh #0" = -20
 	"Eskandar #0" = 20
 	"Firuz #0" = 10
