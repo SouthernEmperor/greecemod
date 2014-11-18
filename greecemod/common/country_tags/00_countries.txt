@@ -1,10 +1,9 @@
 #If you're recycling tags, please delete the old listing in this file before coming here
 
 # Special countries..
-# Commenting these out for al little bit.
-# REB = "countries/Rebels.txt"
-# PIR = "countries/Pirates.txt"
-# NAT = "countries/Natives.txt"
+REB = "countries/Rebels.txt"
+PIR = "countries/Pirates.txt"
+NAT = "countries/Natives.txt"
 
 #Scandinavia
 SWE	= "countries/Sweden.txt"
