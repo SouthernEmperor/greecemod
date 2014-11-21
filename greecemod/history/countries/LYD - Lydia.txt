@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = anatolian
+religion = hellenic_pagan
+technology_group = western
+capital = 2297
+
+1444.1.1 = {
+	monarch = {
+		name = "Deinomenes I"
+		dynasty = "Arkesilid"
+		birth_date = 1401.5.17	
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}

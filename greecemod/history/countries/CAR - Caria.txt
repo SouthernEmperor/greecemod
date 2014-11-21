@@ -3,14 +3,14 @@ mercantilism = 0.1
 primary_culture = greek
 religion = hellenic_pagan
 technology_group = western
-capital = 2296
+capital = 319
 
 1444.1.1 = {
 	monarch = {
-		name = "Priam Kleomenid"
-		birth_date = 1408.9.11
-		adm = 1
-		dip = 2
-		mil = 6
+		name = "Peukestos Stasanid"
+		birth_date = 1417.6.15	
+		adm = 4
+		dip = 3
+		mil = 3
 	}
 }

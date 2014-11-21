@@ -1,0 +1,11 @@
+name = "Bithynian-Byzantine War"
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 151
+}
+
+1444.1.1 = {
+	add_attacker = BIT
+	add_defender = BYZ
+}

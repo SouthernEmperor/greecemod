@@ -256,3 +256,72 @@ ITA_ideas = {
 		core_creation = -0.25
 	}
 }
+SPR_ideas = {
+    start = {
+        army_tradition = 0.5
+        leader_land_shock = 1
+    }
+    bonus = {
+        legitimacy = 1.0
+    }
+    trigger = {
+        tag = SPR
+    }
+    free = yes
+    earth_and_water = {
+        enemy_core_creation = 1.0
+    }
+    fight_in_the_shade = {
+        defensiveness = 0.2
+    }
+    dine_in_hell = {
+        land_attrition = -0.15
+    }
+    fear_the_spartan_spear = {
+        infantry_power = 0.1
+    }
+    even_a_godking_can_bleed = {
+        land_morale = 0.1
+    }
+    with_it_or_on_it = {
+        war_exhaustion = -0.03
+    }
+    remember_why_we_died = {
+        global_manpower_modifier = 0.2
+    }
+}
+LES_ideas = {
+    start = {
+        stability_cost_modifier = -0.1
+        global_revolt_risk = -1
+    }
+    bonus = {
+        global_tax_modifier = 0.1
+    }
+    trigger = {
+        tag = LES
+    }
+    free = yes
+    cherchez_la_femme = {
+        spy_offence = 0.25
+    }
+    court_diplomacy = {
+        diplomatic_reputation = 1
+    }
+    no_lord_in_this_manor = {
+        republican_tradition = 0.010
+    }
+    cosmopolitan_lifestyle = {
+        accepted_culture_threshold = -0.15
+    }
+    legacy_of_lysistrata = {
+        mercenary_cost = -0.2
+    }
+    lesbian_wine = {
+        war_exhaustion = -0.03
+    }
+    revival_of_the_cult_of_cybele = {
+        tolerance_heretic = 1
+        global_manpower_modifier = 0.2
+    }
+}

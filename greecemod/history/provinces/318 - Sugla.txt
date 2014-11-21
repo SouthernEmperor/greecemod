@@ -2,7 +2,7 @@
 
 owner = LES
 controller = LES
-culture = anatolian
+culture = greek
 religion = hellenic_pagan
 capital = "Smyrna"
 trade_goods = salt #Major Ottoman Salt Work

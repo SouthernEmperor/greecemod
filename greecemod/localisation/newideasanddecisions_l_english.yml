@@ -99,10 +99,6 @@
   "davidianreform": "Davidian Reforms"
   "davidianreform_desc": "The Davidian Reforms, instituted by a Panic corporal, have\
     \ not been adopted by his nation, however we can use it to our gains."
-  "eu4cd_convert_provinces_event_desc": "Our glorious nation of $COUNTRY$ follows\
-    \ the One True Faith of $COUNTRY_RELIGION$."
-  "eu4cd_convert_provinces_event_option": "Excellent"
-  "eu4cd_convert_provinces_event_title": "The One True Faith"
   "firstandonly": "Proti Kai Mondaki"
   "firstandonly_desc": "We do not care what others say, our army is the First and\
     \ Only of this region."
@@ -119,10 +115,6 @@
   "zanjscourge": "Scourge of Azania"
   "zanjscourge_desc": "Our armies have seen many men die before them. We can further\
     \ coerce the natives of Azania and Puntland by colonizing them."
-  "eu4cd_convert_provinces_event_desc": "Our glorious nation of $COUNTRY$ follows\
-    \ the One True Faith of $COUNTRY_RELIGION$."
-  "eu4cd_convert_provinces_event_option": "Excellent"
-  "eu4cd_convert_provinces_event_title": "The One True Faith"
   "greatarmies": "Great Armies"
   "greatarmies_desc": "Our armies are great, and there is no one left to dispute that."
   "greathouse": "Great House Acts"
@@ -184,4 +176,59 @@
     \ has been renowned as a place of tolerance, where religious minorities can practice\
     \ freely as they so wish - so long as they accept Scythia's superiority, as a\
     \ matter of course."
+  "SPR_ideas": "Spartan Ideas"
+  "SPR_ideas_bonus": "Spartan Ambitions"
+  "SPR_ideas_start": "Spartan Traditions"
+  "dine_in_hell": "Dine in Hell"
+  "dine_in_hell_desc": ""
+  "earth_and_water": "Earth and Water"
+  "earth_and_water_desc": ""
+  "even_a_godking_can_bleed": "Even A God-King Can Bleed"
+  "even_a_godking_can_bleed_desc": ""
+  "fear_the_spartan_spear": "Fear the Spartan Spear"
+  "fear_the_spartan_spear_desc": ""
+  "fight_in_the_shade": "Fight in the Shade"
+  "fight_in_the_shade_desc": ""
+  "remember_why_we_died": "Remember Why We Died"
+  "remember_why_we_died_desc": ""
+  "with_it_or_on_it": "With It, or On It"
+  "with_it_or_on_it_desc": ""
+  "LES_ideas": "Lesbian Ideas"
+  "LES_ideas_bonus": "Spartan Ambitions"
+  "LES_ideas_start": "Lesbian Traditions"
+  "cherchez_la_femme": "Cherchez la Femme"
+  "cherchez_la_femme_desc": "Behind every strangely acting Hellene man lies a woman.\
+    \ We can use this to our distinct advantage."
+  "cosmopolitan_lifestyle": "Cosmopolitan Lifestyle"
+  "cosmopolitan_lifestyle_desc": "The tolerant, open society of the Lesbians has long\
+    \ attracted Hellnes from oppressive societies across the Oikumene. With this in\
+    \ mind, we should have little issue integrating recently conquered minorities\
+    \ into our country's administration."
+  "court_diplomacy": "Court Diplomacy"
+  "court_diplomacy_desc": "It is strange that such an eclectic country as Lesbos is\
+    \ accepted so readily by the larger Hellenic community. This is in no short order\
+    \ due to the quality of our diplomatic corps, which have produced some of the\
+    \ most shrewd and talented diplomats around. We can proudly continue this tradition\
+    \ to our advantage."
+  "legacy_of_lysistrata": "Lgeacy of Lysistrata"
+  "legacy_of_lysistrata_desc": "The ancient play Lysistrata told of a group of women\
+    \ from across Hellas who resisted the endless Pelopennesian War and tried to force\
+    \ peace by denying sexual priveliges to their warrior husbands. We must remember\
+    \ the lessons of this play."
+  "lesbian_wine": "Lesbian Wine"
+  "lesbian_wine_desc": "The isle of Lesbos, our great capital, is renowned throughout\
+    \ the oikumene for the rich wines it produces. Perhaps we could use this to our\
+    \ advantage?"
+  "no_lord_in_this_manor": "No Lord in this Manor"
+  "no_lord_in_this_manor_desc": "The Lesbians don't have a lord. They don't vote for\
+    \ kings. Proudly republican, the people of Lesbos see the violence inherent in\
+    \ the system. They take turns electing an executive officer of the week, but all\
+    \ that decisions of that offer must be ratified at a biweekly meeting by a simple\
+    \ majority in internal affairs but a two-thirds majority in external affairs..."
+  "revival_of_the_cult_of_cybele": "Revival of the Cult of Cybele"
+  "revival_of_the_cult_of_cybele_desc": "Cybele was an ancient Phrygian goddess of\
+    \ fertility, almost forgotten in the years since. Now, she is undergoing something\
+    \ of a revival, and shrines to her are mushrooming across the country and in our\
+    \ capital. As is the nature of Lesbos's flourishing society, her worship is quite\
+    \ readily tolerated."
 

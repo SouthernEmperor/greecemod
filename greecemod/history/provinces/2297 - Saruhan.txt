@@ -1,17 +1,18 @@
-#2296 - Biga
+#2297 - Saruhan
 
-owner = TRO
-controller = TRO
-culture = greek
+owner = LYD
+controller = LYD
+culture = anatolian
 religion = hellenic_pagan
-capital = "Troy"
-trade_goods = naval_supplies
+capital = "Sardis"
+trade_goods = cotton
 hre = yes
-base_tax = 4
+base_tax = 5
 manpower = 3
-citysize = 7500
+citysize = 9500
 fort1 = yes
-add_core = TRO
+add_core = LYD
+temple = yes	# Isabey Mosque
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -1,0 +1,23 @@
+hellenic_religion = {
+
+}
+
+abrahamic_religion = {
+
+}
+
+european_religion = {
+
+}
+
+indo_seric_religion = {
+
+}
+
+iranian_religion = {
+
+}
+
+american_religion = {
+
+}
