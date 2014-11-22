@@ -1,3 +1,40 @@
+pilgrim_ideas = {
+    start = {
+        global_missionary_strength = 0.05
+        missionaries = 1
+    }
+    bonus = {
+        tolerance_own = 2
+    }
+    trigger = {
+        tag = PIL
+    }
+    free = yes
+    pilgrim_idea_1 = {
+        cb_on_religious_enemies = yes
+    }
+    pilgrim_idea_2 = {
+        galley_cost = -0.1
+        light_ship_cost = -0.1
+        transport_cost = -0.1
+    }
+    pilgrim_idea_3 = {
+        spy_offence = 0.1
+    }
+    pilgrim_idea_4 = {
+        unjustified_demands = -0.2
+    }
+    pilgrim_idea_5 = {
+        global_manpower_modifier = 0.1
+    }
+    pilgrim_idea_6 = {
+        accepted_culture_threshold = -0.1
+    }
+    pilgrim_idea_7 = {
+        prestige = 1.0
+    }
+}
+
 MSY_ideas = {
     start = {
         light_ship_cost = -0.25

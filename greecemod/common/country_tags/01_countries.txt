@@ -18,6 +18,7 @@ TRS = "countries/Tartessos.txt"
 ITA = "countries/Italya.txt"
 ROM = "countries/Rome.txt"
 SPQ = "countries/SPQR.txt"
+PIL = "countries/Pilgrims.txt"
 
 #Hellenic League
 ATH = "countries/Athens.txt"

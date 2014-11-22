@@ -1,0 +1,16 @@
+government = theocratic_government
+mercantilism = 0.1
+technology_group = western
+religion = catholic
+primary_culture = lombard
+capital = 127	# Cagliari
+
+
+1404.1.1 = {
+	monarch = { 
+		name = "Tychus Blackstone"
+		dip = 0
+		mil = 5
+		adm = 4
+	}
+}
