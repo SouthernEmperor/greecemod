@@ -1,7 +1,7 @@
 name = "Roman Civil War"
 war_goal = {
 	type = imperialism
-	casus_belli = imperialism
+	casus_belli = cb_annex
 }
 
 1444.1.1 = {
