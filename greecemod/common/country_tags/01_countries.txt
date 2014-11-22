@@ -58,3 +58,6 @@ NCN = "countries/Nicon.txt"
 OPN = "countries/Opone.txt"
 AZA = "countries/Azania.txt"
 PNT = "countries/Puntland.txt"
+
+#West Africa
+MGA = "countries/Manga.txt"

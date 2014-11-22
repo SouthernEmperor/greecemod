@@ -1,5 +1,5 @@
 ﻿"l_english":
-"pilgrim_idea_1": "Our Eternal Crusade"
+  "pilgrim_idea_1": "Our Eternal Crusade"
   "pilgrim_idea_1_desc": "Years we have tirelessly fought for the hearts and minds\
     \ of those trapped within the tyranny of false belief, yet we have made negligible\
     \ progress. The Master of the Pilgrimage believes it is time for a more...aggressive\
@@ -265,4 +265,35 @@
     \ of a revival, and shrines to her are mushrooming across the country and in our\
     \ capital. As is the nature of Lesbos's flourishing society, her worship is quite\
     \ readily tolerated."
+  "MGA_ideas": "Manganese Ideas"
+  "MGA_ideas_bonus": "Manganese Ambitions"
+  "MGA_ideas_start": "Manganese Traditions"
+  "baka": "The Baka"
+  "baka_desc": "The Baka is an ancient way of life, which revolves around the idea\
+    \ that \"It's not like I want you to control me or anything\". It practices freedom,\
+    \ yet parts of the diet are rumored to cause severe mood swings."
+  "chargesofmanga": "The Seven Charges"
+  "chargesofmanga_desc": "The Seven Charges are legendary Manganese heroes - a Saber,\
+    \ an Archer, a Lancer. a Rider, a Beserker, an Assassin and a Shaman - that even\
+    \ today inspire our armies to do great deeds.  "
+  "culturalimperialism": "Cultural Imperialism"
+  "culturalimperialism_desc": "Everyone wants our culture - from the farthest reaches\
+    \ of Africa to Europe and Asia, they all clamor for our knowledge. They are thus\
+    \ more willing to concede to us."
+  "eu4cd_convert_provinces_event_desc": "Our glorious nation of $COUNTRY$ follows\
+    \ the One True Faith of $COUNTRY_RELIGION$."
+  "eu4cd_convert_provinces_event_option": "Excellent"
+  "eu4cd_convert_provinces_event_title": "The One True Faith"
+  "fullmetal": "Full Metal Alchemy"
+  "fullmetal_desc": "Many scientists mull over our alchemic traditions every night,\
+    \ leading us to greater efficiency in researching bureaucratic ideals."
+  "nosad": "Land of Happiness"
+  "nosad_desc": "There are no unhappy people in this perfect world. At all."
+  "nyanya": "Nya Nya!"
+  "nyanya_desc": "Nya Nya is the war cry of our special armies, who take great pains\
+    \ to dress up as the great cats of the region, and so we strike fear into the\
+    \ hearts of our enemies."
+  "ohgodwhat": "Monster Sagas"
+  "ohgodwhat_desc": "There are various tales told by griots of monsters that live\
+    \ deep inside our territory. We'd rather not talk about it."
 

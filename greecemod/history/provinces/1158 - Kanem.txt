@@ -1,0 +1,26 @@
+#1158 - Kanem
+
+owner = MGA
+controller = MGA
+add_core = MGA
+culture = kanuri
+religion = animism
+capital = "Ngala"
+citysize = 14000
+manpower = 2
+trade_goods = wool
+hre = no
+base_tax = 3
+discovered_by = sub_saharan
+
+
+
+1505.1.1 = {  owner = KBO controller = KBO add_core = KBO } #Idris Katakarmabe retakes Kanem
+1550.1.1 = { citysize = 18000 }
+1562.1.1 = { controller = YAO } #Bulaba eject Borno from the region
+1570.1.1 = { controller = KBO } #Mai Idris Alawoma restores Borno authority in Kanem
+1622.1.1 = { capital = "Mao" citysize = 25000 } #Reorganization of provincial governance shifts center of power
+1700.1.1 = { citysize = 27000 }
+1751.1.1 = { unrest = 8 } #Wadai raiders gravely disrupt local communities
+1800.1.1 = { citysize = 29000 }
+1804.1.1 = { discovered_by = SOK }

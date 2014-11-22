@@ -362,3 +362,38 @@ LES_ideas = {
         global_manpower_modifier = 0.2
     }
 }
+MGA_ideas = {
+    start = {
+        global_regiment_cost = -0.1
+        advisor_cost = -0.1
+    }
+    bonus = {
+        global_colonial_growth = 25
+    }
+    trigger = {
+        tag = MGA
+    }
+    free = yes
+    baka = {
+        enemy_core_creation = 1.0
+    }
+    fullmetal = {
+        adm_tech_cost_modifier = -0.1
+    }
+    chargesofmanga = {
+        army_tradition = 1.0
+    }
+    culturalimperialism = {
+        unjustified_demands = -0.25
+    }
+    nosad = {
+        war_exhaustion = -0.02
+    }
+    nyanya = {
+        infantry_power = 0.1
+        land_morale = 0.1
+    }
+    ohgodwhat = {
+        heir_chance = 0.5
+    }
+}
