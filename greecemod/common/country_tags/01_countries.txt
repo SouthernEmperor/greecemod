@@ -47,6 +47,7 @@ SAX	= "countries/Saxony.txt"
 
 #Steppes
 SCY = "countries/Scythia.txt"
+TAM = "countries/Taman.txt"
 
 #East Africa
 MSY = "countries/Mosyllum.txt"

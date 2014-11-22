@@ -238,6 +238,9 @@ finno_ugric = {
 	}
 	ostyaki = {
 	}
+	
+	moksha = {
+	}
 }
 	
 south_slavic = {
@@ -359,6 +362,9 @@ caucasian = {
 		dynasty_names = { 
 			Bagratuni Rubenid Pahlavuni
 		}
+	}
+	
+	avar = {
 	}
 }
 

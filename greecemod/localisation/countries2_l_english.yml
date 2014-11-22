@@ -51,6 +51,8 @@ l_english:
  ROM_ADJ: "Roman"
  SCY: "Scythia"
  SCY_ADJ: "Scythian"
+ TAM: "Taman"
+ TAM_ADJ: "Tamanic"
  SPA: "Hispania"
  SPA_ADJ: "Hispanian"
  SPQ: "SPQR"

@@ -228,8 +228,11 @@ SCY_ideas = {
         prestige = 1.0
     }
     trigger = {
-        tag = SCY
-    }
+		or = {
+			tag = SCY
+			tag = TAM
+		}
+	}
     free = yes
     legend_of_the_amazons = {
         manpower_recovery_speed = 0.25

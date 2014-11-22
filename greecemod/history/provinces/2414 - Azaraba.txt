@@ -1,17 +1,17 @@
-#2413 - Tyn
+#2414 - Azaraba
 
-owner = SCY
-controller = SCY
+owner = TAM
+controller = TAM
 culture = sarmatian
 religion = zoroastrian
 hre = no
 base_tax = 2
 trade_goods = grain
-manpower = 2
-capital = "Tyn"
+manpower = 4
+capital = "Azaraba"
 citysize = 3671
 fort1 = yes
-add_core = SCY
+add_core = TAM
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -83,6 +83,20 @@ iranian = {
 		scythian = {
 			primary = SCY
 		}
+		
+		sarmatian = {
+		}
+		
+		tamanic = {
+			primary = TAM
+		}
+}
+
+turkic = {
+
+		savir = {
+		}
+	
 }
 		
 hanculture = {

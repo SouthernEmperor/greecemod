@@ -1,17 +1,18 @@
-#2413 - Tyn
+#2417 - Kuma
 
-owner = SCY
-controller = SCY
-culture = sarmatian
-religion = zoroastrian
+owner = TAM
+controller = TAM
+culture = savir
+religion = buddhism
 hre = no
 base_tax = 2
-trade_goods = grain
+trade_goods = iron 
 manpower = 2
-capital = "Tyn"
-citysize = 3671
+capital = "Kuma"
+citysize = 3206
 fort1 = yes
-add_core = SCY
+add_core = TAM
+add_core = AST
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

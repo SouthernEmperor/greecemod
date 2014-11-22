@@ -1,17 +1,18 @@
-#2413 - Tyn
+#2416 - Majar
 
-owner = SCY
-controller = SCY
-culture = sarmatian
+owner = TAM
+controller = TAM
+culture = tamanic
 religion = zoroastrian
 hre = no
 base_tax = 2
 trade_goods = grain
-manpower = 2
-capital = "Tyn"
+manpower = 1
+capital = "Majar"
 citysize = 3671
 fort1 = yes
-add_core = SCY
+add_core = TAM
+add_core = AST
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

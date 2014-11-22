@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = tamanic
+religion = buddhism
+technology_group = eastern
+capital = 2447
+
+1444.1.1 = {
+	monarch = {
+		name = "Balghichi I"
+		dynasty = "Tamatarkhan"
+		birth_date = 1406.8.15
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+}

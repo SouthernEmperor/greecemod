@@ -1,0 +1,133 @@
+#Countri Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 192 192 64 }
+
+historical_idea_groups = {
+	expansion_ideas
+	offensive_ideas
+	administrative_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	muslim_cavalry_archers
+	persian_chamchir
+	qizilbach_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afcharid_reformed
+	afcharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Alborz #0" = 10
+	"Arastu #0" = 10
+	"Ali #0" = -5
+	"Aidan #0" = -5
+	"Balghichi #1" = 10
+	"Banu #0" = -10
+	"Behram #0" = 10
+	"Chengiz #0" = 10
+	"Daria #0" = -5
+	"Dariuch #0" = 10
+	"Elaheh #0" = -5
+	"Ender #0" = 10
+	"Emirhan #0" = 20
+	"Firuz #0" = 10
+	"Firuzeh #0" = -5
+	"Golnaz #0" = -5
+	"Golchan #0" = 10
+	"Ferit" #0" = 10
+	"Filiz #0" = 10
+	"Haleh #0" = -5
+	"Cahan #0" = 15
+	"Cihangir #0" = 15
+	"Camchid #0" = 15
+	"Casemin #0" = -5
+	"Kataiun #0" = -15
+	"Kadir #0" = 10
+	"Leila #0" = -5
+	"Mahsa #0" = -5
+	"Mavarid #0" = -10
+	"Minu #0" = -5
+	"Nahid #0" = -5
+	"Nima #0" = 10
+	"Nicha #0" = -5
+	"Omid #0" = 10
+	"Pari #0" = -5
+	"Parvin #0" = -5
+	"Parviz #0" = 10
+	"Paiam #0" = 10
+	"Rechep #0" = 10
+	"Roxana #0" = -30
+	"Rostam #0" = 10
+	"Sahar #0" = -5
+	"Senai #0" = -5
+	"Sara #0" = -5
+	"Serkan #0" = 20
+	"Shariar #0" = 10
+	"Soner #0" = 10
+	"Sukriye #0" = -5
+	"Chir #0" = 10
+	"Siavach #0" = 10
+	"Tarik #0" = 10
+	"Timur #0" = 5
+	"Volkan #0" = 10
+	"Zehra #0" = -5
+	"Zarathustra #0" = 10
+}
+
+leader_names = {
+	Ahriman
+	Ameretat
+	Arach
+	Achtad
+	Attar
+	Bahman
+	Charmchi
+	Fereidoun
+	Govad
+	Haurvatat
+	Nairiosangha
+	Ormazd
+	Rachn
+	Rostami
+	Saroch
+	Sohrab
+	Tahmuras
+	Tamatarkhan
+	Zal
+}
+
+chip_names = {
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airiaman
+	"Aka Manah" Aladdin Allatum Amachaspan Ameratat
+	"Amecha Spentas" Anahita "Angra Mainiu" Ancuman
+	"Apam-natat" Apaosa Aredvi Arichtat Armaiti Arsaces
+	"Acha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Atar "Azi Dahaka" Baga Bahram Buricas Buchiasta Buiasta
+	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+	Drvaspa Frachegird Fravachis Gandarewa "Gao-kerena"
+	Gaiomard Gaiomart "Geus-Tasan" "Geus-Urvan" Haoma
+	Haurvatat Humai Hvar Hvarekhchaeta Indar Indra Izha
+	Jamchid Jeh Karchipta Kavi Khara "Khchathra vairia"
+	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
+	Machiane Machie Menog Mithra Nairiosangha Nanghaithia
+	Neriosang Ormazd Peris Pechdadians Rapithwin Rachnu
+	Rustam Saurva Simurgh "Spenta Mainiu" Sraosa Sroch
+	Tawrich Thunaupa Tistria Tuchnamatai Vanant Vata
+	Verethragna "Vohu Manah" Vouruskacha Yam Yacht Yazata
+	Yezidi Yima Zal Zam "Zam-Armatai" Zarathustra Zarich
+	"Zend-Avesta" Zurvan
+}
