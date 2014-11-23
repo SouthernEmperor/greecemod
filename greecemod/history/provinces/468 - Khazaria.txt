@@ -2,7 +2,7 @@
 
 owner = TAM
 controller = TAM
-culture = sarmatian
+culture = roxolani
 religion = zoroastrian
 capital = "Cherny Yar"
 trade_goods = wool

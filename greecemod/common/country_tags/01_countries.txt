@@ -31,10 +31,13 @@ LES = "countries/Lesbos.txt"
 LYD = "countries/Lydia.txt"
 MAC = "countries/Macedonia.txt"
 PHR = "countries/Phrygia.txt"
+PON = "countries/Pontus.txt"
 RHO = "countries/Rhodes.txt"
 SPR = "countries/Sparta.txt"
+SRC = "countries/Syracuse.txt"
 THR = "countries/Thracia.txt"
 TRO = "countries/Troy.txt"
+TMK = "countries/Taurimark.txt"
 
 #Other Greek and Minor Asian states
 BYZ = "countries/ByzantineEmpire.txt"

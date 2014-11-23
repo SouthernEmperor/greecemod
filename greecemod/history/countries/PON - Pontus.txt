@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = greek
+religion = hellenic_pagan
+technology_group = western
+capital = 330
+
+1444.1.1 = {
+	monarch = {
+		name = "Chariklios I"
+		dynasty = "Peukestid"
+		birth_date = 1411.12.20	
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+}

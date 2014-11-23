@@ -2,7 +2,7 @@
 
 owner = SCY
 controller = SCY
-culture = sarmatian
+culture = roxolani
 religion = zoroastrian
 hre = no
 base_tax = 2

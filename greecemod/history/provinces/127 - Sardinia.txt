@@ -2,7 +2,7 @@
 
 owner = PIL
 controller = PIL
-culture = lombard 
+culture = roman
 religion = catholic 
 hre = no 
 base_tax = 4

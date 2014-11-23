@@ -84,7 +84,7 @@ iranian = {
 			primary = SCY
 		}
 		
-		sarmatian = {
+		roxolani = {
 		}
 		
 		tamanic = {

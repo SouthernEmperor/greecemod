@@ -1,0 +1,173 @@
+#Norwegian-based
+
+graphical_culture = westerngfx
+
+color = { 111 148 188 }
+
+historical_idea_groups = {
+	aristocracy_ideas
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	maritime_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Håkon #0" = 10
+	"Olav #0" = 10
+	"Erik #0" = 10
+	"Gandalfr #0" = 10
+	"Magnus #0" = 10
+	"Harald #0" = 10
+	"Inge #0" = 10
+	"Sigurd #0" = 10
+	"Aksel #0" = 10
+	"Alf #0" = 10
+	"Anders #0" = 10
+	"Ansgard #0" = 10
+	"Arvid #0" = 10
+	"Bernt #0" = 10
+	"Birger #0" = 10
+	"Bjørn #0" = 10
+	"Daniel #0" = 10
+	"Edvard #0" = 10
+	"Eilert #0" = 10
+	"Einar #0" = 10
+	"Elias #0" = 10
+	"Esben #0" = 10
+	"Folke #0" = 10
+	"Gunnar #0" = 10
+	"Kasper #0" = 10
+	"Kennet #0" = 10
+	"Knut #0" = 10
+	"Kurt #0" = 10
+	"Ludvig #0" = 10
+	"Mats #0" = 10
+	"Mikael #0" = 10
+	"Njåld #0" = 10
+	"Njord #0" = 10
+	"Oddmund #0" = 10
+	"Peder #0" = 10
+	"Rikard #0" = 10
+	"Simon #0" = 10
+	"Søren #0" = 10
+	"Tollak #0" = 10
+	"Torhild #0" = 10
+	"Torvald #0" = 10
+}
+
+leader_names = {
+	Årud 
+	Bjelke 
+	Bolt 
+	Dahl
+	Falk
+	Hagebak
+	Hall
+	Haugen
+	Holt
+	Horn
+	Hummel
+	Lange
+	Lund
+	Ness
+	Olhouser
+	Ostberg
+	Ovsen
+	Raske
+	Nansen
+	Norheim
+	Svelte
+	Toov
+	Vang
+	Vollan
+}
+
+ship_names = {
+	Aither
+	Ananke
+	Aphrodite
+	Apollon
+	Ares
+	Aretmis
+	Asteria
+	Astraios
+	Athena
+	Atlas
+	Aura
+	Chaos
+	Chronos
+	Clymene
+	Demeter
+	Dione
+	Dionysos
+	Eos
+	Epimetheus
+	Erebos
+	Eros
+	Eurybia
+	Eurynome
+	Gaia
+	Hades
+	Helios
+	Hephaistos
+	Hera
+	Hermera
+	Hermes
+	Hestia
+	Hyperion
+	Hypnos
+	Iapetos
+	Koios
+	Kreios
+	Lelantos
+	Leto
+	Menoitios
+	Metis
+	Mnemosyne
+	Nesoi
+	Nyx
+	Oceanos
+	Ophion
+	Ouranos
+	Ourea
+	Pallas
+	Perses
+	Phanes
+	Phoibe
+	Pontus
+	Poseidon
+	Prometheus
+	Rhea
+	Selene
+	Styx
+	Tartarus
+	Tethys
+	Thalassa
+	Thanatos
+	Theia
+	Themis
+	Zeus
+}

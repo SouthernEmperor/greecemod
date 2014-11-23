@@ -1,17 +1,17 @@
-#2414 - Azaraba
+#284 - Crimea
 
-owner = TAM
-controller = TAM
-culture = roxolani
+owner = TMK
+controller = TMK
+culture = tauric
 religion = zoroastrian
-hre = no
-base_tax = 2
-trade_goods = grain
-manpower = 4
-capital = "Azaraba"
+hre = yes
+base_tax = 7
+trade_goods = salt
+manpower = 5
+capital = "Kalos"
 citysize = 3671
 fort1 = yes
-add_core = TAM
+add_core = TMK
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

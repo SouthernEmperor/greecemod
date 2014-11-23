@@ -1,17 +1,17 @@
-#2412 - Kyzyl-Yar
+#2410 - Theodoro
 
-owner = SCY
-controller = SCY
+owner = TMK
+controller = TMK
 culture = tauric
-religion = zoroastrian
-hre = no
-base_tax = 2
-trade_goods = salt
+religion = hellenic_pagan
+hre = yes
+base_tax = 3
+trade_goods = wine
 manpower = 3
-capital = "Kyzyl-Yar"
-citysize = 3671
+capital = "Kerson"
+citysize = 14000
 fort1 = yes
-add_core = SCY
+add_core = TMK
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

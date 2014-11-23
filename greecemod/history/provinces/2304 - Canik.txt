@@ -1,18 +1,18 @@
-#318 - Sugla
+#2304 - Canik
 
-owner = LES
-controller = LES
+owner = PON
+controller = PON
 culture = greek
 religion = hellenic_pagan
-capital = "Pergamon"
-trade_goods = salt #Major Ottoman Salt Work
+capital = "Polemonion"
+trade_goods = wine
 hre = yes
-base_tax = 5
+base_tax = 3
 manpower = 3
-citysize = 17500
+citysize = 2224
 fort1 = yes
-add_core = LES
-temple = yes	# Isabey Mosque
+dock = yes #Shipyard of the Isfendiyarids, later Ottoman Shipyard
+add_core = PON
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

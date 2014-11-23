@@ -2,7 +2,7 @@
 
 owner = SCY
 controller = SCY
-culture = norwegian
+culture = tauric
 religion = zoroastrian
 hre = no
 base_tax = 3

@@ -1,0 +1,16 @@
+government = noble_republic
+mercantilism = 0.1
+primary_culture = tauric
+religion = hellenic_pagan
+technology_group = western
+capital = 285
+
+1444.1.1 = {
+	monarch = {
+		name = "Torvald Svelte"
+		birth_date = 1402.9.22
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}

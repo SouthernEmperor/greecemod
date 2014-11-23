@@ -63,6 +63,12 @@ north_germanic = {
 			"Hårfagreætta" "Bielke" "Bildt" "Galte" "Paus" "Smør" "Benkestok" "Kane" "Bonde"
 		}
 	}
+	tauric = {
+		primary = TMK
+		dynasty_names = { 
+			"Hårfagreætta" "Bielke" "Bildt" "Galte" "Paus" "Smør" "Benkestok" "Kane" "Bonde"
+		}
+	}
 }
 
 british	= {
