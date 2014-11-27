@@ -296,4 +296,31 @@
   "ohgodwhat": "Monster Sagas"
   "ohgodwhat_desc": "There are various tales told by griots of monsters that live\
     \ deep inside our territory. We'd rather not talk about it."
-
+  "PNT_ideas": "Puntlander Ideas"
+  "PNT_ideas_bonus": "Puntlander Ambitions"
+  "PNT_ideas_start": "Puntlander Traditions"
+  "bankersetc": "Bankers"
+  "bankersetc_desc": "The Bankers of Pano are the backbone of our economy - without\
+    \ them, nothing would run."
+  "cannonsofmosyllum": "Mosyllite Cannons"
+  "cannonsofmosyllum_desc": "The Cannons of Mosyllum are legendary."
+  "eu4cd_convert_provinces_event_desc": "Our glorious nation of $COUNTRY$ follows\
+    \ the One True Faith of $COUNTRY_RELIGION$."
+  "eu4cd_convert_provinces_event_option": "Excellent"
+  "eu4cd_convert_provinces_event_title": "The One True Faith"
+  "indrev": "Industrial Revolution"
+  "indrev_desc": "The Industrial Revolution of Puntland takes place on a different\
+    \ scale, focusing more on communications. It's odd."
+  "massivetradearea": "Trading Ports"
+  "massivetradearea_desc": "We are historically an important trading area, and it\
+    \ shall always be this way."
+  "peacetradition": "Peace Traditions"
+  "peacetradition_desc": "The traditions of Puntland show a great economical and peacetime\
+    \ backing, so we can use that to our advantage."
+  "pirates": "Old Piracy Act"
+  "pirates_desc": "Old habits die hard for some of us, so it seems best to have the\
+    \ whole 'piracy' thing legalized."
+  "whyallthesereligions": "Multifaith Empire"
+  "whyallthesereligions_desc": "Our empire is made up of Jews, Hellenics and Isayans\
+    \ - what can possibly go wrong?"
+  "panic_republic": "Panic Republic"

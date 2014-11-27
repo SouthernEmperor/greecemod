@@ -1,4 +1,4 @@
-government = noble_republic
+government = panic_republic
 mercantilism = 0.1
 primary_culture = judeo_somali
 religion = jewish

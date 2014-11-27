@@ -1,0 +1,68 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = greek
+religion = hellenic_pagan
+technology_group = western
+historical_rival = TUR
+capital = 316 # Constantinople
+
+1391.2.16 = {
+	monarch = {
+		name = "Arkimedes"
+		dynasty = "Laskaris"
+		birth_date = 1350.6.27		
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1392.12.18 = {
+	heir = {
+		name = "Ioannes"
+		monarch_name = "Ioannes VIII"
+		dynasty = "Laskaris"
+		birth_date = 1392.12.18
+		death_date = 1448.10.31
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1425.7.21 = {
+	monarch = {
+		name = "Ioannes VIII"
+		dynasty = "Laskaris"
+		birth_date = 1392.12.18
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1425.7.21 = {
+	heir = {
+		name = "Andreas"
+		monarch_name = "Andreas I"
+		dynasty = "Laskaris"
+		birth_date = 1420.2.8
+		death_date = 1443.10.31
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1443.10.31 = {
+	monarch = {
+		name = "Andreas I"
+		dynasty = "Laskaris"
+		birth_date = 1420.2.8
+		adm = 0
+		dip = 2
+		mil = 6
+	}
+}

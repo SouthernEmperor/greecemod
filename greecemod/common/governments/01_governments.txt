@@ -1,0 +1,16 @@
+
+panic_republic = {
+	republic = yes
+	
+	duration = 4
+	
+	republican_name = yes
+	royal_marriage = no
+	
+	valid_for_new_country = no
+	allow_convert = no
+	
+	# Bonus
+	diplomatic_reputation = 1
+	global_spy_defence = 0.10
+	global_autonomy = -0.5
