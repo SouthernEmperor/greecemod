@@ -322,7 +322,7 @@
  PROV321: "Cyprus" #done
  PROV322: "Phrygia" #done
  PROV323: "Lycaonia" #done
- PROV324: "Karaman"
+ PROV324: "Antiochiana" #done
  PROV325: "Paphlagona" #done
  PROV326: "Galatia" #done
  PROV327: "Cilicia" #done
@@ -408,11 +408,11 @@
  PROV407: "Ar Raqqa"
  PROV408: "Basra"
  PROV409: "Hillah"
- PROV410: "Baghdad"
+ PROV410: "Babylon" #done
  PROV411: "Mosul"
  PROV412: "Khuzestan"
  PROV413: "Lorestan"
- PROV414: "Hamadan"
+ PROV414: "Ecbatana" #done
  PROV415: "Shahrizor"
  PROV416: "Tabriz"
  PROV417: "Gilan"
@@ -424,7 +424,7 @@
  PROV423: "Kartli"
  PROV424: "Ardabil"
  PROV425: "Dagestan"
- PROV426: "Mazandaran"
+ PROV426: "Hyrcania" #done
  PROV427: "Qumis"
  PROV428: "Rey"
  PROV429: "Isfahan"
@@ -1844,7 +1844,7 @@
  PROV1843: "Kozuke"
  PROV1844: "Xiankhouang"
  PROV1845: "Pyongan"
- PROV1846: "Amasya"
+ PROV1846: "Daximonitis" #done
  PROV1847: "Shiribeshi"
  PROV1848: "Pisidia" #done
  PROV1849: "Hama"
@@ -2206,7 +2206,7 @@
  PROV2206: "Urmia"
  PROV2207: "Maragheh"
  PROV2208: "Terek"
- PROV2209: "Ilam"
+ PROV2209: "Elam" #done
  PROV2210: "Kirmanshah"
  PROV2211: "Ardalan"
  PROV2212: "Zanjan"
@@ -2297,9 +2297,9 @@
  PROV2297: "Lydia" #done
  PROV2298: "Lycia" #done
  PROV2299: "Bithynia" #done
- PROV2300: "Bozok"
+ PROV2300: "Ptermia" #done
  PROV2301: "Cappadocia" #done
- PROV2302: "Içel"
+ PROV2302: "Trachea" #done
  PROV2303: "Malatya"
  PROV2304: "Pontus" #done
  PROV2305: "Erzincan"

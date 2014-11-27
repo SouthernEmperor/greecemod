@@ -1,0 +1,23 @@
+# Athens-Sparta
+alliance = {
+	first = ATH
+	second = SPR
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}
+
+# Epirus-Corinth
+alliance = {
+	first = EPI
+	second = CRN
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}
+
+# Scythia likes having fun
+guarantee = {
+	first = SCY
+	second = LES
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}

@@ -41,6 +41,9 @@ TMK = "countries/Taurimark.txt"
 
 #Other Greek and Minor Asian states
 BYZ = "countries/ByzantineEmpire.txt"
+CAP = "countries/Cappadocia.txt"
+GRE = "countries/Greece.txt" #Greek culture union
+AMI = "countries/AsiaMinor.txt" #Anatolian culture union
 
 #West Germanics
 FRK	= "countries/Frankreich.txt"

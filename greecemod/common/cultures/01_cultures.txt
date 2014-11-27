@@ -16,7 +16,7 @@ hellenistic = {
 		}
 		
 		anatolian = {
-			#primary = TUR
+			primary = AMI
 		}
 	
 }
@@ -76,6 +76,12 @@ semitic = {
 		egyptian = {
 			primary = EGY
 		}
+		
+		hebrew = {
+		}
+		
+		syrian = {
+		}
 }
 
 iranian = {
@@ -89,6 +95,21 @@ iranian = {
 		
 		tamanic = {
 			primary = TAM
+		}
+		
+		babylonian = {
+		}
+		
+		persian = {
+		}
+		
+		parthian = {
+		}
+		
+		medean = {
+		}
+		
+		gedrosian = {
 		}
 }
 

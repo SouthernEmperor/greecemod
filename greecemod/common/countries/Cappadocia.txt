@@ -1,0 +1,233 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 164 217 127 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	spy_ideas
+	trade_ideas
+	innovativeness_ideas
+	economic_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Apostolos #0" = 20
+	"Elias #1" = 20
+	"Evangelos #0" = 20
+	"Iason #0" = 20
+	"Ioannis #0" = 20
+	"Iosif #0" = 20
+	"Markos #0" = 20
+	"Michalis #0" = 20
+	"Pavlos #0" = 20
+	"Silas #0" = 20
+	"Spyro #0" = 20
+	"Yiorgos #0" = 20
+	"Agenor #0" = 5
+	"Agis #0" = 5
+	"Akakios #0" = 5
+	"Alexandros #0" = 20
+	"Alexios #0" = 5
+	"Ambrosios #0" = 5
+	"Antigonos #0" = 5
+	"Antipater #0" = 5
+	"Archimedes #0" = 5
+	"Arkesilas #0" = 5
+	"Artopates #0" = 5
+	"Aristeides #0" = 5
+	"Asandros #0" = 5
+	"Chariklios #0" = 5
+	"Deinomenes #0" = 5
+	"Demaratos #0" = 5
+	"Demetrios #0" = 5
+	"Dion #0" = 5
+	"Doryssos #0" = 5
+	"Drakon #0" = 5
+	"Epiphanes #0" = 5
+	"Erasmos #0" = 5
+	"Euripides #0" = 5
+	"Eurykrates #0" = 5
+	"Eustachus #0" = 5
+	"Euthymios #0" = 5
+	"Georgios #0" = 5
+	"Gekin #0" = 5
+	"Heliodoros #0" = 5
+	"Heraklios #0" = 5
+	"Heron #0" = 5
+	"Hippokrates #0" = 5
+	"Hypatos #0" = 5
+	"Kallistos #0" = 5
+	"Kassandros #0" = 5
+	"Kleombrotos #0" = 5
+	"Kleomenes #0" = 5
+	"Kleon #0" = 5
+	"Koinos #0" = 5
+	"Kosmas #0" = 5
+	"Krateros #0" = 5
+	"Laomedon #0" = 5
+	"Leonidas #0" = 5
+	"Leonnatos #0" = 5
+	"Lysander #0" = 5
+	"Lysimachos #0" = 5
+	"Menandros #0" = 5
+	"Methodios #0" = 5
+	"Mitlaides #0" = 5
+	"Neoptolemos #0" = 5
+	"Niketor #0" = 5
+	"Nikodemos #0" = 5
+	"Nikolaos #0" = 5
+	"Nikomedes #0" = 5
+	"Pankratios #0" = 5
+	"Panther #0" = 5
+	"Peithon #0" = 5
+	"Perdikkas #0" = 5
+	"Perikles #0" = 5
+	"Peukestos #0" = 5
+	"Philippos #0" = 5
+	"Philotas #0" = 5
+	"Phocas #0" = 5
+	"Pleistoanax #0" = 5
+	"Porphyrios #0" = 5
+	"Poros #0" = 5
+	"Praxiteles #0" = 5
+	"Ptolemaios #0" = 5
+	"Pythagoras #0" = 5
+	"Pyrrhos #0" = 5
+	"Seleukos #0" = 5
+	"Sophokles #0" = 5
+	"Stasanor #0" = 5
+	"Sibyrtios #0" = 5
+	"Timarchos #0" = 5
+	"Thales #0" = 5
+	"Theodoros #0" = 5
+	"Theodotos #0" = 5
+	"Tryphon #0" = 5
+	"Xenon #0" = 5
+	"Zenobios #0" = 5
+	"Zopyros #0" = 5
+	"Zotikos #0" = 5
+}
+
+leader_names = {
+	Agenorid
+	Agnes
+	Antigonid
+	Antipatrid
+	Arkesilid
+	Asandrid
+	Heraklid
+	Kleomenid
+	Koinid
+	Kraterid
+	Laomedonid
+	Leonnatid
+	Lysimachid
+	Menandrid
+	Peithonid
+	Perdikkid
+	Peukestid
+	Philippid
+	Philotid
+	Porid
+	Ptolemaid
+	Seleukid
+	Stasanid
+	Sibyrtid
+	Taxilid
+	Xenid
+	Zenobid
+}
+
+ship_names = {
+	Aither
+	Ananke
+	Aphrodite
+	Apollon
+	Ares
+	Aretmis
+	Asteria
+	Astraios
+	Athena
+	Atlas
+	Aura
+	Chaos
+	Chronos
+	Clymene
+	Demeter
+	Dione
+	Dionysos
+	Eos
+	Epimetheus
+	Erebos
+	Eros
+	Eurybia
+	Eurynome
+	Gaia
+	Hades
+	Helios
+	Hephaistos
+	Hera
+	Hermera
+	Hermes
+	Hestia
+	Hyperion
+	Hypnos
+	Iapetos
+	Koios
+	Kreios
+	Lelantos
+	Leto
+	Menoitios
+	Metis
+	Mnemosyne
+	Nesoi
+	Nyx
+	Oceanos
+	Ophion
+	Ouranos
+	Ourea
+	Pallas
+	Perses
+	Phanes
+	Phoibe
+	Pontus
+	Poseidon
+	Prometheus
+	Rhea
+	Selene
+	Styx
+	Tartarus
+	Tethys
+	Thalassa
+	Thanatos
+	Theia
+	Themis
+	Zeus
+}
+
+
+	

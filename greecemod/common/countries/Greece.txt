@@ -1,0 +1,217 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 249 206 173 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Agenor #0" = 10
+	"Agis #0" = 10
+	"Akakios #0" = 10
+	"Alexandros #0" = 10
+	"Alexios #0" = 10
+	"Ambrosios #0" = 10
+	"Antigonos #0" = 10
+	"Antipater #0" = 10
+	"Archimedes #0" = 10
+	"Arkesilas #0" = 10
+	"Artopates #0" = 10
+	"Aristeides #0" = 10
+	"Asandros #0" = 10
+	"Chariklios #0" = 10
+	"Deinomenes #0" = 10
+	"Demaratos #0" = 10
+	"Demetrios #0" = 10
+	"Dion #0" = 10
+	"Doryssos #0" = 10
+	"Drakon #0" = 10
+	"Epiphanes #0" = 10
+	"Erasmos #0" = 10
+	"Euripides #0" = 10
+	"Eurykrates #0" = 10
+	"Eustachus #0" = 10
+	"Euthymios #0" = 10
+	"Georgios #0" = 10
+	"Gekin #0" = 10
+	"Heliodoros #0" = 10
+	"Heraklios #0" = 10
+	"Heron #0" = 10
+	"Hippokrates #0" = 10
+	"Hypatos #0" = 10
+	"Kallistos #0" = 10
+	"Kassandros #0" = 10
+	"Kleombrotos #0" = 10
+	"Kleomenes #0" = 10
+	"Kleon #0" = 10
+	"Koinos #0" = 10
+	"Kosmas #0" = 10
+	"Krateros #0" = 10
+	"Laomedon #0" = 10
+	"Leonidas #0" = 10
+	"Leonnatos #0" = 10
+	"Lysander #0" = 10
+	"Lysimachos #0" = 10
+	"Menandros #0" = 10
+	"Methodios #0" = 10
+	"Mitlaides #0" = 10
+	"Neoptolemos #0" = 10
+	"Niketor #0" = 10
+	"Nikodemos #0" = 10
+	"Nikolaos #0" = 10
+	"Nikomedes #0" = 10
+	"Pankratios #0" = 10
+	"Panther #0" = 10
+	"Peithon #0" = 10
+	"Perdikkas #0" = 10
+	"Perikles #0" = 10
+	"Peukestos #0" = 10
+	"Philippos #0" = 10
+	"Philotas #0" = 10
+	"Phocas #0" = 10
+	"Pleistoanax #0" = 10
+	"Porphyrios #0" = 10
+	"Poros #0" = 10
+	"Praxiteles #0" = 10
+	"Ptolemaios #0" = 10
+	"Pythagoras #0" = 10
+	"Pyrrhos #0" = 10
+	"Seleukos #0" = 10
+	"Sophokles #0" = 10
+	"Stasanor #0" = 10
+	"Sibyrtios #0" = 10
+	"Timarchos #0" = 10
+	"Thales #0" = 10
+	"Theodoros #0" = 10
+	"Theodotos #0" = 10
+	"Tryphon #0" = 10
+	"Xenon #0" = 10
+	"Zenobios #0" = 10
+	"Zopyros #0" = 10
+	"Zotikos #0" = 10
+}
+
+leader_names = {
+	Agenorid
+	Antigonid
+	Antipatrid
+	Arkesilid
+	Asandrid
+	Heraklid
+	Kleomenid
+	Koinid
+	Kraterid
+	Laomedonid
+	Leonnatid
+	Lysimachid
+	Menandrid
+	Peithonid
+	Perdikkid
+	Peukestid
+	Philippid
+	Philotid
+	Porid
+	Ptolemaid
+	Seleukid
+	Stasanid
+	Sibyrtid
+	Taxilid
+	Xenid
+	Zenobid
+}
+
+ship_names = {
+	Aither
+	Ananke
+	Aphrodite
+	Apollon
+	Ares
+	Aretmis
+	Asteria
+	Astraios
+	Athena
+	Atlas
+	Aura
+	Chaos
+	Chronos
+	Clymene
+	Demeter
+	Dione
+	Dionysos
+	Eos
+	Epimetheus
+	Erebos
+	Eros
+	Eurybia
+	Eurynome
+	Gaia
+	Hades
+	Helios
+	Hephaistos
+	Hera
+	Hermera
+	Hermes
+	Hestia
+	Hyperion
+	Hypnos
+	Iapetos
+	Koios
+	Kreios
+	Lelantos
+	Leto
+	Menoitios
+	Metis
+	Mnemosyne
+	Nesoi
+	Nyx
+	Oceanos
+	Ophion
+	Ouranos
+	Ourea
+	Pallas
+	Perses
+	Phanes
+	Phoibe
+	Pontus
+	Poseidon
+	Prometheus
+	Rhea
+	Selene
+	Styx
+	Tartarus
+	Tethys
+	Thalassa
+	Thanatos
+	Theia
+	Themis
+	Zeus
+}
