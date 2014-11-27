@@ -1,0 +1,108 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 244 174 43 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	maritime_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	ottoman_yaya
+	ottoman_musellem
+	ottoman_azab
+	ottoman_timariot
+	ottoman_janissary
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Sulayman #0" = 10
+	"'Alî #0" = 10
+	"'Umar #0" = 10
+	"Dâ'ûd #0" = 10
+	"Hasan #0" = 10
+	"Sa'îd #0" = 10
+	"'Abbas #0" = 10
+	"'Abd al-Karim #0" = 10
+	"'Abd al-Rahman #0" = 10
+	"Anwar #0" = 10
+	"Atuf #0" = 10
+	"Bakr #0" = 10
+	"Fahd #0" = 10
+	"Faruq #0" = 10
+	"Fouad #0" = 10
+	"Hakim #0" = 10
+	"Harun #0" = 10
+	"Hikmat #0" = 10
+	"Hisham #0" = 10
+	"Husayn #0" = 10
+	"Isma'il #0" = 10
+	"Jafar #0" = 10
+	"Jamaal #0" = 10
+	"Karim #0" = 10
+	"Khalil #0" = 10
+	"Malîk #0" = 10
+	"Mirza #0" = 10
+	"Muhammad #0" = 10
+	"Mustafa #0" = 10
+	"Qasim #0" = 10
+	"Rashîd #0" = 10
+	"Rusul #0" = 10
+	"Shimun #0" = 10
+	"Tarîq #0" = 10
+	"Usama #0" = 10
+	"Yasir #0" = 10
+	"Yusuf #0" = 10
+	"Zaid #0" = 10
+	"Zîyad #0" = 10
+	"Zulqifar #0" = 10
+	
+	"Badr #0" = -10
+	"Fatimah #1" = -10
+}
+
+leader_names = {
+	Agha
+	Ahmad
+	Akif
+	Husain
+	Javid
+	Necip
+	Nuri
+	Rahman
+	Resid
+	Zaki
+}
+
+ship_names = {
+	Faydhi
+	Fazil
+	Kadri
+	Jamal
+	Midhat
+	Nadhif
+	Nadhim
+	Namiq
+	Omer
+	Sirri
+}

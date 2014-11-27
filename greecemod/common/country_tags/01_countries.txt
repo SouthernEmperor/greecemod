@@ -55,6 +55,12 @@ SAX	= "countries/Saxony.txt"
 SCY = "countries/Scythia.txt"
 TAM = "countries/Taman.txt"
 
+#Levant
+
+#Mesopotamia
+LAK = "countries/Lakhmidia.txt"
+PAP	= "countries/Papal.txt"
+
 #East Africa
 MSY = "countries/Mosyllum.txt"
 IRA = "countries/Raphta.txt"

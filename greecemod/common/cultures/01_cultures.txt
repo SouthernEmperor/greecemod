@@ -59,6 +59,7 @@ mustarib = {
 celtic = {
 
 		celtiberian = {
+			primary = GAL
 		}
 
 }
@@ -66,7 +67,7 @@ celtic = {
 semitic = {
 
 		tartessian = {
-		
+			primary = TRS
 		}
 		
 		phoenician = {
@@ -80,7 +81,14 @@ semitic = {
 		hebrew = {
 		}
 		
-		syrian = {
+		syriac = {
+			primary = SYR
+		}
+		
+		arabic = {
+			dynasty_names = {
+				"Saud" "Rasulid" "Tahiride" "Jabrid" "al-Qasimi" "Qasimid"
+				"Nabhani" "Yaruba" "al-Said" "Usfurid" "Jarwanid" "Hashim"
 		}
 }
 
@@ -101,6 +109,7 @@ iranian = {
 		}
 		
 		persian = {
+			primary = PER
 		}
 		
 		parthian = {

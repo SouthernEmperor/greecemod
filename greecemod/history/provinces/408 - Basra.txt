@@ -1,0 +1,26 @@
+#408 - Basra
+
+owner = LAK
+controller = LAK
+culture = babylonian
+religion = catholic
+capital = "Charax"
+trade_goods = salt
+hre = no
+base_tax = 3
+manpower = 5
+citysize = 5005
+add_core = LAK
+add_core = PAP
+fort1 = yes
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+
+1000.1.1 = {
+	add_permanent_province_modifier = {
+		name = euphrates_estuary_modifier
+		duration = -1
+	}
+}

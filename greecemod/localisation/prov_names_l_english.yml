@@ -406,9 +406,9 @@
  PROV405: "Tadmor"
  PROV406: "As Sahiliyah"
  PROV407: "Ar Raqqa"
- PROV408: "Basra"
- PROV409: "Hillah"
- PROV410: "Babylon" #done
+ PROV408: "Characene" #done
+ PROV409: "Babylon" #done
+ PROV410: "Ctesiphon" #done
  PROV411: "Mosul"
  PROV412: "Khuzestan"
  PROV413: "Lorestan"
@@ -2308,8 +2308,8 @@
  PROV2308: "Cizre"
  PROV2309: "Sinjar"
  PROV2310: "Tikrit"
- PROV2311: "Samawah"
- PROV2312: "Wasit"
+ PROV2311: "Lakhmidia" #done
+ PROV2312: "Mesene" #done
  PROV2313: "Antioch"
  PROV2314: "Rahba"
  PROV2315: "Suez"
