@@ -2,6 +2,7 @@
 owner = SAX
 controller = SAX
 add_core = SAX
+add_core = MRC
 culture = thuringii
 religion = catholic
 base_tax = 3

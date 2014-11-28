@@ -1,0 +1,21 @@
+#266 - Bohemia
+
+owner = MRC
+controller = MRC
+add_core = MRC
+capital = "Praha"
+culture = thuringii
+religion = catholic
+trade_goods = cloth  
+hre = no
+base_tax = 13
+manpower = 7
+citysize = 55000
+fort1 = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+university = yes 	# University of Emperor Charles IV
+marketplace = yes 
+temple = yes

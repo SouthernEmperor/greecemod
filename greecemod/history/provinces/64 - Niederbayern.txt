@@ -1,18 +1,17 @@
-#61 - Saxony
+#64 - Niederbayern
 
-owner = SAX
-controller = SAX
+owner = MRC
+controller = MRC
+add_core = MRC
 culture = thuringii
 religion = catholic
-capital = "Meissen"
-trade_goods = iron
-hre = no
 base_tax = 6
-manpower = 2
-citysize = 3500
+trade_goods = grain
+manpower = 1
 fort1 = yes
-add_core = SAX
-add_core = MRC
+capital	= "Landshut" 
+citysize = 5000
+hre = no
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

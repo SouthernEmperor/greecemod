@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = frisian
+religion = catholic
+technology_group = western
+capital = 100	# Groningen
+
+
+1399.1.1 = {
+	monarch = {
+		name = "Fryske frijheid"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

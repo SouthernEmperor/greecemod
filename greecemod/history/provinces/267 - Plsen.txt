@@ -1,0 +1,18 @@
+#267 - Plsen
+
+owner = MRC
+controller = MRC
+add_core = MRC
+capital = "Plzen"
+culture = thuringii
+religion = catholic
+trade_goods = naval_supplies
+hre = no
+base_tax = 3
+manpower = 1
+citysize = 5000
+fort1 = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

@@ -1,6 +1,6 @@
 government = despotic_monarchy
 mercantilism = 0.1
-primary_culture = Angle
+primary_culture = angle
 religion = catholic
 technology_group = western
 historical_rival = FRI

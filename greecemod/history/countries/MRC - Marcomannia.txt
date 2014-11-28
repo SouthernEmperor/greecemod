@@ -1,0 +1,18 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = thuringii
+religion = catholic
+technology_group = western
+capital = 266 #Bohemia
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Ballomar VI"
+		dynasty = "Marcomanni"
+		birth_date = 1400.6.05		
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}

@@ -8,14 +8,14 @@ capital = 1872 #Ulm
 
 1423.7.3 = {
 	Monarch = {
-		name = "Aelfred"
-		monarch_name = "Aelfred V"
-		dynasty = "of Kiel"
+		name = "Gibuld"
+		monarch_name = "Gibuld III"
+		dynasty = "Alamanni"
 		birth_date = 1423.7.3
 		death_date = 1483.8.30
 		claim = 95
-		adm = 2
-		dip = 1
-		mil = 3
+		adm = 4
+		dip = 3
+		mil = 4
 	}
 }
