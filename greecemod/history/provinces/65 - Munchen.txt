@@ -1,0 +1,17 @@
+# 65 - München
+owner = ALL
+controller = ALL
+add_core = ALL
+culture = alemanni
+religion = catholic
+base_tax = 14
+trade_goods = grain
+manpower = 3
+fort1  = yes
+capital = "München"
+citysize = 13500
+hre = no
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

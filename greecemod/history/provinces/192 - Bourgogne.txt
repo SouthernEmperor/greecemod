@@ -1,0 +1,21 @@
+# 192 Bourgogne - Principal cities: Dijon
+
+owner = ALL
+controller = ALL 
+capital = "Dijon"
+citysize = 12000
+culture = burgundian
+religion = catholic
+hre = no
+base_tax = 8
+trade_goods = wine
+manpower = 7
+add_core = ALL
+courthouse = yes # Organised jurisprudence with the Dukes of Burgundy
+fort1 = yes
+marketplace = yes
+temple = yes # Cathedral of Dijon & the Abbey of Cluny
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

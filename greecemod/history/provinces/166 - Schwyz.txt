@@ -1,0 +1,18 @@
+#166 - Schwyz
+
+owner = ALL
+controller = ALL
+culture = alemanni
+religion = catholic
+capital = "Schwyz"
+trade_goods = iron
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 3900
+fort1 = yes
+add_core = ALL
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

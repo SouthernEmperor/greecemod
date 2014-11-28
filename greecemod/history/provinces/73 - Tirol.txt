@@ -1,0 +1,19 @@
+#73 - Tirol
+
+owner = ALL
+controller = ALL
+add_core = ALL
+culture = roman
+religion = catholic
+base_tax = 8
+trade_goods = gold
+manpower = 2
+fort1 = yes
+capital = "Innsbruck" 
+citysize = 20000	# Schwaz alone had around 20k inhabitants (mining)
+hre = no
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+marketplace = yes

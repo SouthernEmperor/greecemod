@@ -50,6 +50,8 @@ FRK	= "countries/Frankreich.txt"
 ANG	= "countries/Angleland.txt"
 FRI	= "countries/Frisia.txt"
 SAX	= "countries/Saxony.txt"
+ALL 	= "countries/Allemannia.txt"
+LOM 	= "countries/Lombardia.txt"
 
 #Steppes
 SCY = "countries/Scythia.txt"

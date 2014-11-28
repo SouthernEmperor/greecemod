@@ -1,17 +1,17 @@
-# 98 Utrecht - Principal cities: Utrecht
+#68 - Schwaben
 
-owner = FRI
-controller = FRI 
-capital = "Utrecht"
-citysize = 15500
-culture = frisian
+owner = ALL
+controller = ALL
+add_core = ALL
+culture = alemanni
 religion = catholic
 hre = no
-base_tax = 7
+base_tax = 6
 trade_goods = cloth
 manpower = 3
-add_core = FRI
 fort1 = yes
+capital = "Memmingen" 
+citysize = 21000
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -1,0 +1,19 @@
+#72 - Breisgau
+
+owner = ALL
+controller = ALL
+add_core = ALL
+culture = alemanni
+religion = catholic
+base_tax = 4
+trade_goods = grain 
+manpower = 1
+fort1 = yes
+capital = "Freiburg" 
+citysize = 7000
+marketplace = yes
+hre = no
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

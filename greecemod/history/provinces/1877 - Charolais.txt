@@ -1,0 +1,16 @@
+owner = ALL
+controller = ALL 
+capital = "Charolles"
+citysize = 3500
+culture = burgundian
+religion = catholic
+hre = no
+base_tax = 3
+trade_goods = salt
+manpower = 2
+add_core = ALL
+fort1 = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

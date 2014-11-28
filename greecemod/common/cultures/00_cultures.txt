@@ -24,10 +24,10 @@ west_germanic = {
 	}
 
 	jute = {
-		primary = JUT #Jutland hasn't been created
+		primary = ANG
 	}
 	lombard = {
-		primary = LOM #Lombardia hasn't been created
+		primary = LOM 
 	}
 	thuringii = {
 		primary = MRC
@@ -37,6 +37,7 @@ west_germanic = {
 	}
 	alemanni =  {
 		primary = ALL
+	}
 }
 
 north_germanic = {
