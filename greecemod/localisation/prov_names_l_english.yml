@@ -404,16 +404,16 @@
  PROV403: "Nizwa"
  PROV404: "Liwa"
  PROV405: "Tadmor"
- PROV406: "As Sahiliyah"
+ PROV406: "Euphrates" #done
  PROV407: "Ar Raqqa"
  PROV408: "Characene" #done
  PROV409: "Babylon" #done
  PROV410: "Ctesiphon" #done
- PROV411: "Mosul"
- PROV412: "Khuzestan"
- PROV413: "Lorestan"
+ PROV411: "Nineveh" #done
+ PROV412: "Huja" #done
+ PROV413: "Shushtar" #done
  PROV414: "Ecbatana" #done
- PROV415: "Shahrizor"
+ PROV415: "Garamaea" #done
  PROV416: "Tabriz"
  PROV417: "Gilan"
  PROV418: "Diyarbakir"
@@ -2305,9 +2305,9 @@
  PROV2305: "Erzincan"
  PROV2306: "Mush"
  PROV2307: "Van"
- PROV2308: "Cizre"
- PROV2309: "Sinjar"
- PROV2310: "Tikrit"
+ PROV2308: "Arbaye" #done
+ PROV2309: "Ashur" #done
+ PROV2310: "Samarra" #done
  PROV2311: "Lakhmidia" #done
  PROV2312: "Mesene" #done
  PROV2313: "Antioch"

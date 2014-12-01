@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = syriac
+religion = catholic
+technology_group = ottoman
+capital = 2309
+
+1444.1.1 = {
+	monarch = {
+		name = "Sargon II"
+		dynasty = "Tiglath"
+		birth_date = 1409.11.15
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}

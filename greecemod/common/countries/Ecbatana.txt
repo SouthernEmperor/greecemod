@@ -2,17 +2,17 @@
 
 graphical_culture = muslimgfx
 
-color = { 211  220  178 }
+color = { 246 223 15 }
 
 historical_idea_groups = {
-	administrative_ideas
-	diplomatic_ideas
-	defensive_ideas
+	innovativeness_ideas
 	religious_ideas
-	trade_ideas
+	quantity_ideas
 	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
 	economic_ideas
-	maritime_ideas
+	spy_ideas
 }
 
 historical_units = {
@@ -36,54 +36,42 @@ historical_units = {
 }
 
 monarch_names = {
-	"Chaleb #6" = 160
-	"Iakobos #6" = 140
-	"Petros #1" = 120
-	"Avraam #11" = 80
-	"Paulos #1" = 80
-	"Adam #5" = 60
-	"Beniamin #12" = 40
-	"Loukas #9" = 40
-	"Zacharios #6" = 40
-	"Zaboulon #3" = 40
-	"Iosias #1" = 40
-	"Barak #8" = 20
-	"Hannas #5" = 20
-	"Markos #4" = 20
-	"Nathanael #4" = 20
-	"Isaak #3" = 20
-	"Enoch #2" = 20
-	"Matthaios #1" = 20
-	"Ionas #22" = 15
-	"Samouel #5" = 15
-	"Gabriel #4" = 10
-	"Euthymius #2" = 10
-	"Jehoshua #1" = 5
-	"Muhammad #0" = 1
-	"Lando #0" = 1
-	"Iudas #0" = 1
-	"Abbas #0" = 0
-	"Babak #0" = 0
-	"Daryush #0" = 0
-	"Esmail #0" = 0
-	"Eskandar #0" = 0
-	"Ebrahim #0" = 0
-	"Faruq #0" = 0
-	"Firuz #0" = 0
-	"Heydar #0" = 0
-	"Jamshid #0" = 0
-	"Mehrdad #0" = 0
-	"Navid #0" = 0
-	"Parviz #0" = 0
-	"Reza #0" = 0
-	"Rostam #0" = 0
-	"Scipione #0" = 0
-	"Sivash #0" = 0
-	"Vahid #0" = 0
+	"Abbas #0" = 10
+	"Bail #1" = 10		
+	"Dariush #1" = 10
+	"Ebrahim #0" = 10
+	"Eskandar #0" = 10
+	"Esmail #0" = 10
+	"Faruq #0" = 10
+	"Firuz #0" = 10
+	"Harun #0" = 10
+	"Kambiz #2" = 10
+	"Khrosrow #2" = 10
+	"Jamshid #2" = 10
+	"Kaveh #0" = 10
+	"Khwaja #0" = 10
+	"Mahdi #0" = 10
+	"Muhammad #0" = 10
+	"Navid #0" = 10
+	"Parviz #0" = 10
+	"Reza #0" = 10
+	"Sargon #2" = 10
+	"Xerxes #0" = 10
+	"Vahid #0" = 10
+	"Younes #1" = 10
+	"Yousef #1" = 10
 	
-	"Yasmin #0" = -1
-	"Leia #0" = -1
-	"Roxana #0" = -1
+	"Arian #0" = -10
+	"Astar #0" = -10
+	"Ava #0" = -10
+	"Banu #0" = -10
+	"Laleh #0" = -10
+	"Leia #1" = -30
+	"Leila #1" = -30
+	"Mina #0" = -10
+	"Roxana #5" = -30
+	"Sara #4" = -30
+	"Yasmin #2" = -30
 }
 
 leader_names = {
@@ -96,12 +84,16 @@ leader_names = {
 	Charmchi
 	Fereidoun
 	Govad
+	Gilgamesh
+	Jahan
+	Jahangir
 	Haurvatat
 	Nairiosangha
 	Ormazd
 	Rachn
 	Rostami
 	Saroch
+	Sassani
 	Sohrab
 	Tahmuras
 	Tamatarkhan
@@ -173,8 +165,4 @@ ship_names = {
 	Theia
 	Themis
 	Zeus
-}
-
-army_names = {
-	"Iera Stratou $PROVINCE$"
 }

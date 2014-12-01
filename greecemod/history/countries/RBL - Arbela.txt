@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = babylonian
+religion = catholic
+technology_group = ottoman
+capital = 411
+
+1444.1.1 = {
+	monarch = {
+		name = "Dariush II"
+		dynasty = "Jahangir"
+		birth_date = 1415.7.18
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}

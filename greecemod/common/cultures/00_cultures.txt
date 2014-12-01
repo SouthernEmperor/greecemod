@@ -491,6 +491,7 @@ iranian = {
 		}
 		
 		babylonian = {
+			primary = BAB
 		}
 		
 		persian = {

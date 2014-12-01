@@ -1,17 +1,16 @@
-#2311 - Samawah
+#406 - As Sahiliyah
 
-owner = LAK
-controller = LAK
-culture = arabic
+owner = ASY
+controller = ASY
+culture = syriac
 religion = catholic
-capital = "al-Hilla"
+capital = "Dura-Europos"
 trade_goods = wool
 hre = no
-base_tax = 3
+base_tax = 2
 manpower = 2
-citysize = 1540
-add_core = LAK
-add_core = PAP
+citysize = 2544
+add_core = ASY
 fort1 = yes
 discovered_by = muslim
 discovered_by = ottoman

@@ -1,0 +1,18 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = medean
+religion = catholic
+technology_group = ottoman
+capital = 414
+
+1444.1.1 = {
+	monarch = {
+		name = "Roxana V"
+		dynasty = "Jahangir"
+		birth_date = 1419.5.20
+		adm = 3
+		dip = 1
+		mil = 2
+		female = yes
+	}
+}

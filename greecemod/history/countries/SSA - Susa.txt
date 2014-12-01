@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = babylonian
+religion = catholic
+technology_group = ottoman
+capital = 2209
+
+1444.1.1 = {
+	monarch = {
+		name = "Eskandar IV"
+		dynasty = "Yasmini"
+		birth_date = 1395.2.4
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}

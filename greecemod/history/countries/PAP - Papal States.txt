@@ -15,7 +15,7 @@ fixed_capital = 409  # Cannot move capital away from this province & no power co
 
 1444.1.1 = {
 	monarch = {
-		name = "Euthymius II"
+		name = "Jehoshua I"
 		birth_date = 1375.12.25
 		adm = 3
 		dip = 4

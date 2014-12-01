@@ -1,0 +1,181 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 204 153 204 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	ottoman_yaya
+	ottoman_musellem
+	ottoman_azab
+	ottoman_timariot
+	ottoman_janissary
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Eitan #0" = 10
+	"Amos #0" = 10
+	"Zekharyah #0" = 10
+	"Yehoshua #0" = 10
+	"Gabriel #0" = 10
+	"Avner #0" = 10
+	"Barak #0" = 10
+	"Aram #0" = 10
+	"Ashur #0" = 10
+	"Daniyyel #0" = 10
+	"Bail #0" = 10
+	"Bardeen #0" = 10
+	"Ezra #0" = 10
+	"Dawid #0" = 10
+	"Boaz #0" = 10
+	"Hiram #0" = 10
+	"Hoshea #0" = 10
+	"Aharon #0" = 10
+	"Melech #0" = 10
+	"Yoel #0" = 10
+	"Mikhah #0" = 10
+	"Mikhal #0" = 10
+	"Natan #0" = 10
+	"Noah #0" = 10
+	"Nimrod #0" = 10
+	"Nasirpal #0" = 10
+	"Shelomah #0" = 10
+	"Pinchas #0" = 10
+	"Yaakov #0" = 10
+	"Immanuel #0" = 10
+	"Yitzhak #0" = 10
+	"Raphael #0" = 10
+	"Yedidyah #0" = 10
+	"Sharo #0" = 10
+	"Sargon #2" = 10
+	"Yared #0" = 10
+	"Yonah #0" = 10
+	"Yosef #0" = 10
+	
+	"Ester #0" = -2
+	"Ishtar #0" = -2
+	"Eilina #0" = -2
+	"Adorina #0" = -2
+	"Leah #0" = -2
+	"Naomi #0" = -2
+	"Sarah #0" = -2
+	"Lolita #0" = -2
+	"Martha #0" = -2
+	"Marina #0" = -2
+	"Nardina #0" = -2
+	"Sarai #0" = -2
+	"Shamura #0" = -2
+	"Rivqah #0" = -2
+	"Yiskah #0" = -2
+	"Yudith #0" = -2
+}
+
+leader_names = {
+	Ashurbanipal
+	Shalmaneser
+	Tiglath
+	Pileser
+	Shamshi
+	Esarhaddon
+	Sennacherib
+	Nergal
+	Ushezib
+	Belibni
+	Nineveh
+	Salomon
+	Amsel
+	Moshe
+	Dayan
+	Rabin
+	Begin
+}
+
+ship_names = {
+	Aither
+	Ananke
+	Aphrodite
+	Apollon
+	Ares
+	Aretmis
+	Asteria
+	Astraios
+	Athena
+	Atlas
+	Aura
+	Chaos
+	Chronos
+	Clymene
+	Demeter
+	Dione
+	Dionysos
+	Eos
+	Epimetheus
+	Erebos
+	Eros
+	Eurybia
+	Eurynome
+	Gaia
+	Hades
+	Helios
+	Hephaistos
+	Hera
+	Hermera
+	Hermes
+	Hestia
+	Hyperion
+	Hypnos
+	Iapetos
+	Koios
+	Kreios
+	Lelantos
+	Leto
+	Menoitios
+	Metis
+	Mnemosyne
+	Nesoi
+	Nyx
+	Oceanos
+	Ophion
+	Ouranos
+	Ourea
+	Pallas
+	Perses
+	Phanes
+	Phoibe
+	Pontus
+	Poseidon
+	Prometheus
+	Rhea
+	Selene
+	Styx
+	Tartarus
+	Tethys
+	Thalassa
+	Thanatos
+	Theia
+	Themis
+	Zeus
+}
