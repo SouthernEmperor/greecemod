@@ -1,0 +1,21 @@
+#any other things here
+
+l_english:
+ feudal_monarchy_vassal_christian: "Satrapy"
+ despotic_monarchy_vassal_christian: "Satrapy"
+ absolute_monarchy_vassal_christian: "Satrapy"
+ administrative_monarchy_vassal_christian: "Satrapy"
+ constitutional_monarchy_vassal_christian: "Satrapy"
+ enlightened_despotism_vassal_christian: "Satrapy"
+ feudal_monarchy_ruler_vassal_christian: "Satrap"
+ despotic_monarchy_ruler_vassal_christian: "Satrap"
+ administrative_monarchy_ruler_vassal_christian: "Satrap"
+ absolute_monarchy_ruler_vassal_christian: "Satrap"
+ constitutional_monarchy_ruler_vassal_christian: "Satrap"
+ enlightened_despotism_ruler_vassal_christian: "Satrap"
+ feudal_monarchy_ruler_female_vassal_christian: "Satrapess"
+ despotic_monarchy_ruler_female_vassal_christian: "Satrapess"
+ administrative_monarchy_ruler_female_vassal_christian: "Satrapess"
+ absolute_monarchy_ruler_female_vassal_christian: "Satrapess"
+ constitutional_monarchy_ruler_female_vassal_christian: "Satrapess"
+ enlightened_despotism_ruler_female_vassal_christian: "Satrapess"

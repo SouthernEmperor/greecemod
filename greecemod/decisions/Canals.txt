@@ -1,0 +1,179 @@
+country_decisions = {
+
+	construct_kiel_canal = {
+		major = yes
+		potential = {
+			OR = {
+				ai = no
+				AND = {
+					treasury = 50000
+					owns = 1775
+				}
+			}
+			has_discovered = 1775
+			1775 = {
+				range = ROOT
+				NOT = { has_great_project = kiel_canal }
+				NOT = { has_construction = canal }
+			}
+			adm_tech = 20
+		}
+		allow = {
+			owns = 1775
+			adm_tech = 26
+			treasury = 20000
+		}
+		effect = {
+			add_treasury = -20000
+			1775 = {	# Holstein
+				add_great_project = kiel_canal
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	construct_suez_canal = {
+		major = yes
+		potential = {
+			OR = {
+				ai = no
+				AND = {
+					treasury = 50000
+					owns = 363
+				}
+			}
+			has_discovered = 363
+			363 = {
+				range = ROOT
+				NOT = { has_great_project = suez_canal }
+				NOT = { has_construction = canal }
+			}
+			adm_tech = 20
+		}
+		allow = {
+			owns = 363
+			owns = 365
+			adm_tech = 26
+			treasury = 20000
+		}
+		effect = {
+			add_treasury = -20000
+			363 = {	# Dumyat
+				add_great_project = suez_canal
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	construct_panama_canal = {
+		major = yes
+		potential = {
+			is_random_new_world = no
+			OR = {
+				ai = no
+				AND = {
+					treasury = 50000
+					owns = 835
+				}
+			}
+			has_discovered = 835
+			835 = {
+				range = ROOT
+				NOT = { has_great_project = panama_canal }
+				NOT = { has_construction = canal }
+			}
+			adm_tech = 20
+		}
+		allow = {
+			owns = 835
+			adm_tech = 26
+			treasury = 20000
+		}
+		effect = {
+			add_treasury = -20000
+			835 = {	# Panama
+				add_great_project = panama_canal
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	cancel_kiel_canal = {
+		major = yes
+		potential = {
+			ai = no
+			owns = 1775
+			1775 = {
+				has_construction = canal
+			}
+		}
+		allow = {
+			1775 = {
+				has_construction = canal
+			}
+		}
+		effect = {
+			1775 = {	# Holstein
+				cancel_construction = yes
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	cancel_suez_canal = {
+		major = yes
+		potential = {
+			ai = no
+			owns = 363
+			363 = {
+				has_construction = canal
+			}
+		}
+		allow = {
+			363 = {
+				has_construction = canal
+			}
+		}
+		effect = {
+			363 = {	# Diamientia
+				cancel_construction = yes
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	cancel_panama_canal = {
+		major = yes
+		potential = {
+			ai = no
+			owns = 835
+			835 = {
+				has_construction = canal
+			}
+		}
+		allow = {
+			835 = {
+				has_construction = canal
+			}
+		}
+		effect = {
+			835 = {	# Panama
+				cancel_construction = yes
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+}
