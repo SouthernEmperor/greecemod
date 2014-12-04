@@ -367,8 +367,8 @@ hellenistic = {
 
 caucasian = {
 	graphical_culture = easterngfx
-	georgian = {
-		primary = GEO
+	kartuli = {
+		primary = SKR
 		dynasty_names = { 
 			Bagrationi Mukhrani
 		}

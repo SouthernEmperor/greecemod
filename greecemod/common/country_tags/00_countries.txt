@@ -52,8 +52,9 @@ ALL = "countries/Allemannia.txt"
 LOM = "countries/Lombardia.txt"
 MRC	= "countries/Marcomannia.txt"
 
-#Steppes
+#Caucasian region
 SCY = "countries/Scythia.txt"
+SKR = "countries/Sakartvelo.txt"
 TAM = "countries/Taman.txt"
 
 #Levant

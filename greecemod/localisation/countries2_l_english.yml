@@ -91,6 +91,8 @@ l_english:
  ROM_ADJ: "Roman"
  SCY: "Scythia"
  SCY_ADJ: "Scythian"
+ SKR: "Sakartvelo"
+ SKR_ADJ: "Kartuli"
  TAM: "Taman"
  TAM_ADJ: "Tamanic"
  SPA: "Hispania"
