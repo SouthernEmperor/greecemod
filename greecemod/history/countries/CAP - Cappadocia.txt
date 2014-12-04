@@ -14,12 +14,15 @@ capital = 2301
 		dip = 3
 		mil = 4
 	}
+}
 	
+1444.1.1 = {
 	heir = {
 		name = "Spyro"
 		monarch_name = "Spyro I"
 		dynasty = "Agnes"
 		birth_date = 1438.11.9
+		claim = 72
 		adm = 0
 		dip = 1
 		mil = 0

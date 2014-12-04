@@ -1,0 +1,137 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 82 130 129 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	humanist_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	ottoman_yaya
+	ottoman_musellem
+	ottoman_azab
+	ottoman_timariot
+	ottoman_janissary
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Eitan #0" = 10
+	"Amos #0" = 10
+	"Zekharyah #2" = 10
+	"Yehoshua #0" = 10
+	"Gabriel #1" = 10
+	"Avner #0" = 10
+	"Barak #0" = 10
+	"Aram #0" = 10
+	"Ashur #0" = 10
+	"Daniyyel #2" = 10
+	"Bail #0" = 10
+	"Bardeen #0" = 10
+	"Ezra #0" = 10
+	"Dawid #0" = 10
+	"Boaz #0" = 10
+	"Hiram #0" = 10
+	"Hoshea #0" = 10
+	"Aharon #0" = 10
+	"Melech #0" = 10
+	"Yoel #0" = 10
+	"Mikhah #0" = 10
+	"Mikhal #0" = 10
+	"Natan #1" = 10
+	"Noah #0" = 10
+	"Nimrod #2" = 10
+	"Nasirpal #1" = 10
+	"Shelomah #0" = 10
+	"Pinchas #0" = 10
+	"Yaakov #0" = 10
+	"Immanuel #3" = 10
+	"Yitzhak #3" = 10
+	"Raphael #1" = 10
+	"Yedidyah #0" = 10
+	"Sharo #0" = 10
+	"Sargon #0" = 10
+	"Yared #0" = 10
+	"Yonah #0" = 10
+	"Yosef #2" = 10
+	
+	"Ester #0" = -5
+	"Ishtar #1" = -20
+	"Eilina #0" = -5
+	"Adorina #0" = -5
+	"Leah #0" = -5
+	"Naomi #1" = -20
+	"Sarah #0" = -5
+	"Lolita #0" = -5
+	"Martha #0" = -5
+	"Marina #0" = -5
+	"Nardina #0" = -5
+	"Sarai #0" = -5
+	"Shamura #0" = -5
+	"Rivqah #0" = -5
+	"Yiskah #0" = -5
+	"Yudith #0" = -5
+	"Zenobia #4" = -20
+}
+
+leader_names = {
+	Adad
+	Ahiram
+	Allat
+	Ebla
+	Hadda
+	Hattusa
+	Idrimi
+	Odaenathus
+	Pygmalion
+	Salomon
+	Ugarit
+	Vaballath
+}
+
+ship_names = {
+	Anat
+	Athirat
+	Athtart
+	Attar
+	Baalat
+	Ba'al
+	Dagon
+	Eshmun
+	Ishat
+	Kotharat
+	Lotan
+	Marqod
+	Melqart
+	Molech
+	Mot
+	Qadeshtu
+	Resheph
+	Shachar
+	Shalim
+	Shamayim
+	Shapash
+	Sydyk
+	Yam
+	Yarikh
+}

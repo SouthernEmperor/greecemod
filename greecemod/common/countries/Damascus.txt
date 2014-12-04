@@ -2,17 +2,17 @@
 
 graphical_culture = muslimgfx
 
-color = { 204 153 204 }
+color = { 227 223 45 }
 
 historical_idea_groups = {
-	religious_ideas
 	defensive_ideas
-	offensive_ideas
+	quality_ideas
 	trade_ideas
-	innovativeness_ideas
 	economic_ideas
-	spy_ideas
 	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
 }
 
 historical_units = {
@@ -66,11 +66,11 @@ monarch_names = {
 	"Pinchas #0" = 10
 	"Yaakov #0" = 10
 	"Immanuel #0" = 10
-	"Yitzhak #0" = 10
+	"Yitzhak #1" = 10
 	"Raphael #0" = 10
 	"Yedidyah #0" = 10
 	"Sharo #0" = 10
-	"Sargon #2" = 10
+	"Sargon #0" = 10
 	"Yared #0" = 10
 	"Yonah #0" = 10
 	"Yosef #0" = 10
@@ -91,86 +91,47 @@ monarch_names = {
 	"Rivqah #0" = -2
 	"Yiskah #0" = -2
 	"Yudith #0" = -2
+	"Zenobia #0" = -2
 }
 
 leader_names = {
-	Ashurbanipal
-	Shalmaneser
-	Tiglath
-	Pileser
-	Shamshi
-	Esarhaddon
-	Sennacherib
-	Nergal
-	Ushezib
-	Belibni
-	Nineveh
+	Adad
+	Ahiram
+	Allat
+	Ebla
+	Hadda
+	Hattusa
+	Idrimi
+	Odaenathus
+	Pygmalion
 	Salomon
+	Ugarit
+	Vaballath
 }
 
 ship_names = {
-	Aither
-	Ananke
-	Aphrodite
-	Apollon
-	Ares
-	Aretmis
-	Asteria
-	Astraios
-	Athena
-	Atlas
-	Aura
-	Chaos
-	Chronos
-	Clymene
-	Demeter
-	Dione
-	Dionysos
-	Eos
-	Epimetheus
-	Erebos
-	Eros
-	Eurybia
-	Eurynome
-	Gaia
-	Hades
-	Helios
-	Hephaistos
-	Hera
-	Hermera
-	Hermes
-	Hestia
-	Hyperion
-	Hypnos
-	Iapetos
-	Koios
-	Kreios
-	Lelantos
-	Leto
-	Menoitios
-	Metis
-	Mnemosyne
-	Nesoi
-	Nyx
-	Oceanos
-	Ophion
-	Ouranos
-	Ourea
-	Pallas
-	Perses
-	Phanes
-	Phoibe
-	Pontus
-	Poseidon
-	Prometheus
-	Rhea
-	Selene
-	Styx
-	Tartarus
-	Tethys
-	Thalassa
-	Thanatos
-	Theia
-	Themis
-	Zeus
+	Anat
+	Athirat
+	Athtart
+	Attar
+	Baalat
+	Ba'al
+	Dagon
+	Eshmun
+	Ishat
+	Kotharat
+	Lotan
+	Marqod
+	Melqart
+	Molech
+	Mot
+	Qadeshtu
+	Resheph
+	Shachar
+	Shalim
+	Shamayim
+	Shapash
+	Sydyk
+	Yam
+	Yarikh
 }

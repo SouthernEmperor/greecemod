@@ -56,14 +56,23 @@ MRC	= "countries/Marcomannia.txt"
 SCY = "countries/Scythia.txt"
 TAM = "countries/Taman.txt"
 
-#Fertile Crescent
+#Levant
+ANT = "countries/Antioch.txt"
+BYB = "countries/Byblos.txt"
+DMC = "countries/Damascus.txt"
+PLM = "countries/Palmyra.txt"
+TYR = "countries/Tyre.txt"
+
+#Mesopotamia
 ASY = "countries/Assyria.txt"
 BAB = "countries/Babylon.txt"
-ECB = "countries/Ecbatana.txt"
 LAK = "countries/Lakhmidia.txt"
 PAP	= "countries/Papal.txt"
 RBL = "countries/Arbela.txt"
 SSA = "countries/Susa.txt"
+
+#Persia
+ECB = "countries/Ecbatana.txt"
 
 #East Africa
 MSY = "countries/Mosyllum.txt"
@@ -121,7 +130,6 @@ IRE	= "countries/Ireland.txt"
 LAN	= "countries/Lancaster.txt"
 MNS = "countries/IRE_Munster.txt"
 SCO	= "countries/Scotland.txt"
-TYR = "countries/Tyrone.txt"
 WLS	= "countries/Wales.txt"
 YOR	= "countries/York.txt"
 NOL = "countries/Northumberland.txt"

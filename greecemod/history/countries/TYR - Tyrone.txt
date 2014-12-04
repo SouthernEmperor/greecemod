@@ -1,0 +1,16 @@
+government = merchant_republic
+mercantilism = 0.1
+primary_culture = phoenician
+religion = catholic
+technology_group = ottoman
+capital = 1855
+
+1444.1.1 = {
+	monarch = {
+		name = "Hoshea Vaballath"
+		birth_date = 1408.11.10
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}

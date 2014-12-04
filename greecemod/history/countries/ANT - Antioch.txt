@@ -1,0 +1,16 @@
+government = theocratic_government
+mercantilism = 0.1
+primary_culture = phoenician
+religion = catholic
+technology_group = ottoman
+capital = 2313
+
+1444.1.1 = {
+	monarch = {
+		name = "Melech I"
+		birth_date = 1388.11.15
+		adm = 5
+		dip = 2
+		mil = 5
+	}
+}

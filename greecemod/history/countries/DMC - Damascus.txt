@@ -1,0 +1,16 @@
+government = administrative_republic
+mercantilism = 0.1
+primary_culture = syriac
+religion = catholic
+technology_group = ottoman
+capital = 382
+
+1444.1.1 = {
+	monarch = {
+		name = "Yitzhak Idrimi"
+		birth_date = 1375.2.19
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

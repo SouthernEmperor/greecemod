@@ -375,12 +375,12 @@
  PROV374: "Leinster"
  PROV375: "Munster"
  PROV376: "Connaught"
- PROV377: "Aleppo"
- PROV378: "Tarabulus"
+ PROV377: "Aleppo" #done
+ PROV378: "Byblos" #done
  PROV379: "Jerusalem"
  PROV380: "Al Karak"
  PROV381: "Ajlun"
- PROV382: "Damascus"
+ PROV382: "Damascus" #done
  PROV383: "Tabuk"
  PROV384: "Medina"
  PROV385: "Mecca"
@@ -403,9 +403,9 @@
  PROV402: "Mahra"
  PROV403: "Nizwa"
  PROV404: "Liwa"
- PROV405: "Tadmor"
+ PROV405: "Palmyra" #done
  PROV406: "Euphrates" #done
- PROV407: "Ar Raqqa"
+ PROV407: "Zenobia" #done
  PROV408: "Characene" #done
  PROV409: "Babylon" #done
  PROV410: "Ctesiphon" #done
@@ -1847,13 +1847,13 @@
  PROV1846: "Daximonitis" #done
  PROV1847: "Shiribeshi"
  PROV1848: "Pisidia" #done
- PROV1849: "Hama"
+ PROV1849: "Hamath" #done
  PROV1850: "Yaran"
  PROV1851: "Coimbra"
  PROV1852: "Tokachi"
  PROV1853: "Monastir"
  PROV1854: "Nablus"
- PROV1855: "Sidon"
+ PROV1855: "Tyre" #done
  PROV1856: "Abkhazia"
  PROV1857: "Lauenburg"
  PROV1858: "Stettin"
@@ -2311,7 +2311,7 @@
  PROV2311: "Lakhmidia" #done
  PROV2312: "Mesene" #done
  PROV2313: "Antioch"
- PROV2314: "Rahba"
+ PROV2314: "Gazerto" #done
  PROV2315: "Suez"
  PROV2316: "Al Gharbia"
  PROV2317: "Minya"
