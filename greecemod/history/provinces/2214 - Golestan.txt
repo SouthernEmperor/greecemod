@@ -1,0 +1,20 @@
+#2214 - Golestan
+
+owner = PRT
+controller = PRT
+culture = parthian
+religion = catholic
+capital = "Asatarabad"
+trade_goods = tea
+hre = no
+base_tax = 2
+manpower = 3
+citysize = 8530
+add_core = PER
+add_core = PRT
+add_core = HYR
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+discovered_by = indian
+fort1 = yes

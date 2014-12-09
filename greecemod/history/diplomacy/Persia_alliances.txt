@@ -1,0 +1,22 @@
+# Persia/Parthia
+vassal = {
+	first = PER
+	second = PRT
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}
+
+# Persia/Hyrcania
+vassal = {
+	first = PER
+	second = HYR
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}
+
+alliance = {
+	first = PER
+	second = HYR
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}

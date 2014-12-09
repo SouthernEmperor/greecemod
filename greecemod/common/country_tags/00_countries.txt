@@ -75,6 +75,10 @@ SSA = "countries/Susa.txt"
 #Persia
 ECB = "countries/Ecbatana.txt"
 
+HYR = "countries/Hyrcania.txt"
+PER = "countries/Persia.txt"
+PRT = "countries/Parthia.txt"
+
 #East Africa
 MSY = "countries/Mosyllum.txt"
 IRA = "countries/Raphta.txt"
@@ -331,7 +335,6 @@ BUK = "countries/Bukhara.txt"
 AFG	= "countries/Afghanistan.txt"
 KHO	= "countries/Khorasan.txt"
 JAI	= "countries/Jalayirid.txt"
-PER	= "countries/Persia.txt"
 QAR	= "countries/QaraKoyunlu.txt"
 TIM	= "countries/Timurid.txt"
 

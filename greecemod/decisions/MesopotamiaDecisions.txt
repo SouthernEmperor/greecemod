@@ -1,0 +1,26 @@
+country_decisions = {
+	form_babylon = {
+		major = yes
+		potential = {
+			NOT = { exists = BAB }
+			NOT = { tag = PAP }
+			NOT = { tag = ASY }
+			owns = 409
+		}
+		allow = {
+			is_subject = no
+			is_at_war = no
+			is_core = 409
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 50
+			change_tag = BAB
+			BAB = {
+				set_capital = 409 #Babylon
+			}
+		}
+}

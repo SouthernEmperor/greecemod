@@ -280,10 +280,6 @@
   "culturalimperialism_desc": "Everyone wants our culture - from the farthest reaches\
     \ of Africa to Europe and Asia, they all clamor for our knowledge. They are thus\
     \ more willing to concede to us."
-  "eu4cd_convert_provinces_event_desc": "Our glorious nation of $COUNTRY$ follows\
-    \ the One True Faith of $COUNTRY_RELIGION$."
-  "eu4cd_convert_provinces_event_option": "Excellent"
-  "eu4cd_convert_provinces_event_title": "The One True Faith"
   "fullmetal": "Full Metal Alchemy"
   "fullmetal_desc": "Many scientists mull over our alchemic traditions every night,\
     \ leading us to greater efficiency in researching bureaucratic ideals."
@@ -304,10 +300,54 @@
     \ them, nothing would run."
   "cannonsofmosyllum": "Mosyllite Cannons"
   "cannonsofmosyllum_desc": "The Cannons of Mosyllum are legendary."
-  "eu4cd_convert_provinces_event_desc": "Our glorious nation of $COUNTRY$ follows\
-    \ the One True Faith of $COUNTRY_RELIGION$."
-  "eu4cd_convert_provinces_event_option": "Excellent"
-  "eu4cd_convert_provinces_event_title": "The One True Faith"
+  "BAB_ideas": "Babylon Ideas"
+  "BAB_ideas_bonus": "Babylonian Ambitions"
+  "BAB_ideas_start": "Babylonian Traditions"
+  "an_eye_for_an_eye": "An Eye for an Eye"
+  "an_eye_for_an_eye_desc": "It doesn't make the whole world blind, as some would\
+    \ say. The great Babylonian ruler Hammurabi codified the first known code of laws,\
+    \ some 1800 years before the birth of Christ, and as we know, it worked. Now that\
+    \ we've established ourselves as the true heirs to Babylon, we could take the\
+    \ opportunity and completely update our legal code too, using Hammurabi's as as\
+    \ a template, and form a new model for all our people."
+  "babylon_zoo": "Babylon Zoo"
+  "babylon_zoo_desc": "Our goal is simple: we must reach space, where we were always\
+    \ wanted to go. This quest, and its pungent smells, shall consummate our homes.\
+    \ Beyond the black horizons, things we don't even know about yet are trying to\
+    \ take control. See, our women are even shivering in their bones. There's a fire\
+    \ between us; where is our God?"
+  "ishtars_gate": "Ishtar's Gate"
+  "ishtars_gate_desc": "One of the landmarks of Babylon of old was the grand Ishtar's\
+    \ Gate, an ornate blue and gold wall. We could re-erect this grand monument that\
+    \ once brought the respect of millions to the centre of the world, and win back\
+    \ Ishtar's favours for our empire. And though most of us no longer believe in\
+    \ Ishtar, we know that the spirits of the old empires of Babylon, all of them,\
+    \ will remain will us forever."
+  "nebuchadnezzars_legacy": "Legacy of Nebuchadnezzar II"
+  "nebuchadnezzars_legacy_desc": "Even though the Bible labels him a tyrant overcome\
+    \ by his own pride, and later his insanity, our historians have managed to disprove\
+    \ this, naturally! We can claim ourselves as the descendants of the great king\
+    \ who erected the Ishtar Gate, and, well, all mankind shall behold us in awe."
+  "neosumerian_architecture": "Neosumerian Architecture"
+  "neosumerian_architecture_desc": "Older than Muhammad or Christ, older than Alexander\
+    \ or Plato, older than Arbela, older than Rome, older than Babylon itself - Sumer\
+    \ was the very kindling of civilization itself, and their legends of Gilgamesh\
+    \ and Enkidu and Humbaba and Ishtar manage to survive, through some long sequence\
+    \ of miracles. Improve our cities with the grand ziggurats they've left behind\
+    \ - we could do this. Then who was king? Who was not king?"
+  "the_hanging_gardens": "The Hanging Gardens"
+  "the_hanging_gardens_desc": "A group of craftsmen from Arbela has come to our court\
+    \ and offered to rebuild the Hanging Gardens of old. You simply rebuff your advisor's\
+    \ comments that the gardens were most likely, in fact, in Nineveh. To rebuild\
+    \ a wonder of the ancient world itself, here in most glorious Babylon - imagine\
+    \ the benefits this could reap!"
+  "tower_of_babel": "The Tower of Babel"
+  "tower_of_babel_desc": "Now, with modern construction technology, we shall finish\
+    \ what the ancients started all those aeons ago, but could never finish. And it\
+    \ shall mark the fact our empire is a grand one at the very centre of the world,\
+    \ binding together peoples of all tongues, faiths, stripes, and walks of life."
+  "form_babylon_title": "Form Babylon"
+  "form_babylon_desc": "The ancient jewel of the world is now under our control. Is the time right to restore that grand empire under our rule? I say yes.
   "indrev": "Industrial Revolution"
   "indrev_desc": "The Industrial Revolution of Puntland takes place on a different\
     \ scale, focusing more on communications. It's odd."

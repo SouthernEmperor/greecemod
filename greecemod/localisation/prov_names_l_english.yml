@@ -426,12 +426,12 @@
  PROV425: "Dagestan"
  PROV426: "Hyrcania" #done
  PROV427: "Qumis"
- PROV428: "Rey"
- PROV429: "Isfahan"
- PROV430: "Bushehr"
+ PROV428: "Rhagae" #done
+ PROV429: "Aspahan" #done
+ PROV430: "Persis" #done
  PROV431: "Hormoz"
  PROV432: "Kerman"
- PROV433: "Yazd"
+ PROV433: "Yazd" #done
  PROV434: "Quhistan"
  PROV435: "Zaranj"
  PROV436: "Birjand"
@@ -2209,18 +2209,18 @@
  PROV2209: "Elam" #done
  PROV2210: "Kirmanshah"
  PROV2211: "Ardalan"
- PROV2212: "Zanjan"
- PROV2213: "Markazi"
- PROV2214: "Golestan"
- PROV2215: "Qazvin"
- PROV2216: "Semnan"
- PROV2217: "Yasuj"
- PROV2218: "Sarvestan"
- PROV2219: "Bandar Langeh"
+ PROV2212: "Zanjan" #done
+ PROV2213: "Markazi" #done
+ PROV2214: "Zadracarta" #done
+ PROV2215: "Shahpur" #done
+ PROV2216: "Saddarvazeh" #done
+ PROV2217: "Yasuj" #done
+ PROV2218: "Persepolis" #done
+ PROV2219: "Sibah" #done
  PROV2220: "Bam"
  PROV2221: "Mashhad"
- PROV2222: "Ardakan"
- PROV2223: "Larestan"
+ PROV2222: "Ardakan" #done
+ PROV2223: "Larestan" #done
  PROV2224: "Ferah"
  PROV2225: "Bamyan"
  PROV2226: "Jalalabad"
@@ -2233,7 +2233,7 @@
  PROV2233: "Chabahar"
  PROV2234: "Rafsanjan"
  PROV2235: "Sabzevar"
- PROV2236: "Bojnord"
+ PROV2236: "Nisa" #done
  PROV2237: "Tekrur"
  PROV2238: "Kantor"
  PROV2239: "Siine"

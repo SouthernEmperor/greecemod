@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = parthian
+religion = catholic
+technology_group = ottoman
+capital = 426
+
+1444.1.1 = {
+	monarch = {
+		name = "Esmail II"
+		dynasty = "Ahriman"
+		birth_date = 1420.2.6
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+}

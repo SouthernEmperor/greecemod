@@ -499,16 +499,13 @@ iranian = {
 		}
 		
 		parthian = {
+			primary = PRT
 		}
 		
 		medean = {
 		}
 		
 		gedrosian = {
-		}
-		
-		persian = {
-			primary = PER
 		}
 		khorasani = {
 			primary = KHO

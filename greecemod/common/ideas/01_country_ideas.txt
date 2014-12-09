@@ -1,3 +1,42 @@
+BAB_ideas = {
+    start = {
+        global_tax_modifier = 0.1
+        prestige_decay = -0.02
+    }
+    bonus = {
+        reduced_stab_impacts = yes
+    }
+    trigger = {
+        tag = BAB
+    }
+    free = yes
+    an_eye_for_an_eye = {
+        stability_cost_modifier = -0.1
+    }
+    tower_of_babel = {
+        accepted_culture_threshold = -0.2
+        no_religion_penalty = yes
+    }
+    the_hanging_gardens = {
+        merchant_steering_to_inland = 20
+    }
+    neosumerian_architecture = {
+        vassal_income = 0.2
+    }
+    ishtars_gate = {
+        defensiveness = 0.2
+    }
+    nebuchadnezzars_legacy = {
+        core_creation = -0.15
+    }
+    babylon_zoo = {
+        adm_tech_cost_modifier = -0.1
+        dip_tech_cost_modifier = -0.1
+        mil_tech_cost_modifier = -0.1
+    }
+}
+
+
 pilgrim_ideas = {
     start = {
         global_missionary_strength = 0.05
