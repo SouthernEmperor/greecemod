@@ -430,11 +430,11 @@
  PROV429: "Aspahan" #done
  PROV430: "Persis" #done
  PROV431: "Hormoz"
- PROV432: "Kerman"
+ PROV432: "Carmania" #done
  PROV433: "Yazd" #done
  PROV434: "Quhistan"
  PROV435: "Zaranj"
- PROV436: "Birjand"
+ PROV436: "Birjand" #done
  PROV437: "Kopet Dag"
  PROV438: "Karakum"
  PROV439: "Mangyshlak"
@@ -2203,8 +2203,8 @@
  PROV2203: "Kahketi"
  PROV2204: "Samtskhe"
  PROV2205: "Nakhchivan"
- PROV2206: "Urmia"
- PROV2207: "Maragheh"
+ PROV2206: "Urmia" #done
+ PROV2207: "Maragheh" #done
  PROV2208: "Terek"
  PROV2209: "Elam" #done
  PROV2210: "Kirmanshah"
@@ -2217,8 +2217,8 @@
  PROV2217: "Yasuj" #done
  PROV2218: "Persepolis" #done
  PROV2219: "Sibah" #done
- PROV2220: "Bam"
- PROV2221: "Mashhad"
+ PROV2220: "Bam" #done
+ PROV2221: "Nishapur" #done
  PROV2222: "Ardakan" #done
  PROV2223: "Larestan" #done
  PROV2224: "Ferah"
@@ -2231,8 +2231,8 @@
  PROV2231: "Bela"
  PROV2232: "Kharan"
  PROV2233: "Chabahar"
- PROV2234: "Rafsanjan"
- PROV2235: "Sabzevar"
+ PROV2234: "Rafsanjan" #done
+ PROV2235: "Beihagh" #done
  PROV2236: "Nisa" #done
  PROV2237: "Tekrur"
  PROV2238: "Kantor"

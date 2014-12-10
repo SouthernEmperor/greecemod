@@ -1,0 +1,16 @@
+government = theocratic_government
+mercantilism = 0.1
+primary_culture = persian
+religion = catholic
+technology_group = ottoman
+capital = 2206
+
+1444.1.1 = {
+	monarch = {
+		name = "Navid Saroch"
+		birth_date = 1371.3.31
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}

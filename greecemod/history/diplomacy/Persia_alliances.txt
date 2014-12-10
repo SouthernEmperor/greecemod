@@ -6,6 +6,13 @@ vassal = {
 	end_date = 1821.1.1
 }
 
+alliance = {
+	first = PER
+	second = PRT
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}
+
 # Persia/Hyrcania
 vassal = {
 	first = PER
@@ -17,6 +24,36 @@ vassal = {
 alliance = {
 	first = PER
 	second = HYR
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}
+
+# Persia/Carmania
+vassal = {
+	first = PER
+	second = CRM
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}
+
+alliance = {
+	first = PER
+	second = CRM
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}
+
+# Persia/Drangiana
+vassal = {
+	first = PER
+	second = DRN
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}
+
+alliance = {
+	first = PER
+	second = DRN
 	start_date = 1444.1.1
 	end_date = 1821.1.1
 }
