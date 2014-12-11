@@ -1,0 +1,16 @@
+government = merchant_republic
+mercantilism = 0.1
+primary_culture = persian
+religion = catholic
+technology_group = ottoman
+capital = 431
+
+1444.1.1 = {
+	monarch = {
+		name = "Bail Organa"
+		birth_date = 1400.1.1
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+}

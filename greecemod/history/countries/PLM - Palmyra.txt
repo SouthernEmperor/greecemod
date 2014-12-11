@@ -22,9 +22,11 @@ capital = 405
 		monarch_name = "Zenobia V"
 		dynasty = "Vaballath"
 		birth_date = 1433.4.20
+		death_date = 1500.1.1
 		claim = 95
 		adm = 3
 		dip = 5
 		mil = 4
+		female = yes
 	}
 }
