@@ -1,6 +1,6 @@
 government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = anatolian
-religion = hellenic_pagan
+religion = imperial_hellenic
 technology_group = western
 capital = 2301

@@ -1,7 +1,7 @@
 #2790 - Sanaag
 
 culture = somali
-religion = sunni
+religion = ashari
 capital = "Maydh"
 trade_goods = unknown
 citysize = 2000

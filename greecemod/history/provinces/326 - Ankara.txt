@@ -3,7 +3,7 @@
 owner = PHR
 controller = PHR
 culture = anatolian
-religion = hellenic_pagan
+religion = imperial_hellenic
 capital = "Gordium"
 trade_goods = copper
 hre = yes

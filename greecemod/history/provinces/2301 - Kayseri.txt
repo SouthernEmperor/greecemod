@@ -3,7 +3,7 @@
 owner = CAP
 controller = CAP
 culture = anatolian
-religion = sunni
+religion = ashari
 capital = "Eusebia"
 trade_goods = iron
 hre = no

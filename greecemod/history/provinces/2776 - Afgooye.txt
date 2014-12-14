@@ -1,7 +1,7 @@
 #2776 - Afgooye
 
 culture = somali
-religion = sunni
+religion = ashari
 capital = "Afgooye"
 trade_goods = unknown
 citysize = 3500

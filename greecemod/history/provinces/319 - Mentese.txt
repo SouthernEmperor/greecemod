@@ -3,7 +3,7 @@
 owner = CAR
 controller = CAR
 culture = greek
-religion = hellenic_pagan
+religion = imperial_hellenic
 capital = "Halicarnassus"
 trade_goods = cloth
 hre = yes

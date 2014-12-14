@@ -3,7 +3,7 @@
 owner = EPI
 controller = EPI
 culture = greek
-religion = hellenic_pagan
+religion = imperial_hellenic
 capital = "Corfu"
 trade_goods = fish
 hre = yes

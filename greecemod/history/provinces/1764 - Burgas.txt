@@ -3,7 +3,7 @@
 owner = THR
 controller = THR
 culture = greek
-religion = hellenic_pagan
+religion = imperial_hellenic
 capital = "Burgas"
 trade_goods = grain
 hre = yes

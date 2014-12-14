@@ -3,7 +3,7 @@
 owner = CAP
 controller = CAP
 culture = anatolian
-religion = hellenic_pagan
+religion = imperial_hellenic
 capital = "Xanthos"
 trade_goods = cotton
 hre = no

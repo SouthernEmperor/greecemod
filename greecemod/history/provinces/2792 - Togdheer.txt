@@ -1,7 +1,7 @@
 #2792 - Togdheer
 
 culture = somali
-religion = sunni
+religion = ashari
 capital = "Togdheer"
 citysize = 2500
 manpower = 1

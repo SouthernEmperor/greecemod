@@ -1,16 +1,11 @@
+hellenic_religion = {
 
-pagan = {
-	norse_pagan = {
-		icon = 21
-		color = { 0.75 0.75 0.75 }
-		country = {
-			land_forcelimit_modifier = 0.10
-			naval_forcelimit_modifier = 0.10
-		}
+	center_of_religion = 146 #Athens
+
+	imperial_hellenic = {
 		
-		heretic = { OLD_NORSE }	
-	}
-	hellenic_pagan = {
+		hre_religion = yes
+		
 		icon = 26
 		color = { 0.65 0.3 0.1 }
 		country = {
@@ -18,25 +13,465 @@ pagan = {
 			tolerance_heretic = -1
 		}
 		
-		heretic = { GOAT_SKULL }
+		heretic = { IOVIAN PLUTONIAN NEPTUNIAN }		
 	}
 	
+	eastern_hellenic = {
+		
+		icon = 33
+		color = { 0.39 0.58 0.92 }
+		heretic = { HIMALAYAN PLATOCONFUCIAN }
+		country = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+	}
+	
+	neoplatonic = {
+		
+		icon = 34
+		color = { 0.29 0 0.51 }
+		hre_heretic_religion = yes
+		
+		heretic = { HERMETICIST SOL_INVICTUS }
+		country = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}		
+	}
+
 }
-jewish_group = {
+
+abrahamic_religion = {
+
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	center_of_religion = 379 #Jerusalem
+
+	catholic = {
+		color = { 0.8 0.8 0 }
+		icon = 1
+		country = {
+			tolerance_own = 1
+			tolerance_heretic = -1
+		}
+		
+		on_convert = {
+			change_religion = catholic
+			add_prestige = -100
+			
+			remove_country_modifier = the_test_act
+			remove_country_modifier = superintendent_office
+			remove_country_modifier = the_popery_act
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		
+		}
+		
+		heretic = { ARIAN NESTORIAN NASRANI GNOSTIC CHALCEDONIAN }
+		
+		papacy = {
+			papal_tag = PAP
+			election_cost = 5
+			seat_of_papacy = 409 #Babylon
+			
+			levy_church_tax = {
+				cost = 100
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+				}
+				effect = {
+					add_years_of_income = 0.25
+				}
+				ai_will_do = {
+					factor = 1
+				}				
+			}			
+			bless_monarch = {
+				cost = 40
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+					NOT = { prestige = 100 }
+				}
+				effect = {
+					add_prestige = 10
+				}
+				ai_will_do = {
+					factor = 1
+				}
+			}
+			indulgence_for_sins = {
+				cost = 60
+				potential = {
+					government = monarchy
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+					NOT = { legitimacy = 100 }
+				}
+				effect = {
+					add_legitimacy = 10
+				}
+				ai_will_do = {
+					factor = 1
+				}
+			}	
+			local_saint = {
+				cost = 100
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+					NOT = { stability = 3 }
+				}
+				effect = {
+					add_stability = 1
+				}
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 2
+						NOT = { stability = 0 }
+					}
+				}
+			}
+			forgiveness_for_usury = {
+				cost = 25
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+					NOT = { has_country_modifier = usury_forgiven }
+				}
+				effect = {
+					add_country_modifier = {
+						name = "usury_forgiven"
+						duration = 9125
+					}
+				}
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 0
+						NOT = { num_of_loans = 1 }
+					}
+				}
+			}			
+			proclaim_holy_war = {
+				cost = 40
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					is_at_war = yes
+					NOT = { war_with = PAP }
+				}
+				effect = {
+					add_yearly_manpower = 0.25
+				}
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 0
+						manpower_percentage = 0.5
+					}
+				}
+			}	
+			send_papal_legate = {
+				cost = 30
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+				}
+				effect = {
+					random_list = {
+						25 = { create_advisor = inquisitor }
+						25 = { create_advisor = theologian }
+						25 = { create_advisor = statesman }
+						25 = { create_advisor = diplomat }
+					}
+				}
+				ai_will_do = {
+					factor = 0
+				}
+			}	
+			sanction_commercial_monopoly = {
+				cost = 100
+				potential = {
+					NOT = { tag = PAP }
+				}
+				allow = {
+					NOT = { war_with = PAP }
+				}
+				effect = {
+					add_mercantilism = 0.01
+				}
+				ai_will_do = {
+					factor = 1
+					modifier = {
+						factor = 0
+						NOT = { has_idea_group = trade_ideas }
+					}
+				}
+			}			
+		}
+	}
+	
+	ashari = {
+		
+		color = { 0 0.6 0 }
+		icon = 5
+		country = {
+			tolerance_own = 1
+			heir_chance = 1.0
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		
+		uses_piety = yes
+		
+		heretic = { ATHARITE MATURIDITE KHAWARIJITE }
+		
+	}
+	
+	mutazili = {
+	
+		color = { 0 0.6 0 }
+		icon = 16
+		country = {
+			tolerance_own = 1
+			heir_chance = 1.0
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		
+		uses_piety = yes
+		
+		heretic = { QARMATIAN ISHMAELITE ZAYDI KAYSANITE }
+	
+	}
+	
 	jewish = {
 		icon = 27
 		color = { 0.6 0.1 0.1 }
 		country = {
 			tolerance_own = 1
-			tolerance_heathens = -1
+			tolerance_heathen = -1
 		}
 		
 		heretic = { SAMARITAN KARAITE }
 	}
-}
-eastafrican = {
-	isaya = {
+	
+	covenant = {
+	
+		color = { 0.7 0.5 0.5 }
 		icon = 28
+		heretic = { DRUZE YAZIDI }
+	
+	}
+	
+	crusade_name = CRUSADE
+
+}
+
+european_religion = {
+	celtic_pagan = {
+		icon = 29
+		color = { 0.5 0.5 0.9 }
+		country = {
+			land_forcelimit_modifier = 0.10
+			naval_forcelimit_modifier = 0.10
+		}
+		heretic = { DRUIDIC }
+	}
+
+	norse_pagan = {
+		icon = 21
+		color = { 0.75 0.75 0.75 }
+		country = {
+			land_forcelimit_modifier = 0.10
+			naval_forcelimit_modifier = 0.10
+		}		
+		heretic = { LOKI }	
+	}
+	
+	germanic_pagan = {
+		icon = 29
+		color = { 0.7 0.7 0.4 }
+		country = {
+			land_forcelimit_modifier = 0.10
+			naval_forcelimit_modifier = 0.10
+		}
+		heretic = { WODENIST }
+	}
+	
+	baltic_pagan = {
+		color = { 0.6 0.4 0.3 }
+		icon = 18
+		country = {
+			land_forcelimit_modifier = 0.10
+			naval_forcelimit_modifier = 0.10
+		}
+		heretic = { VOLHV }
+	}
+	
+	finnish_pagan = {
+		color = { 0.5 0.5 0.0 }
+		icon = 19
+		country = {
+			land_forcelimit_modifier = 0.10
+			naval_forcelimit_modifier = 0.10
+		}
+		heretic = { PERKELE }
+	}
+}
+
+indo_seric_religion = {
+
+	hinduism = {
+		color = { 0 0.8 0.8 }
+		icon = 8
+		country = {
+			tolerance_heathen = -2
+			tolerance_heretic = 1
+			tolerance_own = 1
+		}
+		
+		personal_deity = yes	
+		heretic = { BHAKTI TEMPLE_OF_DOOM }
+	}
+	
+	yavana = {
+		color = { 0.8 0.3 0 }
+		icon = 7
+		country = {
+			tolerance_heathen = -2
+		}
+		
+		heretic = { NIRVANOPLATONIC }
+		on_convert = {
+			change_religion = yavana
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+	}
+	
+	sarvastivada = {
+		color = { 0.6 0.6 0.9 }
+		icon = 7
+		country = {
+			tolerance_heretic = 1
+			tolerance_heathen = -2
+		}
+		on_convert = {
+			change_religion = sarvastivada
+			add_prestige = -100
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		country = {
+			land_morale = 0.1
+			tolerance_heathen = -1
+			tolerance_heretic = -2
+		}		
+		heretic = { VAJRAYANA PUDGALAVADA }
+	}
+	
+	shenist = {
+		icon = 30
+		color = { 0.6 0.2 0.1 }
+		country = {
+			tolerance_heathen = -1
+			tolerance_heretic = -2
+		}
+	}
+	
+	shinto = {
+		color = { 0.8 0 0 }
+		icon = 10
+		country = {
+			tolerance_heathen = -1
+			tolerance_heretic = -2
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		
+		heretic = { SHUGENDO ZEN }
+	}
+	
+	shanzen = {
+		#theological Taoism
+		icon = 9
+		color = { 0.3 0.5 0.7 }
+		country = {
+			tolerance_heathen = 1
+			tolerance_heretic = -2
+		}	
+	}
+	
+	wuxing_bagua = {
+		#alchemical Taoism
+		icon = 9
+		color = { 0.8 0 0.9 }
+		country = {
+			land_morale = 0.1
+			tolerance_heathen = 1
+			tolerance_heretic = -2
+		}
+	}
+
+}
+
+iranian_religion = {
+
+	zoroastrian = {
+		icon = 25
+		color = { 0.5 0.7 0.2 }
+	}
+	heretic = { ZUNBIL }
+	
+	manichaeist = {
+		icon = 20
+		color = { 0.7 0.7 0.4 }
+	}
+	heretic = { CHRISTOMANICHAEIST }
+	
+	mithraic = {
+		icon = 31
+		color = { 0.9 1.0 0.0 }
+	}
+	heretic = { BUDDHOMITHRAIC ROMAN_MITHRAIC }
+
+}
+
+isaya = {
+	isaya = {
+		icon = 11
 		color = { 1.2 0.3 0.6 }
 		country = {
 			tolerance_own = 1
@@ -44,5 +479,31 @@ eastafrican = {
 		}
 		
 		heretic = { TERAPANTHA }
+	}
+	
+	exodite_islam = {
+		icon = 6
+		color = { 0.4 0.8 0.6 }
+		heretic = { EXODITE_JEWISH }
+	}
+}
+
+tengri = {
+	tengri = {
+		icon = 22
+		color = { 0.0 0.2 0.8 }
+		heretic = { ERLIK }
+		country = {
+			land_forcelimit_modifier = 0.10
+			cavalry_power = 0.1
+		}
+	}
+}
+
+west_african_pagan = {
+	west_african_pagan = {
+		icon = 17
+		color = { 0.8 0.35 0.0 }
+		heretic = { DARK_SPIRIT }
 	}
 }

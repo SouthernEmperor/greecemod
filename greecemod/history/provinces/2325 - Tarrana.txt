@@ -3,7 +3,7 @@
 owner = SPR
 controller = SPR
 culture = egyptian
-religion = sunni
+religion = ashari
 capital = "Marsa Matruh"
 trade_goods = fish
 hre = no

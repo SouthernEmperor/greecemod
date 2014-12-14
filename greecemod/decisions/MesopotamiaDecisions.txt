@@ -23,4 +23,5 @@ country_decisions = {
 				set_capital = 409 #Babylon
 			}
 		}
+	}
 }

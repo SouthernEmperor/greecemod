@@ -3,7 +3,7 @@
 owner = PON
 controller = PON
 culture = greek
-religion = hellenic_pagan
+religion = imperial_hellenic
 capital = "Trapezus"
 trade_goods = naval_supplies
 hre = yes

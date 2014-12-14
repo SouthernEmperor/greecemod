@@ -3,7 +3,7 @@
 owner = CAP
 controller = CAP
 culture = anatolian
-religion = sunni
+religion = ashari
 capital = "Olba"
 trade_goods = naval_supplies
 hre = no

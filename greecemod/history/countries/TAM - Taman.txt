@@ -1,7 +1,7 @@
 government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = tamanic
-religion = buddhism
+religion = zoroastrian
 technology_group = eastern
 capital = 2447
 

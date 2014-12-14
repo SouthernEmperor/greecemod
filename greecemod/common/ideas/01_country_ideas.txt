@@ -388,7 +388,7 @@ LES_ideas = {
         diplomatic_reputation = 1
     }
     no_lord_in_this_manor = {
-        republican_tradition = 0.010
+        republican_tradition = 0.005
     }
     cosmopolitan_lifestyle = {
         accepted_culture_threshold = -0.15
