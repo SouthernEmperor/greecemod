@@ -3,7 +3,7 @@
 owner = BIT
 controller = BIT
 culture = anatolian
-religion = imperial_hellenic
+religion = hellenic_pagan
 capital = "Sinope"
 trade_goods = naval_supplies
 hre = yes

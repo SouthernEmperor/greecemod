@@ -1,7 +1,7 @@
 government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = greek
-religion = imperial_hellenic
+religion = hellenic_pagan
 technology_group = western
 capital = 1773
 

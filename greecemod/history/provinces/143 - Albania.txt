@@ -3,7 +3,7 @@
 owner = EPI
 controller = EPI
 culture = greek
-religion = imperial_hellenic
+religion = hellenic_pagan
 capital = "Phoenice"
 trade_goods = wool
 hre = yes

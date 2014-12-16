@@ -3,7 +3,7 @@
 owner = SPR
 controller = SPR
 culture = greek
-religion = imperial_hellenic
+religion = hellenic_pagan
 capital = "Sparta"
 trade_goods = wine
 hre = yes

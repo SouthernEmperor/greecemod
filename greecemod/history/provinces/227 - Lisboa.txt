@@ -3,7 +3,7 @@
 owner = GAL
 controller = GAL
 culture = arab_iberian
-religion = ashari
+religion = sunni
 capital = "Lisboa"
 trade_goods = fish
 hre = no

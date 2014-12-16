@@ -3,7 +3,7 @@
 owner = SPQ
 controller = SPQ
 culture = roman
-religion = imperial_hellenic
+religion = hellenic_pagan
 hre = no 
 base_tax = 3
 trade_goods = fish

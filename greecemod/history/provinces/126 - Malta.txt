@@ -3,7 +3,7 @@
 owner = ATH
 controller = ATH
 culture = greek
-religion = imperial_hellenic 
+religion = hellenic_pagan 
 hre = yes
 base_tax = 3
 trade_goods = fish

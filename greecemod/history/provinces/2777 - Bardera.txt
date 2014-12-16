@@ -2,7 +2,7 @@
 
 
 culture = somali
-religion = ashari
+religion = sunni
 capital = "Baardheere"
 trade_goods = unknown
 citysize = 2000

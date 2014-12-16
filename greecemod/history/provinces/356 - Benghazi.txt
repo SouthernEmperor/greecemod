@@ -3,7 +3,7 @@
 owner = CRN
 controller = CRN
 culture = egyptian
-religion = ashari
+religion = sunni
 capital = "Benghazi"
 trade_goods = wool
 hre = no

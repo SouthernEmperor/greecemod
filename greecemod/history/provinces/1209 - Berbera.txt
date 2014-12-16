@@ -1,7 +1,7 @@
 #1209 - Berbera
 
 culture = somali
-religion = ashari
+religion = sunni
 capital = "Berbera"
 citysize = 7500
 manpower = 2

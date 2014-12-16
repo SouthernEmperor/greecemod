@@ -8,6 +8,6 @@ mercantilism = 0.1
 #quality_quantity = -1
 #serfdom_freesubjects = 2
 primary_culture = basque
-religion = ashari
+religion = sunni
 technology_group = muslim
 capital = 210	# Pamplona

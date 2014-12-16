@@ -3,7 +3,7 @@
 owner = SCY
 controller = SCY
 culture = scythian
-religion = yavana
+religion = buddhism
 hre = no
 base_tax = 3
 trade_goods = grain  

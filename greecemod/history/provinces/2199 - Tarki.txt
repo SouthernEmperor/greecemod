@@ -3,7 +3,7 @@
 owner = TAM
 controller = TAM
 culture = avar
-religion = yavana
+religion = buddhism
 capital = "Tarku"
 trade_goods = fish
 hre = no

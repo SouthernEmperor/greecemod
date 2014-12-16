@@ -3,7 +3,7 @@
 owner = LES
 controller = LES
 culture = greek
-religion = imperial_hellenic
+religion = hellenic_pagan
 capital = "Lesbos"
 trade_goods = wine
 hre = yes

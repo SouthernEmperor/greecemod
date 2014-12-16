@@ -14,4 +14,3 @@ panic_republic = {
 	diplomatic_reputation = 1
 	global_spy_defence = 0.10
 	global_autonomy = -0.5
-}

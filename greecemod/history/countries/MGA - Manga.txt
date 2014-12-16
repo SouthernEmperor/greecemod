@@ -11,6 +11,7 @@ technology_group = sub_saharan
 religion = animism
 primary_culture = kanuri
 capital = 2284 # Gatiga, Gazargamu
+}
 
 1444.1.1 = {
 	monarch = {

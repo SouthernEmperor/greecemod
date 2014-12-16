@@ -3,7 +3,7 @@
 owner = CAP
 controller = CAP
 culture = anatolian
-religion = imperial_hellenic
+religion = hellenic_pagan
 capital = "Ikonion"
 trade_goods = salt
 hre = no

@@ -2,7 +2,7 @@ government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = hispanic
 add_accepted_culture = arab_iberian
-religion = ashari
+religion = sunni
 technology_group = muslim
 capital = 213
 

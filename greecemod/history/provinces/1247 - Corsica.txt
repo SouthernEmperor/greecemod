@@ -3,7 +3,7 @@
 owner = ITA
 controller = ITA
 culture = roman
-religion = ashari
+religion = sunni
 capital = "Bastia"
 hre = no
 base_tax = 3

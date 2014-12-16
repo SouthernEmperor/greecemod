@@ -3,7 +3,7 @@
 owner = ITA
 controller = ITA
 culture = arab_latin
-religion = ashari
+religion = sunni
 hre = no
 base_tax = 7
 trade_goods = cloth

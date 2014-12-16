@@ -3,7 +3,7 @@
 owner = LES
 controller = LES
 culture = greek
-religion = imperial_hellenic
+religion = hellenic_pagan
 capital = "Pergamon"
 trade_goods = salt #Major Ottoman Salt Work
 hre = yes

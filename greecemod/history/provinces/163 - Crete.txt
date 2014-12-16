@@ -3,7 +3,7 @@
 owner = ATH
 controller = ATH
 culture = greek
-religion = imperial_hellenic
+religion = hellenic_pagan
 capital = "Knossos"
 trade_goods = fish
 hre = yes

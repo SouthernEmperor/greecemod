@@ -7,7 +7,7 @@ historical_rival = FRK
 capital = 1872 #Ulm
 
 1423.7.3 = {
-	monarch = {
+	Monarch = {
 		name = "Gibuld"
 		monarch_name = "Gibuld III"
 		dynasty = "Alamanni"

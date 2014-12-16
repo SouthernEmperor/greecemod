@@ -3,7 +3,7 @@
 owner = TAM
 controller = TAM
 culture = tamanic
-religion = imperial_hellenic
+religion = hellenic_pagan
 capital = "Matrega"
 trade_goods = grain
 hre = no

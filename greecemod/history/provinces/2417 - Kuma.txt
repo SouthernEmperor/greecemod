@@ -3,7 +3,7 @@
 owner = TAM
 controller = TAM
 culture = savir
-religion = yavana
+religion = buddhism
 hre = no
 base_tax = 2
 trade_goods = iron 

@@ -3,7 +3,7 @@
 owner = MAC
 controller = MAC
 culture = greek
-religion = imperial_hellenic
+religion = hellenic_pagan
 capital = "Sofia"
 trade_goods = copper
 hre = yes

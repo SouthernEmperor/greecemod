@@ -3,7 +3,7 @@
 owner = PHR
 controller = PHR
 culture = anatolian
-religion = imperial_hellenic
+religion = hellenic_pagan
 capital = "Küthaya"
 trade_goods = cloth
 hre = yes

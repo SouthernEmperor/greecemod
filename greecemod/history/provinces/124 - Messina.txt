@@ -3,7 +3,7 @@
 owner = SRC
 controller = SRC
 culture = greek
-religion = imperial_hellenic 
+religion = hellenic_pagan 
 hre = yes
 base_tax = 6
 trade_goods = fish
