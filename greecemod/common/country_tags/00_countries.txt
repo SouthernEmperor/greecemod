@@ -74,8 +74,8 @@ SSA = "countries/Susa.txt"
 
 #Persia
 ECB = "countries/Ecbatana.txt"
+ORG = "countries/Organa.txt"
 RAT = "countries/Ararat.txt"
-
 PER = "countries/Persia.txt"
 CRM = "countries/Carmania.txt"
 DRN = "countries/Drangiana.txt"
