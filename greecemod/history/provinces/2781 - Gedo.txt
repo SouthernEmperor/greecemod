@@ -1,7 +1,7 @@
 #2781 - Gedo
 
 culture = somali
-religion = sunni
+religion = ashari
 capital = "Luuq"
 trade_goods = unknown
 citysize = 1500

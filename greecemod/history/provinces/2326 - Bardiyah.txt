@@ -3,7 +3,7 @@
 owner = SPR
 controller = SPR
 culture = egyptian
-religion = sunni
+religion = ashari
 capital = "Bardiyah"
 trade_goods = wool
 hre = no

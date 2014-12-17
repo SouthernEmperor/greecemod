@@ -3,7 +3,7 @@
 owner = TMK
 controller = TMK
 culture = tauric
-religion = hellenic_pagan
+religion = imperial_hellenic
 hre = yes
 base_tax = 3
 trade_goods = wine

@@ -3,7 +3,7 @@
 owner = LAR
 controller = LAR
 culture = greek
-religion = hellenic_pagan
+religion = imperial_hellenic
 capital = "Larissa"
 trade_goods = grain
 hre = yes

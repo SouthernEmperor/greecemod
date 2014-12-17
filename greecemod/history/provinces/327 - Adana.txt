@@ -3,7 +3,7 @@
 owner = CAP
 controller = CAP
 culture = anatolian
-religion = sunni
+religion = ashari
 capital = "Tarsos"
 trade_goods = fish
 hre = no

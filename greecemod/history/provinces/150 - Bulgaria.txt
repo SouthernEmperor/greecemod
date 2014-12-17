@@ -3,7 +3,7 @@
 owner = THR
 controller = THR
 culture = greek
-religion = buddhism
+religion = yavana
 capital = "Serdica"
 trade_goods = iron
 hre = yes

@@ -20,24 +20,24 @@ hellenic_religion = {
 		
 		icon = 33
 		color = { 0.39 0.58 0.92 }
+		heretic = { HIMALAYAN PLATOCONFUCIAN }
 		country = {
 			tolerance_own = 1
 			tolerance_heretic = -1
 		}
-		heretic = { HIMALAYAN PLATOCONFUCIAN }
 	}
 	
 	neoplatonic = {
 		
-		hre_heretic_religion = yes
-		
 		icon = 34
 		color = { 0.29 0 0.51 }
+		hre_heretic_religion = yes
+		
+		heretic = { HERMETICIST SOL_INVICTUS }
 		country = {
 			tolerance_own = 1
 			tolerance_heretic = -1
-		}
-		heretic = { HERMETICIST SOL_INVICTUS }		
+		}		
 	}
 
 }
@@ -48,7 +48,7 @@ abrahamic_religion = {
 	can_form_personal_unions = yes
 
 	center_of_religion = 379 #Jerusalem
-	
+
 	catholic = {
 		color = { 0.8 0.8 0 }
 		icon = 1
@@ -275,11 +275,6 @@ abrahamic_religion = {
 			tolerance_own = 1
 			tolerance_heathen = -1
 		}
-		province = {
-			local_missionary_strength = -0.10
-		}
-		
-		has_patriarchs = yes
 		
 		heretic = { SAMARITAN KARAITE }
 	}
@@ -288,14 +283,7 @@ abrahamic_religion = {
 	
 		color = { 0.7 0.5 0.5 }
 		icon = 28
-		country = {
-			tolerance_own = 1
-			tolerance_heretic = 1
-			tolerance_heathen = -1
-		}
 		heretic = { DRUZE YAZIDI }
-		
-		misguided_heretic = yes
 	
 	}
 	
@@ -358,8 +346,8 @@ european_religion = {
 indo_seric_religion = {
 
 	hinduism = {
-		icon = 8
 		color = { 0 0.8 0.8 }
+		icon = 8
 		country = {
 			tolerance_heathen = -2
 			tolerance_heretic = 1
@@ -371,12 +359,13 @@ indo_seric_religion = {
 	}
 	
 	yavana = {
-		icon = 7
 		color = { 0.8 0.3 0 }
+		icon = 7
 		country = {
 			tolerance_heathen = -2
 		}
 		
+		heretic = { NIRVANOPLATONIC }
 		on_convert = {
 			change_religion = yavana
 			add_prestige = -100
@@ -386,12 +375,11 @@ indo_seric_religion = {
 				duration = 3650
 			}
 		}
-		heretic = { NIRVANOPLATONIC }
 	}
 	
 	sarvastivada = {
-		icon = 7
 		color = { 0.6 0.6 0.9 }
+		icon = 7
 		country = {
 			tolerance_heretic = 1
 			tolerance_heathen = -2
@@ -407,7 +395,7 @@ indo_seric_religion = {
 		}
 		country = {
 			land_morale = 0.1
-			tolerance_heathen = 1
+			tolerance_heathen = -1
 			tolerance_heretic = -2
 		}		
 		heretic = { VAJRAYANA PUDGALAVADA }
@@ -417,15 +405,14 @@ indo_seric_religion = {
 		icon = 30
 		color = { 0.6 0.2 0.1 }
 		country = {
-			tolerance_heathen = 1
+			tolerance_heathen = -1
 			tolerance_heretic = -2
 		}
-		heretic = { OLD_YUE }
 	}
 	
 	shinto = {
-		icon = 10
 		color = { 0.8 0 0 }
+		icon = 10
 		country = {
 			tolerance_heathen = -1
 			tolerance_heretic = -2
@@ -444,8 +431,7 @@ indo_seric_religion = {
 		country = {
 			tolerance_heathen = 1
 			tolerance_heretic = -2
-		}
-		heretic = { OLD_SHANZEN }
+		}	
 	}
 	
 	wuxing_bagua = {
@@ -457,7 +443,6 @@ indo_seric_religion = {
 			tolerance_heathen = 1
 			tolerance_heretic = -2
 		}
-		heretic = { OLD_WUXING }
 	}
 
 }
@@ -467,38 +452,27 @@ iranian_religion = {
 	zoroastrian = {
 		icon = 25
 		color = { 0.5 0.7 0.2 }
-		country = {
-			tolerance_heretics = -2
-			heir_chance = 0.50
-			cavalry_power = 0.10
-		}
-		heretic = { ZUNBIL }
 	}
+	heretic = { ZUNBIL }
 	
-	manichaean = {
+	manichaeist = {
 		icon = 20
 		color = { 0.7 0.7 0.4 }
-		country = {
-			tolerance_heretics = -2
-		}
-		heretic = { CHRISTOMANICHAEIST }
 	}
+	heretic = { CHRISTOMANICHAEIST }
 	
 	mithraic = {
 		icon = 31
 		color = { 0.9 1.0 0.0 }
-		country = {
-			tolerance_heretics = -2
-		}
-		heretic = { BUDDHOMITHRAIC ROMAN_MITHRAIC }
 	}
+	heretic = { BUDDHOMITHRAIC ROMAN_MITHRAIC }
+
 }
 
-
-eastafrican = {
+isaya = {
 	isaya = {
-		icon = 28
-		color = { 1 0.3 0.6 }
+		icon = 11
+		color = { 1.2 0.3 0.6 }
 		country = {
 			tolerance_own = 1
 			tolerance_heathens = -1
@@ -510,10 +484,6 @@ eastafrican = {
 	exodite_islam = {
 		icon = 6
 		color = { 0.4 0.8 0.6 }
-		country = {
-			tolerance_own = 1
-			tolerance_heathens = -1
-		}
 		heretic = { EXODITE_JEWISH }
 	}
 }
@@ -525,7 +495,7 @@ tengri = {
 		heretic = { ERLIK }
 		country = {
 			land_forcelimit_modifier = 0.10
-			cavalry_power = 0.2
+			cavalry_power = 0.1
 		}
 	}
 }
@@ -534,10 +504,6 @@ west_african_pagan = {
 	west_african_pagan = {
 		icon = 17
 		color = { 0.8 0.35 0.0 }
-		country = {
-			tolerance_own = 1
-			tolerance_heathens = -1
-		}		
 		heretic = { DARK_SPIRIT }
 	}
 }

@@ -1,7 +1,7 @@
 #1208 - Degehabur
 
 culture = somali
-religion = sunni
+religion = ashari
 capital = "Degehabur"
 citysize = 3500
 manpower = 1

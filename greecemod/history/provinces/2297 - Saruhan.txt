@@ -3,7 +3,7 @@
 owner = LYD
 controller = LYD
 culture = anatolian
-religion = hellenic_pagan
+religion = imperial_hellenic
 capital = "Sardis"
 trade_goods = cotton
 hre = yes

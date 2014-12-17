@@ -3,7 +3,7 @@
 owner = ATH
 controller = ATH
 culture = greek
-religion = sunni
+religion = ashari
 capital = "Nicosia"
 trade_goods = wine
 hre = yes

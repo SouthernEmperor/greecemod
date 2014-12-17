@@ -3,7 +3,7 @@
 owner = GAL
 controller = GAL
 culture = celtiberian
-religion = sunni
+religion = ashari
 capital = "Bragança"
 trade_goods = wine
 hre = no

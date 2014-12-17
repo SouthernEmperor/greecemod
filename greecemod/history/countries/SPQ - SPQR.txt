@@ -1,7 +1,7 @@
 government = oligarchic_republic
 mercantilism = 0.1
 primary_culture = roman
-religion = hellenic_pagan
+religion = imperial_hellenic
 technology_group = eastern
 historical_rival = ITA
 capital = 118 #Rome

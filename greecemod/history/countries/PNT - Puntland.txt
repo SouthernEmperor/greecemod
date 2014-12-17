@@ -1,7 +1,7 @@
 government = merchant_republic
 mercantilism = 0.1
 primary_culture = helleno_somali
-religion = hellenic_pagan
+religion = imperial_hellenic
 technology_group = muslim
 capital = 2786
 

@@ -3,7 +3,7 @@ x#324 - Karaman
 owner = CAP
 controller = CAP
 culture = anatolian
-religion = hellenic_pagan
+religion = imperial_hellenic
 capital = "Derbe"
 trade_goods = wool
 hre = no

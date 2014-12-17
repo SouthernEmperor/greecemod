@@ -1,7 +1,7 @@
 government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = angle
-religion = catholic
+religion = germanic_pagan
 technology_group = western
 historical_rival = FRI
 capital = 1775 # Holstein

@@ -3,7 +3,7 @@
 owner = CRN
 controller = CRN
 culture = greek
-religion = hellenic_pagan
+religion = imperial_hellenic
 capital = "Corinth"
 trade_goods = wine
 hre = yes

@@ -3,7 +3,7 @@
 owner = LUS
 controller = LUS
 culture = arab_iberian
-religion = sunni
+religion = ashari
 capital = "Évora"
 trade_goods = fish
 hre = no

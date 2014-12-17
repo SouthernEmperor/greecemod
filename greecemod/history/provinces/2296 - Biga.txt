@@ -3,7 +3,7 @@
 owner = TRO
 controller = TRO
 culture = greek
-religion = hellenic_pagan
+religion = imperial_hellenic
 capital = "Troy"
 trade_goods = naval_supplies
 hre = yes

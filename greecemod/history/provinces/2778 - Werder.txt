@@ -2,7 +2,7 @@
 
 
 culture = somali
-religion = sunni
+religion = ashari
 capital = "Wardheer"
 trade_goods = unknown
 citysize = 1000
