@@ -19,8 +19,10 @@ SPQ = "countries/SPQR.txt"
 PIL = "countries/Pilgrims.txt"
 
 #North Africa
+ALG = "countries/Zenada.txt"
 FZA = "countries/Fezzan.txt" #recycled from vanilla
 GHD = "countries/Ghadames.txt" #recycled from vanilla
+MOR = "countries/Mauretania.txt"
 MZB = "countries/Mzab.txt" #recycled from vanilla
 NUM = "countries/Numidia.txt"
 QRT = "countries/Carthage.txt"
@@ -321,17 +323,9 @@ MEN	= "countries/Mentese.txt"
 RAM	= "countries/Ramazan.txt"
 	
 #Maghreb
-ALG	= "countries/Algiers.txt"
-FEZ	= "countries/Fez.txt"
 MAM	= "countries/Burgi.txt"
-MOR	= "countries/Morocco.txt"
 TRP	= "countries/Tripoli.txt"
-TUN	= "countries/Tunisia.txt"
 EGY = "countries/Egypt.txt"
-KBA = "countries/Kabylia.txt"
-TFL = "countries/Tafilalt.txt"
-SOS = "countries/Sus.txt"
-TLC = "countries/Tlemcen.txt"
 
 #Central Asia
 KZH	= "countries/Kazakh.txt"

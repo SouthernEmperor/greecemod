@@ -1,18 +1,17 @@
-# - Dahra
+# - Abda
 
-owner = QRT
-controller = QRT
-culture = zenadi
+owner = MOR
+controller = MOR
+culture = mauretanian
 religion = ashari
-capital = "Kartenna"
+capital = "Abda"
 trade_goods = grain
 hre = no
-base_tax = 3
-manpower = 2
+base_tax = 2
+manpower = 1
 citysize = 5000
 fort1 = yes
-add_core = QRT
-add_core = ALG
+add_core = MOR
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western

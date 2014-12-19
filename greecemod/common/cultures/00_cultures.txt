@@ -456,24 +456,6 @@ turko_semitic	= {
 
 maghrebi = {
 	graphical_culture = muslimgfx
-	moroccan = {
-		primary = MOR
-		dynasty_names = {
-			"Marinid" "Saadi" "al-Shabani" "Alaouite"
-		}
-	}
-	tunisian = {
-		primary = TUN
-		dynasty_names = {
-			"Hafsid" "Karamanli" "Muradid" "Husainid" "Banu Muhammad"
-		}
-	}
-	algerian = {
-		primary = ALG
-		dynasty_names = {
-			"Beni Djellab" "Ouled Nail" "Ouled Sidi Cheikh" "Banu Rashid"
-		}
-	}
 	berber = {
 		primary = TLC
 		dynasty_names = {
@@ -481,12 +463,22 @@ maghrebi = {
 		}
 	}
 	mauretanian = {		
+		primary = MOR
 		dynasty_names = {
 			"Marinid" "Saadi" "al-Shabani" "Alaouite"	
 		}
 	}
 	numidian = {
 		primary = NUM
+		dynasty_names = {
+			"Hafsid" "Karamanli" "Muradid" "Husainid" "banu Muhammad"
+		}
+	}
+	zenadi = {
+		primary = ALG
+		dynasty_names = {
+			"banu Ifran" "banu Hilal" "banu Sulaym" "banu Hebib"
+		}
 	}
 }
 

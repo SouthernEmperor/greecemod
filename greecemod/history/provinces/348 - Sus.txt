@@ -1,0 +1,19 @@
+#348 - Sus
+
+owner = ALG
+controller = ALG
+culture = mauretanian
+religion = ashari
+capital = "Taroudant"
+trade_goods = sugar
+hre = no
+base_tax = 5
+manpower = 2
+citysize = 5000
+fort1 = yes
+add_core = ALG
+add_core = MOR
+add_local_autonomy = 25
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

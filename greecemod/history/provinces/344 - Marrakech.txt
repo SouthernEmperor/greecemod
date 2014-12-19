@@ -1,0 +1,19 @@
+#344 - Marrakech
+
+owner = MOR
+controller = MOR  
+culture = mauretanian
+religion = ashari
+capital = "Marrakech"
+trade_goods = sugar
+hre = no
+base_tax = 5
+manpower = 2
+citysize = 9500
+fort1 = yes
+marketplace = yes
+add_core = MOR
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

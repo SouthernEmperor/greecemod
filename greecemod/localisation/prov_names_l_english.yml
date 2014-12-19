@@ -340,10 +340,10 @@
  PROV339: "Saldae" #done
  PROV340: "Cirta" #done
  PROV341: "Carthage" #done
- PROV342: "Gharb"
+ PROV342: "Salé" #done
  PROV343: "Fez"
  PROV344: "Marrakech"
- PROV345: "Abda"
+ PROV345: "Asama" #done
  PROV346: "Tafilalt"
  PROV347: "Ifni"
  PROV348: "Sus"
@@ -364,7 +364,7 @@
  PROV363: "Damietta"
  PROV364: "Gaza"
  PROV365: "Sinai"
- PROV366: "The Canarias"
+ PROV366: "Qannariyah" #done
  PROV367: "The Azores"
  PROV368: "Batutah" #done
  PROV369: "Orkney"
@@ -1749,7 +1749,7 @@
  PROV1748: "Jaén"
  PROV1749: "Cadiz"
  PROV1750: "Alicante"
- PROV1751: "Ceuta"
+ PROV1751: "Abyla" #done
  PROV1752: "Rzhev"
  PROV1753: "Kostroma"
  PROV1754: "Murom"
@@ -2467,7 +2467,7 @@
  PROV2467: "Meknes"
  PROV2468: "Tadla"
  PROV2469: "Dukkala"
- PROV2470: "Haha"
+ PROV2470: "Mogador" #done
  PROV2471: "Chott el-Jerid"
  PROV2472: "Ouargla"
  PROV2473: "Hadrumetum" #done

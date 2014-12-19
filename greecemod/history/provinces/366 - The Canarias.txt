@@ -1,0 +1,15 @@
+#366 - The Canarias
+
+culture = mauretanian
+capital = "Qayyah"
+hre = no
+base_tax = 3
+manpower = 1
+discovered_by = muslim
+owner = MOR
+controller = MOR
+add_core = MOR
+citysize = 1200
+religion = ashari
+culture = mauretanian
+trade_goods = sugar

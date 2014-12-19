@@ -1,0 +1,17 @@
+government = iqta 
+mercantilism = 0.1
+technology_group = muslim
+religion = ashari
+primary_culture = zenadi
+capital = 336
+
+1444.1.1 = {
+	monarch = {
+		name = "Mûsâ II"
+		dynasty = "banu Sulaym"
+		birth_date = 1417.3.31
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+}
