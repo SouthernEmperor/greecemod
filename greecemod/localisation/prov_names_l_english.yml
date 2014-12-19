@@ -332,14 +332,14 @@
  PROV331: "Erzurum"
  PROV332: "Marash"
  PROV333: "The Baleares"
- PROV334: "Tangiers"
- PROV335: "Melilla"
+ PROV334: "Tingis"
+ PROV335: "Rusadir" #done
  PROV336: "Tlemcen"
- PROV337: "Oran"
- PROV338: "Mitidja"
- PROV339: "Kabylia"
- PROV340: "Constantine"
- PROV341: "Tunis"
+ PROV337: "Siga" #done
+ PROV338: "Icosium" #done
+ PROV339: "Saldae" #done
+ PROV340: "Cirta" #done
+ PROV341: "Carthage" #done
  PROV342: "Gharb"
  PROV343: "Fez"
  PROV344: "Marrakech"
@@ -351,8 +351,8 @@
  PROV350: "Laghouat"
  PROV351: "Aures"
  PROV352: "Gafsa"
- PROV353: "Djerba"
- PROV354: "Tripoli"
+ PROV353: "Tacape" #done
+ PROV354: "Oeaterra" #done
  PROV355: "Sirt"
  PROV356: "Benghazi"
  PROV357: "Darnah"
@@ -366,7 +366,7 @@
  PROV365: "Sinai"
  PROV366: "The Canarias"
  PROV367: "The Azores"
- PROV368: "Madeira"
+ PROV368: "Batutah" #done
  PROV369: "Orkney"
  PROV370: "Reykjavik"
  PROV371: "Akureyri"
@@ -1880,7 +1880,7 @@
  PROV1879: "Alencon"
  PROV1880: "Sundgau"
  PROV1881: "St. Martin"
- PROV1882: "Annaba"
+ PROV1882: "Rusicade" #done
  PROV1883: "Western Finnish Lakes"
  PROV1884: "East Finnish Lakes"
  PROV1885: "Central Finnish Lakes"
@@ -2448,17 +2448,17 @@
  PROV2448: "Fezzan"
  PROV2449: "Jufra"
  PROV2450: "Ghadames"
- PROV2451: "Thubaqt"
- PROV2452: "Zuwarah"
- PROV2453: "Sfax"
- PROV2454: "Kef"
- PROV2455: "Bizerte"
+ PROV2451: "Lepcis" #done
+ PROV2452: "Sabratha" #done
+ PROV2453: "Taparura" #done
+ PROV2454: "Sicca" #done
+ PROV2455: "Diarrhytos" #done
  PROV2456: "Touggourt"
  PROV2457: "Mzab"
- PROV2458: "Hodna"
- PROV2459: "Titteri"
+ PROV2458: "Hodna" #done
+ PROV2459: "Titteri" #done
  PROV2460: "Saoura"
- PROV2461: "Dahra"
+ PROV2461: "Kartenni" #done
  PROV2462: "Ouarsenis"
  PROV2463: "Kasdir"
  PROV2464: "Ouarzazate"
@@ -2470,7 +2470,7 @@
  PROV2470: "Haha"
  PROV2471: "Chott el-Jerid"
  PROV2472: "Ouargla"
- PROV2473: "Sousse"
+ PROV2473: "Hadrumetum" #done
  PROV2474: "Tajhari"
  PROV2475: "Djado"
  PROV2476: "Kumeyaay"

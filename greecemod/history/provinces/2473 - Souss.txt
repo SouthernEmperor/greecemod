@@ -1,0 +1,19 @@
+# - Susa
+
+owner = QRT
+controller = QRT
+culture = punic
+religion = ashari
+capital = "Hadrumetum"
+trade_goods = sugar
+hre = no
+base_tax = 5
+manpower = 2
+citysize = 5000
+fort1 = yes
+temple = yes
+add_core = QRT
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+discovered_by = eastern

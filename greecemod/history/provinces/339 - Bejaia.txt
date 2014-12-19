@@ -1,0 +1,19 @@
+#339 - Bejaia
+
+owner = QRT
+controller = QRT
+culture = berber
+religion = ashari
+capital = "Salday"
+trade_goods = iron
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 7100
+fort1 = yes
+add_core = QRT
+add_core = ALG
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

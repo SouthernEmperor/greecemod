@@ -1,0 +1,5 @@
+government = tribal_federation
+primary_culture = numidian
+religion = ashari
+technology_group = muslim
+capital = 2448	# Murzuk

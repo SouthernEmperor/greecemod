@@ -1,0 +1,18 @@
+#340 - Constantine
+
+owner = QRT
+controller = QRT
+culture = punic
+religion = ashari
+capital = "Cirta"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 17000
+fort1 = yes
+add_core = QRT
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

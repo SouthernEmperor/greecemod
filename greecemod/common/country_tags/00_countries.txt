@@ -18,6 +18,14 @@ ROM = "countries/Rome.txt"
 SPQ = "countries/SPQR.txt"
 PIL = "countries/Pilgrims.txt"
 
+#North Africa
+FZA = "countries/Fezzan.txt" #recycled from vanilla
+GHD = "countries/Ghadames.txt" #recycled from vanilla
+MZB = "countries/Mzab.txt" #recycled from vanilla
+NUM = "countries/Numidia.txt"
+QRT = "countries/Carthage.txt"
+TGT = "countries/Touggourt.txt" #recycled from vanilla
+
 #Hellenic League
 ATH = "countries/Athens.txt"
 BIT = "countries/Bithynia.txt"
@@ -81,6 +89,8 @@ CRM = "countries/Carmania.txt"
 DRN = "countries/Drangiana.txt"
 HYR = "countries/Hyrcania.txt"
 PRT = "countries/Parthia.txt"
+
+#Central Asia
 
 #East Africa
 MSY = "countries/Mosyllum.txt"
@@ -322,10 +332,6 @@ KBA = "countries/Kabylia.txt"
 TFL = "countries/Tafilalt.txt"
 SOS = "countries/Sus.txt"
 TLC = "countries/Tlemcen.txt"
-TGT = "countries/Touggourt.txt"
-GHD = "countries/Ghadames.txt"
-FZA = "countries/Fezzan.txt"
-MZB = "countries/Mzab.txt"
 
 #Central Asia
 KZH	= "countries/Kazakh.txt"

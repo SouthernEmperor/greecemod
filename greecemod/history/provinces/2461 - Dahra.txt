@@ -1,0 +1,19 @@
+# - Dahra
+
+owner = QRT
+controller = QRT
+culture = berber
+religion = ashari
+capital = "Kartenna"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 5000
+fort1 = yes
+add_core = QRT
+add_core = ALG
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = western
+discovered_by = eastern

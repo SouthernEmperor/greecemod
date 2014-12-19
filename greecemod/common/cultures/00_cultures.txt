@@ -415,6 +415,11 @@ semitic = {
 			dynasty_names = {
 				"Saud" "Rasulid" "Tahiride" "Jabrid" "al-Qasimi" "Qasimid"
 				"Nabhani" "Yaruba" "al-Said" "Usfurid" "Jarwanid" "Hashim"
+			}
+		}
+		
+		punic = {
+			primary = QRT
 		}
 }
 
@@ -474,6 +479,14 @@ maghrebi = {
 		dynasty_names = {
 			"al-Ilighi" "al-Tadsi" "Zayyanid"
 		}
+	}
+	mauretanian = {		
+		dynasty_names = {
+			"Marinid" "Saadi" "al-Shabani" "Alaouite"	
+		}
+	}
+	numidian = {
+		primary = NUM
 	}
 }
 

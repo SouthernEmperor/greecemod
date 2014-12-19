@@ -1,0 +1,19 @@
+#355 - Sirt
+
+owner = QRT
+controller = QRT
+culture = numidian
+religion = ashari
+capital = "Ben Jawad"
+trade_goods = fish
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 2034
+fort1 = yes
+add_core = QRT
+add_local_autonomy = 25
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

@@ -1,0 +1,16 @@
+government = merchant_republic
+mercantilism = 0.1
+primary_culture = punic
+religion = ashari
+technology_group = muslim
+capital = 341
+
+1444.1.1 = {
+	monarch = {
+		name = "Arabo Zaracas"
+		birth_date = 1389.10.10
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}

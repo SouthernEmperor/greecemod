@@ -1,0 +1,25 @@
+#334 - Tangiers
+
+owner = TRS
+controller = TRS  
+culture = mauretanian
+religion = ashari
+capital = "Tingis"
+trade_goods = cloth
+hre = no
+base_tax = 3
+manpower = 1
+citysize = 5332
+fort1 = yes
+add_core = TRS
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+1000.1.1 = {
+		add_permanent_province_modifier = {
+			name = center_of_trade_modifier
+			duration = -1
+		}
+}

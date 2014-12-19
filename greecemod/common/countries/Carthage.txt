@@ -1,0 +1,112 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 131 101 85 }
+
+historical_idea_groups = {
+	defensive_ideas
+	innovativeness_ideas
+	maritime_ideas
+	exploration_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Abubacr #0" = 10
+	"Achololim #0" = 10
+	"Admago #0" = 10
+	"Agbal #0" = 10
+	"Anysus #0" = 10
+	"Arabo #0" = 10
+	"Astegal #0" = 10
+	"Baalhaan #0" = 10
+	"Bomilcar #0" = 10
+	"Boodes #0" = 10
+	"Casim #0" = 10
+	"Carthalo #0" = 10
+	"Fierelus #0" = 10
+	"Fuano #0" = 10
+	"Haggith #0" = 10
+	"Hamilax #0" = 10
+	"Hamilcar #0" = 10
+	"Hannibal #0" = 10
+	"Hanno #0" = 10
+	"Hasdrubal #0" = 10
+	"Himilco #0" = 10
+	"Hiram #0" = 10
+	"Jabnit #0" = 10
+	"Jibrahim #0" = 10
+	"Mago #0" = 10
+	"Mapen #0" = 10
+	"Merbal #0" = 10
+	"Metallo #0" = 10
+	"Mintho #0" = 10
+	"Muhammad #0" = 10
+	"Salicar #0" = 10
+	"Sirom #0" = 10
+	"Tenado #0" = 10
+	"Zinnirdi #0" = 10
+	
+	"Culthoom #0" = -10
+	"Dido #0" = -10
+	"Fatima #0" = -10
+	"Jezebel #0" = -10
+	"Similce #0" = -10
+	"Sophonisba #0" = -10
+	"Zaynab #0" = -10
+}
+
+leader_names = {
+	Abdalonymus
+	Abibaal
+	Barca
+	Elibaal
+	Fuabal
+	Hammon
+	Jehimilc
+	Maharbal
+	Shipitbaal
+	Tetramenestus
+	Zaracas
+}
+
+ship_names = {
+	Anat
+	Athirat
+	Athtart
+	Attar
+	Baalat
+	Ba'al
+	Cadeshtu
+	Dagon
+	Eshmun
+	Ishat
+	Cotharat
+	Lotan
+	Marcod
+	Melcart
+	Molech
+	Mot
+	Resheph
+	Shachar
+	Shalim
+	Shamayim
+	Shapash
+	Sydyc
+	Jam
+	Jarich
+}
