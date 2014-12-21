@@ -1,7 +1,7 @@
 owner = FRK
 controller = FRK
 culture = saxon
-religion = catholic
+religion = germanic_pagan
 trade_goods = wool
 capital = "Paderborn"
 base_tax = 5

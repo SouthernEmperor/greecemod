@@ -3,7 +3,7 @@
 owner = SAX
 controller = SAX
 culture = saxon
-religion = catholic
+religion = germanic_pagan
 capital = "Hannover"
 trade_goods = cloth
 hre = no

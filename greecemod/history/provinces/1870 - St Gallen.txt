@@ -3,7 +3,7 @@
 owner = ALL
 controller = ALL
 culture = alemanni
-religion = catholic
+religion = germanic_pagan
 capital = "St Gallen"
 trade_goods = wool
 hre = no

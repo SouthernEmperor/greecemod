@@ -3,7 +3,7 @@
 owner = LOM
 controller = LOM 
 culture = lombard
-religion = catholic
+religion = germanic_pagan
 capital = "Pressburg"
 trade_goods = copper
 hre = no

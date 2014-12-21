@@ -3,7 +3,7 @@
 owner = FRI
 controller = FRI
 culture = frisian
-religion = catholic
+religion = germanic_pagan
 capital = "Emden"
 trade_goods = salt
 hre = no

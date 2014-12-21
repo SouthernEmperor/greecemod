@@ -3,7 +3,7 @@
 owner = SAX
 controller = SAX
 culture = thuringii
-religion = catholic
+religion = germanic_pagan
 capital = "Meissen"
 trade_goods = iron
 hre = no

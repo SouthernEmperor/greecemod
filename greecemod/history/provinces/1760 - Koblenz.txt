@@ -1,7 +1,7 @@
 owner = FRK
 controller = FRK
 culture = frankish
-religion = catholic
+religion = germanic_pagan
 trade_goods = grain
 capital = "Koblenz"
 base_tax = 6

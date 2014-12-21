@@ -3,7 +3,7 @@
 owner = FRI
 controller = FRI
 culture = saxon
-religion = catholic
+religion = germanic_pagan
 capital = "Osnabrück"
 trade_goods = salt
 hre = no

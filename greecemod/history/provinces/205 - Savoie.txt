@@ -3,7 +3,7 @@
 owner = ALL
 controller = ALL
 culture = aquitanian
-religion = catholic
+religion = germanic_pagan
 hre = no
 base_tax = 11
 trade_goods = cloth

@@ -1,7 +1,7 @@
 # 1876 - Frankfurt
 capital = "Frankfurt"
 culture = frankish
-religion = catholic
+religion = germanic_pagan
 trade_goods = grain
 owner = FRK
 base_tax = 8
