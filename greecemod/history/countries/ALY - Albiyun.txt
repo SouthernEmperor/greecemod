@@ -1,0 +1,27 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = arab_brythonic
+religion = ashari
+technology_group = muslim
+capital = 414
+
+1444.1.1 = {
+	monarch = {
+		name = "Siafash III"
+		dynasty = "ibn Farajah"
+		birth_date = 1394.4.3
+		adm = 2
+		dip = 5
+		mil = 5
+	}
+	heir = {
+		name = "Harviyya"
+		monarch_name = "Harviyya II"
+		dynasty = "ibn Farajah"
+		birth_date = 1429.3.31
+		death_date = 1500.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}

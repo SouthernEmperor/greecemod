@@ -1,0 +1,28 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = welsh
+religion = celtic_pagan
+technology_group = muslim
+capital = 241
+
+1444.1.1 = {
+	monarch = {
+		name = "Gawain IV"
+		dynasty = "Dylan"
+		birth_date = 1388.9.12
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	heir = {
+		name = "Megan"
+		monarch_name = "Megan II"
+		dynasty = "Dylan"
+		birth_date = 1427.8.18
+		death_date = 1500.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+		female = yes
+	}
+}

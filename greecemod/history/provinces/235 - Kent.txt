@@ -1,0 +1,19 @@
+#235 - Kent
+
+owner = ALY
+controller = ALY
+culture = arab_brythonic
+religion = ashari
+hre = no
+base_tax = 6
+trade_goods = grain
+manpower = 2
+capital = "Farajah"
+citysize = 4000
+add_core = ALY
+fort1 = yes
+temple = yes # Canterbury Cathedral
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

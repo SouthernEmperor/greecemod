@@ -1,0 +1,62 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 116 92 39 }
+
+historical_idea_groups = {
+	innovativeness_ideas
+	offensive_ideas
+	economic_ideas
+	defensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	administrative_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Abubakr #1" = 10
+	"Arthfel #0" = 10
+	"Braiyan #0" = 10
+	"Qaddern #0" = 10
+	"Qunbal #0" = 10
+	"Quwal #0" = 10
+	"Harfiyya #1" = 10
+	"Helisedah #0" = 10
+	"Ibrahim #2" = 10
+	"Morghan #0" = 10
+	"Muhammad #2" = 10
+	"Nunniah #0" = 10
+	"Siafash #3" = 10
+	"Yusuf #2" = 10
+	
+	"Budikha #0" = -10
+	"Fatima #1" = -10
+	"Kara #1" = -10
+	"Zaynab #0" = -10
+}
+
+leader_names = {
+	"banu Kantiyyah"
+	"banu Ruma"
+	"banu Trinobant"
+	"ibn Aqwayyah"
+	"ibn Farajah"
+	"ibn Lester"
+	"ibn Lunden"
+	"ibn Qatefel"
+	"ibn Fentah"
+	"ibn Ferulam"
+	"ibn Findagah"
+}

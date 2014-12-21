@@ -231,18 +231,18 @@
  PROV230: "al-Gharb" #done
  PROV231: "Porto"
  PROV232: "Bragança"
- PROV233: "Cornwall"
- PROV234: "Wessex"
- PROV235: "Kent"
- PROV236: "London"
- PROV237: "Oxfordshire"
- PROV238: "Essex"
- PROV239: "Gloucestershire"
- PROV240: "Marches"
- PROV241: "Glamorgan"
- PROV242: "Gwynedd"
+ PROV233: "Dumnonia" #done
+ PROV234: "Belgaya" #done
+ PROV235: "Durofan" #done
+ PROV236: "al-Tamas" #done
+ PROV237: "Atrebata" #done
+ PROV238: "Sudeóscir" #done
+ PROV239: "Glefum" #done
+ PROV240: "Sabrina" #done
+ PROV241: "Siluria" #done
+ PROV242: "Ordovicia" #done
  PROV243: "Lincoln"
- PROV244: "Lancashire"
+ PROV244: "Deva" #done
  PROV245: "Yorkshire"
  PROV246: "Northumberland"
  PROV247: "Cumbria"
@@ -1858,8 +1858,8 @@
  PROV1857: "Lauenburg"
  PROV1858: "Stettin"
  PROV1859: "Chelmno"
- PROV1860: "Norfolk"
- PROV1861: "Derby"
+ PROV1860: "Noreóscir" #done
+ PROV1861: "Coritania" #done
  PROV1862: "Cremona" #done
  PROV1863: "Graz"
  PROV1864: "Somogy"

@@ -1,0 +1,18 @@
+#240 - Marches
+
+owner = BRY
+controller = BRY
+culture = welsh
+religion = celtic_pagan
+hre = no
+base_tax = 5
+trade_goods = cloth
+manpower = 3
+capital = "Lwytgoed"
+citysize = 6500
+add_core = BRY
+fort1 = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

@@ -1,0 +1,19 @@
+#233 - Cornwall
+
+owner = BRY
+controller = BRY
+culture = welsh
+religion = catholic
+hre = no
+base_tax = 4
+trade_goods = copper
+manpower = 3
+capital = "Isca"
+citysize = 6000
+add_core = BRY
+add_core = CRN
+fort1 = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

@@ -1,0 +1,19 @@
+#237 - Oxfordshire
+
+owner = ALY
+controller = ALY
+culture = arab_brythonic
+religion = ashari
+hre = no
+base_tax = 7
+trade_goods = grain
+manpower = 3
+capital = "Ferulam"
+citysize = 5000 # Includes Reading
+add_core = ALY
+fort1 = yes
+university = yes # Oxford University
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

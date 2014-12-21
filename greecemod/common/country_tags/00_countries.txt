@@ -3,6 +3,10 @@ REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
+#Britain
+ALY = "countries/Albiyun.txt"
+BRY = "countries/Brython.txt"
+
 #Iberia
 CIT = "countries/Citerior.txt"
 GAL = "countries/Gallaecia.txt"

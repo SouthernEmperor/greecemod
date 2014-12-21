@@ -1,0 +1,18 @@
+#1861 - Derby
+
+owner = BRY
+controller = BRY
+culture = welsh
+religion = celtic_pagan
+hre = no
+base_tax = 3
+trade_goods = iron
+manpower = 2
+capital = "Derwent"
+citysize = 6500
+add_core = BRY
+fort1 = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

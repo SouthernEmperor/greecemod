@@ -1,0 +1,18 @@
+#239 - Gloucestershire
+
+owner = ALY
+controller = ALY
+culture = welsh
+religion = celtic_pagan
+hre = no
+base_tax = 6
+trade_goods = iron
+manpower = 4
+capital = "Bruqstah"
+citysize = 8000
+add_core = ALY
+fort1 = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

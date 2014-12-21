@@ -1,0 +1,73 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 244 232 109 }
+
+historical_idea_groups = {
+	offensive_ideas
+	aristocracy_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	maritime_ideas
+	defensive_ideas	
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Aeron #1" = 10
+	"Arwel #0" = 10
+	"Cadoc #0" = 10
+	"Caradoc #1" = 10
+	"Culhwch #0" = 10
+	"Gawain #4" = 10
+	"Geraint #0" = 10
+	"Hywel #0" = 10
+	"Ithel #0" = 10
+	"Llywelyn #0" = 10
+	"Madoc #1" = 10
+	"Merfyn #0" = 10
+	"Meurig #0" = 10
+	"Owain #3" = 10
+	"Rhys #3" = 10
+	"Tegid #0" = 10
+	"Tristan #2" = 10
+
+	"Aderyn #1" = -10
+	"Anwen #0" = -10
+	"Blodeuyn #0" = -10
+	"Carys #0" = -10
+	"Delyth #0" = -10
+	"Eirwen #0" = -10
+	"Gwendolen #2" = -10
+	"Gwyneth #1" = -10
+	"Megan #1" = -10
+	"Morgan #1" = -10
+	"Rhiannon #2" = -10
+	"Tegan #1" = -10
+}
+
+leader_names = {
+	Cledwyn
+	Colwyn
+	Dylan
+	Glyndwr
+	Heilyn
+	Iorwerth
+	Islwyn
+	Meredith
+	Nye
+	Urien
+	Vaughan
+}

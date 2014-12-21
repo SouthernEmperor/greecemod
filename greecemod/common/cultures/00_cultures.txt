@@ -88,24 +88,23 @@ british	= {
 			Washington Adams Jefferson Jackson Johnson
 		}
 	}
-	scottish = {
-		primary = SCO
-		dynasty_names = { 
-			Stuart Stewart Campbell Lennox Murray Graham Gordon Erskine Leslie
-			Scott Douglas Hamilton Lindsay Ker Hay Sinclair Dunbar Kennedy
-		}
-	}
 }
 
-celtic	= {
+brythonic = {
 	graphical_culture = westerngfx
 
 	welsh = {
-		primary = WLS
-		dynasty_names = { 
-			Aberffraw Dinefwr Mathrafal Gwynedd Tudor Kernew "of Cornwall" Glyndwr
-		}
+		primary = BRY
 	}
+	
+	cumbric = {
+	}
+
+}
+	
+insular = {
+	graphical_culture = westerngfx
+	
 	breton = {
 		primary = BRI
 		dynasty_names = { 
@@ -120,8 +119,16 @@ celtic	= {
 	}
 	
 	celtiberian = {
-			primary = GAL
+		primary = GAL
+	}
+	
+	scottish = {
+		primary = SCO
+		dynasty_names = { 
+			Stuart Stewart Campbell Lennox Murray Graham Gordon Erskine Leslie
+			Scott Douglas Hamilton Lindsay Ker Hay Sinclair Dunbar Kennedy
 		}
+	}
 }
 
 	
@@ -323,6 +330,7 @@ mustarib = {
 		}
 		
 		arab_brythonic = {
+			primary = ALY
 		}
 		
 		arab_iberian = {
