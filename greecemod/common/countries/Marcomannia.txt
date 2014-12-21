@@ -35,107 +35,55 @@ historical_units = {
 }
 
 monarch_names = {
-	"Václav #4" = 50
-	"Jirí #0" = 25
-	"Karel #5" = 40
-	"Premysl #0" = 10
-	"Premysl Otakar #3" = 25
-	"Zikmund #0" = 0
-	"Frantisek #0" = 0
-	"Jindrich #0" = 5
-	"Josef #0" = 5
-	"Frantisek Josef #0" = 0
+	"Maroboduus #4" = 50
+	"Vangio #0" = 25
+	"Ballomar #5" = 40
+	"Arovistus #0" = 10
+	"Vannius #3" = 25
+	"Sido #0" = 0
+	"Galindo #0" = 0
+	"Oroctulf #0" = 5
+	"Rechiarius #0" = 5
+	"Ricimer #0" = 0
 	"Bocek #0" = 0
-	"Jan Jirí #0" = 5
-	"Ludvík #0" = 0
-	"Vladislav #0" = 20
-	"Vladimír #0" = 10
-	"Petr #0" = 5
-	"Jan Petr #0" = 5
-	"Viktorín #0" = 0
-	"Jan Václav #0" = 0
-	"Josef Václav #0" = 0
-	"Karel Josef #0" = 0
-	"Matyáš #0" = 0
-	"Ferdinand #0" = 5
-	"Otakar #0" = 10
-	"Vratislav #3" = 5
-	"Boleslav #4" = 10
-	"Vilém #0" = 5
-	"Viktor #0" = 0
-	"Jaromír #0" = 5
-	"Jaroslav #0" = 1
-	"Anezka #0" = -1
-	"Eliska #0" = -1
-	"Katerina #0" = -1
-	"Marie #0" = -1
-	"Ludmila #0" = -1
-	"Alzbeta #0" = -1
+	"Feletheus #0" = 5
+	"Drusus #0" = 0
+	"Vibilius #0" = 20
+	"Catualda #0" = 10
+	"Gailamir #0" = 5
+	"Gunthamund #0" = 5
+	"Gento #0" = 0
+	"Decebal #0" = 0
+	"Huneric #0" = 0
+	"Hilderic #0" = 0
+	"Gunderic #0" = 0
+	"Gaiseric #0" = 5
+	"Gailar #0" = 10
+	"Thrasamund #3" = 5
+	"Genseric #4" = 10
+	"Flaccitheus #0" = 5
+	"Sitalkes #0" = 0
+	"Decebalus #0" = 5
+	"Zalmoxis #0" = 1
+	"Erelieva #0" = -1
+	"Amalfrida #0" = -1
+	"Matasuntha #0" = -1
+	"Amalasuintha #0" = -1
+	"Valdamerca #0" = -1
+	"Gundeliva #0" = -1
 }
 
 leader_names = {
-	Zajíc
-	Jiskra
-	Zelezný
-	Capek
-	Thurn
-	Kolowrat
-	Schwarzenberg
-	"z Rozmberka"
-	Velen
-	Sokol
-	"ze Zerotína"
-	"z Husi"
-	"z Polzic"
-	Harant
-	"z Brandýsa"
-	Purkyne
-	"z Veleslavína"
-	"z Rozmitálu"
-	Berka
-	"z Pardubic"
-	"ze Lvovic"
-	Kaspar
-	Reiner
-	"ze Svamberka"
-	"z Vartemberka"
-	"z Mitrovic"
-	Píka
-	Mansfeld
-	Veliký
-	Syrový
-	"z Otradovic"
-	"z Falkensteina"
-}
-
-ship_names = {
-	"Svatý Vaclav"
-	"Svatá Ludmila"
-	"Svatý Jan Nepomucký"
-	"Svatý Mikulás"
-	"Svatý Jirí"
-	"Svatá Anezká"
-	"Nejsvetejsí Trojice"
-	"Král Karel"
-	"Král Boleslav"
-	"Král Premysl"
-	"Panna Maria Vitezná"
-	"Jan Hus"
-	"Jan Zizka"
-	"Prokop Holý"
-	"Kníze Bretislav"
-	"Premysl Orac"
-	Ctirad
-	Cechy
-	Morava
-	Libuse
-	Odvázný
-	Neporazitelný
-	Rychlý
-	Bystrý
-	Orel
-	Sokol
-	Slezsko
-	Sipka
-	Hvezda
+	Chattis
+	Cheruscis
+	Gutonis
+	Quadis
+	Boius
+	Buris
+	Noris
+	Sequanis
+	Sicambris
+	Suebis
+	Tencteris
+	Volcaes
 }

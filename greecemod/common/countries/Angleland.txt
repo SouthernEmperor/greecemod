@@ -37,112 +37,97 @@ historical_units = {
 }
 
 monarch_names = {
-	"Henry #3" = 100
-	"Edward #3" = 60
-	"Charles #0" = 40
-	"James #0" = 40
-	"William #2" = 20
-	"Richard #2" = 20
-	"Mary #0" = -20
-	"Philip #0" = 20
-	"Henry #3 Frederick" = 10
-	"Anne #0" = -10
-	"Arthur #0" = 10
-	"Charles #0 James" = 10
-	"Edgar #0" = 10
-	"Elizabeth #0" = -10
-	"Jane #0" = -10
-	"Thomas #0" = 10
-	"Edmund #0" = 5
-	"George #0" = 5
-	"Margaret #0" = -1
-	"John #1" = 1
-	"Jacob #0" = 0
-	"Humphrey #0" = 0
+	"Aetherlred #3" = 100
+	"Sigebehrt #3" = 60
+	"Coenwulf #0" = 40
+	"Edmund #0" = 40
+	"Wuffa #2" = 20
+	"Aethelbehrt #2" = 20
+	"Rowena #0" = -20
+	"Eadbehrt #0" = 20
+	"Eadric #3" = 10
+	"Aelfwyn #0" = -10
+	"Artur #0" = 10
+	"Egbert #0" = 10
+	"Canute #0" = 10
+	"Eadgyfu #0" = -10
+	"Britheva #0" = -10
+	"Tilmund #0" = 10
+	"Ethelric #0" = 5
+	"Godwyne #0" = 5
+	"Maerwynn #0" = -1
+	"Jaruman #1" = 1
+	"Jaenbert #0" = 0
+	"Hygelac #0" = 0
 	"Robert #0" = 0
-	"Stephen #1" = 1
-	"Adam #0" = 0
-	"Alexander #0" = 0
-	"Albert #0" = 0
-	"Alfred #0" = 0
-	"Ambrose #0" = 0
-	"Andrew #0" = 0
-	"Anthony #0" = 0
-	"Archibald #0" = 0
-	"Benjamin #0" = 0
-	"Christopher #0" = 0
-	"Daniel #0" = 0
-	"David #0" = 0
-	"Ernest #0" = 0
-	"Francis #0" = 0
-	"Geoffrey #0" = 0
-	"Guy #0" = 0
-	"Horatio #0" = 0
-	"Hugh #0" = 0
-	"Isaac #0" = 0
-	"Jeremy #0" = 0
-	"Jonathan #0" = 0
-	"Joseph #0" = 0
-	"Lawrence #0" = 0
-	"Matthew #0" = 0
-	"Nehemiah #0" = 0
-	"Oliver #0" = 0
-	"Samuel #0" = 0
-	"Sydney #0" = 0
+	"Siegebehrt #1" = 1
+	"Saexburh #0" = 0
+	"Aethelulf #0" = 0
+	"Ceawlin #0" = 0
+	"Cynric #0" = 0
+	"Baerwald #0" = 0
+	"Baldwine #0" = 0
+	"Alchfrid #0" = 0
+	"Aldhun #0" = 0
+	"Beadumund #0" = 0
+	"Beornwulf #0" = 0
+	"Denewulf #0" = 0
+	"Deorlaf #0" = 0
+	"Eorpwald #0" = 0
+	"Freola #0" = 0
+	"Godbert #0" = 0
+	"Gosfrid #0" = 0
+	"Haemgils #0" = 0
+	"Hardulph #0" = 0
+	"Ilfred #0" = 0
+	"Hybald #0" = 0
+	"Kenelm #0" = 0
+	"Kenward #0" = 0
+	"Leofric #0" = 0
+	"Madulf #0" = 0
+	"Oelfwine #0" = 0
+	"Oslac #0" = 0
+	"Sabert #0" = 0
+	"Ulfric #0" = 0
 }
 
 leader_names = {
-	Albemarle Amherst Anson
-	Buckingham Braddock Byron Burgoyne Beresford Brock Benbow Blake Bedford Boscawen Baffin Button
-	Clarence "de Clifford" Cromwell Cumberland Clinton Cornwallis Clive Cabot Carleton Cavendish Cook
-	Dampier Davis Drake
-	Essex
-	Fairfax Frobisher
-	Gloucester Gilbert
-	Howe Howard Herbert Hawke Hood Hastings Hudson
-	Leicester
-	Marlborough Middleton Moore
-	Northumberland Norfolk
-	Procter
-	Rooke Rodney Raleigh
-	Salisbury Somerset Suffolk Saunders Smith
-	Talbot Tarleton
-	Uxbridge
-	Warwick Wolfe
-	York
-}
-
-ship_names = {
-	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious "Anne Royal"
-	Bear Bellerophon Bonaventure Boyne Britannia Buckingham
-	Charles Christ Constant Convertine Culloden Cumberland Crane Crescent
-	Defence Defiance Destiny Dragon Dreadnought
-	"Edward Howard" Elizabeth Eltham Essex Expedition Eleanor Eagle
-	Foresight Foudroyant Falcon Fortune Fellowship
-	"Gabriel Royal" Garland George Gibraltar Gloucester Goliath "Grace Dieu" Grafton "Grand Mistress" "Great Barbara" "Great Bark" "Great Elizabeth"
-	"Great Harry" "Great Nicholas" Guernsey Greyhound Globe
-	Haarlem "Happy Entrance" Hector "Henrietta Maria" Hope Hart
-	James "John Baptist" Jennet
-	"Katherine Forteleza" Kent
-	Leander Leopard Lion Lizard
-	Majestic Margaret Mary "Mary Rose" Mercury Merhonour Michael Minion Minotaur 
-	Nonpareil Nonsuch Northumberland Nottingham
-	Orion
-	Peter Providence "Prince Frederick" Primrose "Prince Royal" Phoenix Pelican
-	"Queen Charlotte"
-	Rainbow "Red Lion" Regent Renown Repulse Revenge "Royal Anne" "Royal Charles" "Royal Prince" Recovery
-	"Scourge of Malice" Sovereign "Sovereign o the Seas" "St Andrew" "St Esprit" "St George" "St Matthew" Suffolk Superb Swallow Swiftsure
-	Speedwell Scout "Seven Stars" "St Anne" Swan Star Satisfaction
-	Theseus Tigre Tramontana Triumph Trinity Tiger
-	Unicorn Union
-	Vanguard Victory
-	Warspite Worcester Weymouth
-}
-
-army_names = {
-	"Royal Army" "Army of Scotland" "Army of Ireland"
-}
-
-fleet_names = {
-	"Royal Navy" "Blue Squadron" "Red Squadron" "White Squadron" "North Sea Squadron" "Channel Squadron"
+	Abba
+	Adda
+	Aeneka
+	Aethel
+	Benca
+	Beora
+	Byni
+	Cedda
+	Cena
+	Ceol
+	Cyfa
+	Dene
+	Dodda
+	Dudd
+	Dylla
+	Emma
+	Esne
+	Filica
+	Fygla
+	Golda
+	Hacca
+	Inguo
+	Lullede
+	Lyrel
+	Malla
+	Osla
+	Pefen
+	Pippa
+	Regna
+	Ringer
+	Runa
+	Seaxel
+	Sweord
+	Tada
+	Teodec
+	Trump
+	Wyrm
+	Ywi
 }

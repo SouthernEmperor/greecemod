@@ -4,8 +4,6 @@ graphical_culture = westerngfx
 
 color = { 127  51  0 }
 
-preferred_religion = reformed
-
 historical_idea_groups = {
 	administrative_ideas
 	plutocracy_ideas
@@ -34,66 +32,67 @@ historical_units = {
 }
 
 monarch_names = {
-	"Friedrich #0" = 20
-	"Otto #0" = 20
-	"Heinrich #0" = 15
-	"Werner #0" = 15
-	"Ferdinand #0" = 10
-	"Karl #0" = 10
-	"Alfred #0" = 0
-	"Benedikt #0" = 0
-	"Christoph #0" = 0
-	"Dietrich #0" = 0
-	"Engelbert #0" = 0
-	"Florian #0" = 0
-	"Gerhard #0" = 0
-	"Immanuel #0" = 0
-	"Johan #0" = 0
-	"Leonhard #0" = 0
-	"Markus #0" = 0
-	"Nikolaus #0" = 0
-	"Paul #0" = 0
-	"Ruprecht #0" = 0
-	"Stefan #0" = 0
-	"Thomas #0" = 0
-	"Ulrich #0" = 0
-	"Vinzenz #0" = 0
-	"André #0" = 0
-	"Charles #0" = 0
-	"Didier #0" = 0
-	"Emmanuel #0" = 0
-	"Frédéric #0" = 0
-	"Gérard #0" = 0
-	"Henri #0" = 0
-	"Jules #0" = 0
-	"Matthieu #0" = 0
-	"Nicolas #0" = 0
-	"Pascal #0" = 0
-	"Vincent #0" = 0
-	"Claudio #0" = 0
-	"Edmondo #0" = 0
-	"Leonardo #0" = 0
-	"Timoteo #0" = 0
+	"Fredegar #0" = 20
+	"Odo #0" = 20
+	"Hartmut #0" = 15
+	"Wibert #0" = 15
+	"Folcard #0" = 10
+	"Clovis #0" = 10
+	"Alberic #0" = 0
+	"Bertulf #0" = 0
+	"Clothair #0" = 0
+	"Dalfin #0" = 0
+	"Ebrulf #0" = 0
+	"Fulrad #0" = 0
+	"Grimald #0" = 0
+	"Imnion #0" = 0
+	"Jocelin #0" = 0
+	"Leutfrid #0" = 0
+	"Maraulf #0" = 0
+	"Nithard #0" = 0
+	"Pancras #0" = 0
+	"Ragnfred #0" = 0
+	"Syagrius #0" = 0
+	"Theuderic #0" = 0
+	"Waiofar #0" = 0
+	"Vedast #0" = 0
+	"Agobard #0" = 0
+	"Ceufroy #0" = 0
+	"Dado #0" = 0
+	"Emmeran #0" = 0
+	"Fridugis #0" = 0
+	"Grimald #0" = 0
+	"Hartmut #0" = 0
+	"Ledger #0" = 0
+	"Maraulf #0" = 0
+	"Notker #0" = 0
+	"Pippin #0" = 0
+	"Walaric #0" = 0
+	"Chlodmer #0" = 0
+	"Einhard #0" = 0
+	"Lull #0" = 0
+	"Zwentibold #0" = 0
 	
-	"Angela #0" = -1
-	"Marlene #0" = -1
-	"Hanna #0" = -1
+	"Alpaida #0" = -1
+	"Rosamund #0" = -1
+	"Hildegard #0" = -1
 }
 
 leader_names = {
-	Aebi Amman Bischofberger Blank Blies Brugger Combe
-	Eugster Frei Frisch Gasenzer Grüneisen Heberlin
-	Helberingen Hertzler Hiltbrand Honegger Luz Miller
-	Munzinger Oberholzer Schwendimann Spörri Vogt
-	"von Baltharsar" Wächter "von Hasseln" Zumbach
-}
-
-ship_names = {
-	Uri Schwyz Unterwalden Glarus Zug
-	Lucerne Zürich Berne "Wilhelm Tell"
-	Dufour Rhein Rhöne Inn Ticino
-}
-
-army_names = {
-	"Armee von $PROVINCE$" 
+	Adaltrude
+	Audofled
+	Eeadgith
+	Fastrad
+	Gersvind
+	Hodierna
+	Ingeltrudis
+	Joveta
+	Merovich
+	Nantechildis
+	Radogund
+	Rothaide
+	Ruothild
+	Vicelin
+	Waldolanus
+	Wulfram
 }
