@@ -1,0 +1,23 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = western
+unit_type = western
+primary_culture = swedish
+religion = norse_pagan
+add_accepted_culture = finnish
+historical_rival = DAN
+capital = 1	#Stockholm
+
+national_focus = MIL
+
+1448.6.20 = {
+	monarch = {
+		name = "Karl VIII"
+		dynasty = "Bonde"
+		birth_date = 1409.10.5
+		adm = 3
+		dip = 0
+		mil = 2
+		leader = {	name = "Karl VIII"   type = general	rank = 0	fire = 2	shock = 2	manuever = 3	siege = 0 }
+	}
+}

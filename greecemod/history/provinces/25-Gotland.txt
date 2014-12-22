@@ -1,0 +1,22 @@
+#Gotland- Visby etc
+
+owner = FIN
+controller = FIN
+add_core = SWE
+add_core = NOR
+add_core = FIN
+culture = swedish
+religion = norse_pagan
+hre = no
+base_tax = 4
+trade_goods = wool
+manpower = 1
+fort1 = yes # Visborg Castle
+capital = "Visby"
+is_city = yes
+marketplace = yes
+temple = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

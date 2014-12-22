@@ -1,0 +1,16 @@
+#East Karelia
+
+owner = FIN
+controller = FIN 
+capital = "Kem"
+culture = karelian
+religion = finnish_pagan
+add_core = FIN
+hre = no
+is_city = yes
+base_tax = 1
+trade_goods = salt
+manpower = 1
+discovered_by = western
+discovered_by = eastern
+add_local_autonomy = 25

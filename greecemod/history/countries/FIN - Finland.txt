@@ -1,0 +1,5 @@
+government = feudal_monarchy
+technology_group = western
+religion = finnish_pagan
+primary_culture = finnish
+capital = 27	# Åbo

@@ -1,0 +1,18 @@
+#Bornholm
+
+add_core = DAN
+owner = DAN
+controller = DAN
+culture = norse_pagan
+religion = catholic
+hre = no
+base_tax = 1
+trade_goods = fish
+manpower = 1
+capital = "Ronne"
+fort1 = yes	#Hammershus
+is_city = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

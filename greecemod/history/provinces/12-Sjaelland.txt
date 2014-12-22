@@ -1,0 +1,28 @@
+#Sjaelland, incl. København, Roskilde, Helsingør, Ringsted
+
+add_core = DAN
+owner = DAN
+controller = DAN
+culture = danish
+religion = norse_pagan
+hre = no
+base_tax = 7
+trade_goods = fish
+manpower = 6
+fort1 = yes
+capital = "København"
+marketplace = yes
+citysize = 5000 # Estimated
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1000.1.1   = {
+		add_permanent_province_modifier = {
+			name = sound_toll
+			duration = -1
+		}
+
+}

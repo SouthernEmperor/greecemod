@@ -1,0 +1,16 @@
+#Viborgs län, incl. Viborg, Villmansstrand, and Kivinäbb.
+
+owner = FIN
+controller = FIN
+add_core = FIN
+culture = finnish
+religion = finnish_pagan
+hre = no
+base_tax = 2
+trade_goods = fur
+manpower = 2
+capital = "Viborg"
+citysize = 1050 # Estimated
+fort1 = yes
+discovered_by = western
+discovered_by = eastern

@@ -1,0 +1,20 @@
+#Skåne
+
+add_core = DAN
+owner = DAN
+controller = DAN
+culture = danish
+religion = norse_pagan
+hre = no
+base_tax = 6
+trade_goods = grain
+manpower = 5
+fort1 = yes
+capital = "Lund"
+is_city = yes
+marketplace = yes
+temple = yes # Lund cathedral
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

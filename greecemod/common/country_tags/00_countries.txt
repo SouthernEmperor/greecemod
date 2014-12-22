@@ -57,6 +57,9 @@ CAP = "countries/Cappadocia.txt"
 GRE = "countries/Greece.txt" #Greek culture union
 AMI = "countries/AsiaMinor.txt" #Anatolian culture union
 
+#Suomenusko
+SAM = "countries/Sami.txt"
+
 #West Germanics
 FRK	= "countries/Frankreich.txt"
 ANG	= "countries/Angleland.txt"

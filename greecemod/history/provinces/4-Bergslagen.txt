@@ -1,0 +1,29 @@
+#Bergslagen, contains Falun, Västerås etc.
+
+add_core = SWE
+owner = SWE
+controller = SWE
+culture = swedish
+religion = norse_pagan
+hre = no
+base_tax = 2
+trade_goods = iron
+manpower = 2
+fort1 = yes
+capital = "Västerås"
+citysize = 1200 #estimate
+temple = yes #"Domkyrkan i Västerås"
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+1434.6.1  = { revolt = { type = anti_tax_rebels size = 2 name = "Engelbrekt" } controller = REB } # Engelbrekt rebellion
+1436.4.27  = { revolt = {} controller = SWE } # Engelbrekt was murdered by Måns Bengtsson Natt och Dag
+1436.4.28  = { revolt = { type = anti_tax_rebels size = 1 } controller = REB } # Karl Knutsson Bonde elected leader
+1438.3.1   = { revolt = {} controller = SWE } # Unclear date
+1438.10.1  = { revolt = { type = anti_tax_rebels size = 1 } controller = REB } # Karl Knutsson Bonde, unclear date
+1440.9.1 = { revolt = {} controller = SWE } # Christopher III elected Union King
+1448.6.20 = { revolt = {} controller = SWE } # Karl VIII is elected king of Sweden

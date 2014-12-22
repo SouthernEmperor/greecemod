@@ -1,6 +1,7 @@
 government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = angle
+add_accepted_culture = jute
 religion = germanic_pagan
 technology_group = western
 historical_rival = FRI

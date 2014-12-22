@@ -1,0 +1,20 @@
+#Närke
+
+add_core = SWE
+add_core = NOR
+owner = NOR
+controller = NOR
+culture = swedish
+religion = norse_pagan
+hre = no
+base_tax = 2
+trade_goods = iron
+manpower = 2
+fort1 = yes
+capital = "Örebro"
+is_city = yes
+workshop = yes #"Örebro borgarskap"
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

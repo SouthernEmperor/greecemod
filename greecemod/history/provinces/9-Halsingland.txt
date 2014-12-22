@@ -1,0 +1,17 @@
+#Hälsingland-Gästrikland-Medelpad, from Gävle to Näs
+
+add_core = SWE
+owner = SWE
+controller = SWE
+culture = swedish
+religion = norse_pagan
+hre = no
+base_tax = 2
+trade_goods = fish
+manpower = 2
+fort1 = yes
+capital = "Gävle"
+is_city = yes
+marketplace = yes # controller of trade in Norrland
+discovered_by = eastern
+discovered_by = western

@@ -1,0 +1,17 @@
+#Fyn-Langeland
+add_core = DAN
+owner = DAN
+controller = DAN
+culture = danish
+religion = norse_pagan
+hre = no
+base_tax = 3
+trade_goods = fish
+manpower = 2
+capital = "Odense"
+fort1 = yes
+is_city = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

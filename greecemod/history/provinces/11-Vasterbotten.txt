@@ -1,0 +1,15 @@
+#Västerbotten-Ångermanland, from Sundsvall/Härnösand over Umeå to Torneå
+
+owner = SAM
+controller = SAM
+add_core = SAM
+culture = sapmi
+religion = finnish_pagan
+hre = no
+base_tax = 1
+trade_goods = fur
+manpower = 1
+capital = "Umeå"
+citysize = 1050 # Estimated
+discovered_by = eastern
+discovered_by = western
