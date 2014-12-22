@@ -1,0 +1,18 @@
+#376 - Connaught
+
+owner = IRE
+controller = IRE
+culture = irish
+religion = imperial_hellenic
+hre = no
+base_tax = 2
+trade_goods = fish
+manpower = 1
+capital = "Galway"
+citysize = 1800
+add_core = IRE
+fort1 = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

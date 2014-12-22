@@ -6,6 +6,7 @@ NAT = "countries/Natives.txt"
 #Britain
 ALY = "countries/Albiyun.txt"
 BRY = "countries/Brython.txt"
+IRE	= "countries/Ireland.txt"
 
 #Iberia
 CIT = "countries/Citerior.txt"
@@ -150,12 +151,8 @@ HUN	= "countries/Hungary.txt"
 TUR	= "countries/Ottomans.txt"
 
 #British Isles 
-CNN = "countries/Connacht.txt"
 ENG	= "countries/England.txt"
-LEI = "countries/Leinster.txt"
-IRE	= "countries/Ireland.txt"
 LAN	= "countries/Lancaster.txt"
-MNS = "countries/IRE_Munster.txt"
 SCO	= "countries/Scotland.txt"
 WLS	= "countries/Wales.txt"
 YOR	= "countries/York.txt"

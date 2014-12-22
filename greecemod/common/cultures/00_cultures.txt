@@ -90,6 +90,24 @@ british	= {
 	}
 }
 
+british	= {
+	graphical_culture = westerngfx
+
+	english = {
+		primary = ENG
+		dynasty_names = { 
+			Plantagenet Lancaster York Tudor Dudley Mowbray Beaufort Neville Percy Howard Seymour Holland 
+			Talbot Stanley Courtenay "de la Pole" "de Vere" Stafford Grey Mortimer "le Despenser" "de Camoys"
+		}		
+	}
+	american = {
+		primary = USA
+		dynasty_names = { 
+			Washington Adams Jefferson Jackson Johnson
+		}
+	}
+}
+
 brythonic = {
 	graphical_culture = westerngfx
 
@@ -114,7 +132,9 @@ insular = {
 	irish = {
 		primary = IRE
 		dynasty_names = { 
-			"O'Donnell" "O'Neill" "O'Connor" "O'Brien" MacLochlainn MacMurrough MacWilliam
+			"mac Brigant" "mac Cauc" "mac Corlond" "mac Darin" "mac Dunumeb"
+			"mac Ebdan" "mac Gangan" "mac Manap" "mac Nagnat" 
+			"mac Robogd" "mac Usdi" "mac Vellabor" "mac Venicin" "mac Vod"
 		}
 	}
 	
@@ -130,6 +150,7 @@ insular = {
 		}
 	}
 }
+
 
 	
 iberian	= {
