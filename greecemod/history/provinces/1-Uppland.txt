@@ -1,0 +1,27 @@
+#Uppland, contains Stockholm, Uppsala & Nyköping.
+
+add_core = SWE
+owner = SWE
+controller = SWE
+culture = swedish
+religion = norse_pagan
+hre = no
+base_tax = 5
+trade_goods = grain
+manpower = 3
+fort1 = yes
+capital = "Stockholm"
+is_city = yes
+temple = yes #"Domkyrkan i Uppsala"
+workshop = yes #"Stockholms borgarskap"
+marketplace = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+1436.4.28 = { revolt = { type = pretender_rebels size = 1 leader = "Karl Knutsson Bonde" } controller = REB } # Karl Knutsson Bonde marsh on Stockholm
+1438.3.6 = { revolt = {} controller = SWE } # Unclear date
+1438.10.1 = { revolt = { type = pretender_rebels size = 1 leader = "Karl Knutsson Bonde" } controller = REB } # Unclear date
+1440.9.1 = { revolt = {} controller = SWE } # Christopher III elected Union King
+1448.6.20 = { revolt = {} controller = SWE } # Karl VIII is elected king of Sweden
