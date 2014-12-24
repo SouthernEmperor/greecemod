@@ -1,0 +1,18 @@
+#249 - Ayrshire
+
+owner = DRA
+controller = DRA
+culture = scottish
+religion = celtic_pagan
+hre = no
+base_tax = 4
+trade_goods = iron
+manpower = 2
+capital = "Inverair"
+citysize = 1300
+add_core = DRA
+fort1 = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

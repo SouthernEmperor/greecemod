@@ -1,0 +1,28 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = cumbric
+religion = ashari
+technology_group = muslim
+capital = 245
+
+1444.1.1 = {
+	monarch = {
+		name = "Fianna II"
+		dynasty = "Rashid"
+		birth_date = 1400.11.16	
+		adm = 2
+		dip = 3
+		mil = 4
+		female = yes
+	}
+	heir = {
+		name = "Diana"
+		monarch_name = "Diana I"
+		birth_date = 1433.3.11
+		death_date = 1500.1.1
+		adm = 5
+		dip = 2
+		mil = 5
+		female = yes
+	}
+}

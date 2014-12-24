@@ -1,0 +1,16 @@
+government = theocratic_government
+mercantilism = 0.1
+primary_culture = cumbric
+religion = catholic
+technology_group = muslim
+capital = 246
+
+1444.1.1 = {
+	monarch = {
+		name = "Robert Kells"
+		birth_date = 1391.11.15
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}

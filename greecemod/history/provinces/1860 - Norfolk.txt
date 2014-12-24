@@ -1,16 +1,17 @@
 #1860 - Norfolk
 
-owner = ANG
-controller = ANG
+owner = ALY
+controller = ALY
 culture = cumbric
-religion = celtic_pagan
+religion = ashari
 hre = no
 base_tax = 3
 trade_goods = iron
 manpower = 2
 capital = "Caistor"
 citysize = 6500
-add_core = ANG
+add_core = ALY
+add_core = CTV
 fort1 = yes
 discovered_by = western
 discovered_by = muslim

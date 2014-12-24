@@ -1,0 +1,18 @@
+#252 - Highlands
+
+owner = DRA
+controller = DRA
+culture = scottish
+religion = celtic_pagan
+hre = no
+base_tax = 2
+trade_goods = wool
+manpower = 1
+capital = "Inbhirnis"
+citysize = 1400
+add_core = DRA
+fort1 = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

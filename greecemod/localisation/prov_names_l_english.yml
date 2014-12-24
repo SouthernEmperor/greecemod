@@ -236,22 +236,22 @@
  PROV235: "Durofan" #done
  PROV236: "al-Tamas" #done
  PROV237: "Atrebata" #done
- PROV238: "Sudeóscir" #done
+ PROV238: "Trinofanta" #done
  PROV239: "Glefum" #done
  PROV240: "Sabrina" #done
  PROV241: "Siluria" #done
  PROV242: "Ordovicia" #done
- PROV243: "Lincoln"
+ PROV243: "Witham" #done
  PROV244: "Deva" #done
- PROV245: "Yorkshire"
- PROV246: "Northumberland"
- PROV247: "Cumbria"
- PROV248: "Lothian"
- PROV249: "Ayrshire"
- PROV250: "Fife"
- PROV251: "Aberdeen"
- PROV252: "Highlands"
- PROV253: "Western Isles"
+ PROV245: "Deifr" #done
+ PROV246: "Brynaich" #done
+ PROV247: "Rheged" #done
+ PROV248: "Ystrad" #done
+ PROV249: "Galloway" #done
+ PROV250: "Fih" #done
+ PROV251: "Circinn" #done
+ PROV252: "Caledonia" #done
+ PROV253: "Innse Gall" #done
  PROV254: "Poznan"
  PROV255: "Kalisz"
  PROV256: "Plock"
@@ -1858,7 +1858,7 @@
  PROV1857: "Lauenburg"
  PROV1858: "Stettin"
  PROV1859: "Chelmno"
- PROV1860: "Noreóscir" #done
+ PROV1860: "Icenia" #done
  PROV1861: "Coritania" #done
  PROV1862: "Cremona" #done
  PROV1863: "Graz"

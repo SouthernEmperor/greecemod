@@ -144,10 +144,6 @@ insular = {
 	
 	scottish = {
 		primary = SCO
-		dynasty_names = { 
-			Stuart Stewart Campbell Lennox Murray Graham Gordon Erskine Leslie
-			Scott Douglas Hamilton Lindsay Ker Hay Sinclair Dunbar Kennedy
-		}
 	}
 }
 

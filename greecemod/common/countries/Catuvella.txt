@@ -1,0 +1,66 @@
+graphical_culture = westerngfx
+
+color = { 155  56  0 }
+
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	religious_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Amguerit #0" = 10
+	"Oudecant #0" = 10
+	"Docilis #0" = 10
+	"Ritigern #0" = 10
+	"Ceionius #0" = 10
+	"Iumetel #0" = 10
+	"Tegid #0" = 10
+	"Gratus #0" = 10
+	"Padarn #0" = 10
+	"Beisrudd #0" = 10
+	"Ederyn #0" = 10
+	"Telpuill #0" = 10
+	"Eliud #0" = 10
+	"Debu #0" = 10
+	"Eugen #0" = 10
+	"Eudelin #0" = 10
+	
+	"Brictogenius #0" = -10
+	"Cunedda #0" = -10
+	"Gwawi #0" = -10
+	"Gwledig #0" = 10
+	"Gwedonlyn #0" = -10
+	"Outigern #0" = -10
+}
+
+leader_names = {
+	Cassivelaunus
+	Andocomius
+	Tasciovanus
+	Cunobelinus
+	Togodumnus
+	Caratacus
+	Adminius
+	Guiderius
+	Tacitus
+	Belinus
+	Aballacos
+	Scapulatis
+	Decianus
+}

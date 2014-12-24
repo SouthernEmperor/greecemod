@@ -1,18 +1,18 @@
-#238 - Essex
+#245 - Yorkshire
 
-owner = ALY
-controller = ALY
+owner = ELM
+controller = ELM
 culture = cumbric
 religion = ashari
 hre = no
-base_tax = 8
+base_tax = 7
 trade_goods = cloth
-manpower = 4
-capital = "Camulod"
-citysize = 7500
-add_core = ALY
-add_core = CTV
+manpower = 3
+capital = "Eboracum"
+citysize = 9000
+add_core = ELM
 fort1 = yes
+temple = yes #Great Mosque of Eboracum
 marketplace = yes
 discovered_by = western
 discovered_by = muslim

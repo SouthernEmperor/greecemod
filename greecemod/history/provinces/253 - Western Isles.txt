@@ -1,0 +1,18 @@
+#253 - Western Isles
+
+owner = DRA
+controller = DRA
+culture = scottish
+religion = celtic_pagan
+hre = no
+base_tax = 1
+trade_goods = fish
+manpower = 1
+capital = "Stornoway"
+citysize = 1000 # Estimated
+add_core = DRA
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+fort1 = yes

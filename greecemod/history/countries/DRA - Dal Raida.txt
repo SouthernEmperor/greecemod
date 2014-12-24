@@ -1,0 +1,17 @@
+government = tribal_kingdom
+mercantilism = 0.1
+primary_culture = scottish
+religion = celtic_pagan
+technology_group = muslim
+capital = 242
+
+1444.1.1 = {
+	monarch = {
+		name = "Eochaid V"
+		dynasty = "Cruithne"
+		birth_date = 1411.7.8
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}

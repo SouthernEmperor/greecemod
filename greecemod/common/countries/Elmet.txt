@@ -1,0 +1,76 @@
+graphical_culture = westerngfx
+
+color = { 33 101 137 }
+
+historical_idea_groups = {
+	religious_ideas
+	aristocracy_ideas
+	trade_ideas
+	economic_ideas
+	maritime_ideas
+	innovativeness_ideas
+	offensive_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Aberth #1" = 10
+	"Abubacr #2" = 10
+	"Caratacos #0" = 10
+	"Coel #1" = 10
+	"Drustan #0" = 10
+	"Fedelmid #1" = 10
+	"Galchobhar #1" = 10
+	"Haerviu #0" = 10
+	"Ithel #0" = 10
+	"Luigsech #0" = 10
+	"Maedoc #1" = 10
+	"Mahomet #2" = 10
+	"Nechtan #0" = 10
+	"Ninian #0" = 10
+	"Aonghus #0" = 10
+	"Seachnall #3" = 10
+	"Seisyll #1" = 10
+
+	"Ailia #0" = -5
+	"Diana #0" = -5
+	"Bodicca #2" = -5
+	"Carys #1" = -5
+	"Deoca #0" = -5
+	"Ethil #0" = -5
+	"Fatima #0" = -5
+	"Gwyna #0" = -5
+	"Huna #0" = -5
+	"Megan #1" = -5
+	"Fianna #2" = -5
+	"Rora #0" = -5
+	"Tegan #1" = -5
+}
+
+leader_names = {
+	Barbtruc
+	Beltane
+	Cuneobelinus
+	Dunvallo
+	Garguit
+	Gwendolen
+	Imbolc
+	Kinarius
+	Lughnasa
+	Marcia
+	Rashid
+	Runo
+	Samhain
+	Suibhne
+	Teutorigos
+}

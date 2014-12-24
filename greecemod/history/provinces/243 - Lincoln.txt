@@ -1,19 +1,17 @@
-#238 - Essex
+#243 - Lincoln
 
-owner = ALY
-controller = ALY
+owner = ELM
+controller = ELM
 culture = cumbric
 religion = ashari
 hre = no
-base_tax = 8
+base_tax = 5
 trade_goods = cloth
-manpower = 4
-capital = "Camulod"
-citysize = 7500
-add_core = ALY
-add_core = CTV
+manpower = 2
+capital = "Lindon"
+citysize = 4500 # Includes Leicester
+add_core = ELM
 fort1 = yes
-marketplace = yes
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman

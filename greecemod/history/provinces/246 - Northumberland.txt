@@ -1,0 +1,19 @@
+#246 - Northumberland
+
+owner = BRC
+controller = BRC
+culture = cumbric
+religion = catholic
+hre = no
+base_tax = 6
+trade_goods = cloth
+manpower = 3
+capital = "Durham"
+citysize = 7000
+add_core = BRC
+fort1 = yes
+temple = yes #Durham Cathedral
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern

@@ -1,0 +1,69 @@
+graphical_culture = westerngfx
+
+color = { 220 138 57 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+monarch_names = {
+	"Aberth #0" = 0
+	"Caratacos #0" = 0
+	"Coel #0" = 0
+	"David #0" = 0
+	"Finnian #0" = 0
+	"Gildas #0" = 0
+	"Haerviu #0" = 0
+	"Ithel #0" = 0
+	"Luigsech #0" = 0
+	"Maedoc #0" = 0
+	"Nechtan #0" = 0
+	"Alexander #0" = 10
+	"Charles #0" = 10
+	"Mark #0" = 10
+	"Matthew #0" = 10
+	"Luke #0" = 10
+	"Paul #0" = 10
+	"Peter #0" = 10
+	"Simon #0" = 10
+	"Patrick #0" = 10
+	"Robert #0" = 10
+	"Samson #0" = 10
+	"Sean #0" = 10
+
+	"Ailia #0" = -1
+	"Dianan #0" = -1
+	"Bodicca #0" = -1
+	"Carys #0" = -1
+	"Deoca #0" = -1
+	"Ethil #0" = -1
+	"Gwyna #0" = -1
+	"Huna #0" = -1
+	"Mary #0" = -1
+	"Fianna #0" = -1
+	"Rora #0" = -1
+	"Tegan #0" = -1
+}
+
+leader_names = {
+	Aurelian
+	Beltane
+	Bobbio
+	Deiniol
+	Gwendolen
+	Imbolc
+	Iona
+	Lughnasa
+	Kells
+	Mulling
+	Samhain
+	Suibhne
+	Teutorigos
+}

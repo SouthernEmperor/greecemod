@@ -1,0 +1,27 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = cumbric
+religion = celtic_pagan
+technology_group = muslim
+capital = 247
+
+1444.1.1 = {
+	monarch = {
+		name = "Cynfarch III"
+		dynasty = "Coelhen"
+		birth_date = 1425.3.31
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+	heir = {
+		name = "Ithel"
+		monarch_name = "Ithel II"
+		dynasty = "Coelhen"
+		birth_date = 1428.12.23
+		death_date = 1500.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

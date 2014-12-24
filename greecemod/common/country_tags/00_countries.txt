@@ -5,8 +5,14 @@ NAT = "countries/Natives.txt"
 
 #Britain
 ALY = "countries/Albiyun.txt"
+BRC = "countries/Bernicia.txt"
 BRY = "countries/Brython.txt"
+CTV = "countries/Catuvella.txt"
+DRA = "countries/DalRaida.txt"
+ELM = "countries/Elmet.txt"
+GUB = "countries/Alba.txt"
 IRE	= "countries/Ireland.txt"
+RHE = "countries/Rheged.txt"
 
 #Iberia
 CIT = "countries/Citerior.txt"

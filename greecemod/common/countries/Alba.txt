@@ -1,0 +1,62 @@
+graphical_culture = westerngfx
+
+color = { 243 156 135 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+	religious_ideas
+}
+
+monarch_names = {
+	"Alexander #1" = 5
+	"Alpin #4" = 25
+	"Ciniath #7" = 10
+	"Drust #10" = 10
+	"Dyfnwal #3" = 10
+	"Ferat #3" = 10
+	"Gartnait #10" = 10
+	"Kenneth #6" = 25
+	"Macbeth #1" = 10
+	"Macduff #2" = 10
+	"Malcolm #5" = 25
+	"Nechtan #4" = 10
+	"Owain #10" = 25
+	"Riderch #2" = 10
+	"Talorcan #4" = 25
+	"Teudur #2" = 10
+	"Run #2" = 0
+	"Riderich #0" = 0
+	"Griric #0" = 0
+	"Galam #0" = 0
+	"Fergus #0" = 0
+	"Eoganan #0" = 0
+	"Eochaid #0" = 0
+	"Domangart #0" = 0
+	"Caltram #0" = 0
+	"Brude #0" = 0
+	"Amy #0" = -1
+}
+
+leader_names = {
+	Canutulahina
+	Carvorst
+	Cramdomna
+	Cruithne
+	Fidaich
+	Finechta
+	Fortrenn
+	Fuidid
+	Gartnaich
+	Gilgidi
+	Hael
+	Talorgen
+	Tharain
+	Tudclyd
+	Wurgest
+}
