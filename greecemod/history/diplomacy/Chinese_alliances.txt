@@ -1,0 +1,21 @@
+# Daimyo Vassals
+vassal = {
+	first = CHX
+	second = CPG
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = CHX
+	second = CNI
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+vassal = {
+	first = CHX
+	second = CYE
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}

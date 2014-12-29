@@ -940,34 +940,51 @@ penutian = {
 }
 
 hanculture = {
-		graphical_culture = asiangfx
-		
-		chuhan = {
-			dynasty_names = {
-				Bi Chu Dao Deng Han Jiang Ju Liu Lu Pi Qing Ruo Shang Sui Xiang Xiong Xu Yin Zeng Zhao
-			}
+	graphical_culture = asiangfx
+	
+	chuhan = {
+		dynasty_names = {
+			Bi Chu Dao Deng Han Jiang Ju Liu Lu Pi Qing Ruo Shang Sui Xiang Xiong Xu Yin Zeng Zhao
 		}
-		qihan = {
-			dynasty_names = {
-				An Chen Guan Guo Jiang Lai Lu Mi Qi Song Teng Tian Wu Yan Yue
-			}
+	}
+	qihan = {
+		dynasty_names = {
+			An Chen Guan Guo Jiang Lai Lu Mi Qi Song Teng Tian Wu Yan Yue
 		}
-		qinhan = {
-			dynasty_names = {
-				Cai Cao Dai Ji Jin Sai Ti Wei Wen Xing Yong Zhai Zheng Zhou
-			}
+	}
+	qinhan = {
+		dynasty_names = {
+			Cai Cao Dai Ji Jin Sai Ti Wei Wen Xing Yong Zhai Zheng Zhou
 		}
-		shuhan = {
-			primary = TMP #Whatever nation is in Sichuan
-			dynasty_names = {
-				Dan Fu Gong He Ju Kaiming Lang Li Nu Pu Rang Sou Zong Yi
-			}
+	}
+	shuhan = {
+		dynasty_names = {
+			Dan Fu Gong He Ju Kaiming Lang Li Nu Pu Rang Sou Zong Yi
 		}
-		fusou = {
-			primary = HTA
-			dynasty_names = {
-				Amori Fukasa Hakata Hata Itsuki Kado Kara Kure Kuzu Mamori Masa Omomuro Oroka Oto Sakazuki Tsuzura Tani Tomoe
+	}
+	fusou = {
+		primary = HTA
+		dynasty_names = {
+			Amori Fukasa Hakata Hata Itsuki Kado Kara Kure Kuzu Mamori Masa Omomuro Oroka Oto Sakazuki Tsuzura Tani Tomoe
 		}
+	}
+}
+
+shiwei = {
+	graphical_culture = asiangfx
+
+	syanbi = {
+	}
+	hiungnu = {
+	}
+	magyar = {
+	}
+	evenkil = {
+	}
+	
+	dynasty_names = {
+		Zhu Wu Geng Shang Zheng Zhao Li Shi Liu Guo Yang Wang Qian Ma Meng Gao 
+		Chen Sun Sima Cao Xiao Yuan 
 	}
 }
 
@@ -1020,6 +1037,31 @@ korean_g = {
 		dynasty_names = { 
 			Yi Wang Kim Shin Song Pak Chae Gang Jeong Jang Yun Han Hong Yu Ki
 		}
+	}
+}
+
+yashima = {
+	graphical_culture = asiangfx
+
+	sushen = {
+	}
+	emisi = {
+	}
+	saeki = {
+	}
+	wa = {
+	}
+	shimagwa = {
+		dynasty_names = {
+			A An Ba Bei Chou Go Min Mou Ou Rin Sai Sei Son Shou Tei Tou Wou
+		}
+	}
+	dynasty_names = {
+		Abe Akanami Amabe Haibara Harima Hatabi Hifure Hijikata Himuka Inabi Iwasaka
+		Katsuragi Kawarata Keno Kibi Kii Kusaka Mate Miwo Mitsukai Mononobe Morokata Mugetsu 
+		Nakashi Noto Ohoka Okinaga Ooe Ookibi Ookuni Oota Owari 
+		Saeki Sakabe Sakuraitabe Sanuki Soga Sumeiro Suminoe 
+		Takenouchi Tama Tanba Taniwa Tarumi Uji Wakanuke Wani Yamashiro
 	}
 }
 

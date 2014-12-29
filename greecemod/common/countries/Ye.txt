@@ -1,0 +1,95 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 181 57 23 }
+
+historical_idea_groups = {
+	quality_ideas
+	trade_ideas
+	innovativeness_ideas
+	offensive_ideas
+	administrative_ideas
+	spy_ideas
+	defensive_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	japanese_archer
+	eastern_bow
+	japanese_footsoldier
+	japanese_samurai
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Shizong #0" = 15
+	"Taiping #0" = 15
+	"Taiqing #0" = 15
+	"Tianping #0" = 15
+	"Tianzheng #0" = 15
+	"Yuanming #0" = 15
+	"Zhongzong #0" = 15
+	"Chengsheng #0" = 10
+	"Anxi #0" = 10
+	"Dabao #0" = 10
+	"Dading #0" = 10
+	"Datong #0" = 10
+	"Fangzhi #0" = 10
+	"Faxing #0" = 10
+	"Guangyun #0" = 10
+	"Jianwen #0" = 10
+	"Putong #0" = 10
+	"Sansi #0" = 10
+	"Shaotai #0" = 10
+	"Taizheng #0" = 10
+	"Tianbao #0" = 10
+	"Tiancheng #0" = 10
+	"Tianjian #0" = 10
+	"Xiaojing #0" = 10
+	"Xiaoming #0" = 10
+	"Xuan #0" = 10
+	"Yuanqing #0" = 10
+	"Boliang #0" = 0
+	"Duanbei #0" = 0
+	"Gongfeng #0" = 0
+	"Gonghan #0" = 0
+	"Guanqi #0" = 0
+	"Guliang #0" = 0
+	"Jian #0" = 0
+	"Jinghe #0" = 0
+	"Shigong #0" = 0
+	"Shiguan #0" = 0
+	"Renke #0" = 0
+	"Rutian #0" = 0
+	"Ru'an #0" = 0
+	"Weichang #0" = 0
+	"Weizong #0" = 0
+	"Wu #0" = 0
+	"Yongfa #0" = 0
+	"Yuan #0" = 0
+	"Baoting #0" = -5
+	"Fenglai #0" = -5
+	"Laiyue #0" = -5
+	"Lingyue #0" = -5
+	"Pinghui #0" = -5
+	"Tianting #0" = -5
+	"Xian #0" = -5
+	"Ying #0" = -5
+	"Yueping #0" = -5
+}
+
+leader_names = {
+	Cui Fan Fu Gongxi Gongye Gui Ji Jiang Kong Liang Lu Lü
+	Min Ping Qi Ran Song Wuma Wu Yan Ye You Zai Zang Zhong
+}
+
+army_names = {
+	"$PROVINCE$ Dui" "$PROVINCE$ Jun" "$PROVINCE$ Bu" 
+}

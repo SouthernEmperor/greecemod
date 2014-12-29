@@ -1,0 +1,13 @@
+#738 - Taiwan
+
+owner = TNH
+controller = TNH
+culture = polynesian
+religion = animism
+capital = "Wufuran"
+trade_goods = chinaware
+hre = no
+base_tax = 5
+manpower = 2
+citysize = 6000
+discovered_by = chinese

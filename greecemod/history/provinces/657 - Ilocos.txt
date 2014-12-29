@@ -1,0 +1,13 @@
+#2697 - Ilocos
+
+owner = TNH
+controller = TNH
+culture = filipino
+religion = animism
+capital = "Shuubaaki"
+trade_goods = unknown
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 200
+discovered_by = chinese

@@ -1,0 +1,16 @@
+#1824 - Wenzhou
+
+owner = TNH
+controller = TNH
+add_core = TNH
+culture = qihan
+religion = wuxing_bagua
+capital = "Yoonkya"
+trade_goods = chinaware
+hre = no
+base_tax = 8
+manpower = 4
+citysize = 96000
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

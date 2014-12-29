@@ -1,0 +1,16 @@
+# 2182 - Liangzhou
+
+owner = CNI
+controller = CNI
+add_core = CNI
+culture = qinhan
+religion = shenist
+capital = "Liangzhou"
+trade_goods = wool
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 5000
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

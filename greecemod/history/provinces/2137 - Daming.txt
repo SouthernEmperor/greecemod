@@ -1,0 +1,16 @@
+# 2137 - Daming
+
+owner = CPG
+controller = CPG
+add_core = CPG
+culture = qinhan
+religion = shenist
+capital = "Handan"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 5000
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

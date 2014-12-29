@@ -1,0 +1,16 @@
+government = daimyo
+primary_culture = qinhan
+religion = shenist
+technology_group = chinese
+capital = 1836
+
+1444.1.1 = {
+	monarch = {
+		name = "Hanming"
+		dynasty = "Luo"
+		birth_date = 1419.7.28		
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}

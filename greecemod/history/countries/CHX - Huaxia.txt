@@ -1,0 +1,16 @@
+government = shogunate
+primary_culture = qinhan
+religion = shenist
+technology_group = chinese
+capital = 692
+
+1444.1.1 = {
+	monarch = {
+		name = "Zhuoguang"
+		dynasty = "Qian"
+		birth_date = 1395.4.21		
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+}

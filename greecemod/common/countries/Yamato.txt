@@ -1,0 +1,109 @@
+graphical_culture = asiangfx
+
+color = { 207  194  82 }
+
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	religious_ideas
+	economic_ideas
+	quality_ideas
+	maritime_ideas
+	spy_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	japanese_archer
+	eastern_bow
+	japanese_footsoldier
+	japanese_samurai
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Himiko #1" = -15
+	"Ekiyaku #0" = 10
+	"Nashime #0" = 10
+	"Uwechi #0" = 10
+	"Hitorijihime #0" = -10
+	"Hiroko #0" = -10
+	"Iyo #1" = -10
+	"Nadeshiko #0" = -10
+	"Nishikite #0" = -10
+	"Taiyo #0" = -10
+	"Chinu #0" = 5
+	"Hachiko #0" = 5
+	"Hikoimasu #1" = 5
+	"Himikoko #0" = 5
+	"Ihamura #0" = 5
+	"Ikina #0" = 5
+	"Iseiki #0" = 5
+	"Jishi #0" = 5
+	"Kuramaro #0" = 5
+	"Moriya #0" = 5
+	"Murobiko #1" = 5
+	"Nakatsu #0" = 5
+	"Naniha #0" = 5
+	"Nikime #0" = 5
+	"Ohomata #0" = 5
+	"Okinaga #0" = 5
+	"Ozaho #1" = 5
+	"Sahohiko #1" = 5
+	"Saishi #0" = 5
+	"Suishou #1" = 5
+	"Takehiko #0" = 5
+	"Takeisahi #0" = 5
+	"Tamura #0" = 5
+	"Tara #0" = 5
+	"Toshigori #0" = 5
+	"Wohari #0" = 5
+	"Adahime #0" = -5
+	"Anahome #0" = -5
+	"Hashihito #0" = -5
+	"Himemiko #0" = -5
+	"Hirohime #0" = -5
+	"Ishikina #0" = -5
+	"Kasanuhi #0" = -5
+	"Kashikiya #0" = -5
+	"Kitashihime #0" = -5
+	"Kuhada #0" = -5
+	"Nukatabe #0" = -5
+	"Nukatehime #0" = -5
+	"Ominako #0" = -5
+	"Sakanobori #0" = -5
+	"Sakurawi #0" = -5
+	"Shitsukahi #0" = -5
+	"Takara #0" = -5
+	"Oanegimi #0" = -5
+	"Oanehime #0" = -5
+	"Oobako #0" = -5
+	"Ookuramitome #0" = -5
+	"Ohotomo #0" = -5
+	"Woharida #0" = -5
+	"Wounako #0" = -5
+	"Eihogu #0" = 0
+	"Heikyogu #0" = 0
+	"Imoko #0"
+	"Renza #0"
+	"Yamaji #0"
+}
+
+leader_names = {
+	Abe Aya Fumi Hata Heguri Imadegawa Kasuga Kazuraki Kikuchi Kimi Kiyowoka Kose Kuwabara 
+	Matsu Mononobe Naka Nakatomi Ono Ooe Ookura Ootomo 
+	Sawa Sugahara Takahashi Takefu Tokoyo Tsuchimikado Urabe Wada
+}
+
+army_names = {
+	"Koku ga Guntai" "$PROVINCE$ Tsuimon" "$PROVINCE$ Gunmon" "$PROVINCE$ Bumon" 
+}
+
+fleet_names = {
+	"Koku ga Kantai" "$PROVINCE$ Youmon" "$PROVINCE$ Kaimon" "$PROVINCE$ Suimon"
+}

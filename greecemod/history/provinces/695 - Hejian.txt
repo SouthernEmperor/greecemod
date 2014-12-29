@@ -1,0 +1,16 @@
+#695 - Hebei
+
+owner = CPG
+controller = CPG
+add_core = CPG
+culture = qihan
+religion = wuxing_bagua
+capital = "Cangzhou"
+trade_goods = salt
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 240000
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

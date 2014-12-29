@@ -1,0 +1,15 @@
+#1015 - Okinawa
+
+owner = TNH
+controller = TNH
+add_core = TNH
+culture = shimagwa
+religion = shinto
+capital = "Shuri"
+trade_goods = chinaware
+hre = no
+base_tax = 8
+manpower = 3
+fort1 = yes
+citysize = 34000
+discovered_by = chinese

@@ -1,0 +1,15 @@
+#1012 - Satsuma
+
+owner = TNH
+controller = TNH
+add_core = TNH
+culture = wa
+religion = shinto
+capital = "Hayato"
+trade_goods = grain
+hre = no
+base_tax = 6
+manpower = 3
+citysize = 12000
+fort1 = yes
+discovered_by = chinese

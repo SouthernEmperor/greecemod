@@ -1,0 +1,14 @@
+# 2155 - Middag
+
+owner = TNH
+controller = TNH
+add_core = TNH
+culture = polynesian
+religion = shinto
+capital = "Inagushima"
+trade_goods = sugar
+hre = no
+base_tax = 4
+manpower = 3
+citysize = 10000
+discovered_by = chinese

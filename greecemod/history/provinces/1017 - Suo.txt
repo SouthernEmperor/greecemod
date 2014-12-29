@@ -1,0 +1,19 @@
+#1017 - Suo
+
+owner = HTA
+controller = HTA
+add_core = HTA
+culture = fusou
+religion = shinto
+capital = "Haufu" #Houfu-shi
+trade_goods = chinaware
+hre = no
+base_tax = 6
+manpower = 3
+citysize = 10000
+fort1 = yes
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG

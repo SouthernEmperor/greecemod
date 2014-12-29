@@ -1,0 +1,140 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 31  39  34 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	offensive_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+}
+
+monarch_names = {
+	"Baigan #0" = 5
+	"Boku #0" = 5
+	"Chouei #0" = 5
+	"Chouken #0" = 5
+	"Chouman #0" = 5
+	"Choutoku #0" = 5
+	"Furi #0" = 5
+	"Gendou #0" = 5
+	"Hakaru #0" = 5
+	"Hankoku #0" = 5
+	"Ikou #0" = 5
+	"In #0" = 5
+	"Kan #0" = 5
+	"Kanshin #0" = 5
+	"Kei #0" = 5
+	"Kokutei #0" = 5
+	"Koganishi #0" = 5
+	"Kosai #0" = 5
+	"Kou #0" = 5
+	"Koujin #0" = 5
+	"Kouki #0" = 5
+	"Kouzen #0" = 5
+	"Kyoujin #0" = 5
+	"Kyourei #0" = 5
+	"Nakijin #0" = 5
+	"Nansou #0" = 5
+	"Neiju #0" = 5
+	"Noshi #0" = 5
+	"Ooie #0" = 5
+	"Ooya #0" = 5
+	"Rankei #0" = 5
+	"Ryuutoku #0" = 5
+	"Seishin #0" = 5
+	"Shitsu #0" = 5
+	"Shoui #0" = 5
+	"Shuu #0" = 5
+	"Sonton #0" = 5
+	"Souken #0" = 5
+	"Taihara #0" = 5
+	"Taiki #0" = 5
+	"Tafuchi #0" = 5
+	"Tei #0" = 5
+	"Ton #0" = 5
+	"Tou #0" = 5
+	"Ufuya #0" = 5
+	"Yabiku #0" = 5
+	"Yafuso #0" = 5
+	"You #0" = 5
+	"Yousou #0" = 5
+	"Yuwan #0" = 5
+	"Zu #0" = 5
+	"Gyusshin #0" = 0
+	"Jingan #0" = 0
+	"Nukanaka #0" = 0
+	"Rizan #0" = 0
+	"Ryouhou #0" = 0
+	"Shisai #0" = 0
+	"Shuujoo #0" = 0
+	"Shuushin #0" = 0
+	"Shuuzen #0" = 0
+	"Tachikee #0" = 0
+	"Tokumei #0" = 0
+	"Chinen #0" = -5
+	"Fuden #0" = -5
+	"Fumiagari #0" = -5
+	"Gwitsuchi #0" = -5
+	"Hanasunu #0" = -5
+	"Hibiki #0" = -30
+	"Inin #0" = -5
+	"Kikue #0" = -5
+	"Maakari #0" = -5
+	"Makadoetaru #0" = -5
+	"Makurese #0" = -5
+	"Manabetaru #0" = -5
+	"Matsugani #0" = -5
+	"Matsuru #0" = -5
+	"Maushi #0" = -5
+	"Mazeni #0" = -5
+	"Nabe #0" = -5
+	"Nanafa #0" = -25
+	"Nangaku #0" = -5
+	"Omodo #0" = -5
+	"Omokame #0" = -5
+	"Omonabe #0" = -5
+	"Ranshitsu #0" = -5
+	"Ryougetsu #0" = -5
+	"Shikina #0" = -5
+	"Shimaushi #0" = -5
+	"Shiru #0" = -5
+	"Takeufu #0" = -5
+	"Takushi #0" = -5
+	"Togani #0" = -5
+	"Ukiyaka #0" = -5
+	"Ushigani #0" = -5
+	"Yunamine #0" = -5
+	"Yunashiru #0" = -5
+	"Zukeran #0" = -5
+}
+
+leader_names = {
+	Agari Aguni Arakachi Atari Chatan Chin Fija Futori Ganaha Ganaha Ganaha Ganaha Gima Ginowan Giwan Goeku Gushicha Gushikawa
+	Hajime Haneji Hentona Hirata Hirara Ie Ie Ie Iha Ii Ihyaa Ijina Ikegusuku Inoha Inoha Inoha Ishigaki 
+	Jinuza Katsuren Kameya Kamida Kamida Kamida Kanagusuku Kasari Kochinda Kochinda Kochinda Kogusuku Komi
+	Kin Kumoza Kunjan Kushi Kushichan Kushijii Kyan Kyan Kyan
+	Mabuni Maekawa Makabe Meejii Misato Miwara Miyagusuku Miyara Miyazato Motobu 
+	Naafa Naagusuku Nagayama Nago Nakada Nakagusuku Nakazato Nakijin Nakijin Nakijin Naze Nobori 
+	Oogimi Oohama Oozato Oroku Osoku Ou Sashiki Sashiki Sashiki 
+	Shiba Shimabuku Shimoji Shimoji Shimoji Shomi Shurimihira Sumie Sunaka Sunamori 
+	Tabata Takamine Takazato Tamagawa Tamagusuku Toguchi Tokumoto Tomari Tomigusuku Tomigusuku Tomigusuku Tsuhako 
+	Uchihana Uezu Ufugusuku Ufumura Unna Urasoe Wakugawa Wiibaru 
+	Yakiuchi Yamagusuku Yonagusuku Yoshimura Yuntanza Yuntanza Yuntanza Zakimi
+}      

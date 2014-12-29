@@ -1,0 +1,13 @@
+#658 - Cagayan
+
+owner = TNH
+controller = TNH
+culture = filipino
+religion = animism
+capital = "Tagayama"
+trade_goods = unknown
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 500
+discovered_by = chinese

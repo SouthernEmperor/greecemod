@@ -1,0 +1,16 @@
+government = merchant_republic
+mercantilism = 0.25
+religion = shinto
+primary_culture = shimagwa
+technology_group = chinese
+capital = 1015
+
+1444.1.1 = {
+	monarch = {
+		name = "Sunbon Kyan"
+		birth_date = 1410.2.11	
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+}

@@ -1,0 +1,14 @@
+# 2154 - Kelang
+
+owner = TNH
+controller = TNH
+add_core = TNH
+culture = shimagwa
+religion = shinto
+capital = "Haenuhama"
+trade_goods = tea
+hre = no
+base_tax = 6
+manpower = 4
+citysize = 16000
+discovered_by = chinese

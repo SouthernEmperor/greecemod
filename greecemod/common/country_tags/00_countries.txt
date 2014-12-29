@@ -122,6 +122,17 @@ PNT = "countries/Puntland.txt"
 #West Africa
 MGA = "countries/Manga.txt"
 
+#Chinese "Shogunate"
+CHX = "countries/Huaxia.txt"
+CGO = "countries/Gao.txt"
+CJG = "countries/Jiang.txt"
+CLO = "countries/Luo.txt"
+CNI = "countries/Nei.txt"
+CPG = "countries/Ping.txt"
+CYE = "countries/Ye.txt"
+
+HTA = "countries/Hata.txt"
+
 #ABOVE THIS LINE IS GREECEMOD STUFF
 #BELOW THIS LINE IS OLD COUNTRIES
 

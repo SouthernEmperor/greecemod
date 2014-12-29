@@ -1,0 +1,19 @@
+#1825 - Aki
+
+owner = HTA
+controller = HTA
+add_core = HTA
+culture = fusou
+religion = shenist
+capital = "Tomo"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 6100
+fort1 = yes
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
