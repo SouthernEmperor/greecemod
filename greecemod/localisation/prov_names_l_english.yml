@@ -1,19 +1,19 @@
 ﻿l_english:
  PROV1: "Uppsala" #done
  PROV2: "Austergautaland" #done
- PROV3: "Småland"
+ PROV3: "Smålandsgarden" #done
  PROV4: "Bergslagen"
  PROV5: "Värmland"
- PROV6: "Skåne"
+ PROV6: "Skånn"
  PROV7: "Vestrgautaland" #done
  PROV8: "Dalaskogen"
  PROV9: "Hälsingland"
  PROV10: "Jämtland"
  PROV11: "Västerbotten"
- PROV12: "Sjælland"
- PROV13: "Slesvig"
+ PROV12: "Sjaland" #done
+ PROV13: "Sleeswyk" #done
  PROV14: "Fyn"
- PROV15: "Midtjylland"
+ PROV15: "MidtJotaland" #done
  PROV16: "Bohuslän"
  PROV17: "Akershus"
  PROV18: "Lappland"
@@ -45,59 +45,59 @@
  PROV44: "Hemmaburg" #done
  PROV45: "Liubece" #done
  PROV46: "Meclaburg" #done
- PROV47: "Vorpommern"
- PROV48: "Hinterpommern"
+ PROV47: "Voridammar" #done
+ PROV48: "Haustidammar" #done
  PROV49: "Niuwmarc" #done
  PROV50: "Brennaburg" #done
- PROV51: "Ruppin"
+ PROV51: "Poggenstoduvadin" #done
  PROV52: "Aldermarc" #done
- PROV53: "Lüneburg"
- PROV54: "Stade"
+ PROV53: "Lumaborg" #done
+ PROV54: "Stood" #done
  PROV55: "Aldenboarch" #done
  PROV56: "Osnabroack" #done
  PROV57: "Brunnawic" #done
- PROV58: "Anhalt"
- PROV59: "Wittenberg"
- PROV60: "Oberlausitz"
+ PROV58: "Askanaz" #done
+ PROV59: "Hvitarkastela" #done
+ PROV60: "Aberlausitz" #done
  PROV61: "Sahsonia" #done
  PROV62: "Seaxa" #done
- PROV63: "Thüringen"
- PROV64: "Niederbayern"
- PROV65: "Minga"
- PROV66: "Bamberg"
- PROV67: "Nürnberg"
- PROV68: "Memmingen"
- PROV69: "Choschtez"
- PROV70: "Wirodanaz"
- PROV71: "Ansbach"
- PROV72: "Breisgau"
- PROV73: "Tirol"
- PROV74: "Baden"
+ PROV63: "Thoringi" #done
+ PROV64: "Nederbajuwariaz" #done
+ PROV65: "Minga" #done
+ PROV66: "Babenbarch" #done
+ PROV67: "Niamberg" #done 
+ PROV68: "Schwom" #done
+ PROV69: "Choschtez" #done
+ PROV70: "Wirodanaz" #done
+ PROV71: "Onoldsbach" #done
+ PROV72: "Briisgau" #done
+ PROV73: "Bajuwaraetia" #done
+ PROV74: "Baade" #done
  PROV75: "Argentina" #done
- PROV76: "Salzburg"
- PROV77: "Heidelberg"
- PROV78: "Mainz"
- PROV79: "Würzburg"
- PROV80: "Trier"
- PROV81: "Hessen"
- PROV82: "Westfalen"
- PROV83: "Nassau"
- PROV84: "Berg"
- PROV85: "Köln" 
- PROV86: "Münster"
- PROV87: "Calais"
- PROV88: "Artois"
- PROV89: "Picardie"
- PROV90: "Vlaanderen"
- PROV91: "Hainaut"
- PROV92: "Brabant"
- PROV93: "Liège"
- PROV94: "Luxemburg"
+ PROV76: "Soizburg" #done
+ PROV77: "Lopodunum" #done
+ PROV78: "Mogon" #done
+ PROV79: "Wiazburg" #done
+ PROV80: "Treivereraz" #done
+ PROV81: "Chatten" #done
+ PROV82: "Vestrfoldr" #done-ish
+ PROV83: "Nassova" #done
+ PROV84: "Butgenia" #done-ish
+ PROV85: "Kolle" #done 
+ PROV86: "Mimigernaford" #done
+ PROV87: "Kales" #done
+ PROV88: "Atrebatia" #done
+ PROV89: "Pikardje" #done
+ PROV90: "Flemingjaland" #done
+ PROV91: "Enegouwn" #done
+ PROV92: "Broaband" #done
+ PROV93: "Luuk" #done
+ PROV94: "Letzebuerg" #done
  PROV95: "Breda"
  PROV96: "Seelan" #done
  PROV97: "Hollan" #done
  PROV98: "Utert" #done
- PROV99: "Gelre"
+ PROV99: "Gelre" #done
  PROV100: "Fryslan" #done
  PROV101: "Liguria" #done
  PROV102: "Cemenelum" #done
@@ -131,9 +131,9 @@
  PROV130: "Istria"
  PROV131: "Zagreb"
  PROV132: "Steiermark"
- PROV133: "Linz"
- PROV134: "Wien"
- PROV135: "Sopron"
+ PROV133: "Obaöstarreich" #done
+ PROV134: "Wean" #done
+ PROV135: "Sopronaz" #done
  PROV136: "Salona" #done
  PROV137: "Narona" #done
  PROV138: "Zeta"
@@ -151,8 +151,8 @@
  PROV150: "Tarnovo"
  PROV151: "Bosporus" #done
  PROV152: "Varasd"
- PROV153: "Pest"
- PROV154: "Szepes"
+ PROV153: "Boden" #done
+ PROV154: "Sepezas" #done
  PROV155: "Bekes"
  PROV156: "Temes"
  PROV157: "Bihar"
@@ -179,19 +179,19 @@
  PROV178: "Anjou"
  PROV179: "Berry"
  PROV180: "Poitou"
- PROV181: "Rethel"
- PROV182: "Vermandois"
- PROV183: "Île-de-France"
+ PROV181: "Redelfort" #done
+ PROV182: "Viromandui" #done
+ PROV183: "Lutetia" #done
  PROV184: "Orleanais"
  PROV185: "Nemours"
- PROV186: "Champagne"
- PROV187: "Barrois"
- PROV188: "Metz"
- PROV189: "Lothringen"
+ PROV186: "Catalaunum" #done
+ PROV187: "Barra Franca" #done
+ PROV188: "Devodoraz" #done
+ PROV189: "Lotaringaz" #done
  PROV190: "Bourbon"
  PROV191: "Nevers"
- PROV192: "Bourgogne"
- PROV193: "Franche-Comté"
+ PROV192: "Borgondaz" #done
+ PROV193: "Alamankomtaz" #done
  PROV194: "Périgord"
  PROV195: "Limousin"
  PROV196: "Toulouse"
@@ -201,9 +201,9 @@
  PROV200: "Languedoc"
  PROV201: "Provence"
  PROV202: "Avignon"
- PROV203: "Lyonnais"
+ PROV203: "Leyden" #done
  PROV204: "Dauphiné"
- PROV205: "Savoie"
+ PROV205: "Sapaudia" #done
  PROV206: "Galicia"
  PROV207: "Asturias"
  PROV208: "León"
@@ -262,10 +262,10 @@
  PROV261: "Ruthenia"
  PROV262: "Krakow"
  PROV263: "Ratibor"
- PROV264: "Breslau"
- PROV265: "Moravia"
- PROV266: "Bohemia"
- PROV267: "Böhmerwald"
+ PROV264: "Brassel" #done
+ PROV265: "Mahrn" #done
+ PROV266: "Boiia" #done
+ PROV267: "Noardweald" #done
  PROV268: "Moldavia"
  PROV269: "Podlasie"
  PROV270: "Trakai"
@@ -1323,7 +1323,7 @@
  PROV1322: "Northern Euxine Sea"
  PROV1323: "Maeotic Sea"
  PROV1324: "Eastern Euxine Sea"
- PROV1325: "Lake Balaton"
+ PROV1325: "Lake Langobardia"
  PROV1326: "Hyrcanian Ocean"
  PROV1327: "Chorasmian Sea"
  PROV1328: "North Arabian Gulf"
@@ -1740,9 +1740,9 @@
  PROV1739: "Tuamotu Islands"
  PROV1740: "Marquises Islands"
  PROV1741: "Tiki Basin"
- PROV1742: "Limburg"
- PROV1743: "Cambray"
- PROV1744: "Antwerpen"
+ PROV1742: "Liimburich" #done
+ PROV1743: "Kamerich" #done
+ PROV1744: "Antorfia" #done
  PROV1745: "Cantabria"
  PROV1746: "Burgos"
  PROV1747: "Caceres"
@@ -1755,25 +1755,25 @@
  PROV1754: "Murom"
  PROV1755: "Ustyug"
  PROV1756: "Bessarabia"
- PROV1757: "Oberpfalz"
- PROV1758: "Hannover"
- PROV1759: "Potsdam"
- PROV1760: "Koblenz"
- PROV1761: "Pfalz"
- PROV1762: "Kassel"
- PROV1763: "Niederlausitz"
+ PROV1757: "Owerpfolz" #done
+ PROV1758: "Honovere" #done
+ PROV1759: "Nalaegeik" #done
+ PROV1760: "Kowelenz" #done
+ PROV1761: "Palz" #done
+ PROV1762: "Chassella" #done
+ PROV1763: "Nederlausitz" #done
  PROV1764: "Burgas"
  PROV1765: "Sofia"
  PROV1766: "Kosovo"
  PROV1767: "Slavonia"
  PROV1768: "Lienz"
  PROV1769: "Görz"
- PROV1770: "Ostmarch"
- PROV1771: "Erz"
- PROV1772: "Pozsony"
+ PROV1770: "Ostamark" #done
+ PROV1771: "Keilberga" #done 
+ PROV1772: "Pozonaz" #done
  PROV1773: "Achaea" #done
  PROV1774: "Treviso"
- PROV1775: "Holstein"
+ PROV1775: "Holtsat" #done
  PROV1776: "Karelia"
  PROV1777: "Kola"
  PROV1778: "Kasimov"
@@ -1855,30 +1855,30 @@
  PROV1854: "Nablus"
  PROV1855: "Tyre" #done
  PROV1856: "Abkhazia"
- PROV1857: "Lauenburg"
- PROV1858: "Stettin"
+ PROV1857: "Loonborg" #done
+ PROV1858: "Sumardammar" #done
  PROV1859: "Chelmno"
  PROV1860: "Icenia" #done
  PROV1861: "Coritania" #done
  PROV1862: "Cremona" #done
  PROV1863: "Graz"
- PROV1864: "Somogy"
- PROV1865: "Ghent"
- PROV1866: "Namur"
+ PROV1864: "Somogaz" #done
+ PROV1865: "Ganda" #done
+ PROV1866: "Namen" #done
  PROV1867: "Waadt" #done
- PROV1868: "Augsburg"
- PROV1869: "Zürich"
+ PROV1868: "Agschburga" #done
+ PROV1869: "Zueri" #done
  PROV1870: "Schtaa" #done
  PROV1871: "Poenina" #done
- PROV1872: "Ulm"
+ PROV1872: "Almattugur" #done
  PROV1873: "Grischun" #done
- PROV1874: "Bremen"
+ PROV1874: "Brimar" #done
  PROV1875: "Cuneo"
- PROV1876: "Frankfurt"
- PROV1877: "Charolais"
- PROV1878: "Aachen"
+ PROV1876: "Francafort" #done
+ PROV1877: "Quadrigella" #done
+ PROV1878: "Ahha" #done
  PROV1879: "Alencon"
- PROV1880: "Sundgau"
+ PROV1880: "Sunngau" #done
  PROV1881: "St. Martin"
  PROV1882: "Rusicade" #done
  PROV1883: "Western Finnish Lakes"
@@ -1982,7 +1982,7 @@
  PROV1981: "Bornholm"
  PROV1982: "Blekinge"
  PROV1983: "Lolland"
- PROV1984: "Nordjylland"
+ PROV1984: "Nordajotaland" #done
  PROV1985: "Närke"
  PROV1986: "New Caledonia"
  PROV1987: "Society Islands"
