@@ -1,6 +1,6 @@
 government = merchant_republic
 mercantilism = 0.1
-primary_culture = exodite
+primary_culture = exodite_islam
 religion = ashari
 technology_group = muslim
 capital = 1195

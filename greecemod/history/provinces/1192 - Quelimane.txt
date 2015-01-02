@@ -1,0 +1,39 @@
+#1192 - Quelimane
+
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+culture = bantu
+religion = exodite_islam
+capital = "Quelimane"
+citysize = 2800
+manpower = 1
+trade_goods = ivory
+hre = no
+base_tax = 2
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = AJU
+discovered_by = MBA
+discovered_by = MDI
+discovered_by = MLI
+discovered_by = SFA
+discovered_by = ZIM
+discovered_by = muslim
+discovered_by = ottoman
+
+1450.1.1  = { citysize = 3000 }
+1498.2.15 = { discovered_by = POR } #Vasco Da Gama
+1500.1.1  = { citysize = 4200 }
+1531.1.1  = {	owner = POR
+		controller = POR
+		citysize = 2000
+	    }
+1596.1.1  = { add_core = POR }
+1631.1.1  = { unrest = 7 } #Maravi invade region
+1632.1.1  = { unrest = 0 } #Maravi expelled from the region
+1700.1.1  = { citysize = 3000 }  
+1750.1.1  = { trade_goods = grain citysize = 4000 } #becomes major center of cereal production to feed slaves
+1800.1.1  = { citysize = 4500 }
