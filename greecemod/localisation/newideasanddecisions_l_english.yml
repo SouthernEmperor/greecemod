@@ -1,366 +1,366 @@
 ﻿l_english:
-      "pilgrim_idea_1": "Our Eternal Crusade"
-      "pilgrim_idea_1_desc": "Years we have tirelessly fought for the hearts and minds\
-      \ of those trapped within the tyranny of false belief, yet we have made negligible\
-      \ progress. The Master of the Pilgrimage believes it is time for a more...aggressive\
-      \ stance against our enemies. With or without the Abba's blessing, we will declare\
-      \ a Crusade that will not end until all souls are saved. "
-      "pilgrim_idea_2": "Reconstruction of the Pilgrim Fleet"
-      "pilgrim_idea_2_desc": "After the disasterous battle with the infamous pirate [the\
-      \ fire wizard], our fleets have been burnt into the sea. We have devoted our Order's\
-      \ resources to rebuilding the Fleet of the Pilgrimage, which will allow us to\
-      \ bring our crusade to the high seas."
-      "pilgrim_idea_3": "Operation Babel"
-      "pilgrim_idea_3_desc": "Our pilgrims have traveled far and wide. They can speak\
-      \ many tongues and know how to blend in. They too will contribute to our crusade\
-      \ by causing confusion and distrust in our enemy's ranks unseen of since God himself\
-      \ smashed that unholy tower."
-     "pilgrim_idea_4": "No Mercy, No Pity For the Foe"
-     "pilgrim_idea_4_desc": "We have no need to justify ourselves to heathens, from now\
-     \ on we will show no mercy, have no pity and never negotiate with heathens. "
-     "pilgrim_idea_5": "Many Hands"
-     "pilgrim_idea_5_desc": "Brothers and Sisters of Battle flock from all of Christendom\
+    pilgrim_idea_1: "Our Eternal Crusade"
+    pilgrim_idea_1_desc: "Years we have tirelessly fought for the hearts and minds\
+    \ of those trapped within the tyranny of false belief, yet we have made negligible\
+    \ progress. The Master of the Pilgrimage believes it is time for a more...aggressive\
+    \ stance against our enemies. With or without the Abba's blessing, we will declare\
+    \ a Crusade that will not end until all souls are saved. "
+    pilgrim_idea_2: "Reconstruction of the Pilgrim Fleet"
+    pilgrim_idea_2_desc: "After the disasterous battle with the infamous pirate [the\
+    \ fire wizard], our fleets have been burnt into the sea. We have devoted our Order's\
+    \ resources to rebuilding the Fleet of the Pilgrimage, which will allow us to\
+    \ bring our crusade to the high seas."
+    pilgrim_idea_3: "Operation Babel"
+    pilgrim_idea_3_desc: "Our pilgrims have traveled far and wide. They can speak\
+    \ many tongues and know how to blend in. They too will contribute to our crusade\
+    \ by causing confusion and distrust in our enemy's ranks unseen of since God himself\
+    \ smashed that unholy tower."
+    pilgrim_idea_4: "No Mercy, No Pity For the Foe"
+    pilgrim_idea_4_desc: "We have no need to justify ourselves to heathens, from now\
+    \ on we will show no mercy, have no pity and never negotiate with heathens. "
+    pilgrim_idea_5: "Many Hands"
+    pilgrim_idea_5_desc: "Brothers and Sisters of Battle flock from all of Christendom\
     \ to join our holy crusade. As they say, many hands make light work. "
-    "pilgrim_idea_6": "All Good Christians"
-    "pilgrim_idea_6_desc": "Europe is a land with many cultures, races and traditions.\
+    pilgrim_idea_6: "All Good Christians"
+    pilgrim_idea_6_desc: "Europe is a land with many cultures, races and traditions.\
     \ All cultures are welcome at our court, as long as they follow the Lord's holy\
     \ teachings."
-    "pilgrim_idea_7": "Empire of God on Earth"
-    "pilgrim_idea_7_desc": "We have created a great Empire, ruled by God himself! Our\
+    pilgrim_idea_7: "Empire of God on Earth"
+    pilgrim_idea_7_desc: "We have created a great Empire, ruled by God himself! Our\
     \ Empire is the most pious, the most holy! We are more divinely blessed than the\
     \ Abba himself! From the lowliest pauper to the highest king, all know that there\
     \ are none more faithful nor humble as us."
-    "pilgrim_ideas": "Pilgrim Ideas"
-    "pilgrim_ideas_bonus": "Pilgrim Ambitions"
-    "pilgrim_ideas_start": "Pilgrim Traditions"
-    "azania_forms_title": "Azanian Dreams"
-    "azania_forms_desc": "It has been some time since all of the nations in modern day Azania were formed, and one of them - us! - has managed to unite them. Let Mohammedan and Isayan lay aside his sword, for today, we are Azanian!"
-    "puntland_forms_title": "Puntland Unity"
-    "puntland_forms_desc": "Puntland is the most diverse region on earth - where else to Jews, Isayans and Hellenics cross paths this often? If we were to unite, we would be so much stronger!"
-    "MSY_ideas": "Mosyllite Ideas"
-    "MSY_ideas_bonus": "Mosyllite Ambitions"
-    "MSY_ideas_start": "Mosyllite Traditions"
-    "almalik_edict": "Edicts of al-Malik"
-    "almalik_edict_desc": "The Edicts of al-Malik are a series of guidelines writen\
+    pilgrim_ideas: "Pilgrim Ideas"
+    pilgrim_ideas_bonus: "Pilgrim Ambitions"
+    pilgrim_ideas_start: "Pilgrim Traditions"
+    azania_forms_title: "Azanian Dreams"
+    azania_forms_desc: "It has been some time since all of the nations in modern day Azania were formed, and one of them - us! - has managed to unite them. Let Mohammedan and Isayan lay aside his sword, for today, we are Azanian!"
+    puntland_forms_title: "Puntland Unity"
+    puntland_forms_desc: "Puntland is the most diverse region on earth - where else to Jews, Isayans and Hellenics cross paths this often? If we were to unite, we would be so much stronger!"
+    MSY_ideas: "Mosyllite Ideas"
+    MSY_ideas_bonus: "Mosyllite Ambitions"
+    MSY_ideas_start: "Mosyllite Traditions"
+    almalik_edict: "Edicts of al-Malik"
+    almalik_edict_desc: "The Edicts of al-Malik are a series of guidelines writen\
     \ down by Harun al-Malik, the man who designed the Great Harbor of Iraftah. In\
     \ it, he describes various ways of construction that seem highly efficient to\
     \ us."
-    "casterelaxation": "Caste Relaxation"
-    "casterelaxation_desc": "Although a caste system may have worked when we needed\
+    casterelaxation: "Caste Relaxation"
+    casterelaxation_desc: "Although a caste system may have worked when we needed\
     \ to ensure the greatness of our faith, it is becoming ever clearer that, should\
     \ we not relax this, our nations will fall back massively. Allowing intelligent\
     \ men from lower castes into our ranks may have some advantages."
-    "diadromes": "The Diadromes"
-    "diadromes_desc": "The Diadromes, or \"Routes\", are a system of roads and trails\
+    diadromes: "The Diadromes"
+    diadromes_desc: "The Diadromes, or \"Routes\", are a system of roads and trails\
     \ that allow us to continue our resistance against the nations that occupy us."
-    "erythraean_pirates": "Erythraean Pirates"
-    "erythraean_pirates_desc": "The enlistment of Erythraean pirates to our casue enables\
+    erythraean_pirates: "Erythraean Pirates"
+    erythraean_pirates_desc: "The enlistment of Erythraean pirates to our casue enables\
     \ us a larger navy."
-    "exodite_emirate_ideas": "Exodite Ideas"
-    "exodite_emirate_ideas_bonus": "Exodite Ambitions"
-    "exodite_emirate_ideas_start": "Exodite Traditions"
-    "gate_erythraean": "The Gate to the Erythraean"
-    "gate_erythraean_desc": "We have long stood at the gate between Aigyptos and the\
+    exodite_emirate_ideas: "Exodite Ideas"
+    exodite_emirate_ideas_bonus: "Exodite Ambitions"
+    exodite_emirate_ideas_start: "Exodite Traditions"
+    gate_erythraean: "The Gate to the Erythraean"
+    gate_erythraean_desc: "We have long stood at the gate between Aigyptos and the\
     \ Erythraean. Our control of trade in the area empowers us."
-    "library_mosyllum": "Library of Moyllum"
-    "library_mosyllum_desc": "The Library of Mosyllum has been the authority on trade\
+    library_mosyllum: "Library of Moyllum"
+    library_mosyllum_desc: "The Library of Mosyllum has been the authority on trade\
     \ and administration for the entire Erythraean Sea for around 300 years now. It\
     \ allows us to call upon knowledge of the ancients."
-    "postsomali_admin": "Postsomali Administration"
-    "postsomali_admin_desc": "It has been a long time since we have been considered\
+    postsomali_admin: "Postsomali Administration"
+    postsomali_admin_desc: "It has been a long time since we have been considered\
     \ truly Hellenic or truly Somali. Our administration has as such improved considerably."
-    "punt_training": "Puntland Training"
-    "punt_training_desc": "Our training in the unhospitable terrain of Puntland has\
+    punt_training: "Puntland Training"
+    punt_training_desc: "Our training in the unhospitable terrain of Puntland has\
     \ left us with the ability to resist much more than other armies."
-    "secondexodus": "The Second Exodus"
-    "secondexodus_desc": "It would appear that our First Exodus from Arabia was not\
+    secondexodus: "The Second Exodus"
+    secondexodus_desc: "It would appear that our First Exodus from Arabia was not\
     \ enough for some of the nations in the area, as we are constantly surrounded.\
     \ Perhaps if we could find a new home..."
-    "sharia": "Shari'a"
-    "sharia_desc": "Through a complete following of the laws dictated in the Quran we\
+    sharia: "Shari'a"
+    sharia_desc: "Through a complete following of the laws dictated in the Quran we\
     \ may still maintain some of our heritage."
-    "socotid_weyn": "The Socotid Weyn"
-    "socotid_weyn_desc": "The Socotid Weyn, or Great Walk, is the name attributed to\
+    socotid_weyn: "The Socotid Weyn"
+    socotid_weyn_desc: "The Socotid Weyn, or Great Walk, is the name attributed to\
     \ the first Exodus of our people to the joint cities of Raphta and Pyralax. We\
     \ shall honor our ancestors, and leave for a place free of foreign interference!"
-    "thesean_expedition": "The Thesean Expeditions"
-    "thesean_expedition_desc": "Theseos Markopolos was a Hellenic explorer who was responsible\
+    thesean_expedition: "The Thesean Expeditions"
+    thesean_expedition_desc: "Theseos Markopolos was a Hellenic explorer who was responsible\
     \ for the so-called Thesean Expeditions, which helped not only expand Mosyllum\
     \ but also established a Hellenic presence over Azania. We can honor his legacy\
     \ by continuing for him."
-    "xhidhidka": "The Xhidhidka"
-    "xhidhidka_desc": "It seems that we have slowly discovered other powers who follow\
+    xhidhidka: "The Xhidhidka"
+    xhidhidka_desc: "It seems that we have slowly discovered other powers who follow\
     \ the faith of the cresent. Our neighbors have taken to calling this the Xhidhidka,\
     \ or Reconnection."
-    "yaqub_reform": "Yaqub's Reforms"
-    "yaqub_reform_desc": "Admiral Yaqub ibn Abdullah was a great man, who wrote a text\
+    yaqub_reform: "Yaqub's Reforms"
+    yaqub_reform_desc: "Admiral Yaqub ibn Abdullah was a great man, who wrote a text\
     \ called \"On the Principle of Naval Constructs. Similar to al-Malik's work, it\
     \ allows us to spend less money maintaining our naval forces."
-    "PAN_ideas": "Panic Ideas"
-    "PAN_ideas_bonus": "Panic Ambitions"
-    "PAN_ideas_start": "Panic Traditions"
-    "ciidankabadda": "The Ciidanka Badda"
-    "ciidankabadda_desc": "The Panic navy is feared across the Erythraean for its brutality\
+    PAN_ideas: "Panic Ideas"
+    PAN_ideas_bonus: "Panic Ambitions"
+    PAN_ideas_start: "Panic Traditions"
+    ciidankabadda: "The Ciidanka Badda"
+    ciidankabadda_desc: "The Panic navy is feared across the Erythraean for its brutality\
     \ and as such, plenty of bandits are willing to flock to our banners."
-    "foreignexpeditions": "Foreign Expeditions"
-    "foreignexpeditions_desc": "Many foreign navies have landed at our ports to go on\
+    foreignexpeditions: "Foreign Expeditions"
+    foreignexpeditions_desc: "Many foreign navies have landed at our ports to go on\
     \ to further expeditions. Maybe it would be in our interests if we follow them..."
-    "hatcompany": "Company of the Hat"
-    "hatcompany_desc": "The Company of the Hat is another Merchant Guild with influence\
+    hatcompany: "Company of the Hat"
+    hatcompany_desc: "The Company of the Hat is another Merchant Guild with influence\
     \ in the Panic Senate, that has offered us to maintain our ships, meaning they\
     \ don't break down as much anymore."
-    "integratingsomalia": "Integration"
-    "integratingsomalia_desc": "We have often been oppressed throughout history, and\
+    integratingsomalia: "Integration"
+    integratingsomalia_desc: "We have often been oppressed throughout history, and\
     \ as such we have no issue making non-Jews feel at home in our nation."
-    "jewishpirates": "Panic Piracy"
-    "jewishpirates_desc": "Everyone knows the best way to make money is to take it off\
+    jewishpirates: "Panic Piracy"
+    jewishpirates_desc: "Everyone knows the best way to make money is to take it off\
     \ other people."
-    "merchant_repairing": "Merchant Marine"
-    "merchant_repairing_desc": "The recruitment of our merchants' naval assets is bound\
+    merchant_repairing: "Merchant Marine"
+    merchant_repairing_desc: "The recruitment of our merchants' naval assets is bound\
     \ to make somebody pleased, although our neighbors raise quizzical eyebrows at\
     \ the terminology."
-    "starbuilders": "Shipbuilders of the Star"
-    "starbuilders_desc": "The Shipbuilders of the Star are a merchant guild that often\
+    starbuilders: "Shipbuilders of the Star"
+    starbuilders_desc: "The Shipbuilders of the Star are a merchant guild that often\
     \ vowed to provide cheaper ships to our nation. Perhaps they can build them cheaper\
     \ as well..."
-    "SRN_ideas": "Sarapionite Ideas"
-    "SRN_ideas_bonus": "Sarapionite Ambitions"
-    "SRN_ideas_start": "Sarapionite Traditions"
-    "adapttactic": "Adaptational Tactics "
-    "adapttactic_desc": "A rigid tactical codex might seem beneficial in the short run,\
+    SRN_ideas: "Sarapionite Ideas"
+    SRN_ideas_bonus: "Sarapionite Ambitions"
+    SRN_ideas_start: "Sarapionite Traditions"
+    adapttactic: "Adaptational Tactics "
+    adapttactic_desc: "A rigid tactical codex might seem beneficial in the short run,\
     \ but it makes us predictable. Hence, we shall adapt our military ideas to the\
     \ way things turn out for us."
-    "davidianreform": "Davidian Reforms"
-    "davidianreform_desc": "The Davidian Reforms, instituted by a Panic corporal, have\
+    davidianreform: "Davidian Reforms"
+    davidianreform_desc: "The Davidian Reforms, instituted by a Panic corporal, have\
     \ not been adopted by his nation, however we can use it to our gains."
-    "firstandonly": "Proti Kai Mondaki"
-    "firstandonly_desc": "We do not care what others say, our army is the First and\
+    firstandonly: "Proti Kai Mondaki"
+    firstandonly_desc: "We do not care what others say, our army is the First and\
     \ Only of this region."
-    "nopeacepls": "Know No Peace"
-    "nopeacepls_desc": "Know No Peace, the official motto of our armed forecs, is a\
+    nopeacepls: "Know No Peace"
+    nopeacepls_desc: "Know No Peace, the official motto of our armed forecs, is a\
     \ becaon to us all, telling us how exactly we should fight. Even the advent of\
     \ firearms hasn't stopped us."
-    "sarapionbonds": "War Bonds"
-    "sarapionbonds_desc": "War bonds, being a voluntary economic contribution to the\
+    sarapionbonds: "War Bonds"
+    sarapionbonds_desc: "War bonds, being a voluntary economic contribution to the\
     \ war, bring our people closer together."
-    "sarapiontactics": "Sarapionite Tactics"
-    "sarapiontactics_desc": "\"Strike early, strike fast, strike hard\" - Maximos of\
+    sarapiontactics: "Sarapionite Tactics"
+    sarapiontactics_desc: "\"Strike early, strike fast, strike hard\" - Maximos of\
     \ Sarapion, 700 AD"
-    "zanjscourge": "Scourge of Azania"
-    "zanjscourge_desc": "Our armies have seen many men die before them. We can further\
+    zanjscourge: "Scourge of Azania"
+    zanjscourge_desc: "Our armies have seen many men die before them. We can further\
     \ coerce the natives of Azania and Puntland by colonizing them."
-    "greatarmies": "Great Armies"
-    "greatarmies_desc": "Our armies are great, and there is no one left to dispute that."
-    "greathouse": "Great House Acts"
-    "greathouse_desc": "Since we believe riches may lie further inland, we are going\
+    greatarmies: "Great Armies"
+    greatarmies_desc: "Our armies are great, and there is no one left to dispute that."
+    greathouse: "Great House Acts"
+    greathouse_desc: "Since we believe riches may lie further inland, we are going\
     \ to build Great Houses there as well, to establish a presence in the area"
-    "greatmarket": "The Great Markets"
-    "greatmarket_desc": "The Great Markets of our cities have long been a source of\
+    greatmarket: "The Great Markets"
+    greatmarket_desc: "The Great Markets of our cities have long been a source of\
     \ income, and people are willing to trade there from far and wide."
-    "isayaecumenical": "Ecumenical Faith"
-    "isayaecumenical_desc": "The Isayan faith is a combination of Buddhist beliefs and\
+    isayaecumenical: "Ecumenical Faith"
+    isayaecumenical_desc: "The Isayan faith is a combination of Buddhist beliefs and\
     \ Christianity, with a heavy focus on tolerance. As such, we are always open to\
     \ more faiths."
-    "minor_sarapionite": "Minor Sarapionite Ideas"
-    "minor_sarapionite_bonus": "Minor Sarapionite Ambitions"
-    "minor_sarapionite_start": "Minor Sarapionite Traditions"
-    "sarapionicthemes": "Free Cities"
-    "sarapionicthemes_desc": "Each coastal city of our nation is ruled by a so-called\
+    minor_sarapionite: "Minor Sarapionite Ideas"
+    minor_sarapionite_bonus: "Minor Sarapionite Ambitions"
+    minor_sarapionite_start: "Minor Sarapionite Traditions"
+    sarapionicthemes: "Free Cities"
+    sarapionicthemes_desc: "Each coastal city of our nation is ruled by a so-called\
     \ Great House. This decentralized form of government means that a crisis in one\
     \ part of the country does not affect general government."
-    "surroundenemies": "Surrounded By Enemies"
-    "surroundenemies_desc": "Everyone, from Pano to Pirayye to even Sarapion, is not\
+    surroundenemies: "Surrounded By Enemies"
+    surroundenemies_desc: "Everyone, from Pano to Pirayye to even Sarapion, is not\
     \ known for liking us very much, as we are the envy of the known world. Our forts\
     \ improve to reflect thsi fact."
-    "tribediplomacy": "Tribal Diplomacy"
-    "tribediplomacy_desc": "Our negotiations with tribes further into Azania have proven\
+    tribediplomacy: "Tribal Diplomacy"
+    tribediplomacy_desc: "Our negotiations with tribes further into Azania have proven\
     \ fruitful, as they are willing to cheaply send us mercenaries."
-    "fed_from_horse_blood": "Fed from Horse Blood"
-    "fed_from_horse_blood_desc": "It is said our children learn to ride before they\
+    fed_from_horse_blood: "Fed from Horse Blood"
+    fed_from_horse_blood_desc: "It is said our children learn to ride before they\
     \ can walk, and that is not entirely false. With the expertise of our riders,\
     \ our horsemen can fight better than ever, driving our enemies back to their walls."
-    "kurgans": "Kurgans"
-    "kurgans_desc": "Our glorious dead are bured in mounds of earth and stone. We venerate\
+    kurgans: "Kurgans"
+    kurgans_desc: "Our glorious dead are bured in mounds of earth and stone. We venerate\
     \ these mounds, old and new. Let our ancestors show us the path to victory."
-    "legend_of_the_amazons": "Legend of the Amazons"
-    "legend_of_the_amazons_desc": "It is said the Scythians are related to the Amazons\
+    legend_of_the_amazons: "Legend of the Amazons"
+    legend_of_the_amazons_desc: "It is said the Scythians are related to the Amazons\
     \ of ancient lore. Even today, there is a proud tradition amongst our people of\
     \ strong female leaders and warriors. Let us show the patriarchies of the world\
     \ our power!"
-    "might_makes_right": "Might Makes Right"
-    "might_makes_right_desc": "In the steppes, since the days of long past, it has been\
+    might_makes_right: "Might Makes Right"
+    might_makes_right_desc: "In the steppes, since the days of long past, it has been\
     \ the ones who win through sheer blunt force that reign supreme. As we have displayed\
     \ our power better than anyone around, we've proven to newly conquered peoples\
     \ who the masters of the steppe truly are, and integrating them into full subjects\
     \ of our realm is easier done than said."
-    "noble_horsemen": "Noble Horsemen"
-    "noble_horsemen_desc": "The hordes of the vast steppes and their commanders are\
+    noble_horsemen: "Noble Horsemen"
+    noble_horsemen_desc: "The hordes of the vast steppes and their commanders are\
     \ feared from Gaul to Serica. And no nation displays the might of the steppe better\
     \ than our glorious Scythia. Armed with the combat knowledge of generations past,\
     \ our commanders can truly drive fear into the hearts of our enemies."
-    "ritual_cannabis": "Ritual Cannabis"
-    "ritual_cannabis_desc": "For generations our people have used the magic of soma\
+    ritual_cannabis: "Ritual Cannabis"
+    ritual_cannabis_desc: "For generations our people have used the magic of soma\
     \ to pleasure ourselves. Now, we may spread this practice and its wonderful effects\
     \ to our subject peoples - to keep them placated."
-    "SCY_ideas": "Scythian Ideas"
-    "SCY_ideas_bonus": "Scythian Ambitions"
-    "SCY_ideas_start": "Scythian Traditions"
-    "steppe_tolerance": "Steppe Tolerance"
-    "steppe_tolerance_desc": "Even amongst the civilized peoples of the world, our Scythia\
+    SCY_ideas: "Scythian Ideas"
+    SCY_ideas_bonus: "Scythian Ambitions"
+    SCY_ideas_start: "Scythian Traditions"
+    steppe_tolerance: "Steppe Tolerance"
+    steppe_tolerance_desc: "Even amongst the civilized peoples of the world, our Scythia\
     \ has been renowned as a place of tolerance, where religious minorities can practice\
     \ freely as they so wish - so long as they accept Scythia's superiority, as a\
     \ matter of course."
-    "SPR_ideas": "Spartan Ideas"
-    "SPR_ideas_bonus": "Spartan Ambitions"
-    "SPR_ideas_start": "Spartan Traditions"
-    "dine_in_hell": "Dine in Hell"
-    "dine_in_hell_desc": ""
-    "earth_and_water": "Earth and Water"
-    "earth_and_water_desc": ""
-    "even_a_godking_can_bleed": "Even A God-King Can Bleed"
-    "even_a_godking_can_bleed_desc": ""
-    "fear_the_spartan_spear": "Fear the Spartan Spear"
-    "fear_the_spartan_spear_desc": ""
-    "fight_in_the_shade": "Fight in the Shade"
-    "fight_in_the_shade_desc": ""
-    "remember_why_we_died": "Remember Why We Died"
-    "remember_why_we_died_desc": ""
-    "with_it_or_on_it": "With It, or On It"
-    "with_it_or_on_it_desc": ""
-    "LES_ideas": "Lesbian Ideas"
-    "LES_ideas_bonus": "Lesbian Ambitions"
-    "LES_ideas_start": "Lesbian Traditions"
-    "cherchez_la_femme": "Cherchez la Femme"
-    "cherchez_la_femme_desc": "Behind every strangely acting Hellene man lies a woman.\
+    SPR_ideas: "Spartan Ideas"
+    SPR_ideas_bonus: "Spartan Ambitions"
+    SPR_ideas_start: "Spartan Traditions"
+    dine_in_hell: "Dine in Hell"
+    dine_in_hell_desc: ""
+    earth_and_water: "Earth and Water"
+    earth_and_water_desc: ""
+    even_a_godking_can_bleed: "Even A God-King Can Bleed"
+    even_a_godking_can_bleed_desc: ""
+    fear_the_spartan_spear: "Fear the Spartan Spear"
+    fear_the_spartan_spear_desc: ""
+    fight_in_the_shade: "Fight in the Shade"
+    fight_in_the_shade_desc: ""
+    remember_why_we_died: "Remember Why We Died"
+    remember_why_we_died_desc: ""
+    with_it_or_on_it: "With It, or On It"
+    with_it_or_on_it_desc: ""
+    LES_ideas: "Lesbian Ideas"
+    LES_ideas_bonus: "Lesbian Ambitions"
+    LES_ideas_start: "Lesbian Traditions"
+    cherchez_la_femme: "Cherchez la Femme"
+    cherchez_la_femme_desc: "Behind every strangely acting Hellene man lies a woman.\
     \ We can use this to our distinct advantage."
-    "cosmopolitan_lifestyle": "Cosmopolitan Lifestyle"
-    "cosmopolitan_lifestyle_desc": "The tolerant, open society of the Lesbians has long\
+    cosmopolitan_lifestyle: "Cosmopolitan Lifestyle"
+    cosmopolitan_lifestyle_desc: "The tolerant, open society of the Lesbians has long\
     \ attracted Hellnes from oppressive societies across the Oikumene. With this in\
     \ mind, we should have little issue integrating recently conquered minorities\
     \ into our country's administration."
-    "court_diplomacy": "Court Diplomacy"
-    "court_diplomacy_desc": "It is strange that such an eclectic country as Lesbos is\
+    court_diplomacy: "Court Diplomacy"
+    court_diplomacy_desc: "It is strange that such an eclectic country as Lesbos is\
     \ accepted so readily by the larger Hellenic community. This is in no short order\
     \ due to the quality of our diplomatic corps, which have produced some of the\
     \ most shrewd and talented diplomats around. We can proudly continue this tradition\
     \ to our advantage."
-    "legacy_of_lysistrata": "Lgeacy of Lysistrata"
-    "legacy_of_lysistrata_desc": "The ancient play Lysistrata told of a group of women\
+    legacy_of_lysistrata: "Lgeacy of Lysistrata"
+    legacy_of_lysistrata_desc: "The ancient play Lysistrata told of a group of women\
     \ from across Hellas who resisted the endless Pelopennesian War and tried to force\
     \ peace by denying sexual priveliges to their warrior husbands. We must remember\
     \ the lessons of this play."
-    "lesbian_wine": "Lesbian Wine"
-    "lesbian_wine_desc": "The isle of Lesbos, our great capital, is renowned throughout\
+    lesbian_wine: "Lesbian Wine"
+    lesbian_wine_desc: "The isle of Lesbos, our great capital, is renowned throughout\
     \ the oikumene for the rich wines it produces. Perhaps we could use this to our\
     \ advantage?"
-    "no_lord_in_this_manor": "No Lord in this Manor"
-    "no_lord_in_this_manor_desc": "The Lesbians don't have a lord. They don't vote for\
+    no_lord_in_this_manor: "No Lord in this Manor"
+    no_lord_in_this_manor_desc: "The Lesbians don't have a lord. They don't vote for\
     \ kings. Proudly republican, the people of Lesbos see the violence inherent in\
     \ the system. They take turns electing an executive officer of the week, but all\
     \ that decisions of that offer must be ratified at a biweekly meeting by a simple\
     \ majority in internal affairs but a two-thirds majority in external affairs..."
-    "revival_of_the_cult_of_cybele": "Revival of the Cult of Cybele"
-    "revival_of_the_cult_of_cybele_desc": "Cybele was an ancient Phrygian goddess of\
+    revival_of_the_cult_of_cybele: "Revival of the Cult of Cybele"
+    revival_of_the_cult_of_cybele_desc: "Cybele was an ancient Phrygian goddess of\
     \ fertility, almost forgotten in the years since. Now, she is undergoing something\
     \ of a revival, and shrines to her are mushrooming across the country and in our\
     \ capital. As is the nature of Lesbos's flourishing society, her worship is quite\
     \ readily tolerated."
-    "MGA_ideas": "Manganese Ideas"
-    "MGA_ideas_bonus": "Manganese Ambitions"
-    "MGA_ideas_start": "Manganese Traditions"
-    "baka": "The Baka"
-    "baka_desc": "The Baka is an ancient way of life, which revolves around the idea\
+    MGA_ideas: "Manganese Ideas"
+    MGA_ideas_bonus: "Manganese Ambitions"
+    MGA_ideas_start: "Manganese Traditions"
+    baka: "The Baka"
+    baka_desc: "The Baka is an ancient way of life, which revolves around the idea\
     \ that \"It's not like I want you to control me or anything\". It practices freedom,\
     \ yet parts of the diet are rumored to cause severe mood swings."
-    "chargesofmanga": "The Seven Charges"
-    "chargesofmanga_desc": "The Seven Charges are legendary Manganese heroes - a Saber,\
+    chargesofmanga: "The Seven Charges"
+    chargesofmanga_desc: "The Seven Charges are legendary Manganese heroes - a Saber,\
     \ an Archer, a Lancer. a Rider, a Beserker, an Assassin and a Shaman - that even\
     \ today inspire our armies to do great deeds.  "
-    "culturalimperialism": "Cultural Imperialism"
-    "culturalimperialism_desc": "Everyone wants our culture - from the farthest reaches\
+    culturalimperialism: "Cultural Imperialism"
+    culturalimperialism_desc: "Everyone wants our culture - from the farthest reaches\
     \ of Africa to Europe and Asia, they all clamor for our knowledge. They are thus\
     \ more willing to concede to us."
-    "fullmetal": "Full Metal Alchemy"
-    "fullmetal_desc": "Many scientists mull over our alchemic traditions every night,\
+    fullmetal: "Full Metal Alchemy"
+    fullmetal_desc: "Many scientists mull over our alchemic traditions every night,\
     \ leading us to greater efficiency in researching bureaucratic ideals."
-    "nosad": "Land of Happiness"
-    "nosad_desc": "There are no unhappy people in this perfect world. At all."
-    "nyanya": "Nya Nya!"
-    "nyanya_desc": "Nya Nya is the war cry of our special armies, who take great pains\
+    nosad: "Land of Happiness"
+    nosad_desc: "There are no unhappy people in this perfect world. At all."
+    nyanya: "Nya Nya!"
+    nyanya_desc: "Nya Nya is the war cry of our special armies, who take great pains\
     \ to dress up as the great cats of the region, and so we strike fear into the\
     \ hearts of our enemies."
-    "ohgodwhat": "Monster Sagas"
-    "ohgodwhat_desc": "There are various tales told by griots of monsters that live\
+    ohgodwhat: "Monster Sagas"
+    ohgodwhat_desc: "There are various tales told by griots of monsters that live\
     \ deep inside our territory. We'd rather not talk about it."
-    "PNT_ideas": "Puntlander Ideas"
-    "PNT_ideas_bonus": "Puntlander Ambitions"
-    "PNT_ideas_start": "Puntlander Traditions"
-    "bankersetc": "Bankers"
-    "bankersetc_desc": "The Bankers of Pano are the backbone of our economy - without\
+    PNT_ideas: "Puntlander Ideas"
+    PNT_ideas_bonus: "Puntlander Ambitions"
+    PNT_ideas_start: "Puntlander Traditions"
+    bankersetc: "Bankers"
+    bankersetc_desc: "The Bankers of Pano are the backbone of our economy - without\
     \ them, nothing would run."
-    "cannonsofmosyllum": "Mosyllite Cannons"
-    "cannonsofmosyllum_desc": "The Cannons of Mosyllum are legendary."
-    "BAB_ideas": "Babylon Ideas"
-    "BAB_ideas_bonus": "Babylonian Ambitions"
-    "BAB_ideas_start": "Babylonian Traditions"
-    "an_eye_for_an_eye": "An Eye for an Eye"
-    "an_eye_for_an_eye_desc": "It doesn't make the whole world blind, as some would\
+    cannonsofmosyllum: "Mosyllite Cannons"
+    cannonsofmosyllum_desc: "The Cannons of Mosyllum are legendary."
+    BAB_ideas: "Babylon Ideas"
+    BAB_ideas_bonus: "Babylonian Ambitions"
+    BAB_ideas_start: "Babylonian Traditions"
+    an_eye_for_an_eye: "An Eye for an Eye"
+    an_eye_for_an_eye_desc: "It doesn't make the whole world blind, as some would\
     \ say. The great Babylonian ruler Hammurabi codified the first known code of laws,\
     \ some 1800 years before the birth of Christ, and as we know, it worked. Now that\
     \ we've established ourselves as the true heirs to Babylon, we could take the\
     \ opportunity and completely update our legal code too, using Hammurabi's as as\
     \ a template, and form a new model for all our people."
-    "babylon_zoo": "Babylon Zoo"
-    "babylon_zoo_desc": "Our goal is simple: we must reach space, where we were always\
+    babylon_zoo: "Babylon Zoo"
+    babylon_zoo_desc: "Our goal is simple: we must reach space, where we were always\
     \ wanted to go. This quest, and its pungent smells, shall consummate our homes.\
     \ Beyond the black horizons, things we don't even know about yet are trying to\
     \ take control. See, our women are even shivering in their bones. There's a fire\
     \ between us; where is our God?"
-    "ishtars_gate": "Ishtar's Gate"
-    "ishtars_gate_desc": "One of the landmarks of Babylon of old was the grand Ishtar's\
+    ishtars_gate: "Ishtar's Gate"
+    ishtars_gate_desc: "One of the landmarks of Babylon of old was the grand Ishtar's\
     \ Gate, an ornate blue and gold wall. We could re-erect this grand monument that\
     \ once brought the respect of millions to the centre of the world, and win back\
     \ Ishtar's favours for our empire. And though most of us no longer believe in\
     \ Ishtar, we know that the spirits of the old empires of Babylon, all of them,\
     \ will remain will us forever."
-    "nebuchadnezzars_legacy": "Legacy of Nebuchadnezzar II"
-    "nebuchadnezzars_legacy_desc": "Even though the Bible labels him a tyrant overcome\
+    nebuchadnezzars_legacy: "Legacy of Nebuchadnezzar II"
+    nebuchadnezzars_legacy_desc: "Even though the Bible labels him a tyrant overcome\
     \ by his own pride, and later his insanity, our historians have managed to disprove\
     \ this, naturally! We can claim ourselves as the descendants of the great king\
     \ who erected the Ishtar Gate, and, well, all mankind shall behold us in awe."
-    "neosumerian_architecture": "Neosumerian Architecture"
-    "neosumerian_architecture_desc": "Older than Muhammad or Christ, older than Alexander\
+    neosumerian_architecture: "Neosumerian Architecture"
+    neosumerian_architecture_desc: "Older than Muhammad or Christ, older than Alexander\
     \ or Plato, older than Arbela, older than Rome, older than Babylon itself - Sumer\
     \ was the very kindling of civilization itself, and their legends of Gilgamesh\
     \ and Enkidu and Humbaba and Ishtar manage to survive, through some long sequence\
     \ of miracles. Improve our cities with the grand ziggurats they've left behind\
     \ - we could do this. Then who was king? Who was not king?"
-    "the_hanging_gardens": "The Hanging Gardens"
-    "the_hanging_gardens_desc": "A group of craftsmen from Arbela has come to our court\
+    the_hanging_gardens: "The Hanging Gardens"
+    the_hanging_gardens_desc: "A group of craftsmen from Arbela has come to our court\
     \ and offered to rebuild the Hanging Gardens of old. You simply rebuff your advisor's\
     \ comments that the gardens were most likely, in fact, in Nineveh. To rebuild\
     \ a wonder of the ancient world itself, here in most glorious Babylon - imagine\
     \ the benefits this could reap!"
-    "tower_of_babel": "The Tower of Babel"
-    "tower_of_babel_desc": "Now, with modern construction technology, we shall finish\
+    tower_of_babel: "The Tower of Babel"
+    tower_of_babel_desc: "Now, with modern construction technology, we shall finish\
     \ what the ancients started all those aeons ago, but could never finish. And it\
     \ shall mark the fact our empire is a grand one at the very centre of the world,\
     \ binding together peoples of all tongues, faiths, stripes, and walks of life."
-    "form_babylon_title": "Form Babylon"
-    "form_babylon_desc": "The ancient jewel of the world is now under our control. Is the time right to restore that grand empire under our rule? I say yes.
-    "indrev": "Industrial Revolution"
-    "indrev_desc": "The Industrial Revolution of Puntland takes place on a different\
+    form_babylon_title: "Form Babylon"
+    form_babylon_desc: "The ancient jewel of the world is now under our control. Is the time right to restore that grand empire under our rule? I say yes.
+    indrev: "Industrial Revolution"
+    indrev_desc: "The Industrial Revolution of Puntland takes place on a different\
     \ scale, focusing more on communications. It's odd."
-    "massivetradearea": "Trading Ports"
-    "massivetradearea_desc": "We are historically an important trading area, and it\
+    massivetradearea: "Trading Ports"
+    massivetradearea_desc: "We are historically an important trading area, and it\
     \ shall always be this way."
-    "peacetradition": "Peace Traditions"
-    "peacetradition_desc": "The traditions of Puntland show a great economical and peacetime\
+    peacetradition: "Peace Traditions"
+    peacetradition_desc: "The traditions of Puntland show a great economical and peacetime\
     \ backing, so we can use that to our advantage."
-    "pirates": "Old Piracy Act"
-    "pirates_desc": "Old habits die hard for some of us, so it seems best to have the\
+    pirates: "Old Piracy Act"
+    pirates_desc: "Old habits die hard for some of us, so it seems best to have the\
     \ whole 'piracy' thing legalized."
-    "whyallthesereligions": "Multifaith Empire"
-    "whyallthesereligions_desc": "Our empire is made up of Jews, Hellenics and Isayans\
+    whyallthesereligions: "Multifaith Empire"
+    whyallthesereligions_desc: "Our empire is made up of Jews, Hellenics and Isayans\
     \ - what can possibly go wrong?"
-    "panic_republic": "Panic Republic"
+    panic_republic: "Panic Republic"
