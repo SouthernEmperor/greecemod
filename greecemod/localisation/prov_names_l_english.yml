@@ -163,8 +163,8 @@
  PROV162: "Zemplen"
  PROV163: "Crete"
  PROV164: "Naxos"
- PROV165: "Bern"
- PROV166: "Waldstätte"
+ PROV165: "Bearn" #done
+ PROV166: "Wealdstat" #done
  PROV167: "Caux"
  PROV168: "Normandie"
  PROV169: "Armor"
