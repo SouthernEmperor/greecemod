@@ -121,6 +121,13 @@ PNT = "countries/Puntland.txt"
 
 #West Africa
 MGA = "countries/Manga.txt"
+AGS = "countries/Agisymba.txt"
+KBO = "countries/KanemBornu.txt" #recycled from vanilla
+GNA = "countries/Ghana.txt"
+ZOE = "countries/Moshi.txt"
+KTR = "countries/Kantor.txt"
+UGU = "countries/Sibiridugu.txt"
+JOL = "countries/Jolof.txt" #recycled from vanilla
 
 #South India
 KER = "countries/Kerala.txt"
@@ -337,12 +344,11 @@ ZAN = "countries/Swahili.txt"
 ZIM = "countries/Mutapa.txt"
 ADA = "countries/Adal.txt"
 HAU = "countries/Hausa.txt"
-KBO = "countries/KanemBornu.txt"
 LOA = "countries/Loango.txt"
 OYO = "countries/Oyo.txt"
 SOF = "countries/Sofala.txt"
 SOK = "countries/Sokoto.txt"
-JOL = "countries/Jolof.txt"
+
 SFA = "countries/SofalaSwa.txt"
 MBA = "countries/Mombasa.txt"
 MLI = "countries/Malindi.txt"

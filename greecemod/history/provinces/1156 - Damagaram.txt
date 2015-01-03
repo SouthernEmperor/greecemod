@@ -1,0 +1,27 @@
+#1156 - Damagaram
+
+owner = KBO
+controller = KBO
+add_core = KBO
+culture = tuareg
+religion = west_african_pagan
+capital = "Mashina"
+citysize = 7500
+manpower = 1
+trade_goods = wool
+hre = no
+base_tax = 1
+discovered_by = sub_saharan
+
+
+
+1444.1.1 = { add_core = KBO }
+1450.1.1 = { citysize = 8000 }
+1500.1.1 = { citysize = 8500 }
+1590.1.1 = { owner = KBO controller = KBO }
+1600.1.1 = { citysize = 9000 }
+1700.1.1 = { citysize = 9500 }
+1736.1.1 = { capital = "Zinder" } #shift of political center as a result of Mallam migrations
+1760.1.1 = { unrest = 7 } #Tuareg raids in wake of fall of Agades
+1800.1.1 = { citysize = 10200 }
+1804.1.1 = { discovered_by = SOK }

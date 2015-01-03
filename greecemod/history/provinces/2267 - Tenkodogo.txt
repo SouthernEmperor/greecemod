@@ -1,0 +1,17 @@
+# No previous file for Tenkodogo
+
+
+citysize = 5000
+culture = mossi 
+religion = west_african_pagan
+capital = "Tenkodogo"
+trade_goods = grain
+hre = no
+base_tax = 3
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+manpower = 1
+discovered_by = sub_saharan
+
+

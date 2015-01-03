@@ -1,0 +1,21 @@
+# No previous file for Do
+
+owner = UGU
+controller = UGU
+add_core = UGU
+citysize = 5000
+culture = mali  
+religion = west_african_pagan
+capital = "Walata"
+trade_goods = grain
+hre = no
+base_tax = 4
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+manpower = 1
+discovered_by = sub_saharan
+
+
+
+1600.1.1 = { base_tax = 2 manpower = 1 } #Collapse of mali into minor states after Jenné

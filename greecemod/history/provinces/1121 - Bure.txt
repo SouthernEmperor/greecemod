@@ -1,0 +1,20 @@
+#1121 - Bure
+
+owner = UGU
+controller = UGU
+culture = mali
+citysize = 14000
+manpower = 2
+religion = west_african_pagan
+capital = "Kurussa"
+trade_goods = gold
+hre = no
+base_tax = 6
+add_core = UGU
+discovered_by = sub_saharan
+
+
+
+1450.1.1 = { citysize = 15000 }
+1600.1.1 = { base_tax = 2 manpower = 1 } #Collapse of mali into minor states after Jennéambara takes over
+1800.1.1 = { citysize = 14000 }

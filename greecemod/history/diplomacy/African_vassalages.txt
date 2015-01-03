@@ -1,0 +1,26 @@
+vassal = {
+	first = GNA
+	second = ZOE
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+#alliances of the Malinese
+alliance = {
+	first = UGU
+	second = JOL
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+alliance = {
+	first = UGU
+	second = KTR
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+alliance = {
+	first = KTR
+	second = JOL
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
