@@ -1,0 +1,110 @@
+#Country Name: Please see filename.
+
+graphical_culture = indiangfx
+
+color = { 192 49 1 }
+
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	defensive_ideas
+	diplomatic_ideas
+	administrative_ideas	
+	expansion_ideas
+	spy_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Shaktan #0" = 15
+	"Keeshava #0" = 15
+	"Kerala #0" = 15
+	"Unniraman #0" = 15
+	"Koyikal #0" = 15
+	"Ravi #0" = 15
+	"Maasathil #0" = 15
+	"Anizham #0" = 10
+	"Marthanda #0" = 10
+	"Gowri #0" = 10
+	"Swathi #0" = 10
+	"Uthram #0" = 10
+	"Ayilyam #0" = 10
+	"Visakham #0" = 10
+	"Moolam #0" = 10
+	"Sethu #0" = 10
+	"Chithira #0" = 10
+	"Uthradom #0" = 10
+	"Dhaarmika #0" = 10
+	"Chingam #0" = 10
+	"Lalan #0" = 10
+	"Anyian #0" = 10
+	"Kochunni #0" = 10
+	"Kochaniyan #0" = 10
+	"Rajarshi #0" = 10
+	"Thrishur #0" = 10
+	"Karkidaka #0" = 10
+	"Ashish #0" = 0
+	"Bhupendra #0" = 0
+	"Chetan #0" = 0
+	"Deepak #0" = 0
+	"Gaurav #0" = 0
+	"Harsh #0" = 0
+	"Indrajit #0" = 0
+	"Jagmohan #0" = 0
+	"Lalit #0" = 0
+	"Mohan #0" = 0
+	"Nitesh #0" = 0
+	"Omanand #0" = 0
+	"Paramartha #0" = 0
+	"Rahul #0" = 0
+	"Sahil #0" = 0
+	"Uday #0" = 0
+	"Varun #0" = 0
+	"Yash #0" = 0
+	"Anuradha #0" = -5
+	"Bandhura #0" = -5
+	"Divya #0" = -5
+	"Jyoti #0" = -5
+	"Megha #0" = -5
+	"Pratima #0" = -5
+	"Roshni #0" = -5
+	"Sarika #0" = -5
+	"Tejaswini #0" = -5
+}
+
+leader_names = {
+	Ay
+	Chekavan
+	Chera
+	Chopra
+	Eradi
+	Ilayath
+	Kamath
+	Kulasekhara
+	Menon
+	Mushika
+	Nair
+	Nayanar
+	Pandala
+	Rana
+	Sharma
+	Thakur
+	Thampuran
+	Thirunal
+	Varma
+	Vellarapalli
+}

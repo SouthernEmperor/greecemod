@@ -122,6 +122,9 @@ PNT = "countries/Puntland.txt"
 #West Africa
 MGA = "countries/Manga.txt"
 
+#South India
+KER = "countries/Kerala.txt"
+
 #Chinese "Shogunate"
 CHX = "countries/Huaxia.txt"
 CGO = "countries/Gao.txt"
@@ -232,55 +235,12 @@ SPI	= "countries/SardiniaPiedmont.txt"
 TOU	= "countries/Toulouse.txt"
 BER	= "countries/Berry.txt"
 	
-#HRE
-AAC = "countries/Aachen.txt" 
-ANH	= "countries/Anhalt.txt"
-ANS	= "countries/Ansbach.txt"
-AUG = "countries/Augsburg.txt"
-BAD	= "countries/Baden.txt"
-BAV	= "countries/Bavaria.txt"
-BOH	= "countries/Bohemia.txt"
-BRA	= "countries/Brandenburg.txt"
-BRE	= "countries/Bremen.txt"
-BRU	= "countries/Brunswick.txt"
-EFR = "countries/EastFrisia.txt"
-FRN	= "countries/Frankfurt.txt"
+#HRE is cleansed
 GER	= "countries/Germany.txt"
-HAB	= "countries/Austria.txt"
-HAM	= "countries/Hamburg.txt"
-HAN	= "countries/Hannover.txt"
-HES	= "countries/Hessen.txt"
+HAB	= "countries/Austria.txt" #will remove *very* shortly
 HLR = "countries/HolyRomanEmpire.txt"
-KLE	= "countries/Kleves.txt"
-KOL	= "countries/Cologne.txt"
-LAU = "countries/Lauenburg.txt"
-LOR	= "countries/Lorraine.txt"
-LUN	= "countries/Luneburg.txt"
-MAG	= "countries/Magdeburg.txt"
-MAI	= "countries/Mainz.txt"
-MEI	= "countries/Meissen.txt"
-MKL	= "countries/Mecklenburg.txt"
-MUN	= "countries/Munster.txt"
-OLD	= "countries/Oldenburg.txt"
-PAL	= "countries/Palatinate.txt"
-POM	= "countries/Pommerania.txt"
-SIL	= "countries/Silesia.txt"
-SLZ	= "countries/Salzburg.txt"
-STY	= "countries/Styria.txt"
-SWI	= "countries/Schweiz.txt"
-THU	= "countries/Thuringia.txt"
-TIR	= "countries/Tirol.txt"
-TRI	= "countries/Trier.txt"
-ULM = "countries/Ulm.txt"
-WBG	= "countries/Wurzburg.txt"
-WES	= "countries/Westfalia.txt"
-WUR	= "countries/Wurttemberg.txt"
 	
-#Spain
-ARA	= "countries/Aragon.txt"
-CAS = "countries/Castille.txt"
-POR = "countries/Portugal.txt"
-GRA = "countries/Granada.txt"
+#Spain is cleansed
 
 #Italy
 AQU	= "countries/Aquileia.txt"
@@ -292,15 +252,6 @@ TUS	= "countries/Tuscany.txt"
 VEN	= "countries/Venice.txt"
 
 #Low Countries
-BRB	= "countries/Brabant.txt"
-FLA	= "countries/Flanders.txt"
-GEL	= "countries/Gelre.txt"
-HAI	= "countries/Hainaut.txt"
-HOL	= "countries/Holland.txt"
-LIE	= "countries/Liege.txt"
-LUX	= "countries/Luxembourg.txt"
-NED	= "countries/Netherlands.txt"
-UTR	= "countries/Utrecht.txt"
 
 #Russia 
 ARM	= "countries/Armenia.txt"

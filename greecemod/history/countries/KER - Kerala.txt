@@ -1,0 +1,16 @@
+government = merchant_republic
+mercantilism = 0.1
+primary_culture = malayalam
+religion = mithraic
+technology_group = indian
+capital = 535
+
+1444.1.1 = {
+	monarch = {
+		name = "Ashish Kamath"
+		birth_date = 1425.1.10
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}

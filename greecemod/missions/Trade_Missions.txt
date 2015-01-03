@@ -1,0 +1,132 @@
+gain_tradepost_in_china = {
+
+	type = country
+
+	category = MIL
+	
+	allow = {
+		is_at_war = no
+		capital_scope = {
+			continent = europe
+		}
+		num_of_ports = 6
+		NOT = { chinaware = 1 }
+		chinese_coast = {
+			has_port = yes
+			range = ROOT
+			has_discovered = ROOT
+		}
+	}
+	abort = {
+		NOT = { num_of_ports = 1 }
+	}
+	success = {
+		chinaware = 1
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 1.15
+			full_idea_group = naval_ideas
+		}
+		modifier = {
+			factor = 1.10
+			full_idea_group = expansion_ideas
+		}
+		modifier = {
+			factor = 1.05
+			full_idea_group = exploration_ideas
+		}
+		modifier = {
+			factor = 1.12
+			any_owned_province = {
+				continent = asia
+			}
+		}
+	}
+	effect = {
+		add_prestige = 10
+		add_adm_power = 50
+	}
+}
+
+
+increase_spices_trade = {
+
+	type = country
+
+	category = MIL
+
+	allow = {
+		is_at_war = no
+		capital_scope = {
+			OR = {
+				continent = europe
+				continent = africa
+			}
+		}
+		num_of_ports = 3
+		spices = 1
+		NOT = { spices = 3}
+	}
+	abort = {
+		NOT = { num_of_ports = 1 }
+	}
+	success = {
+		spices = 3
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 1.15
+			full_idea_group = naval_ideas
+		}
+		modifier = {
+			factor = 1.10
+			full_idea_group = expansion_ideas
+		}
+		modifier = {
+			factor = 1.05
+			full_idea_group = exploration_ideas
+		}		
+	}
+	effect = {
+		add_prestige = 10
+		add_adm_power = 50
+	}
+}
+
+
+earn_more_from_trade ={
+
+	type = country
+
+	category = ADM
+	
+	allow = {
+		is_at_war = no
+		
+		num_of_merchants = 4
+		trade_income_percentage = 0.40
+		NOT = {  trade_income_percentage = 0.55 }
+		NOT = { last_mission = earn_more_from_trade }
+	}
+	success = {
+		trade_income_percentage = 0.60
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 1.2
+			full_idea_group = expansion_ideas
+		}		
+		modifier = {
+			factor = 1.5
+			full_idea_group = trade_ideas
+		}	
+	}
+	effect = {
+		add_prestige = 10
+		add_mercantilism = 0.01
+	}
+}

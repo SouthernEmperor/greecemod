@@ -1,0 +1,23 @@
+#531 - North Kanara
+
+owner = KER
+controller = KER
+culture = kannada
+religion = mithraic
+capital = "Gokarna"
+trade_goods = spices
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 25000
+add_core = KER
+fort1 = yes
+marketplace = yes
+trade_depot = yes
+dock = yes
+constable = yes
+discovered_by = nomad_group
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = chinese

@@ -529,13 +529,13 @@
  PROV528: "Hadoti"
  PROV529: "North Konkan"
  PROV530: "South Konkan"
- PROV531: "North Kanara"
+ PROV531: "Gomanta" #done
  PROV532: "Raichur Doab"
- PROV533: "Mysore"
- PROV534: "Malabar"
- PROV535: "Kochin"
+ PROV533: "Mushika" #done
+ PROV534: "Kolaputra" #done
+ PROV535: "Periyar" #done
  PROV536: "Madurai"
- PROV537: "Venad"
+ PROV537: "Nelcynda" #done
  PROV538: "Kongu"
  PROV539: "Tondainadu"
  PROV540: "Coromandel"
@@ -2026,8 +2026,8 @@
  PROV2026: "Tanjore"
  PROV2027: "Arcot"
  PROV2028: "Mahur"
- PROV2029: "South Kanara"
- PROV2030: "Goa"
+ PROV2029: "Tulunga" #done
+ PROV2030: "Gorashtra" #done
  PROV2031: "Morasanadu"
  PROV2032: "Malenadu"
  PROV2033: "Savanur"

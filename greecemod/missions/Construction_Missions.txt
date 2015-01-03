@@ -1,0 +1,971 @@
+construct_grand_fleet = {
+
+	type = country
+
+	category = ADM
+	
+	allow = {
+		num_of_ports = 5
+		naval_forcelimit = 40
+		technology_group = western
+		NOT = { num_of_heavy_ship = 15 }
+		num_of_heavy_ship = 5
+	}
+	abort = {
+		NOT = { num_of_ports = 1 }
+	}
+	success = {
+		num_of_heavy_ship = 20
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 1.05
+			num_of_ports = 10
+		}
+		modifier = {
+			factor = 1.05
+			prestige = 10
+		}
+		modifier = {
+			factor = 2.0
+			has_idea = press_gangs
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = grand_navy
+		}
+		modifier = {
+			factor = 2.0
+			has_idea = sea_hawks
+		}
+		modifier = {
+			factor = 2.0
+			has_idea = superior_seamanship
+		}	
+		modifier = {
+			factor = 2.0
+			has_idea = naval_fighting_instruction
+		}
+		modifier = {
+			factor = 2.0
+			has_idea = excellent_shipwrights
+		}
+		modifier = {
+			factor = 2.0
+			has_idea = naval_glory
+		}
+	}
+	effect = {
+		add_navy_tradition = 10
+		add_prestige = 10
+	}	
+}
+
+
+rule_the_seas = {
+
+	type = country
+	
+	category = ADM
+
+	allow = {
+		num_of_ports = 5
+		num_of_heavy_ship = 25
+		naval_forcelimit = 25
+		technology_group = western
+		any_known_country = {
+			num_of_heavy_ship = FROM
+		}
+	}
+	abort = {
+		NOT = { num_of_ports = 1 }
+	}
+	success = {
+		NOT = {
+			any_known_country = {
+				num_of_heavy_ship = FROM
+			}
+		}
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 1.15
+			num_of_ports = 10
+		}
+		modifier = {
+			factor = 1.1
+			prestige = 10
+		}
+		modifier = {
+			factor = 1.25
+			has_idea_group = naval_ideas
+		}
+	}
+	effect = {
+		add_navy_tradition = 10
+		add_prestige = 5
+	}	
+}
+
+
+construct_shipyard = {
+
+	type = country
+	
+	category = ADM
+
+	allow = {
+		is_at_war = no
+		num_of_ports = 5
+		dip_tech = 18
+		technology_group = western
+		NOT = { naval_base = 1 }
+		any_owned_province = {
+			can_build = naval_base
+		}
+	}
+	abort = {
+		NOT = { num_of_ports = 1 }
+	}
+	success = {
+		naval_base = 1
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2.0
+			num_of_ports = 10
+		}
+		modifier = {
+			factor = 1.5
+			prestige = 10
+		}
+		modifier = {
+			factor = 1.25
+			has_idea_group = naval_ideas
+		}
+	}
+	effect = {
+		add_navy_tradition = 25
+		define_advisor = { type = naval_reformer skill = 3 }
+	}	
+}
+
+
+improve_key_defensive_position_small = {
+
+	type = our_provinces
+	
+	category = ADM
+	
+	allow = {
+		has_building = fort1
+		NOT = { has_building = fort2 }
+		can_build = fort2
+		owner = { is_at_war = no }
+		any_neighbor_province = {
+			NOT = { owned_by = FROM }
+			owner = {
+				NOT = { FROM = { is_threat = PREV } }
+			}
+		}
+	}
+	abort = {
+		NOT = {	owned_by = FROM }
+	}
+	success = {
+		has_building = fort2
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 1.1
+			any_neighbor_province = {
+				owner = {
+					has_casus_belli_against = FROM
+				}
+			}
+		}
+		modifier = {
+			factor = 1.2
+			is_capital = yes
+		}
+		modifier = {
+			factor = 1.1
+			base_tax = 5
+		}		
+		modifier = {
+			factor = 1.15
+			any_neighbor_province = {
+				owner = {
+					NOT = { religion_group = FROM }
+				}
+			}
+		}		
+	}
+	effect = {
+		owner = {
+			add_army_tradition = 5
+		}
+	}
+}
+
+
+improve_key_defensive_position_medium = {
+
+	type = our_provinces
+	
+	category = ADM
+	
+	allow = {
+		has_building = fort2
+		NOT = { has_building = fort4 }
+		can_build = fort4
+		owner = { is_at_war = no }
+		any_neighbor_province = {
+			NOT = { owned_by = FROM }
+			owner = {
+				NOT = { FROM = { is_threat = PREV } }
+			}
+		}
+	}
+	abort = {
+		NOT = {	owned_by = FROM }
+	}
+	success = {
+		has_building = fort4
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2.0
+			any_neighbor_province = {
+				owner = {
+					has_casus_belli_against = FROM
+				}
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_capital = yes
+		}
+		modifier = {
+			factor = 1.5
+			base_tax = 5
+		}		
+		modifier = {
+			factor = 2.0
+			any_neighbor_province = {
+				owner = {
+					NOT = { religion_group = FROM }
+				}
+			}
+		}		
+	}
+	effect = {
+		owner = {
+			add_army_tradition = 5
+		}
+	}
+}
+
+
+improve_key_defensive_position_hard = {
+
+	type = our_provinces
+	
+	category = ADM
+	
+	allow = {
+		has_building = fort4
+		NOT = { has_building = college }
+		NOT = { has_building = arsenal }
+		NOT = { has_building = naval_arsenal}
+		NOT = { has_building = mint }
+		NOT = { has_building = post_office }
+		NOT = { has_building = fort6 }
+		can_build = fort6
+		owner = { is_at_war = no }
+		any_neighbor_province = {
+			NOT = { owned_by = FROM }
+			owner = {
+				NOT = { FROM = { is_threat = PREV } }
+			}
+		}
+	}
+	abort = {
+		NOT = {	owned_by = FROM }
+	}
+	success = {
+		has_building = fort6
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2.0
+			any_neighbor_province = {
+				owner = {
+					has_casus_belli_against = FROM
+				}
+			}
+		}
+		modifier = {
+			factor = 1.5
+			is_capital = yes
+		}
+		modifier = {
+			factor = 1.5
+			base_tax = 5
+		}		
+		modifier = {
+			factor = 2.0
+			any_neighbor_province = {
+				owner = {
+					NOT = { religion_group = FROM }
+				}
+			}
+		}		
+	}
+	effect = {
+		owner = {
+			add_army_tradition = 5
+		}
+	}
+}
+
+
+build_refinery = {
+
+	type = our_provinces
+	
+	category = ADM
+	
+	allow = {
+		owner = {
+			monthly_income = 40
+			is_at_war = no
+		}
+		can_build = refinery
+		NOT = { has_building = refinery }
+		NOT = { has_building = wharf }
+		NOT = { has_building = textile }
+		NOT = { has_building = weapons }
+		NOT = { has_building = fine_arts_academy }
+		NOT = { has_building = university }
+		OR = {
+			trade_goods = wine
+			trade_goods = sugar
+		}
+		is_core = yes
+	}
+	abort = {
+		OR = {
+			has_building = wharf
+			has_building = textile
+			has_building = weapons
+			has_building = fine_arts_academy
+			has_building = university
+			NOT = {	owned_by = FROM }
+		}
+	}
+	success = {
+		has_building = refinery
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 1.5
+			is_capital = yes
+		}
+		modifier = {
+			factor = 1.5
+			base_tax = 5
+		}		
+	}
+	effect = {
+		owner = {
+			define_advisor = { type = master_of_mint skill = 2 }
+		}
+	}	
+}
+
+
+build_wharf = {
+
+	type = our_provinces
+	
+	category = ADM
+	
+	allow = {
+		owner = {
+			monthly_income = 40
+			is_at_war = no
+		}
+		can_build = wharf
+		NOT = { has_building = refinery }
+		NOT = { has_building = wharf }
+		NOT = { has_building = textile }
+		NOT = { has_building = weapons }
+		NOT = { has_building = fine_arts_academy }
+		NOT = { has_building = university }
+		trade_goods = naval_supplies
+		is_core = yes
+	}
+	abort = {
+		OR = {
+			has_building = refinery
+			has_building = textile
+			has_building = weapons
+			has_building = fine_arts_academy
+			has_building = university
+			NOT = {	owned_by = FROM }
+		}
+	}
+	success = {
+		has_building = wharf
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 1.5
+			is_capital = yes
+		}
+		modifier = {
+			factor = 1.5
+			base_tax = 5
+		}		
+	}
+	effect = {
+		owner = {
+			define_advisor = { type = naval_reformer skill = 2 }
+		}
+	}	
+}
+
+
+build_weapons = {
+
+	type = our_provinces
+	
+	category = ADM
+	
+	allow = {
+		owner = {
+			monthly_income = 40
+			is_at_war = no
+		}
+		can_build = weapons
+		NOT = { has_building = refinery }
+		NOT = { has_building = wharf }
+		NOT = { has_building = textile }
+		NOT = { has_building = weapons }
+		NOT = { has_building = fine_arts_academy }
+		NOT = { has_building = university }
+		OR = {
+			trade_goods = copper
+			trade_goods = iron
+		}
+		is_core = yes
+	}
+	abort = {
+		OR = {
+			has_building = refinery
+			has_building = textile
+			has_building = wharf
+			has_building = fine_arts_academy
+			has_building = university
+			NOT = {	owned_by = FROM }
+		}
+	}
+	success = {
+		has_building = weapons
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 1.5
+			is_capital = yes
+		}
+		modifier = {
+			factor = 1.5
+			base_tax = 5
+		}		
+	}
+	effect = {
+		owner = {
+			define_advisor = { type = grand_captain skill = 2 }
+		}
+	}	
+}
+
+
+build_textile = {
+
+	type = our_provinces
+	
+	category = ADM
+	
+	allow = {
+		owner = {
+			monthly_income = 40
+			is_at_war = no
+		}
+		can_build = textile
+		NOT = { has_building = refinery }
+		NOT = { has_building = wharf }
+		NOT = { has_building = textile }
+		NOT = { has_building = weapons }
+		NOT = { has_building = fine_arts_academy }
+		NOT = { has_building = university }
+		OR = {
+			trade_goods = wool
+			trade_goods = cloth
+		}
+		is_core = yes
+	}
+	abort = {
+		OR = {
+			has_building = refinery
+			has_building = weapons
+			has_building = wharf
+			has_building = fine_arts_academy
+			has_building = university
+			NOT = {	owned_by = FROM }
+		}
+	}
+	success = {
+		has_building = textile
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 1.5
+			is_capital = yes
+		}
+		modifier = {
+			factor = 1.5
+			base_tax = 5
+		}		
+	}
+	effect = {
+		owner = {
+			define_advisor = { type = natural_scientist skill = 2 }
+		}
+	}	
+}
+
+
+build_fine_arts_academy = {
+
+	type = our_provinces
+	
+	category = ADM
+	
+	allow = {
+		owner = {
+			monthly_income = 40
+			is_at_war = no
+		}
+		can_build = fine_arts_academy
+		NOT = { has_building = refinery }
+		NOT = { has_building = wharf }
+		NOT = { has_building = textile }
+		NOT = { has_building = weapons }
+		NOT = { has_building = fine_arts_academy }
+		NOT = { has_building = university }
+		is_core = yes
+		base_tax = 3
+	}
+	abort = {
+		OR = {
+			has_building = refinery
+			has_building = weapons
+			has_building = wharf
+			has_building = textile
+			has_building = university
+			NOT = {	owned_by = FROM }
+		}
+	}
+	success = {
+		has_building = fine_arts_academy
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 1.5
+			is_capital = yes
+		}
+		modifier = {
+			factor = 1.5
+			base_tax = 5
+		}		
+	}
+	effect = {
+		owner = {
+			define_advisor = { type = artist skill = 2 }
+		}
+	}	
+}
+
+
+build_university = {
+
+	type = our_provinces
+	
+	category = ADM
+	
+	allow = {
+		owner = {
+			monthly_income = 40
+			is_at_war = no
+		}
+		can_build = university
+		NOT = { has_building = refinery }
+		NOT = { has_building = wharf }
+		NOT = { has_building = textile }
+		NOT = { has_building = weapons }
+		NOT = { has_building = fine_arts_academy }
+		NOT = { has_building = university }
+		is_core = yes
+		base_tax = 3
+	}
+	abort = {
+		OR = {
+			has_building = refinery
+			has_building = weapons
+			has_building = wharf
+			has_building = textile
+			has_building = fine_arts_academy
+			NOT = {	owned_by = FROM }
+		}
+	}
+	success = {
+		has_building = university
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 1.5
+			is_capital = yes
+		}
+		modifier = {
+			factor = 1.5
+			base_tax = 5
+		}		
+	}
+	effect = {
+		owner = {
+			define_advisor = { type = philosopher skill = 2 }
+		}
+	}	
+}
+
+
+construct_army = {
+
+	type = country
+
+	category = ADM
+	
+	allow = {
+		OR = {
+			NOT = { has_country_flag = construct_army_mission }
+			had_country_flag = { flag = construct_army_mission days = 7300 }
+		}
+		NOT = { army_size_percentage = 0.5 }
+		is_emperor = no
+	}
+	abort = {
+	}
+	success = {
+		army_size_percentage = 0.75
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2.0
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			NOT = { army_size_percentage = 0.5 }
+		}		
+		modifier = {
+			factor = 2.0
+			NOT = { army_size_percentage = 0.3 }
+		}		
+		modifier = {
+			factor = 1.5
+			has_idea = grand_army
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = military_drill
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = engineer_corps
+		}
+		modifier = {
+			factor = 1.5
+			has_idea = battlefield_commisions
+		}	
+		modifier = {
+			factor = 1.5
+			has_idea = glorious_arms
+		}
+		modifier = {
+			factor = 2.0
+			has_idea = national_conscripts
+		}
+		modifier = {
+			factor = 2.0
+			has_idea = regimental_system
+		}
+		modifier = {
+			factor = 2.0
+			has_idea = napoleonic_warfare
+		}
+	}
+	effect = {
+		set_country_flag = construct_army_mission
+		add_army_tradition = 5
+		add_prestige = 5
+	}	
+}
+
+
+construct_navy = {
+
+	type = country
+	
+	category = ADM
+
+	allow = {
+		any_owned_province = {
+			has_port = yes
+			is_core = FROM
+		}
+		OR = {
+			NOT = { has_country_flag = construct_navy_mission }
+			had_country_flag = { flag = construct_navy_mission days = 7300 }
+		}
+		NOT = { navy_size_percentage = 0.5 }
+		NOT = { technology_group = sub_saharan }
+		NOT = { technology_group = north_american }
+		NOT = { technology_group = mesoamerican }
+		NOT = { technology_group = south_american }
+		NOT = { technology_group = nomad_group }
+	}
+	abort = {
+		NOT = {
+			any_owned_province = {
+				has_port = yes
+				is_core = FROM
+			}
+		}
+	}
+	success = {
+		navy_size_percentage = 0.75
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 2.0
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2.0
+			NOT = { navy_size_percentage = 0.5 }
+		}		
+		modifier = {
+			factor = 2.0
+			NOT = { navy_size_percentage = 0.3 }
+		}		
+		modifier = {
+			factor = 2.0
+			has_idea = press_gangs
+		}
+		modifier = {
+			factor = 2.0
+			has_idea = grand_navy
+		}
+		modifier = {
+			factor = 2.0
+			has_idea = sea_hawks
+		}
+		modifier = {
+			factor = 2.0
+			has_idea = superior_seamanship
+		}	
+		modifier = {
+			factor = 2.0
+			has_idea = naval_fighting_instruction
+		}
+		modifier = {
+			factor = 2.0
+			has_idea = excellent_shipwrights
+		}
+		modifier = {
+			factor = 2.0
+			has_idea = naval_glory
+		}
+	}
+	effect = {
+		set_country_flag = construct_navy_mission
+		add_navy_tradition = 5
+		add_prestige = 5
+	}	
+}
+
+
+fortify_province = {
+
+	type = our_provinces
+	
+	category = ADM
+	
+	allow = {
+		NOT = { has_building = fort1 }
+		can_build = fort1
+		owner = { is_at_war = no }
+		is_colony = no
+	}
+	abort = {
+		NOT = {	owned_by = FROM }
+	}
+	success = {
+		has_building = fort1
+	}
+	chance = {
+		factor = 1000
+		modifier = {
+			factor = 1.2
+			any_neighbor_province = {
+				owner = {
+					has_casus_belli_against = FROM
+				}
+			}
+		}
+		modifier = {
+			factor = 1.25
+			is_capital = yes
+		}
+		modifier = {
+			factor = 1.12
+			base_tax = 5
+		}		
+		modifier = {
+			factor = 1.07
+			any_neighbor_province = {
+				owner = {
+					NOT = { religion_group = FROM }
+				}
+			}
+		}		
+	}
+	effect = {
+		add_province_manpower = 1
+		owner = {
+			add_army_tradition = 1
+		}
+	}
+}
+
+
+rival_army = {
+
+	type = rival_countries
+
+	category = ADM
+	
+	allow = {
+		FROM = {
+			NOT = { army_size = ROOT }
+		}
+		NOT = { alliance_with = FROM }
+		NOT = { is_subject_of = FROM }
+		NOT = { overlord_of = FROM }
+	}
+	abort = {
+		OR = {
+			alliance_with = FROM
+			is_subject_of = FROM
+			overlord_of = FROM
+		}
+	}	
+	success = {
+		FROM = { army_size = ROOT }
+	}
+	chance = {
+		factor = 1000
+
+		modifier = {
+			factor = 1.5
+			FROM = { mil = 3 }
+		}
+	}
+	effect = {
+		FROM = { add_army_tradition = 5 }
+	}	
+}
+
+
+rival_navy = {
+
+	type = rival_countries
+	
+	category = ADM
+	
+	allow = {
+		FROM = {
+			NOT = { navy_size = ROOT }
+		}
+		NOT = { alliance_with = FROM }
+		NOT = { is_subject_of = FROM }
+		NOT = { overlord_of = FROM }
+		num_of_ports = 1
+		FROM = {
+			NOT = { technology_group = sub_saharan }
+			NOT = { technology_group = north_american }
+			NOT = { technology_group = mesoamerican }
+			NOT = { technology_group = south_american }
+			NOT = { technology_group = nomad_group }
+			any_owned_province = {
+				has_port = yes
+				is_core = yes
+			}
+		}
+	}
+	abort = {
+		OR = {
+			FROM = {
+				NOT = {
+					any_owned_province = {
+						has_port = yes
+						is_core = yes
+					}
+				}
+			}	
+			alliance_with = FROM
+			is_subject_of = FROM
+			overlord_of = FROM
+		}
+	}
+	success = {
+		FROM = { navy_size = ROOT }
+	}
+	chance = {
+		factor = 1000
+
+		modifier = {
+			factor = 1.5
+			FROM = { mil = 3 }
+		}
+	}
+	effect = {
+		FROM = { add_navy_tradition = 5 }
+	}	
+}

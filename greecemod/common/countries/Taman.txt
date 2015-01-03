@@ -109,7 +109,7 @@ leader_names = {
 	Zal
 }
 
-chip_names = {
+ship_names = {
 	Abathur "Adamn Kasia" "Aesma Daeva" Agas
 	Ahriman Ahura "Ahura Mazda" Ahurani Airiaman
 	"Aka Manah" Aladdin Allatum Amachaspan Ameratat
