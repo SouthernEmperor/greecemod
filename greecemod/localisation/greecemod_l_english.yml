@@ -1,6 +1,22 @@
 #any other things here
 
 l_english:
+ AFRICA_START_TITLE: "Africa"
+ AFRICA_START_DESC: "Hi Cived!"
+ ASIA_START_TITLE: "East Asia"
+ ASIA_START_DESC: "Hi I'm a filler"
+ EUROPE_START_TITLE: "Europe"
+ EUROPE_START_DESC: "eporuE"
+ HELLAS_START_TITLE: "Rome and Greece"
+ HELLAS_START_DESC: "JUSTICE!|Y"
+ INDIA_START_TITLE: "Glorious Bharat"
+ INDIA_START_DESC: "India is truly the crossroads of the world - where else can you find Hellenes, Persians, Africans, Arabs, Chinese, and Malays, all in one place? But India is a land in flux. The once-dominant Seljuk and Chola empires in the north and south have both collapsed into shards. Call to Buddha, or Mithras, or Indra, or Vishnu, or whoever you prefer."
+ ISLAM_START_TITLE: "Dar-al-Islam"
+ ISLAM_START_DESC: "The touch of the whore of Babylon tarnishes our holy sites! From the riverine fields of Albiyun to the white trees of Qonddar"
+ STEPPE_START_TITLE: "The Steppes"
+ STEPPE_START_DESC: "From the Scythians in the west to the Magyars in the east, the vast plains of Eastern Europe and Central Asia"
+ XIAN_START_TITLE: "Christendom"
+ XIAN_START_DESC: "The ancient heart of the world lies in the hands of the righteous, but it is beset on all sides by the inequities of the selfish and the tyranny of evil men."
  feudal_monarchy_vassal_christian: "Satrapy"
  despotic_monarchy_vassal_christian: "Satrapy"
  absolute_monarchy_vassal_christian: "Satrapy"

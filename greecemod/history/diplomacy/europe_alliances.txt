@@ -1,0 +1,14 @@
+# Albiyun-Elmet
+vassal = {
+	first = ALY
+	second = ELM
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}
+
+alliance = {
+	first = ALY
+	second = ELM
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}

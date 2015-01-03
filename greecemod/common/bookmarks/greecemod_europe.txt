@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "EUROPE_START_TITLE"
+	desc = "EUROPE_START_DESC"
+	date = 1444.11.11
+
+	center = 1762
+	
+	country = BRY
+	country = FRK
+	country = SAX
+	country = ALL
+	country = NOR
+}

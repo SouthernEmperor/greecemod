@@ -1,0 +1,10 @@
+bookmark =
+{
+	name = "INDIA_START_TITLE"
+	desc = "INDIA_START_DESC"
+	date = 1444.11.11
+
+	center = 548
+	
+	country = KER
+}

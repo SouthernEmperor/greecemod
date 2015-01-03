@@ -1,6 +1,7 @@
 name = "greecemod"
-path = "mod\greecemod"
+path = "mod/greecemod"
 supported_version = "1.9"
 replace_path = "decisions"
 replace_path = "events"
 replace_path = "missions"
+replace_path = "common/bookmarks"

@@ -3,7 +3,7 @@
 owner = ELM
 controller = ELM
 culture = cumbric
-religion = ashari
+religion = celtic_pagan
 hre = no
 base_tax = 7
 trade_goods = cloth

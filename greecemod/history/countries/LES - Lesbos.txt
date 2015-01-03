@@ -4,6 +4,7 @@ primary_culture = anatolian
 religion = imperial_hellenic
 technology_group = western
 capital = 2348
+elector = yes
 
 1444.1.1 = {
 	monarch = {

@@ -1,0 +1,11 @@
+bookmark =
+{
+	name = "STEPPE_START_TITLE"
+	desc = "STEPPE_START_DESC"
+	date = 1444.11.11
+
+	center = 1327
+	
+	country = SCY
+	country = TAM
+}

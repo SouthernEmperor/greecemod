@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "XIAN_START_TITLE"
+	desc = "XIAN_START_DESC"
+	date = 1444.11.11
+
+	center = 409
+	
+	country = PER
+	country = ASY
+	country = PLM
+	country = SKR
+	country = BYZ
+}

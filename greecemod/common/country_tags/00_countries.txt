@@ -246,7 +246,6 @@ BER	= "countries/Berry.txt"
 	
 #HRE is cleansed
 GER	= "countries/Germany.txt"
-HAB	= "countries/Austria.txt" #will remove *very* shortly
 HLR = "countries/HolyRomanEmpire.txt"
 	
 #Spain is cleansed

@@ -1,0 +1,17 @@
+bookmark =
+{
+	name = "HELLAS_START_TITLE"
+	desc = "HELLAS_START_DESC"
+	date = 1444.11.11
+
+	center = 146
+	
+	country = ATH
+	country = SPR
+	country = EPI
+	country = MAC
+	country = BIT
+	country = TRC
+	country = SPQ
+	country = IRE
+}

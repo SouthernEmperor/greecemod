@@ -4,6 +4,7 @@ primary_culture = tauric
 religion = imperial_hellenic
 technology_group = western
 capital = 285
+elector = yes
 
 1444.1.1 = {
 	monarch = {

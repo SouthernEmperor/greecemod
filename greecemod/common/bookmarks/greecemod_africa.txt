@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "AFRICA_START_TITLE"
+	desc = "AFRICA_START_DESC"
+	date = 1444.11.11
+
+	center = 1157
+	
+	country = JOL
+	country = GNA
+	country = KBO
+	country = IRA
+	country = MSY
+}

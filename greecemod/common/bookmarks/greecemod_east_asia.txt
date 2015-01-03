@@ -1,0 +1,10 @@
+bookmark =
+{
+	name = "ASIA_START_TITLE"
+	desc = "ASIA_START_DESC"
+	date = 1444.11.11
+
+	center = 409
+	
+	country = CHX
+}

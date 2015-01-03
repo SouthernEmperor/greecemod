@@ -1,0 +1,16 @@
+bookmark =
+{
+	name = "ISLAM_START_TITLE"
+	desc = "ISLAM_START_DESC"
+	date = 1444.11.11
+
+	center = 341
+	
+	country = ALY
+	country = GAL
+	country = TRS
+	country = MOR
+	country = ALG
+	country = QRT
+	country = ETH
+}
