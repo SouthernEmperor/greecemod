@@ -1,14 +1,14 @@
-#2756 - Welayta
+#2762 - Damot
 
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = sidamo 
+culture = amhara 
 religion = ashari
-capital = "Bonga"
-citysize = 8245
-manpower = 2
-trade_goods = coffee
+capital = "Nekemte"
+citysize = 4715
+manpower = 1
+trade_goods = grain
 hre = no
 base_tax = 2
 add_local_autonomy = 25

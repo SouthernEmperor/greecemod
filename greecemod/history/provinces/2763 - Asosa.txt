@@ -1,8 +1,10 @@
 #2763 - Asosa
 
-
+owner = FUR
+controller = FUR
+add_core = FUR
 culture = amhara 
-religion = coptic
+religion = ashari
 capital = "Assosa"
 citysize = 2425
 manpower = 1

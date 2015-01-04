@@ -1,0 +1,63 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 59 52  114 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	african_clubmen
+	bantu_tribal_warfare
+	bantu_plains_warfare
+	bantu_gunpowder_warfare
+	westernized_bantu
+	african_western_franchise_warfare
+	african_somali_cavalry
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_hussar
+	african_dragoon		
+}
+
+
+monarch_names = {
+	"N!xau #0" = 20
+	"Xixo #0" = 20
+	"G!kau #0" = 40
+	"Gcao #0" = 20
+	"Coma #0" = 20
+	"Tekene #0" = 20
+	"/Ui/o/oo #0" = 20
+	"Sesana #0" = 20
+	"Tsieb #0" = 20
+	"/Hoaaran//Aixallaes #0" = 20
+	"//Okain #0" = 20
+	"Kai/Khau-an #0" = 20
+}
+
+leader_names = {
+	!Gomen
+	!Aman
+	!Kharakhoen
+	!Gami?nun
+	?Khau|goan 
+	?Aonin 
+	?Hawoben 
+	Kharo!an
+}
+
+ship_names = {
+	Dziva Mwari Dzivaguru Mulungu Mbonga
+	Svikiro Mazendere "Mai Vedu" Musikavanhu
+	Mutorwa
+}

@@ -1,0 +1,22 @@
+#1166 - Loango
+
+
+culture = kongolese
+religion = shamanism
+capital = "Loango"
+trade_goods = ivory
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 4000
+discovered_by = KON
+discovered_by = NDO
+discovered_by = LOA
+discovered_by = sub_saharan
+
+1481.1.1 = { discovered_by = POR } # Bartolomeu Dias
+1600.1.1 = { citysize = 5500 }
+1650.1.1 = { citysize = 6200 }
+1700.1.1 = { citysize = 6800 }
+1750.1.1 = { citysize = 7335 }
+1800.1.1 = { citysize = 7960 }

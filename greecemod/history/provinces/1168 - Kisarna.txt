@@ -1,0 +1,36 @@
+# - Mbwila
+
+
+culture = kongolese
+religion = shamanism
+capital = "M'banza Kongo"
+trade_goods = slaves
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 3670
+discovered_by = KON
+discovered_by = NDO
+discovered_by = LOA
+discovered_by = sub_saharan
+
+1450.1.1   = { citysize = 3850 }
+1483.1.1   = { discovered_by = POR } # Diogo Cão
+1500.1.1   = { citysize = 4080 }
+1550.1.1   = { citysize = 4570 }
+1600.1.1   = { citysize = 4980 }
+1650.1.1   = { citysize = 5460 }
+1665.10.29 = {	owner = POR
+		controller = POR
+		add_core = POR
+	     } # Battle of Mbwila - Portuguese victory 
+1667.1.1 = {
+	owner = KON
+	controller = KON
+	remove_core = POR
+	unrest = 8 #Post Mbwila infighting.
+} #Once Portuguese forces leave de facto free of Portuguese influence
+1700.1.1   = { citysize = 5870 }
+1702.1.1 = { unrest = 0 } #Order more or less restored
+1750.1.1   = { citysize = 6800 }
+1800.1.1   = { citysize = 7100 }

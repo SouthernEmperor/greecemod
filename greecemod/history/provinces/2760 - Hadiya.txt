@@ -1,14 +1,14 @@
-#2756 - Welayta
+#2760 - Hadiya
 
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = sidamo 
+culture = amhara 
 religion = ashari
-capital = "Bonga"
-citysize = 8245
+capital = "Angacha"
+citysize = 12425
 manpower = 2
-trade_goods = coffee
+trade_goods = iron
 hre = no
 base_tax = 2
 add_local_autonomy = 25

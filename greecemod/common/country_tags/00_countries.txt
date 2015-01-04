@@ -108,7 +108,7 @@ PRT = "countries/Parthia.txt"
 
 #Central Asia
 
-#East Africa
+#East and South Africa
 MSY = "countries/Mosyllum.txt"
 IRA = "countries/Raphta.txt"
 PRA = "countries/Pirayye.txt"
@@ -120,6 +120,8 @@ AZA = "countries/Azania.txt"
 PNT = "countries/Puntland.txt"
 DMT = "countries/Damot.txt"
 CHS = "countries/Kush.txt"
+FUR = "countries/Fur.txt"
+SAN = "countries/Khoisan.txt"
 
 #West Africa
 MGA = "countries/Manga.txt"

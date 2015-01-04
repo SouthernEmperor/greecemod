@@ -1,0 +1,25 @@
+# - Matamba
+
+culture = kongolese
+religion = shamanism
+capital = "Matamba"
+trade_goods = slaves
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 1050
+discovered_by = KON
+discovered_by = LOA
+discovered_by = NDO
+discovered_by = sub_saharan
+
+1450.1.1 = { citysize = 1600 }
+1483.1.1 = { discovered_by = POR } # Diogo Cão
+1500.1.1 = { citysize = 1780 }
+1550.1.1 = { citysize = 2170 }
+1600.1.1 = { citysize = 3500 }
+1650.1.1 = { citysize = 4220 }
+1700.1.1 = { citysize = 5900 }
+#1744.1.1 Portuguese Invasion resulting in nominal Vassalage.
+1750.1.1 = { citysize = 6500 }
+1800.1.1 = { citysize = 6900 }
