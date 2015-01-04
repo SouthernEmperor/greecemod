@@ -38,6 +38,8 @@ MZB = "countries/Mzab.txt" #recycled from vanilla
 NUM = "countries/Numidia.txt"
 QRT = "countries/Carthage.txt"
 TGT = "countries/Touggourt.txt" #recycled from vanilla
+UEG = "countries/Upperegypt.txt"
+LEG = "countries/Loweregypt.txt"
 
 #Hellenic League
 ATH = "countries/Athens.txt"

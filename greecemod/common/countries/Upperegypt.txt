@@ -1,0 +1,142 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 217 224 179 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Ptolemaios #0" = 10
+	"Cleopatra #0" = -10
+}
+
+leader_names = {
+	Agenorid
+	Antigonid
+	Antipatrid
+	Arkesilid
+	Asandrid
+	Heraklid
+	Kleomenid
+	Koinid
+	Kraterid
+	Laomedonid
+	Leonnatid
+	Lysimachid
+	Menandrid
+	Peithonid
+	Perdikkid
+	Peukestid
+	Philippid
+	Philotid
+	Porid
+	Ptolemaid
+	Seleukid
+	Stasanid
+	Sibyrtid
+	Taxilid
+	Xenid
+	Zenobid
+}
+
+ship_names = {
+	Aither
+	Ananke
+	Aphrodite
+	Apollon
+	Ares
+	Aretmis
+	Asteria
+	Astraios
+	Athena
+	Atlas
+	Aura
+	Chaos
+	Chronos
+	Clymene
+	Demeter
+	Dione
+	Dionysos
+	Eos
+	Epimetheus
+	Erebos
+	Eros
+	Eurybia
+	Eurynome
+	Gaia
+	Hades
+	Helios
+	Hephaistos
+	Hera
+	Hermera
+	Hermes
+	Hestia
+	Horus
+	Hyperion
+	Hypnos
+	Iapetos
+	Isis
+	Koios
+	Kreios
+	Lelantos
+	Leto
+	Menoitios
+	Metis
+	Mnemosyne
+	Nesoi
+	Nyx
+	Oceanos
+	Ophion
+	Ouranos
+	Ourea
+	Pallas
+	Perses
+	Phanes
+	Phoibe
+	Pontus
+	Poseidon
+	Prometheus
+	Rhea
+	Ra
+	Selene
+	Styx
+	Tartarus
+	Tethys
+	Thalassa
+	Thanatos
+	Theia
+	Themis
+	Zeus
+}
+
+
+	

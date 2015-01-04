@@ -217,3 +217,7 @@ l_english:
  CLO_ADJ: "Luo"
  CGO: "Gao"
  CGO_ADJ: "Gao"
+ UEG: "Upper Egypt"
+ UEG_ADJ: "Upper Egyptian"
+ LEG: "Lower Egypt"
+ LEG_ADJ: "Lower Egyptian"
