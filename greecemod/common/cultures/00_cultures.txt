@@ -1591,7 +1591,12 @@ african = {	#Bantu
 			Mwenemutapa Rozwi Mutopa
 		}
 	}
-}
+	khoisan= {
+		primary = SAN
+		dynasty_names = {
+			Coma Xixo
+		}
+	}
 
 cushitic = {
 	graphical_culture = africangfx

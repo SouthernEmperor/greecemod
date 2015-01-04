@@ -3,7 +3,7 @@
 owner = SAN
 controller = SAN
 add_core = SAN
-culture = bantu
+culture = khoisan
 religion = animism
 capital = "Cape"
 trade_goods = unknown

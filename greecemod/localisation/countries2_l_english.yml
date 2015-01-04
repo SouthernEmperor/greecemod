@@ -221,3 +221,7 @@ l_english:
  UEG_ADJ: "Upper Egyptian"
  LEG: "Lower Egypt"
  LEG_ADJ: "Lower Egyptian"
+ DHR: "Hadhramaut"
+ DHR: "Hadhrami"
+ DMU: "Dilmun"
+ DMU_ADJ: "Dilmeni"

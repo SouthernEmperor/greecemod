@@ -1,0 +1,14 @@
+#1181 - Natal
+
+culture = khoisan #Nguni
+religion = animism
+capital = "Magulu"
+native_size = 50
+trade_goods = unknown
+hre = no
+base_tax = 1
+native_ferocity = 4
+native_hostileness = 9 
+
+1497.12.25 = { discovered_by = POR } #Vasco Da Gama
+# 1720.1.1   = { trade_goods = ivory } #development of Delagoa Bay sparks massive rise in ivory trade

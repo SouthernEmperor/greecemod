@@ -1,0 +1,40 @@
+#2339 - Yabrin
+
+
+culture = bedouin_arabic
+religion = animist
+capital = "Yabrin"
+trade_goods = grain
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 1000
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = TUR
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = ZIM
+discovered_by = AJU
+discovered_by = MBA
+discovered_by = MDI
+discovered_by = MLI
+discovered_by = SFA
+
+1450.1.1 = { citysize = 1140 }
+1500.1.1 = { citysize = 1242 }
+1515.1.1 = { discovered_by = POR }
+1550.1.1 = { citysize = 1310 }
+1600.1.1 = { citysize = 1400 }
+1650.1.1 = { citysize = 1578 }
+1700.1.1 = { citysize = 1651 }
+1750.1.1 = { citysize = 2080 }
+1800.1.1 = { citysize = 2340 }
+1818.9.9 = {	owner = TUR
+		controller = TUR
+		add_core = TUR 
+	   } # The end of the Saudi State

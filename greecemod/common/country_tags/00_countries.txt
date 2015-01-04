@@ -98,6 +98,12 @@ PAP	= "countries/Papal.txt"
 RBL = "countries/Arbela.txt"
 SSA = "countries/Susa.txt"
 
+#Araby
+ADE	= "countries/Yemen.txt" #recycled from vanilla
+DHR = "countries/Hadhramaut.txt"
+OMA	= "countries/Oman.txt" #recycled from vanilla
+DMU = "countries/Dilmun.txt"
+
 #Persia
 ECB = "countries/Ecbatana.txt"
 ORG = "countries/Organa.txt"
@@ -289,9 +295,8 @@ PRM = "countries/Perm.txt"
 BSH	= "countries/Bashkiria.txt"
 
 #Arabia	
-ADE	= "countries/Yemen.txt"
+
 ALH	= "countries/Haasa.txt"
-OMA	= "countries/Oman.txt"
 NAJ	= "countries/Najd.txt"
 HED	= "countries/Hedjaz.txt"
 SHR	= "countries/Sharjah.txt"

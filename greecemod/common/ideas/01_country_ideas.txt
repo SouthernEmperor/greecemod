@@ -473,4 +473,40 @@ PNT_ideas = {
         production_efficiency = 0.15
     }
 }
+AZA_ideas = {
+    start = {
+        global_regiment_recruit_speed = -0.2
+        colonists = 1
+    }
+    bonus = {
+        colonists = 1
+    }
+    trigger = {
+        tag = AZA
+    }
+    free = yes
+    fightingsarapionite = {
+        land_morale = 0.075
+        defensiveness = 0.1
+    }
+    autonomists = {
+        vassal_income = 0.33
+    }
+    greatmentheory = {
+        advisor_cost = -0.1
+        advisor_pool = 1
+    }
+    kriegsspiel = {
+        army_tradition = 0.5
+    }
+    fiverings = {
+        manpower_recovery_speed = 0.2
+    }
+    beatingpano = {
+        merchants = 1
+    }
+    jacksparrow = {
+        blockade_efficiency = 0.33
+    }
+}
 
