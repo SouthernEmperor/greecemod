@@ -144,6 +144,16 @@ KTR = "countries/Kantor.txt"
 UGU = "countries/Sibiridugu.txt"
 JOL = "countries/Jolof.txt" #recycled from vanilla
 
+#North India
+
+#West India
+
+#East India
+
+#Central India
+RED = "countries/Reddy.txt"
+YAD = "countries/Yadava.txt"
+
 #South India
 CER = "countries/Chera.txt"
 KER = "countries/Kerala.txt"
@@ -589,24 +599,6 @@ IME = "countries/Imereti.txt"
 TAB = "countries/Tabarestan.txt"
 
 #African Additions
-AIR = "countries/Air.txt"
-BON = "countries/Bonoman.txt"
-DAH = "countries/Dahomey.txt"
-DGB = "countries/Dagbon.txt"
-FUL = "countries/Fulo.txt"
-JNN = "countries/Jenne.txt"
-KAN = "countries/Kano.txt"
-KBU = "countries/Kaabu.txt"
-KNG = "countries/Kong.txt"
-KTS = "countries/Katsina.txt"
-MSI = "countries/Mossi.txt"
-NUP = "countries/Nupe.txt"
-TMB = "countries/Timbuktu.txt"
-YAO = "countries/Yao.txt"
-YAT = "countries/Yatenga.txt"
-ZAF = "countries/Zafunu.txt"
-ZZZ = "countries/Zazzau.txt"
-NDO = "countries/Ndongo.txt"
 
 #Middle East Additions
 ARD = "countries/Ardalan.txt"

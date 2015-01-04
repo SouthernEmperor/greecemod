@@ -62,7 +62,7 @@ monarch_names = {
 	"Bhavin #0" = 0
 	"Chetan #0" = 0
 	"Dev Anand #0" = 0
-	"Gaurav #0" = 0
+	"Gautam #0" = 0
 	"Hari #0" = 0
 	"Indra #0" = 0
 	"Jairaj #0" = 0
@@ -88,6 +88,7 @@ monarch_names = {
 
 leader_names = {
 	Aravidu
+	Bulusu
 	Chalukya
 	Deshpande
 	Desmukh

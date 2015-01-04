@@ -1,0 +1,7 @@
+#Reddy-Yadava
+alliance = {
+	first = RED
+	second = YAD
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}

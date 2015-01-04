@@ -540,8 +540,8 @@
  PROV539: "Dravida" #done
  PROV540: "Kanchi" #done
  PROV541: "Tungabhadra" #done
- PROV542: "Golconda"
- PROV543: "Velanadu"
+ PROV542: "Musi" #done
+ PROV543: "Andhraka" #done
  PROV544: "Ahmadnagar"
  PROV545: "Marathwada"
  PROV546: "East Berar"
@@ -2034,7 +2034,7 @@
  PROV2034: "Pune"
  PROV2035: "Gulbarga"
  PROV2036: "Baglana"
- PROV2037: "Warangal"
+ PROV2037: "Orugallu" #done
  PROV2038: "Midnapore"
  PROV2039: "Sunderbans"
  PROV2040: "Sadiya"
@@ -2080,8 +2080,8 @@
  PROV2080: "Srikakulam"
  PROV2081: "Lakhnor"
  PROV2082: "Raipur"
- PROV2083: "Kosta"
- PROV2084: "Konaseema"
+ PROV2083: "Pinaki" #done
+ PROV2084: "Telinga" #done
  PROV2085: "Srirangam" #done
  PROV2086: "Cholistan"
  PROV2087: "Ajmer"

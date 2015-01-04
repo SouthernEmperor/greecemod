@@ -1,0 +1,112 @@
+#Country Name: Please see filename.
+
+graphical_culture = indiangfx
+
+color = { 85 157 19 }
+
+historical_idea_groups = {
+	religious_ideas
+	quantity_ideas
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Bhillama #3" = 15
+	"Jaitugi #2" = 15
+	"Ramachandra #1" = 15
+	"Dhadiyappa #2" = 15
+	"Airamadeva #2" = 15
+	"Seunachandra #2" = 15
+	"Singhana #2" = 15
+	"Amara Mallugi #2" = 10
+	"Kaliya Ballala #1" = 10
+	"Kannara #1" = 10
+	"Pratapa #0" = 10
+	"Rudra #0" = 10
+	"Ayilyam #0" = 10
+	"Visakham #0" = 10
+	"Sadasiva #0" = 10
+	"Chinapadmanabha #0" = 10
+	"Vasireddy #0" = 10
+	"Venkatadri #0" = 10
+	"Dhaarmika #0" = 10
+	"Vipparla #0" = 10
+	"Gothra #0" = 10
+	"Gangayya #0" = 10
+	"Ramaraya #0" = 10
+	"Venkatadri #0" = 10
+	"Abhilash #1" = 10
+	"Govindaraja #0" = 10
+	"Musalaya #0" = 10
+	"Aditya #0" = 0
+	"Ashish #0" = 0
+	"Chirag #0" = 0
+	"Daksh #0" = 0
+	"Gagan #0" = 0
+	"Hari #0" = 0
+	"Ishan #0" = 0
+	"Kush #0" = 0
+	"Lagan #0" = 0
+	"Mohit #0" = 0
+	"Nihal #0" = 0
+	"Om #0" = 0
+	"Paranav #0" = 0
+	"Rohan #0" = 0
+	"Sai #0" = 0
+	"Tejas #0" = 0
+	"Varun #0" = 0
+	"Yajat #0" = 0
+	"Divya Rani #0" = -1
+	"Jyoti Rani #0" = -1
+	"Manya Rani #0" = -1
+	"Priya Rani #0" = -1
+	"Lakshmi #0" = -1
+	"Saraswati #0" = -1
+}
+
+leader_names = {
+	Seuna
+	Ananda
+	Chalukya
+	Chagi
+	Choda
+	Dhanvada
+	Gotrika
+	Ikshavaku
+	Kakatiya
+	Kashyap
+	Kota
+	Musunuri
+	Nayak
+	Pallava
+	Pemmasani
+	Ravella
+	Salankayana
+	Satavahana
+	Sayapaneni
+	Suryadevara
+	Vamsa
+	Vasireddy
+	Velanti
+	Vishnukundina
+	Yadav
+}

@@ -3,7 +3,7 @@
 owner = PDY
 controller = PDY
 culture = tamil
-religion = m
+religion = hinduism
 capital = "Kanchipura"
 trade_goods = cloth
 hre = no

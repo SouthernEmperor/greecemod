@@ -364,33 +364,28 @@
     whyallthesereligions_desc: "Our empire is made up of Jews, Hellenics and Isayans\
     \ - what can possibly go wrong?"
     panic_republic: "Panic Republic"
-"l_english":
-  "AZA_ideas": "Azanian Ideas"
-  "AZA_ideas_bonus": "Azanian Ambitions"
-  "AZA_ideas_start": "Azanian Traditions"
-  "autonomists": "Autonomia"
-  "autonomists_desc": "Autonomia is an Azanian tradition whereby faraway areas are\
-    \ considered to be more or less autonomous in return for extended income."
-  "beatingpano": "Merchants of the South"
-  "beatingpano_desc": "The Merchants of Pano might be scrupulous, but our prices are\
-    \ much, much better"
-  "eu4cd_convert_provinces_event_desc": "Our glorious nation of $COUNTRY$ follows\
-    \ the One True Faith of $COUNTRY_RELIGION$."
-  "eu4cd_convert_provinces_event_option": "Excellent"
-  "eu4cd_convert_provinces_event_title": "The One True Faith"
-  "fightingsarapionite": "The Warriors of Azania"
-  "fightingsarapionite_desc": "The Warriors of Azania are a secluded group of warriors\
-    \ within our nation. They do everything we want them to do."
-  "fiverings": "Five Rings"
-  "fiverings_desc": "Under the Five Rings we inspire our youngsters to remain fit\
-    \ for military service."
-  "greatmentheory": "Great Men"
-  "greatmentheory_desc": "There are many great men within our borders, and they offer\
-    \ their services to their proper liege lords."
-  "jacksparrow": "Antipiracy Measures"
-  "jacksparrow_desc": "The Northerners are all pirates and plunderers. If we learn\
-    \ how to blockade their ports then we can get our own back!"
-  "kriegsspiel": "Wargaming"
-  "kriegsspiel_desc": "Azanian military officials practice with small models of their\
-    \ armies, effectively improving their skills, and teaching them to adapt older\
-    \ ones."
+  AZA_ideas: "Azanian Ideas"
+  AZA_ideas_bonus: "Azanian Ambitions"
+  AZA_ideas_start: "Azanian Traditions"
+  autonomists: "Autonomia"
+  autonomists_desc: "Autonomia is an Azanian tradition whereby faraway areas are\
+  \ considered to be more or less autonomous in return for extended income."
+  beatingpano: "Merchants of the South"
+  beatingpano_desc: "The Merchants of Pano might be scrupulous, but our prices are\
+  \ much, much better"
+  fightingsarapionite: "The Warriors of Azania"
+  fightingsarapionite_desc: "The Warriors of Azania are a secluded group of warriors\
+  \ within our nation. They do everything we want them to do."
+  fiverings: "Five Rings"
+  fiverings_desc: "Under the Five Rings we inspire our youngsters to remain fit\
+  \ for military service."
+  greatmentheory: "Great Men"
+  greatmentheory_desc: "There are many great men within our borders, and they offer\
+  \ their services to their proper liege lords."
+  jacksparrow: "Antipiracy Measures"
+  jacksparrow_desc: "The Northerners are all pirates and plunderers. If we learn\
+  \ how to blockade their ports then we can get our own back!"
+  kriegsspiel: "Wargaming"
+  kriegsspiel_desc: "Azanian military officials practice with small models of their\
+  \ armies, effectively improving their skills, and teaching them to adapt older\
+  \ ones."
