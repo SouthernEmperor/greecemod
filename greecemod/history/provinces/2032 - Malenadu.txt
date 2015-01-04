@@ -1,19 +1,17 @@
-#2029 - South Kanara
+#2032 - Malenadu
 
-owner = KER
-controller = KER
+owner = KRN
+controller = KRN
 culture = kannada
 religion = mithraic
-capital = "Sauparnika"
-trade_goods = tropical_wood
+capital = "Halebidu"
+trade_goods = coffee
 hre = no
-base_tax = 3
+base_tax = 2
 manpower = 2
-citysize = 13000
-add_core = KER
-add_core = CER
+citysize = 5000
+add_core = KRN
 fort1 = yes
-marketplace = yes
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim

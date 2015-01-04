@@ -145,10 +145,10 @@
  PROV144: "Epirus" #done
  PROV145: "Laconia" #done
  PROV146: "Attica" #done
- PROV147: "Thessaly"
- PROV148: "Macedonia" #done
+ PROV147: "Thessaly" #done
+ PROV148: "Macedon" #done
  PROV149: "Thrace" #done
- PROV150: "Tarnovo"
+ PROV150: "Krobyzia" #done
  PROV151: "Bosporus" #done
  PROV152: "Varasd"
  PROV153: "Boden" #done
@@ -157,7 +157,7 @@
  PROV156: "Temes"
  PROV157: "Bihar"
  PROV158: "Maros"
- PROV159: "Silistria"
+ PROV159: "Histria" #done
  PROV160: "Oltenia"
  PROV161: "Muntenia"
  PROV162: "Zemplen"
@@ -530,16 +530,16 @@
  PROV529: "North Konkan"
  PROV530: "South Konkan"
  PROV531: "Gomanta" #done
- PROV532: "Raichur Doab"
- PROV533: "Mushika" #done
+ PROV532: "Kishkindha" #done
+ PROV533: "Mahishaka" #done
  PROV534: "Kolaputra" #done
  PROV535: "Periyar" #done
- PROV536: "Madurai"
+ PROV536: "Madurai" #done
  PROV537: "Nelcynda" #done
- PROV538: "Kongu"
- PROV539: "Tondainadu"
- PROV540: "Coromandel"
- PROV541: "Vijayanagar"
+ PROV538: "Malyavat" #done
+ PROV539: "Dravida" #done
+ PROV540: "Kanchi" #done
+ PROV541: "Tungabhadra" #done
  PROV542: "Golconda"
  PROV543: "Velanadu"
  PROV544: "Ahmadnagar"
@@ -1762,8 +1762,8 @@
  PROV1761: "Palz" #done
  PROV1762: "Chassella" #done
  PROV1763: "Nederlausitz" #done
- PROV1764: "Burgas"
- PROV1765: "Sofia"
+ PROV1764: "Anchialos" #done
+ PROV1765: "Serdica" #done
  PROV1766: "Dardania" #done
  PROV1767: "Slavonia"
  PROV1768: "Lienz"
@@ -1945,9 +1945,9 @@
  PROV1944: "Cherkasy"
  PROV1945: "Novgorod-Seversky"
  PROV1946: "Desh"
- PROV1947: "Gingee"
+ PROV1947: "Annamalaiyar" #done
  PROV1948: "Bidar"
- PROV1949: "Rayalaseema"
+ PROV1949: "Tirupati" #done
  PROV1950: "Meghalaya"
  PROV1951: "Hunyad"
  PROV1952: "Maramaros"
@@ -2023,14 +2023,14 @@
  PROV2022: "Haida"
  PROV2023: "Munsee"
  PROV2024: "Mokum Pe"
- PROV2026: "Tanjore"
- PROV2027: "Arcot"
+ PROV2026: "Kaveri" #done
+ PROV2027: "Vellore" #done
  PROV2028: "Mahur"
  PROV2029: "Tulunga" #done
  PROV2030: "Gorashtra" #done
- PROV2031: "Morasanadu"
- PROV2032: "Malenadu"
- PROV2033: "Savanur"
+ PROV2031: "Gangavadi" #done
+ PROV2032: "Vanavasi" #done
+ PROV2033: "Havanur" #done
  PROV2034: "Pune"
  PROV2035: "Gulbarga"
  PROV2036: "Baglana"
@@ -2082,12 +2082,12 @@
  PROV2082: "Raipur"
  PROV2083: "Kosta"
  PROV2084: "Konaseema"
- PROV2085: "Tiruchirappalli"
+ PROV2085: "Srirangam" #done
  PROV2086: "Cholistan"
  PROV2087: "Ajmer"
  PROV2088: "Umarkot"
  PROV2089: "Chaul"
- PROV2090: "Kurnool"
+ PROV2090: "Navabhrama" #done
  PROV2091: "Tripura"
  PROV2092: "Mahadeo"
  PROV2093: "Mandsaur"
@@ -2098,7 +2098,7 @@
  PROV2098: "Surguja"
  PROV2099: "Kandy"
  PROV2100: "Vanni"
- PROV2101: "Tirunelveli"
+ PROV2101: "Kumari" #done
  PROV2102: "Urkan"
  PROV2103: "Udi"
  PROV2104: "Birija"
@@ -2747,7 +2747,7 @@
  PROV2747: "Khara Narin Ula"
  PROV2748: "Jianchang"
  PROV2749: "Tikhvin"
- PROV2750: "Plovdiv"
+ PROV2750: "Odryssia" #done
  PROV2751: "Cuenca"
  PROV2752: "Sogn"
  PROV2753: "Narbonne"

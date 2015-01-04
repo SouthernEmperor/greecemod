@@ -1,0 +1,110 @@
+#Country Name: Please see filename.
+
+graphical_culture = indiangfx
+
+color = { 237  204  3 }
+
+historical_idea_groups = {
+	innovativeness_ideas
+	quantity_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Ballala #1" = 15
+	"Harihara #1" = 15
+	"Narasimha #1" = 20
+	"Ereyanga #0" = 15
+	"Vinayaditya #0" = 15
+	"Vikramaditya #1" = 15
+	"Dwarakanath #2" = 20
+	"Ramachandra #0" = 20
+	"Timannath #0" = 20
+	"Tailapa #0" = 15
+	"Satyasraya #0" = 10
+	"Bhillama #0" = 10
+	"Somesvara #0" = 10
+	"Jagadhekamalla #0" = 10
+	"Jayasimha #0" = 10
+	"Visakham #0" = 10
+	"Bukkaraya #0" = 10
+	"Virupaksha #0" = 10
+	"Praudharaya #0" = 10
+	"Devaraya #0" = 10
+	"Bhupala #0" = 10
+	"Thimma #0" = 10
+	"Venkata #0" = 10
+	"Sadasiva #0" = 10
+	"Tirumala #0" = 10
+	"Sriranga #0" = 10
+	"Achyuta #0" = 10
+	"Ashish #0" = 10
+	"Anish #0" = 0
+	"Bhavin #0" = 0
+	"Chetan #0" = 0
+	"Dev Anand #0" = 0
+	"Gaurav #0" = 0
+	"Hari #0" = 0
+	"Indra #0" = 0
+	"Jairaj #0" = 0
+	"Lalit #0" = 0
+	"Mohit #0" = 0
+	"Nagraj #0" = 0
+	"Om #0" = 0
+	"Pranav #0" = 0
+	"Rahul #0" = 0
+	"Sanjay #0" = 0
+	"Tarun #0" = 0
+	"Vijay #0" = 0
+	"Anya #0" = -5
+	"Brindha #0" = -20
+	"Himani #0" = -20
+	"Kamala #0" = -5
+	"Meghana #0" = -20
+	"Namitha #0" = -20
+	"Radha #0" = -20
+	"Sanya #0" = -5
+	"Tanvi #0" = -20
+}
+
+leader_names = {
+	Aravidu
+	Chalukya
+	Deshpande
+	Desmukh
+	Galagali
+	Gowda
+	Havanur
+	Hegde
+	Hoysala
+	Kulkarni
+	Narasa
+	Nayaka
+	Sangama
+	Saluva
+	Sarma
+	Shenoy
+	Thakur
+	Tuluva
+	Wadiyar
+	Veera
+}

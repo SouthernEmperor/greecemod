@@ -2,17 +2,17 @@
 
 graphical_culture = indiangfx
 
-color = { 192 49 2 }
+color = { 150 150 150 }
 
 historical_idea_groups = {
-	trade_ideas
-	religious_ideas
+	offensive_ideas
 	defensive_ideas
-	diplomatic_ideas
-	administrative_ideas	
-	expansion_ideas
+	trade_ideas
+	administrative_ideas
 	spy_ideas
-	aristocracy_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
 }
 
 historical_units = {
@@ -30,33 +30,33 @@ historical_units = {
 }
 
 monarch_names = {
-	"Shaktan #0" = 15
-	"Keeshava #0" = 15
-	"Kerala #0" = 15
-	"Unniraman #0" = 15
-	"Koyikal #0" = 15
-	"Ravi #0" = 15
-	"Maasathil #0" = 15
-	"Anizham #0" = 10
-	"Marthanda #0" = 10
-	"Gowri #0" = 10
-	"Swathi #0" = 10
-	"Uthram #0" = 10
-	"Ayilyam #0" = 10
-	"Visakham #0" = 10
-	"Moolam #0" = 10
-	"Sethu #0" = 10
-	"Chithira #0" = 10
-	"Uthradom #0" = 10
-	"Dhaarmika #0" = 10
-	"Chingam #0" = 10
-	"Lalan #0" = 10
-	"Anyian #0" = 10
-	"Kochunni #0" = 10
-	"Kochaniyan #0" = 10
-	"Rajarshi #0" = 10
-	"Thrishur #0" = 10
-	"Karkidaka #0" = 10
+	"Ravi Rajashekhara #2" = 15
+	"Ravi Kulashekara #5" = 15
+	"Bhasakara Ravi #4" = 15
+	"Kota Ravi #2" = 15
+	"Vira Kerala #1" = 15
+	"Aditya Kota #1" = 15
+	"Rajasimha #1" = 15
+	"Stanhu #1" = 15
+	"Marthanda #0" = 0
+	"Gowri #0" = 0
+	"Swathi #0" = 0
+	"Uthram #0" = 0
+	"Ayilyam #0" = 0
+	"Visakham #0" = 0
+	"Moolam #0" = 0
+	"Sethu #0" = 0
+	"Chithira #0" = 0
+	"Uthradom #0" = 0
+	"Dhaarmika #0" = 0
+	"Chingam #0" = 0
+	"Lalan #0" = 0
+	"Anyian #0" = 0
+	"Kochunni #0" = 0
+	"Kochaniyan #0" = 0
+	"Rajarshi #0" = 0
+	"Thrishur #0" = 0
+	"Karkidaka #0" = 0
 	"Ashish #0" = 0
 	"Bhupendra #0" = 0
 	"Chetan #0" = 0

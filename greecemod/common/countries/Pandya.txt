@@ -1,0 +1,109 @@
+#Country Name: Please see filename.
+
+graphical_culture = indiangfx
+
+color = { 70 213 141 }
+
+historical_idea_groups = {
+	religious_ideas
+	quantity_ideas
+	defensive_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+	trade_ideas
+	economic_ideas
+	aristocracy_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Parakrama #2" = 15
+	"Sundara #4" = 15
+	"Parankusa #1" = 15
+	"Parantaka #2" = 15
+	"Rajasimha #1" = 15
+	"Prakrama #1" = 15
+	"Kulasekara #1" = 15
+	"Amarabhujanga #1" = 10
+	"Kadugon #0" = 10
+	"Maravarman #0" = 10
+	"Varagunavarman #0" = 10
+	"Kochadaiyan #0" = 10
+	"Arikesari #0" = 10
+	"Jatavarman #0" = 10
+	"Maravarman #0" = 10
+	"Sirama #0" = 10
+	"Seervallabha #0" = 10
+	"Varagunan #0" = 10
+	"Cheliyan #0" = 10
+	"Chendan #0" = 10
+	"Avani #0" = 10
+	"Kulamani #0" = 10
+	"Ranadhiran #0" = 10
+	"Kulottunga #0" = 10
+	"Kadalul #0" = 10
+	"Ukkirap #0" = 10
+	"Peruvaludi #0" = 10
+	"Ashish #0" = 0
+	"Babu #0" = 0
+	"Chetan #0" = 0
+	"Deva #0" = 0
+	"Gautam #0" = 0
+	"Harish #0" = 0
+	"Imran #0" = 0
+	"Jai #0" = 0
+	"Lokesh #0" = 0
+	"Mohit #0" = 0
+	"Nihal #0" = 0
+	"Om #0" = 0
+	"Pranav #0" = 0
+	"Rohan #0" = 0
+	"Sagar #0" = 0
+	"Tejesh #0" = 0
+	"Vihan #0" = 0
+	"Yogi #0" = 0
+	"Aalia Rani #0" = -5
+	"Bhavika Rani #0" = -5
+	"Devi Rani #0" = -5
+	"Jiya Rani #0" = -5
+	"Mahi Rani #0" = -5
+	"Poo Rani #0" = -5
+	"Reha Rani #0" = -5
+	"Sai Rani #0" = -5
+	"Sha Rani #0" = -5
+}
+
+leader_names = {
+	Pandya
+	Achari
+	Balasubramanaian
+	Chandrashekar
+	Iyengar
+	Kalabhra
+	Kalahasti
+	Nadar
+	Pallava
+	Ramachandran
+	Raman
+	Sangam
+	Skanda
+	Soma
+	Subramanya
+	Thakur
+	Tharpar
+	Udayar
+	Vellalar
+}

@@ -1,0 +1,29 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = kannada
+religion = mithraic
+technology_group = indian
+capital = 2032
+
+1444.1.1 = {
+	monarch = {
+		name = "Dwarakanath II"
+		dynasty = "Sarma"
+		birth_date = 1390.10.18
+		adm = 6
+		dip = 5
+		mil = 2
+	}
+	
+	heir = {
+		name = "Meghana"
+		monarch_name = "Meghana I"
+		dynasty = "Sarma"
+		birth_date = 1420.1.4
+		death_date = 1500.1.1
+		adm = 5
+		dip = 6
+		mil = 5
+		female = yes
+	}
+}

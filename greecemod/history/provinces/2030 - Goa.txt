@@ -1,21 +1,21 @@
-#2029 - South Kanara
+#2030 - Goa
 
 owner = KER
 controller = KER
-culture = kannada
-religion = mithraic
-capital = "Sauparnika"
-trade_goods = tropical_wood
+culture = marathi
+religion = hinduism
+capital = "Gomantaka"
+trade_goods = spices
 hre = no
-base_tax = 3
+base_tax = 4
 manpower = 2
-citysize = 13000
+citysize = 50000
 add_core = KER
-add_core = CER
+add_local_autonomy = 25
 fort1 = yes
 marketplace = yes
 discovered_by = indian
 discovered_by = nomad_group
-discovered_by = muslim
+discovered_by = muslim 
 discovered_by = ottoman
 discovered_by = chinese

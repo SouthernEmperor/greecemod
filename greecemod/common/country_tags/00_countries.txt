@@ -132,7 +132,10 @@ UGU = "countries/Sibiridugu.txt"
 JOL = "countries/Jolof.txt" #recycled from vanilla
 
 #South India
+CER = "countries/Chera.txt"
 KER = "countries/Kerala.txt"
+KRN = "countries/Karnataka.txt"
+PDY = "countries/Pandya.txt"
 
 #Chinese "Shogunate"
 CHX = "countries/Huaxia.txt"
