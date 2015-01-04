@@ -99,10 +99,13 @@ RBL = "countries/Arbela.txt"
 SSA = "countries/Susa.txt"
 
 #Araby
-ADE	= "countries/Yemen.txt" #recycled from vanilla
+ADE	= "countries/Yemen.txt" #recycled from vanilla, Sheba
 DHR = "countries/Hadhramaut.txt"
-OMA	= "countries/Oman.txt" #recycled from vanilla
+OMA	= "countries/Oman.txt" #recycled from chocolate, Oman
 DMU = "countries/Dilmun.txt"
+NAJ	= "countries/Najd.txt" #recycled from strawberry, Thamud
+HED	= "countries/Hedjaz.txt" #recycled from hazelnut, Metopo
+ALH	= "countries/Haasa.txt" #recycled from pistachio, Gerrha
 
 #Persia
 ECB = "countries/Ecbatana.txt"
@@ -296,9 +299,6 @@ BSH	= "countries/Bashkiria.txt"
 
 #Arabia	
 
-ALH	= "countries/Haasa.txt"
-NAJ	= "countries/Najd.txt"
-HED	= "countries/Hedjaz.txt"
 SHR	= "countries/Sharjah.txt"
 		
 #Asia Minor		
