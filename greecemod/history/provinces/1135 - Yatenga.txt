@@ -1,6 +1,8 @@
 #1135 - Yatenga
 
-
+owner = WGD
+controller = WGD
+add_core = WGD
 citysize = 5000
 culture = mossi
 religion = west_african_pagan

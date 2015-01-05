@@ -1,5 +1,8 @@
 #1141 - Whydah
 
+owner = WHY
+controller = WHY
+add_core = WHY
 culture = fon
 religion = west_african_pagan
 capital = "Whydah"

@@ -1,6 +1,8 @@
 # No previous file for Aribanda
 
-
+owner = ISS
+controller = ISS
+add_core = ISS
 citysize = 5000
 culture = songhai 
 religion = west_african_pagan

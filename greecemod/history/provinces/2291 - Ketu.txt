@@ -1,6 +1,8 @@
 # No previous file for Ketu
 
-
+owner = ZOE
+controller = ZOE
+add_core = ZOE
 citysize = 5000
 culture = yorumba  
 religion = west_african_pagan

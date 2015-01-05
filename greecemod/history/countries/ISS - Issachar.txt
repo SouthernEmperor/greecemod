@@ -10,8 +10,8 @@ mercantilism = 0.1
 technology_group = sub_saharan
 religion = jewish
 primary_culture = mali
-capital = 1157	# Gatiga, Gazargamu
-historical_rival = YAO
+capital = 2262	# Gatiga, Gazargamu
+
 
 #Sultans
 1389.1.1 = {
@@ -122,8 +122,8 @@ historical_rival = YAO
 
 1440.1.1 = {
 	monarch = {
-		name = "Ishak"
-		dynasty = "Zebulunid"
+		name = "Yaqub"
+		dynasty = "Issacharid"
 		dip = 0
 		adm = 1
 		mil = 1
@@ -134,7 +134,7 @@ historical_rival = YAO
 	heir = {
 		name = "Dunama"
 		monarch_name = "Dunama V"
-		dynasty = "Zebulunid"
+		dynasty = "Issacharid"
 		birth_date = 1420.1.1
 		death_Date = 1450.1.1
 		claim = 95

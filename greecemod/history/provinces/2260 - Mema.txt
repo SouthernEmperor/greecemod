@@ -1,6 +1,8 @@
 # No previous file for Mema
 
-
+owner = ISS
+controller = ISS
+add_core = ISS
 citysize = 5000
 culture = bambara 
 religion = west_african_pagan

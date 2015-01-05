@@ -1,6 +1,8 @@
 #1142 - Dendi
 
-
+owner = DEN
+controller = DEN
+add_core = DEN
 culture = songhai
 citysize = 7000
 manpower = 1

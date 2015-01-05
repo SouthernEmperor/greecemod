@@ -1,5 +1,8 @@
 #1138 - Kumasi
 
+owner = BNM
+controller = BNM
+add_core = BNM
 culture = aka
 manpower = 1
 religion = west_african_pagan

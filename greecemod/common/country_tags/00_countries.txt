@@ -143,6 +143,13 @@ ZOE = "countries/Moshi.txt"
 KTR = "countries/Kantor.txt"
 UGU = "countries/Sibiridugu.txt"
 JOL = "countries/Jolof.txt" #recycled from vanilla
+BNM = "countries/Bonoman.txt"
+WGD = "countries/Wagadugi.txt"
+DEN = "countries/Dendi.txt"
+BIL = "countries/Bilanga.txt"
+WHY = "countries/Whydah.txt"
+ISS = "countries/Issachar.txt"
+GHA = "countries/Greatghana.txt" #union tag for post-ghana state, Old Ghana now Dagbon
 
 #North India
 

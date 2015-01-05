@@ -1,6 +1,8 @@
 #1140 - Abomey
 
-
+controller = ZOE
+owner = ZOE
+add_core = ZOE
 citysize = 5000
 culture = fon
 religion = west_african_pagan

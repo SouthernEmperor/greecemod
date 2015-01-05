@@ -1,6 +1,8 @@
 # No previous file for Bara
 
-
+controller = ISS
+add_core = ISS
+owner = ISS
 citysize = 5000
 culture = bambara 
 religion = west_african_pagan

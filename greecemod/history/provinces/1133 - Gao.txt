@@ -1,6 +1,8 @@
 #1133 - Gao
 
-
+controller = ISS
+owner = ISS
+add_core = ISS
 culture = songhai
 citysize = 9500
 manpower = 2

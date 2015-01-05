@@ -1,6 +1,8 @@
 # No previous file for Tenkodogo
 
-
+owner = BIL
+controller = BIL
+add_core = BIL
 citysize = 5000
 culture = mossi 
 religion = west_african_pagan

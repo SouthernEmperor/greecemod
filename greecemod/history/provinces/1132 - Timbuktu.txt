@@ -1,6 +1,8 @@
 #1132 - Timbuktu
 
-
+owner = ISS
+controller = ISS
+add_core = ISS
 culture = tuareg
 citysize = 14000
 manpower = 2

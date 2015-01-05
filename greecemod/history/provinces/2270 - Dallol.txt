@@ -1,6 +1,8 @@
 # No previous file for Dallol
 
-
+owner = DEN
+controller = DEN
+add_core = DEN
 citysize = 5000
 culture = songhai 
 religion = west_african_pagan

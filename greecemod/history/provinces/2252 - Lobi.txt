@@ -1,6 +1,8 @@
 # No previous file for Lobi
 
-
+owner = WGD
+controller = WGD
+add_core = WGD
 citysize = 5000
 culture = dyola  
 religion = west_african_pagan

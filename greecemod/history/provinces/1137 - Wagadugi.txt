@@ -1,7 +1,9 @@
 #1137 - Wagadugi
 
 #Senior of the Mossi Kingdoms centered here
-
+owner = WGD
+controller = WGD
+add_core = WGD
 citysize = 5000
 culture = mossi #mossi
 religion = west_african_pagan

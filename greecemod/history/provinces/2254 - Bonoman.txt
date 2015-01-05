@@ -1,6 +1,8 @@
 # No previous file for Bonoman
 
-
+owner = BNM
+controller = BNM
+add_core = BNM
 citysize = 5000
 culture = aka 
 religion = west_african_pagan

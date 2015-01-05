@@ -1,7 +1,9 @@
 # No previous file for Ijebu
 
 
-
+owner = WHY
+add_core = WHY
+controller = WHY
 citysize = 5000
 culture = yorumba  
 religion = west_african_pagan

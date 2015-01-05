@@ -1,9 +1,3 @@
-vassal = {
-	first = GNA
-	second = ZOE
-	start_date = 1444.11.11
-	end_date = 1821.1.1
-}
 
 #alliances of the Malinese
 alliance = {
