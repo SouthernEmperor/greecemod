@@ -1,4 +1,4 @@
-government = feudal_monarchy
+government = despotic_monarchy
 technology_group = western
 religion = finnish_pagan
 primary_culture = finnish

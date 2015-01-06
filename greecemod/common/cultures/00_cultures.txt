@@ -328,8 +328,8 @@ baltic	= {
 	lithuanian = {
 		primary = LIT
 	}
-	old_prussian = {
-		primary = KUR
+	prussian = {
+		primary = PRU
 	}
 	latvian = {
 	}

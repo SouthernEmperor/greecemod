@@ -1,0 +1,16 @@
+#Ostrov
+
+owner = LAT
+controller = LAT
+culture = latvian
+religion = baltic_pagan
+hre = no
+base_tax = 2
+trade_goods = grain
+manpower = 2
+capital = "Ostrov"
+citysize = 2000
+fort1 = yes
+add_core = LAT
+discovered_by = western
+discovered_by = eastern

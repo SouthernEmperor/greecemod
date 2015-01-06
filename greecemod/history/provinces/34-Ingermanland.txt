@@ -1,0 +1,17 @@
+#Ingermanland, incl. Ivangorod, Jama, and Kopore.
+
+owner = EST
+controller = EST
+add_core = EST
+culture = estonian
+religion = finnish_pagan
+hre = no
+base_tax = 2
+trade_goods = fur
+manpower = 1
+capital = "Koporye"
+citysize = 1000 # Estimated
+fort1 = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = nomad_group

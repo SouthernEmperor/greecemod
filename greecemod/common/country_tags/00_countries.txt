@@ -14,6 +14,11 @@ GUB = "countries/Alba.txt"
 IRE	= "countries/Ireland.txt"
 RHE = "countries/Rheged.txt"
 
+#Baltic
+LAT = "countries/Latvia.txt"
+EST = "countries/Estonia.txt"
+
+
 #Iberia
 CIT = "countries/Citerior.txt"
 GAL = "countries/Gallaecia.txt"

@@ -1,0 +1,17 @@
+#311 - Kholm
+
+owner = LAT
+controller = LAT
+culture = latvian
+religion = baltic_pagan
+hre = no
+base_tax = 3 
+trade_goods = naval_supplies  
+manpower = 3
+capital = "Kholm"
+citysize = 3000
+fort1 = yes
+add_core = LAT
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group

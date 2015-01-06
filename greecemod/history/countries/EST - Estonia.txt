@@ -1,0 +1,5 @@
+government = despotic_monarchy
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = estonian
+capital = 36	# Estland

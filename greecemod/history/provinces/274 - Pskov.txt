@@ -1,0 +1,18 @@
+#274 - Pskov
+
+owner = EST
+controller = EST
+culture = estonian
+religion = finnish_pagan
+hre = no
+base_tax = 5
+trade_goods = grain
+manpower = 4
+capital = "Pskov"
+citysize = 6000
+fort1 = yes
+temple = yes		# Trinity cathedral, founded in 1138
+marketplace = yes # important Hanseatic partner
+add_core = EST
+discovered_by = western
+discovered_by = eastern
