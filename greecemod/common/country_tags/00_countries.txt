@@ -3,6 +3,9 @@ REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
+#Vinland
+ICE = "countries/Iceland.txt"
+
 #Britain
 ALY = "countries/Albiyun.txt"
 BRC = "countries/Bernicia.txt"
@@ -187,6 +190,7 @@ CNI = "countries/Nei.txt"
 CPG = "countries/Ping.txt"
 CYE = "countries/Ye.txt"
 
+#grorious nippon
 HTA = "countries/Hata.txt"
 
 #ABOVE THIS LINE IS GREECEMOD STUFF

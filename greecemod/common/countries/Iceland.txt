@@ -1,0 +1,63 @@
+#Denmark
+
+graphical_culture = westerngfx
+
+color = { 56 32 130 }
+
+
+historical_idea_groups = {
+	maritime_ideas
+	administrative_ideas
+	aristocracy_ideas
+	expansion_ideas
+	naval_ideas 
+	trade_ideas 
+	quality_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Snorri #0" = 140
+	"Thorstein #0" = 120
+	"Njordr #7" = 20
+	"Ivar #3" = 20
+	"Oyvind #0" = 10
+	"Leif #1" = 10
+	"Ragnarr #0" = 10
+	"Freyja #0" = -5
+	"Arnbjorg #0" = -10
+	"Asdis #1" = -10
+	"Asmundur #1" = 1
+	"Aki #0" = 10
+
+}
+
+leader_names = {
+	Sturluson 
+	Eirikson
+	Ragnarrson
+	Ivaring
+	Akisson
+	Svensson
+}
+
+ship_names = {
+	Sigtuna Uppsala Blaland Odin Thor Freyr Njordr Heimdall Loki Baldr Thingvellir Svithjod Ring Lothbrok
+}

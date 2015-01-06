@@ -1,0 +1,9 @@
+government = noble_republic
+mercantilism = 0.1
+primary_culture = norwegian
+religion = norse_pagan
+technology_group = western
+historical_friend = NOR
+capital = 370 #Akershus
+
+

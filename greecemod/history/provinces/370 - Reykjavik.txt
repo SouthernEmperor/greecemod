@@ -1,0 +1,33 @@
+#370 - Reykjavik
+
+owner = ICE
+controller = ICE 
+culture = norwegian
+religion = norse_pagan
+hre = no
+base_tax = 1
+trade_goods = fish
+manpower = 1
+capital = "Reykjavik"
+citysize = 1050 		# Estimated
+fort1 = yes
+add_core = ICE
+discovered_by = western
+
+#1450.1.1 = { citysize = 300 }
+1490.1.1 = { temple = yes } # Established during the 12th century
+#1500.1.1 = { citysize = 470 }
+1536.1.1 = {	religion = protestant
+		owner = DAN
+		controller = DAN
+		add_core = DAN
+	   }
+#1550.1.1 = { citysize = 600 }
+#1600.1.1 = { citysize = 920 }
+#1650.1.1 = { citysize = 1030 }
+1700.1.1 = { citysize = 1400 }
+1750.1.1 = { citysize = 1500 }
+1752.1.1 = { trade_goods = wool } # Wool becomes more important.
+1783.6.8 = { citysize = 1565 } # Volcanic eruptions, one quarter dies of starvation
+1786.1.1 = { marketplace = yes } # Receives trade rights
+1800.1.1 = { citysize = 1830 }
