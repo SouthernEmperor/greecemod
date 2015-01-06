@@ -1,17 +1,17 @@
-# - Wystruc
+#257 - Mazovia
 
-owner = PRU
-controller = PRU
-capital = "Wystruc"
+owner = YOT
+controller = YOT
+capital = "Warszawa"
 culture = yotvingian
 religion = baltic_pagan
-trade_goods = naval_supplies
+trade_goods = cloth
 hre = no
-base_tax = 4
-manpower = 2
-citysize = 20500
+base_tax = 7
+manpower = 4
+citysize = 6000
 fort1 = yes
-add_core = PRU
+add_core = YOT
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

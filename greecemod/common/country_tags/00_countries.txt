@@ -17,6 +17,7 @@ RHE = "countries/Rheged.txt"
 #Baltic
 LAT = "countries/Latvia.txt"
 EST = "countries/Estonia.txt"
+YOT = "countries/Yotvingia.txt"
 
 
 #Iberia

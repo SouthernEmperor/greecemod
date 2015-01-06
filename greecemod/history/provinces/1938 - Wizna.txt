@@ -1,17 +1,17 @@
-# - Wystruc
+#Wizna
 
-owner = PRU
-controller = PRU
-capital = "Wystruc"
-culture = yotvingian
+owner = YOT
+controller = YOT
+capital = "Wizna"
+culture = yotvingan
 religion = baltic_pagan
 trade_goods = naval_supplies
 hre = no
-base_tax = 4
-manpower = 2
-citysize = 20500
+base_tax = 2
+manpower = 1
+citysize = 1000
 fort1 = yes
-add_core = PRU
+add_core = YOT
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

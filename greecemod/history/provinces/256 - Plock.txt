@@ -1,0 +1,18 @@
+#256 - Plock
+
+owner = YOT
+controller = YOT
+capital = "Plock"
+citysize = 1700
+culture = votingian
+religion = baltic_pagan
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 2
+fort1 = yes
+add_core = YOT
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

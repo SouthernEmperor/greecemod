@@ -333,7 +333,11 @@ baltic	= {
 	}
 	latvian = {
 	}
-	
+		primary = LAT
+	Yotvingian = {
+	}
+		primary = YOT
+
 	dynasty_names = { 
 		Gediminai Radziwill Gostautas Astikas Kesgaila Chodkiewicz Olshanski Chartoryski
 		Giedraiciai Pac Plater Tyzenhaus Sapieha Ostrogski Oginski
