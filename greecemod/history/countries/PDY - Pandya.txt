@@ -18,6 +18,7 @@ capital = 536
 	heir = {
 		name = "Rajasimha"
 		monarch_name = "Rajasimha II"
+		dynasty = "Pandya"
 		birth_date = 1440.2.24
 		death_date = 1500.1.1
 		adm = 0

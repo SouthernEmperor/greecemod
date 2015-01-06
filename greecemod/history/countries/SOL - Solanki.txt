@@ -1,0 +1,28 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = maharashtri
+religion = hinduism
+technology_group = indian
+capital = 1948
+
+1444.1.1 = {
+	monarch = {
+		name = "Arjunadeva II"
+		dynasty = "Solanki"
+		birth_date = 1400.3.3
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+	
+	heir = {
+		name = "Jayasinh"
+		monarch_name = "Jayasinh III"
+		dynasty = "Solanki"
+		birth_date = 1431.5.15
+		death_date = 1500.1.1
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+}

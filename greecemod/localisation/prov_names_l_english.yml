@@ -540,9 +540,9 @@
  PROV539: "Dravida" #done
  PROV540: "Kanchi" #done
  PROV541: "Tungabhadra" #done
- PROV542: "Musi" #done
+ PROV542: "Musiveni" #done
  PROV543: "Andhraka" #done
- PROV544: "Ahmadnagar"
+ PROV544: "Dharur" #done
  PROV545: "Marathwada"
  PROV546: "East Berar"
  PROV547: "Bastar"
@@ -567,12 +567,12 @@
  PROV566: "Assam"
  PROV567: "Silhet"
  PROV568: "Chittagong"
- PROV569: "Bijapur"
+ PROV569: "Karavira" #done
  PROV570: "Naga"
  PROV571: "Darrang"
- PROV572: "Kotte"
+ PROV572: "Lanka" #done
  PROV573: "Cachar"
- PROV574: "The Andamans"
+ PROV574: "Tinmaittivu" #done
  PROV575: "Gwadar"
  PROV576: "Kalat"
  PROV577: "Quetta"
@@ -1246,7 +1246,7 @@
  PROV1245: "Manokwari"
  PROV1246: "Waihopai"
  PROV1247: "Corsica"
- PROV1248: "Maldives"
+ PROV1248: "Malaitheevu" #done
  PROV1249: "Yola"
  PROV1250: "Vänern"
  PROV1251: "Vättern"
@@ -1944,9 +1944,9 @@
  PROV1943: "Bratslav"
  PROV1944: "Cherkasy"
  PROV1945: "Novgorod-Seversky"
- PROV1946: "Desh"
+ PROV1946: "Kolhapur" #done
  PROV1947: "Annamalaiyar" #done
- PROV1948: "Bidar"
+ PROV1948: "Bayaluseeme" #done
  PROV1949: "Tirupati" #done
  PROV1950: "Meghalaya"
  PROV1951: "Hunyad"
@@ -2032,7 +2032,7 @@
  PROV2032: "Vanavasi" #done
  PROV2033: "Havanur" #done
  PROV2034: "Pune"
- PROV2035: "Gulbarga"
+ PROV2035: "Kuntala" #done
  PROV2036: "Baglana"
  PROV2037: "Orugallu" #done
  PROV2038: "Midnapore"
@@ -2096,8 +2096,8 @@
  PROV2096: "Damin"
  PROV2097: "Baghelkhand"
  PROV2098: "Surguja"
- PROV2099: "Kandy"
- PROV2100: "Vanni"
+ PROV2099: "Trikuta" #done
+ PROV2100: "Sinhala" #done
  PROV2101: "Kumari" #done
  PROV2102: "Urkan"
  PROV2103: "Udi"

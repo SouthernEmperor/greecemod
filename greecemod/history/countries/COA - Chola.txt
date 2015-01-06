@@ -1,0 +1,28 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = tamil
+religion = hinduism
+technology_group = indian
+capital = 617
+
+1444.1.1 = {
+	monarch = {
+		name = "Rajendra IV"
+		dynasty = "Chola"
+		birth_date = 1399.9.13
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+	
+	heir = {
+		name = "Rajaraja"
+		monarch_name = "Rajaraja IV"
+		dynasty = "Chola"
+		birth_date = 1434.4.1
+		death_date = 1500.1.1
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}

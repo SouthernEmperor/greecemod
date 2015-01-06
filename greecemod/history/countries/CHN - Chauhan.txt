@@ -1,0 +1,28 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = maharashtri
+religion = hinduism
+technology_group = indian
+capital = 569
+
+1444.1.1 = {
+	monarch = {
+		name = "Krishna II"
+		dynasty = "Chauhan"
+		birth_date = 1415.5.30
+		adm = 5
+		dip = 2
+		mil = 6
+	}
+	
+	heir = {
+		name = "Mallakarni"
+		monarch_name = "Mallakarni I"
+		dynasty = "Chauhan"
+		birth_date = 1442.5.3
+		death_date = 1500.1.1
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+}

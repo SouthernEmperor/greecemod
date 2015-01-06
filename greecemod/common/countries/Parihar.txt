@@ -1,0 +1,98 @@
+#Country Name: Please see filename.
+
+graphical_culture = indiangfx
+
+color = { 171 83 24 }
+
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	aristocracy_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Mulraj #0" = 15
+	"Bhimdeva #0" = 15
+	"Karandeva #0" = 15
+	"Siddhraj #2" = 15
+	"Jayasinh #0" = 15
+	"Kumarpal #2" = 15
+	"Arjunadeva #0" = 15
+	"Vishaldeva #0" = 10
+	"Bal Mulraj #0" = 10
+	"Karandeva #0" = 10
+	"Parmara #0" = 10
+	"Simuka #1" = 10
+	"Krishna #0" = 10
+	"Mallakarni #0" = 10
+	"Satakarni #0" = 10
+	"Purnotsanga #0" = 10
+	"Skandhastambhi #0" = 10
+	"Saatakarni #0" = 10
+	"Lambodara #0" = 10
+	"Apilaka #0" = 10
+	"Meghasvati #0" = 10
+	"Mahendra #0" = 10
+	"Kuntala #0" = 10
+	"Svatikarna #0" = 10
+	"Riktavarna #0" = 10
+	"Mandalaka #0" = 10
+	"Purindrasena #0" = 10
+	"Aditya #0" = 0
+	"Bhav #0" = 0
+	"Cakora #0" = 0
+	"Dron #0" = 0
+	"Gaja #0" = 0
+	"Hari #0" = 0
+	"Imran #0" = 0
+	"Krishna #0" = 0
+	"Lagan #0" = 0
+	"Mohit #0" = 0
+	"Nihal #0" = 0
+	"Om #0" = 0
+	"Pal #0" = 0
+	"Ram #0" = 0
+	"Sundar #0" = 0
+	"Tanish #0" = 0
+	"Uday #0" = 0
+	"Yash #0" = 0
+	"Padma Lakshmi #0" = -1
+	"Saraswati #0" = -1
+}
+
+leader_names = {
+	Agnikula
+	Bhosale
+	Chauhan
+	Das
+	Deshmukh
+	Dhane
+	Holkar
+	Maitrak
+	Parihar
+	Parmar
+	Patel
+	Sardar
+	Shinde
+	Solanki
+	Vaghela
+}

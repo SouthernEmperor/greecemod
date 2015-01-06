@@ -1,0 +1,14 @@
+#1248 - Maldives
+
+culture = tamil
+religion = hinduism
+capital = "Malé"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1900
+owner = COA
+controller = COA
+add_core = COA
+discovered_by = indian

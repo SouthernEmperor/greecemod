@@ -1355,7 +1355,7 @@ western_aryan = {
 		dynasty_names = {
 			"Sisodiya" "Faruqi" "Rastraudha" "Solanki" "Khan Zada" "Kachwaha"
 
-			"Satnami" "Rathore" "Hada" "Chauhan" "Holkar" "Qadirid" "Shaja'atid"
+			"Satnami" "Rathore" "Hada" "Holkar" "Qadirid" "Shaja'atid"
 			"Khalji" "Tomara" "Jadeja" "Khirwara" "Nauhwara" "Sinsiniwar" "Balhara"
 			"Panwara"
 		}
@@ -1369,23 +1369,39 @@ western_aryan = {
 	}
 }
 
+prakrit = {
+	graphical_culture = indiangfx
+	
+	maharashtri = {
+		primary = ASM
+		dynasty_names = {
+			"Satnami" "Rathore" "Hada" "Holkar" "Qadirid" "Shaja'atid"
+			"Khalji" "Tomara" "Jadeja" "Khirwara" "Nauhwara" "Sinsiniwar" "Balhara"
+			"Panwara"
+		}
+	}
+	
+	sauraseni = {
+	}
+}
+
 dravidian = {
 	graphical_culture = indiangfx
 
 	kannada = {
-		primary = MYS
+		primary = KRN
 		dynasty_names = {
 			"Wodeyar" "Sangama" "Saluva" "Tuluva" "Alupa" "Keladi" "Ummattur" "Chowta"
 		}
 	}
 	malayalam = {
-		primary = VND
+		primary = KER
 		dynasty_names = {
 			"Kolathiri" "Saamoothiri" "Perumal" "Perumpadappu" "Kulasekhara" "Cheraman"
 		}
 	}
 	tamil = {
-		primary = MAD
+		primary = PDY
 		dynasty_names = {
 			"Saadatullahid" "Anwarudid" "Pandya" "Thondaiman" "Thanjavuri" "Sethupathy" "Saluva"
 		}

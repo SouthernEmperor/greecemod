@@ -158,11 +158,16 @@ GHA = "countries/Greatghana.txt" #union tag for post-ghana state, Old Ghana now 
 #East India
 
 #Central India
+ASM = "countries/Ashmaka.txt" #Maharashtra union
+CHN = "countries/Chauhan.txt"
+PRH = "countries/Parihar.txt"
 RED = "countries/Reddy.txt"
+SOL = "countries/Solanki.txt"
 YAD = "countries/Yadava.txt"
 
 #South India
 CER = "countries/Chera.txt"
+COA = "countries/Chola.txt"
 KER = "countries/Kerala.txt"
 KRN = "countries/Karnataka.txt"
 PDY = "countries/Pandya.txt"
