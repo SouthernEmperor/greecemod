@@ -175,7 +175,9 @@ GHA = "countries/Greatghana.txt" #union tag for post-ghana state, Old Ghana now 
 
 #Central India
 ASM = "countries/Ashmaka.txt" #Maharashtra union
+GDW = "countries/Gondwana.txt"
 CHN = "countries/Chauhan.txt"
+KNK = "countries/Konkan.txt"
 PRH = "countries/Parihar.txt"
 RED = "countries/Reddy.txt"
 SOL = "countries/Solanki.txt"
@@ -541,7 +543,6 @@ SND = "countries/Sind.txt"
 BRR = "countries/Berar.txt"
 JAN = "countries/Jangladesh.txt"
 KRK = "countries/Carnatic.txt"
-GDW = "countries/Gondwana.txt"
 GRJ = "countries/Garjat.txt"
 GWA = "countries/Gwalior.txt"
 DHU = "countries/Dhundhar.txt"
