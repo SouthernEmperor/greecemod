@@ -3,7 +3,7 @@
 owner = COA
 controller = COA
 culture = sinhala
-religion = buddhism
+religion = hinduism
 capital = "Rumak"
 trade_goods = spices
 hre = no

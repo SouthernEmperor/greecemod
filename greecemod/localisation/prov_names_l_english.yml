@@ -528,7 +528,7 @@
  PROV527: "Khandesh"
  PROV528: "Hadoti"
  PROV529: "North Konkan"
- PROV530: "South Konkan"
+ PROV530: "Talakata" #done
  PROV531: "Gomanta" #done
  PROV532: "Kishkindha" #done
  PROV533: "Mahishaka" #done
@@ -543,13 +543,13 @@
  PROV542: "Musiveni" #done
  PROV543: "Andhraka" #done
  PROV544: "Dharur" #done
- PROV545: "Marathwada"
- PROV546: "East Berar"
- PROV547: "Bastar"
- PROV548: "West Berar"
+ PROV545: "Dandaka" #done
+ PROV546: "Vidarbha" #done
+ PROV547: "Kolab" #done
+ PROV548: "Vakataka" #done
  PROV549: "Kalingandhra"
  PROV550: "Mahakoshal"
- PROV551: "Mandla"
+ PROV551: "Mekala" #done
  PROV552: "Cuttack"
  PROV553: "Sambalpur"
  PROV554: "Baisi Rajya"
@@ -2025,13 +2025,13 @@
  PROV2024: "Mokum Pe"
  PROV2026: "Kaveri" #done
  PROV2027: "Vellore" #done
- PROV2028: "Mahur"
+ PROV2028: "Matapur" #done
  PROV2029: "Tulunga" #done
  PROV2030: "Gorashtra" #done
  PROV2031: "Gangavadi" #done
  PROV2032: "Vanavasi" #done
  PROV2033: "Havanur" #done
- PROV2034: "Pune"
+ PROV2034: "Nashik" #done
  PROV2035: "Kuntala" #done
  PROV2036: "Baglana"
  PROV2037: "Orugallu" #done
@@ -2047,7 +2047,7 @@
  PROV2047: "Tirhut"
  PROV2048: "Garjat"
  PROV2049: "Khurda"
- PROV2050: "Chanda"
+ PROV2050: "Wardha" #done
  PROV2051: "Bhavnagar"
  PROV2052: "Navanagar"
  PROV2053: "Patan"
@@ -2079,14 +2079,14 @@
  PROV2079: "Acesines" #done
  PROV2080: "Srikakulam"
  PROV2081: "Lakhnor"
- PROV2082: "Raipur"
+ PROV2082: "Taitilaka" #done
  PROV2083: "Pinaki" #done
  PROV2084: "Telinga" #done
  PROV2085: "Srirangam" #done
  PROV2086: "Cholistan"
  PROV2087: "Ajmer"
  PROV2088: "Umarkot"
- PROV2089: "Chaul"
+ PROV2089: "Rajpuri" #done
  PROV2090: "Navabhrama" #done
  PROV2091: "Tripura"
  PROV2092: "Mahadeo"

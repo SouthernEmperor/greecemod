@@ -332,16 +332,15 @@ baltic	= {
 		primary = PRU
 	}
 	latvian = {
-	}
 		primary = LAT
-	Yotvingian = {
 	}
+	yotvingian = {
 		primary = YOT
-
-	dynasty_names = { 
-		Gediminai Radziwill Gostautas Astikas Kesgaila Chodkiewicz Olshanski Chartoryski
-		Giedraiciai Pac Plater Tyzenhaus Sapieha Ostrogski Oginski
 	}
+	#dynasty_names = { 
+	#	Gediminai Radziwill Gostautas Astikas Kesgaila Chodkiewicz Olshanski Chartoryski
+	#	Giedraiciai Pac Plater Tyzenhaus Sapieha Ostrogski Oginski
+	#}
 }
 
 mustarib = {
@@ -1419,7 +1418,7 @@ dravidian = {
 	
 }
 
-central_indic = {
+godavaric = {
 	graphical_culture = indiangfx
 
 	gondi = {
@@ -1428,6 +1427,16 @@ central_indic = {
 			"Chanda" "Raj Gondi" "Kherli" "Deogadhi" "Ballar Sahi" "Haihaya" "Gadhi"
 		}
 	}
+	
+	kolami = {
+		dynasty_names = {
+			"Nagavamsi" "Sankara" "Bhuyavamsha" "Gangabansi" "Bhanja" "Karan" "Keshari" "Suryavanshi" "Baghal"
+		}
+	}
+}
+
+central_indic = {
+	graphical_culture = indiangfx
 	garjati = {
 		primary = GRJ
 		dynasty_names = {

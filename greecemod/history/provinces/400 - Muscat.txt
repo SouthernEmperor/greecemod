@@ -3,7 +3,7 @@
 owner = OMA
 controller = OMA
 culture = bedouin_arabic
-religion = buddhism
+religion = sarvastivada
 capital = "Masqat"
 trade_goods = spices
 hre = no

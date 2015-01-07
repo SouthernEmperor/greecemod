@@ -1,7 +1,7 @@
 government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = bedouin_arabic
-religion = buddhism
+religion = sarvastivada
 technology_group = muslim
 capital = 400	# Muscat
 

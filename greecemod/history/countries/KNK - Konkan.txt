@@ -1,0 +1,28 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = maharashtri
+religion = hinduism
+technology_group = indian
+capital = 2034
+
+1444.1.1 = {
+	monarch = {
+		name = "Kuntala II"
+		dynasty = "Deshmukh"
+		birth_date = 1398.1.13
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+	
+	heir = {
+		name = "Riktavarna"
+		monarch_name = "Riktavarna II"
+		dynasty = "Deshmukh"
+		birth_date = 1399.10.4
+		death_date = 1500.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
