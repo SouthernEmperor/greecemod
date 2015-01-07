@@ -38,6 +38,12 @@ west_germanic = {
 	alemanni =  {
 		primary = ALL
 	}
+	gothic =  {
+		primary = GAU
+		dynasty_names = {
+			"Gothiscandza" "Gautigoth" "Alaricid" "Romid" "Gauti" "Gothi" "Hithalarr"
+		}
+	}
 }
 
 north_germanic = {
@@ -145,6 +151,22 @@ insular = {
 	scottish = {
 		primary = SCO
 	}
+}
+
+balkanic = {
+	graphical_culture = westerngfx
+	
+	histrian = {
+		primary = HIS
+	}
+	illyrian = {
+		primary = CRO
+	}
+	
+	docleatian = {
+		primary = MON
+	}
+	
 }
 
 

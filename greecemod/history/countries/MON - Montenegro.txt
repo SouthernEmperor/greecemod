@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = docleatian
+religion = imperial_hellenic
+technology_group = eastern
+capital = 138
+
+1444.1.1 = {
+	monarch = {
+		name = "Agrippus"
+		dynasty = "Doclea"
+		birth_date = 1399.11.11		
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}

@@ -1,0 +1,42 @@
+#160 - Oltenia
+
+owner = GAU
+controller = GAU  
+culture = gothic
+religion =  germanic_pagan
+capital = "Craiova"
+trade_goods = wool
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 7050
+fort1 = yes
+add_core = GAU
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+1450.1.1  = { citysize = 7400 }
+1500.1.1  = { citysize = 8668 }
+1540.1.1  = { add_core = TUR } # The Turkish domination gradually took hold from 1535
+1550.1.1  = { citysize = 9700 }
+1600.1.1  = { citysize = 10445 }
+1650.1.1  = { citysize = 11198 revolt = { type = noble_rebels size = 2 } controller = REB } # Boyar rebellions
+1658.1.1  = { revolt = {} controller = WAL }
+1660.1.1  = { marketplace = yes }
+1663.1.1  = { unrest = 7 } # Cantacuzino is murdered, struggle for power between the boyars
+1688.1.1  = { unrest = 0 } # Period of stability, Constantine Brancoveanu reigns
+1700.1.1  = { citysize = 11997 }
+1718.1.1  = {	owner = HAB
+		controller = HAB
+		add_core = HAB
+		remove_core = TUR
+	    } # Treaty of Passarowitz, Banat & Oltenia passed to the Habsburg empire
+1739.1.1  = { owner = WAL controller = WAL remove_core = HAB } # Returned to Wallachia after the Russian-Austrian-Turkish war
+1750.1.1  = { citysize = 14114 }
+1789.1.1  = { controller = HAB } # Occupied by Austrian troops
+1791.8.4  = { controller = WAL } # Treaty of Sistova
+1800.1.1  = { citysize = 16605 }
+1806.1.1  = { controller = RUS } # Occupied by Russian troops
+1812.5.28 = { controller = WAL } # Treaty of Bucharest

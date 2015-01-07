@@ -37,6 +37,7 @@ ITA = "countries/Italya.txt"
 ROM = "countries/Rome.txt"
 SPQ = "countries/SPQR.txt"
 PIL = "countries/Pilgrims.txt"
+RHA = "countries/Rhaetia.txt"
 
 #North Africa
 ALG = "countries/Zenada.txt"
@@ -91,6 +92,12 @@ MRC	= "countries/Marcomannia.txt"
 SCY = "countries/Scythia.txt"
 SKR = "countries/Sakartvelo.txt"
 TAM = "countries/Taman.txt"
+
+#Karadicland
+CRO	= "countries/Croatia.txt" #recycled from strawberry
+GAU = "countries/Goths.txt" 
+MON	= "countries/Montenegro.txt" #recycled from peanuts
+HIS = "countries/Histri.txt"
 
 #Levant
 ANT = "countries/Antioch.txt"
@@ -211,13 +218,11 @@ ALB	= "countries/Albania.txt"
 BOS	= "countries/Bosnia.txt"
 BUL	= "countries/Bulgaria.txt"
 CEP	= "countries/Corfu.txt"
-CRO	= "countries/Croatia.txt"
 CRT	= "countries/Crete.txt"
 CYP	= "countries/Cyprus.txt"
 KNI	= "countries/Knights.txt"
 MOE	= "countries/Morea.txt"
 MOL	= "countries/Moldavia.txt"
-MON	= "countries/Montenegro.txt"
 NAX	= "countries/Naxos.txt"
 RAG	= "countries/Ragusa.txt"
 RMN	= "countries/Romania.txt"

@@ -1,0 +1,42 @@
+#1827 - Raska
+
+owner = GAU
+controller = GAU
+culture = gothic
+religion = germanic_pagan
+capital = "Trgoviste"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 2000
+fort1 = yes
+add_core = GAU
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+1450.1.1 = { citysize = 2188 }
+1459.6.20 = {
+	owner = TUR
+	controller = TUR
+	add_core = TUR
+}
+1461.1.1 = { capital = "Novi Pazar" }
+1500.1.1 = { citysize = 2263 }
+1550.1.1 = { citysize = 2520 }
+1595.1.1 = { fort2 = yes } # Estimated
+1600.1.1 = { citysize = 2375 }
+1650.1.1 = { citysize = 2923 marketplace = yes }
+1688.11.7 = { unrest = 12 } # Serb rebellion under D. Brankovic
+1691.1.1 = { courthouse = yes }
+1700.1.1 = { citysize = 3420 }
+1750.1.1 = { citysize = 4246 fort3 = yes }
+1788.3.1 = { controller = HAB } # Occupied by Austrian forces
+1791.1.1 = { controller = TUR }
+1800.1.1 = { citysize = 5450 }
+1806.1.8 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Belgrade is occupied by Serbian rebels
+1813.1.1 = { revolt = {} controller = TUR }
+1815.4.23 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # The Second Serbian uprising
+1817.1.1 = { revolt = {} controller = TUR }

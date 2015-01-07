@@ -1,0 +1,98 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 153 0 48 }
+
+historical_idea_groups = {
+	administrative_ideas
+	plutocracy_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	expansion_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Fredegar #0" = 20
+	"Odo #0" = 20
+	"Hartmut #0" = 15
+	"Wibert #0" = 15
+	"Folcard #0" = 10
+	"Clovis #0" = 10
+	"Alberic #0" = 0
+	"Bertulf #0" = 0
+	"Clothair #0" = 0
+	"Dalfin #0" = 0
+	"Ebrulf #0" = 0
+	"Fulrad #0" = 0
+	"Grimald #0" = 0
+	"Imnion #0" = 0
+	"Jocelin #0" = 0
+	"Leutfrid #0" = 0
+	"Maraulf #0" = 0
+	"Nithard #0" = 0
+	"Pancras #0" = 0
+	"Ragnfred #0" = 0
+	"Syagrius #0" = 0
+	"Theuderic #0" = 0
+	"Waiofar #0" = 0
+	"Vedast #0" = 0
+	"Agobard #0" = 0
+	"Ceufroy #0" = 0
+	"Dado #0" = 0
+	"Emmeran #0" = 0
+	"Fridugis #0" = 0
+	"Grimald #0" = 0
+	"Hartmut #0" = 0
+	"Ledger #0" = 0
+	"Maraulf #0" = 0
+	"Notker #0" = 0
+	"Pippin #0" = 0
+	"Walaric #0" = 0
+	"Chlodmer #0" = 0
+	"Einhard #0" = 0
+	"Lull #0" = 0
+	"Zwentibold #0" = 0
+	
+	"Alpaida #0" = -1
+	"Rosamund #0" = -1
+	"Hildegard #0" = -1
+}
+
+leader_names = {
+	Adaltrude
+	Audofled
+	Eeadgith
+	Fastrad
+	Gersvind
+	Hodierna
+	Ingeltrudis
+	Joveta
+	Merovich
+	Nantechildis
+	Radogund
+	Rothaide
+	Ruothild
+	Vicelin
+	Waldolanus
+	Wulfram
+}
