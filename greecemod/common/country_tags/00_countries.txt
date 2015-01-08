@@ -51,6 +51,7 @@ QRT = "countries/Carthage.txt"
 TGT = "countries/Touggourt.txt" #recycled from vanilla
 UEG = "countries/Upperegypt.txt"
 LEG = "countries/Loweregypt.txt"
+ORO = "countries/Orossinas.txt"
 
 #Hellenic League
 ATH = "countries/Athens.txt"
