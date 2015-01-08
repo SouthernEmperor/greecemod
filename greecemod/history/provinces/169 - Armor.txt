@@ -1,0 +1,18 @@
+# 169 Armor - Principal cities: Rennes
+
+owner = NRM
+controller = NRM
+capital = "Rennes"
+citysize = 7000
+culture = arab-breton
+religion = ashari
+hre = no
+base_tax = 5
+trade_goods = cloth
+manpower = 5
+add_core = NRM
+fort1 = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

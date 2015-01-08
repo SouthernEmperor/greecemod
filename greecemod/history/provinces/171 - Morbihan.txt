@@ -1,0 +1,39 @@
+# 171 Morbihan
+
+owner = BRI
+controller = BRI 
+capital = "Rohan"
+citysize = 2500
+culture = arab_breton
+religion = ashari
+hre = no
+base_tax = 4
+trade_goods = fish
+manpower = 4
+add_core = BRI
+fort1 = yes 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+1450.1.1   = { citysize = 3500 }
+1453.1.1   = { add_core = FRA }
+1500.1.1   = { citysize = 4000 }
+1532.8.4   = { owner = FRA controller = FRA } # Union Treaty
+1550.1.1   = { citysize = 5000 fort2 = yes }
+1588.12.1  = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
+1594.1.1   = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
+1650.1.1   = {	citysize = 12000
+		constable = yes
+		fort3 = yes
+	     	wharf = yes
+	     	capital = "Lorient"
+	     }
+1660.1.1   = { marketplace = yes }
+1700.1.1   = { citysize = 14000 }
+1730.1.1   = { courthouse = yes }
+1740.1.1   = { fort4 = yes }
+1750.1.1   = { citysize = 16000 }
+1770.1.1   = { tax_assessor = yes }
+1800.1.1   = { citysize = 18500 }

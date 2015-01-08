@@ -1,0 +1,39 @@
+# 170 Finistère - Principal cities: Brest
+
+owner = BRI
+controller = BRI
+capital = "Brest"
+citysize = 3500
+culture = arab_breton
+religion = ashari
+hre = no
+base_tax = 3
+trade_goods = naval_supplies
+manpower = 4
+add_core = BRI
+fort1 = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+1450.1.1   = { citysize = 4500 }
+1453.1.1   = { add_core = FRA }
+1500.1.1   = { citysize = 5200 }
+1532.8.4   = { owner = FRA controller = FRA } # Union Treaty
+1550.1.1   = { citysize = 7000 fort2 = yes }
+1570.1.1   = { wharf = yes  }
+1588.12.1  = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
+1594.1.1   = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
+1600.1.1   = { citysize = 8200 constable = yes }
+#1610.1.1   = { customs_house = yes } # Henri IV's quest to eliminate corruption and establish state control
+1631.1.1   = { shipyard = yes regimental_camp = yes } # Brest begins to become a major naval base under the influence of Richelieu
+1640.1.1   = { fort3 = yes marketplace = yes }
+1650.1.1   = { citysize = 9700 }
+1670.1.1   = { fort4 = yes }
+1690.1.1   = { tax_assessor = yes }
+1700.1.1   = { citysize = 11000 }
+1702.1.1   = { temple = yes } # Le Saint-Louis
+1710.1.1   = { courthouse = yes }
+1750.1.1   = { citysize = 20000 }
+1800.1.1   = { citysize = 22000 }

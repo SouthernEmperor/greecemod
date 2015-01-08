@@ -1,0 +1,40 @@
+# 1879 - Alençon
+
+owner = ALE
+controller = ALE
+capital = "Alençon"
+citysize = 11000
+culture = arab_breton
+religion = ashari
+hre = no
+base_tax = 6
+trade_goods = cloth
+manpower = 4
+add_core = ALE
+fort1 = yes
+temple = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+1450.1.1 = { citysize = 13000 }
+1500.1.1 = { citysize = 15000 }
+1549.1.1 = { remove_core = ALE }
+1550.1.1 = { citysize = 21000 }
+1600.1.1 = { citysize = 27000 }
+1630.1.1 = { marketplace = yes }
+1640.1.1 = { fort3 = yes }
+1650.1.1 = { citysize = 33000 constable = yes }
+1650.1.14 = { unrest = 7 } # Mazarin arrests the Princes Condé, Conti & Longueville, the beginning of the Second Fronde
+1651.4.1 = { unrest = 4 } # An unstable peace is concluded
+1651.12.1 = { unrest = 7 } # Mazarin returns from exile, Condé sides with Spain, situation heats up again
+1652.10.21 = { unrest = 0 } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
+1685.10.18 = { unrest = 8 } # Edict of Nantes revoked by Louis XIV
+1686.1.17 = { religion = catholic unrest = 0 } # Dragonnard campaign succesful, region back to catholicism
+1700.1.1 = { citysize = 39000 courthouse = yes }
+1710.1.1 = { fort4 = yes }
+1750.1.1 = { citysize = 38000 tax_assessor = yes }
+1770.1.1 = { workshop = yes regimental_camp = yes }
+1786.1.1 = { base_tax = 6 } # The Eden Agreement
+1800.1.1 = { citysize = 43000 }
