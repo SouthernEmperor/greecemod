@@ -1,17 +1,17 @@
-#Leczyca
+#255 - Kalisz
 
-owner = YOT
-controller = YOT
-capital = "Leczyca"
+owner = VAN
+controller = VAN
 culture = vandal
 religion = germanic_pagan
-trade_goods = grain
+capital = "Gniezno"
+trade_goods = cloth
 hre = no
-base_tax = 3
-manpower = 2
+base_tax = 4
+manpower = 3
+citysize =  3300
 fort1 = yes
-citysize = 1000
-add_core = YOT
+add_core = POL
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

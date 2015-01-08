@@ -3,7 +3,7 @@
 owner = ALL
 controller = ALL
 culture = burgundian
-religion = germanic_pagan
+religion = ashari
 capital = "Sion"
 trade_goods = wool
 hre = no

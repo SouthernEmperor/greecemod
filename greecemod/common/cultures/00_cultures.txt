@@ -38,12 +38,6 @@ west_germanic = {
 	alemanni =  {
 		primary = ALL
 	}
-	gothic =  {
-		primary = GAU
-		dynasty_names = {
-			"Gothiscandza" "Gautigoth" "Alaricid" "Romid" "Gauti" "Gothi" "Hithalarr"
-		}
-	}
 }
 
 north_germanic = {
@@ -152,23 +146,6 @@ insular = {
 		primary = SCO
 	}
 }
-
-balkanic = {
-	graphical_culture = westerngfx
-	
-	histrian = {
-		primary = HIS
-	}
-	illyrian = {
-		primary = CRO
-	}
-	
-	docleatian = {
-		primary = MON
-	}
-	
-}
-
 
 	
 iberian	= {
@@ -312,6 +289,12 @@ east_germanic = {
 	vandal = {
 		primary = VAN #vandals not made yet
 	}
+	gothic =  {
+		primary = GAU
+		dynasty_names = {
+			"Gothiscandza" "Gautigoth" "Alaricid" "Romid" "Gauti" "Gothi" "Hithalarr"
+		}
+	}
 
 }
 
@@ -392,11 +375,13 @@ latin = {
 			primary = SPA
 		}
 		
-		illyrian = {
-		}
-		
 		roman = {
 			primary = ROM			
+		}
+		illyrian = {
+			primary = CRO
+		}
+		gothic-latin = {
 		}
 
 }

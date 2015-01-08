@@ -2,7 +2,7 @@
 
 owner = HIS
 controller = HIS
-culture = histrian
+culture = illyrian
 religion = ashari
 capital = "Trieste"
 trade_goods = wool

@@ -2,8 +2,8 @@
 
 owner = GAU
 controller = GAU
-culture = gothic
-religion = germanic_pagan
+culture = illyrian
+religion = catholic
 capital = "Trgoviste"
 trade_goods = grain
 hre = no

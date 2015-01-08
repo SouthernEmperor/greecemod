@@ -3,7 +3,7 @@
 owner = ALL
 controller = ALL
 culture = roman
-religion = catholic
+religion = ashari
 capital = "Chur"
 trade_goods = wool
 hre = no

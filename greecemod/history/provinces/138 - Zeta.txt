@@ -2,7 +2,7 @@
 
 owner = MON
 controller = MON
-culture = docleatian
+culture = illyrian
 religion = imperial_hellenic
 capital = "Zabljak"
 trade_goods = fish

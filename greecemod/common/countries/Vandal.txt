@@ -1,0 +1,103 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 204  190  144 }
+
+historical_idea_groups = {
+	diplomatic_ideas
+	defensive_ideas
+	innovativeness_ideas
+	offensive_ideas
+	economic_ideas
+	trade_ideas
+	quality_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Athalaric #0" = 80
+	"Theodoric #0" = 60
+	"Gunteric #0" = 60
+	"Alaric #3" = 40
+	"Cunimund #0" = 40
+	"Huneric #4" = 20
+	"Roderic #2" = 20
+	"Alatheus #0" = 20
+	"Eraric #0" = 20
+	"Fridigern #0" = 20
+	"Getica #0" = 20
+	"Munderic #0" = 20
+	"Alexander #0" = 15
+	"Ataulf #0" = 15
+	"Cunimund #0" = 15
+	"Heldebald #0" = 15
+	"Vandil #0" = 15
+	"Ataulf #0" = 15
+	"Cniva #0" = 10
+	"Feletheus #0" = 10
+	"Irnfried #0" = 10
+	"Euric #0" = 10
+	"Marcomir #0" = 10
+	"Mordares #0" = 10
+	"Sidimund #0" = 10
+	"Wallia #0" = 10
+	"Aligern #0" = 0
+	"Ardabur #0" = 0
+	"Baduila #0" = 0
+	"Beucad #0" = 0
+	"Galindus #0" = 0
+	"Hadubrand #0" = 0
+	"Hunumund #0" = 0
+	"Leovigild #0" = 0
+	"Leuvibild #0" = 0
+	"Modaharius #0" = 0
+	"Rausimod #0" = 0
+	"Unimund #0" = 0
+	"Vetericus #0" = 0
+	"Wittigis #0" = 0
+	
+	"Areagne #0" = -1
+	"Glismoda #0" = -1
+	"Sunilda #0" = -1
+}
+
+leader_names = {
+	Achila
+	Ansis
+	Arius
+	Berig
+	Cethegus
+	Duda
+	Erelieva
+	Gaatha
+	Helchen
+	Jordanes
+	Kriemhild
+	Namatius
+	Sueridus
+	Rictiovarus
+	Tuluin
+	Theodemer
+	Theudegisklos
+	Vadamerca
+}
+

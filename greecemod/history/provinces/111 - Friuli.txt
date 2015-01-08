@@ -2,7 +2,7 @@
 
 owner = HIS
 controller = HIS
-culture = histrian
+culture = illyrian
 religion = ashari 
 hre = yes 
 base_tax = 4        

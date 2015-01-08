@@ -3,8 +3,8 @@
 owner = RHA
 controller = RHA
 add_core = RHA
-culture	= roman
-religion = buddhism
+culture	= gothic-latin
+religion = yavana
 base_tax = 9
 trade_goods = iron 
 manpower = 5

@@ -2,7 +2,7 @@
 
 owner = MON		# Part of the Bosnian kingdom
 controller = MON
-culture = docleatian
+culture = illyrian
 religion = imperial_hellenic
 capital = "Trebinje"
 trade_goods = wool

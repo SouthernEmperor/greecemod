@@ -3,7 +3,7 @@
 owner = SAX
 controller = SAX
 add_core = SAX
-culture = lombard
+culture = rugii
 religion = germanic_pagan
 hre = no
 base_tax = 7

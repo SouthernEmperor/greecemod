@@ -2,7 +2,7 @@
 owner = HIS
 controller = HIS
 add_core = HIS
-culture = histrian
+culture = illyrian
 religion = ashari
 base_tax = 7
 trade_goods = iron

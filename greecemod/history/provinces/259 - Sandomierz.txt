@@ -3,8 +3,8 @@
 owner = YOT
 controller = YOT
 capital = "Sandomierz"
-culture = yotvingian
-religion = baltic_pagan
+culture = vandal
+religion = germanic_pagan
 trade_goods = cloth
 hre = no
 base_tax = 6

@@ -1,17 +1,17 @@
-#Leczyca
+#258 - Lodz
 
-owner = YOT
-controller = YOT
-capital = "Leczyca"
+owner = VAN
+controller = VAN
+capital = "Sieradz"
 culture = vandal
 religion = germanic_pagan
 trade_goods = grain
 hre = no
-base_tax = 3
-manpower = 2
+base_tax = 6
+manpower = 4
 fort1 = yes
 citysize = 1000
-add_core = YOT
+add_core = VAN
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

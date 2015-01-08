@@ -3,7 +3,7 @@
 owner = YOT
 controller = YOT
 capital = "Wizna"
-culture = yotvingan
+culture = yotvingian
 religion = baltic_pagan
 trade_goods = naval_supplies
 hre = no

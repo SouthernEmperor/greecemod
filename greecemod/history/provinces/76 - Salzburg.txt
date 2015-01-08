@@ -2,8 +2,8 @@
 
 owner = RHA
 controller = RHA  
-culture = roman
-religion = buddhism
+culture = gothic-latin
+religion = yavana
 capital = "Salzburg"
 trade_goods = salt
 hre = yes
