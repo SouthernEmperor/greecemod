@@ -1265,6 +1265,12 @@ pacific = {
 	}
 }
 
+tai = {
+	tai_pong = {
+		primary = KMA
+	}
+}
+
 eastern_aryan = {
 	graphical_culture = indiangfx
 
@@ -1395,6 +1401,21 @@ prakrit = {
 	}
 }
 
+gangetic = {
+	graphical_culture = indiangfx
+	
+	kalingan = {
+		primary = KAL
+	}
+	
+	magadhi = {
+		primary = MGH
+	}
+	
+	pali = {
+	}
+}
+
 dravidian = {
 	graphical_culture = indiangfx
 
@@ -1440,6 +1461,16 @@ godavaric = {
 			"Nagavamsi" "Sankara" "Bhuyavamsha" "Gangabansi" "Bhanja" "Karan" "Keshari" "Suryavanshi" "Baghal"
 		}
 	}
+}
+
+alani = {
+	
+	aursi = {
+	}
+	
+	yuna = {
+	}
+	
 }
 
 central_indic = {

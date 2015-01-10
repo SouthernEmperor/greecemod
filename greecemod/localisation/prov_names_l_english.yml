@@ -513,15 +513,15 @@
  PROV512: "Jangladesh"
  PROV513: "Jaisalmer"
  PROV514: "Marwar"
- PROV515: "Girnar"
- PROV516: "Baroda"
- PROV517: "Surat"
+ PROV515: "Anarta" #done
+ PROV516: "Estersand" #done
+ PROV517: "Barigaza" #done
  PROV518: "Chittor"
  PROV519: "Dhundar"
  PROV520: "Mewat"
- PROV521: "Kathiawar"
+ PROV521: "Yensa" #done
  PROV522: "Delhi"
- PROV523: "Lucknow"
+ PROV523: "Kashi" #done
  PROV524: "Central Doab"
  PROV525: "Gird"
  PROV526: "Mandu"
@@ -547,29 +547,29 @@
  PROV546: "Vidarbha" #done
  PROV547: "Kolab" #done
  PROV548: "Vakataka" #done
- PROV549: "Kalingandhra"
+ PROV549: "Saura" #done
  PROV550: "Mahakoshal"
  PROV551: "Mekala" #done
- PROV552: "Cuttack"
- PROV553: "Sambalpur"
+ PROV552: "Tosali" #done
+ PROV553: "Sabara" #done
  PROV554: "Baisi Rajya"
- PROV555: "Jaunpur"
+ PROV555: "Malla" #done
  PROV556: "Lower Doab"
  PROV557: "Katmandu"
- PROV558: "Patna"
+ PROV558: "Pataliputra" #done
  PROV559: "Bundelkhand"
- PROV560: "Jharkhand"
- PROV561: "Bengal Delta"
- PROV562: "Koch"
- PROV563: "Gauda"
- PROV564: "Dhaka"
+ PROV560: "Atavi" #done
+ PROV561: "Karvati" #done
+ PROV562: "Kaksha" #done
+ PROV563: "Gauda" #done
+ PROV564: "Tripuri" #done
  PROV565: "Bhutan"
- PROV566: "Assam"
- PROV567: "Silhet"
+ PROV566: "Sonita" #done
+ PROV567: "Samatata" #done
  PROV568: "Chittagong"
  PROV569: "Karavira" #done
  PROV570: "Naga"
- PROV571: "Darrang"
+ PROV571: "Pragjyotisha" #done
  PROV572: "Lanka" #done
  PROV573: "Cachar"
  PROV574: "Tinmaittivu" #done
@@ -2035,25 +2035,25 @@
  PROV2035: "Kuntala" #done
  PROV2036: "Baglana"
  PROV2037: "Orugallu" #done
- PROV2038: "Midnapore"
- PROV2039: "Sunderbans"
- PROV2040: "Sadiya"
+ PROV2038: "Dantapura" #done
+ PROV2039: "Mlecha" #done
+ PROV2040: "Lauhitya" #done
  PROV2041: "Manipur"
- PROV2042: "Koch Hajo"
- PROV2043: "Balasore"
- PROV2044: "Bhagalpur"
- PROV2045: "Barind"
- PROV2046: "Nasirabad"
- PROV2047: "Tirhut"
- PROV2048: "Garjat"
- PROV2049: "Khurda"
+ PROV2042: "Vardhamana" #done
+ PROV2043: "Rajapura" #done
+ PROV2044: "Uluka" #done
+ PROV2045: "Somapura" #done
+ PROV2046: "Samatata" #done
+ PROV2047: "Videha" #done
+ PROV2048: "Asuraghat" #done
+ PROV2049: "Odra" #done
  PROV2050: "Wardha" #done
- PROV2051: "Bhavnagar"
- PROV2052: "Navanagar"
+ PROV2051: "Westersand" #done
+ PROV2052: "Dwaraka" #done
  PROV2053: "Patan"
- PROV2054: "Ahmadabad"
- PROV2055: "Gorakhpur"
- PROV2056: "Rewakantha"
+ PROV2054: "Rabanastre" #done
+ PROV2055: "Sakya" #done
+ PROV2056: "Nalbina" #done
  PROV2057: "Bhilsa"
  PROV2058: "Mewar"
  PROV2059: "Kalpi"
@@ -2077,8 +2077,8 @@
  PROV2077: "Taxila" #done
  PROV2078: "Hydroatis" #done
  PROV2079: "Acesines" #done
- PROV2080: "Srikakulam"
- PROV2081: "Lakhnor"
+ PROV2080: "Mahendram" #done
+ PROV2081: "Vanga" #done
  PROV2082: "Taitilaka" #done
  PROV2083: "Pinaki" #done
  PROV2084: "Telinga" #done
@@ -2091,11 +2091,11 @@
  PROV2091: "Tripura"
  PROV2092: "Mahadeo"
  PROV2093: "Mandsaur"
- PROV2094: "Bahreich"
- PROV2095: "Varanasi"
- PROV2096: "Damin"
+ PROV2094: "Ayodhya" #done
+ PROV2095: "Varanasi" #done
+ PROV2096: "Malini" #done
  PROV2097: "Baghelkhand"
- PROV2098: "Surguja"
+ PROV2098: "Kikata" #done
  PROV2099: "Trikuta" #done
  PROV2100: "Sinhala" #done
  PROV2101: "Kumari" #done

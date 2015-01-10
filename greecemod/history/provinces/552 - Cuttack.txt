@@ -1,0 +1,21 @@
+#552 - Cuttack
+
+owner = KAL
+controller = KAL
+culture = kalingan
+religion = eastern_hellenic
+capital = "Tosali"
+trade_goods = cloth
+hre = no
+base_tax = 5
+manpower = 4
+citysize = 80000
+add_core = KAL
+fort1 = yes
+fort2 = yes #Barabati
+temple = yes
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+discovered_by = chinese

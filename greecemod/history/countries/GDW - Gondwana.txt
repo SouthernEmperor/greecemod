@@ -11,6 +11,7 @@ capital = 2082
 	monarch = {
 		name = "Sangrama Simha"
 		dynasty = "Garha-Mandli"
+		birth_date = 1410.6.5
 		ADM = 2
 		DIP = 3
 		MIL = 2

@@ -1,0 +1,17 @@
+#2045 - Barind
+
+owner = TIB
+controller = TIB
+culture = pali
+religion = sarvastivada
+capital = "Somapur"
+trade_goods = cloth
+hre = no
+base_tax = 6
+manpower = 4
+citysize = 150000
+add_core = TIB
+add_core = BOF
+add_core = PNR
+trade_depot = yes
+fort1 = yes

@@ -1,0 +1,16 @@
+government = merchant_republic
+mercantilism = 0.1
+primary_culture = aursi
+religion = sarvastivada
+technology_group = indian
+capital = 2052
+
+1444.1.1 = {
+	monarch = {
+		name = "Ashoka Kshaharata"
+		birth_date = 1395.7.8
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+}

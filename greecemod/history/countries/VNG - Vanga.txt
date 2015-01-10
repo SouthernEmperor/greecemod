@@ -1,0 +1,17 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = pali
+religion = eastern_hellenic
+technology_group = indian
+capital = 2081
+
+1444.1.1 = {
+	monarch = {
+		name = "Chandragupta"
+		dynasty = "Aditya"
+		birth_date = 1411.5.19
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}

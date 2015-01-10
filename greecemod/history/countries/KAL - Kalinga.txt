@@ -1,0 +1,17 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = kalingan
+religion = eastern_hellenic
+technology_group = indian
+capital = 552
+
+1444.1.1 = {
+	monarch = {
+		name = "Sikandara II"
+		dynasty = "Harikela"
+		birth_date = 1420.4.20
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+}

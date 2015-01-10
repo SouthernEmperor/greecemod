@@ -1,0 +1,17 @@
+government = tribal_kingdom
+mercantilism = 0.1
+primary_culture = tai_pong
+religion = eastern_hellenic
+technology_group = indian
+capital = 566
+
+1440.1.1 = {
+	monarch = {
+		name = "Chandrakanta"
+		dynasty = "Singha"
+		birth_date = 1395.8.19
+		ADM = 2
+		DIP = 5
+		MIL = 3
+	}
+}

@@ -1,0 +1,86 @@
+#Country Name: Please see filename.
+
+graphical_culture = indiangfx
+
+color = { 175 15 15 }
+
+historical_idea_groups = {
+	innovativeness_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+	diplomatic_ideas
+	maritime_ideas
+	economic_ideas
+	quality_ideas	
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Amitabh #0" = 10
+	"Ashoka #0" = 10
+	"Asita #0" = 10
+	"Aspar #0" = 10
+	"Balamber #0" = 10
+	"Basch #0" = 10
+	"Balada #0" = 10
+	"Chagan #0" = 10
+	"Changeja #0" = 10
+	"Chastana #0" = 10
+	"Edeko #0" = 10
+	"Gautam #0" = 10
+	"Halim #0" = 10
+	"Kanishka #0" = 10
+	"Kubala #0" = 10
+	"Maitreya #0" = 10
+	"Mundzukh #0" = 10
+	"Oktar #0" = 10
+	"Philipa #0" = 10
+	"Rahul #0" = 10
+	"Raminasa #0" = 10
+	"Rasler #0" = 10
+	"Rudra #0" = 10
+	"Siddhartha #0" = 10
+	"Sikandar #0" = 10
+	"Suddhodana #0" = 10
+	"Vairochana #0" = 10
+	"Ashelia #0" = -10
+	"Meghana #0" = -10
+	"Namita #0" = -10
+	"Nisha #0" = -10
+	
+}
+
+leader_names = {
+	Alauna
+	Binargina
+	Chulata
+	Damana
+	Halana
+	Huna
+	Jasi
+	Khan
+	Kharapallana
+	Kshaharata
+	Liyau
+	Nahapana
+	Rudrasimha
+	Satakarni
+	Sena
+	Simha
+	Vanaspara
+	Yunkai
+}

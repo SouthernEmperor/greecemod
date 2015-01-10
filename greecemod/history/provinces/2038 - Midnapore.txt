@@ -1,0 +1,19 @@
+#2038 - Midnapore
+
+owner = VNG
+controller = VNG
+culture = kalingan
+religion = eastern_hellenic
+capital = "Dantapur"
+trade_goods = spices #Opium
+hre = no
+base_tax = 5
+manpower = 3
+citysize = 15000
+add_core = VNG
+fort1 = yes
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+discovered_by = chinese

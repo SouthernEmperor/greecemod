@@ -1,0 +1,27 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = magadhi
+religion = sarvastivada
+technology_group = indian
+capital = 558
+
+1444.1.1 = {
+	monarch = {
+		name = "Gopala IV"
+		dynasty = "Maharajika"
+		birth_date = 1411.6.8
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+	
+	heir = {
+		name = "Sikandara"
+		monarch_name = "Sikandara III"
+		dynasty = "Maharajika"
+		birth_date = 1442.1.13
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
