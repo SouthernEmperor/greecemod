@@ -1,0 +1,38 @@
+#298 - Kursk
+
+owner = CMN
+controller = CMN 
+culture = cuman
+religion = zoroastrian
+hre = no
+base_tax = 4
+trade_goods = grain
+manpower = 5
+capital = "Kursk"
+citysize = 6850
+fort1 = yes
+add_core = CHR
+add_core = LIT
+add_local_autonomy = 25
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+
+1450.1.1  = { citysize = 7690 }
+1480.1.1  = { marketplace = yes }
+1500.1.1  = { citysize = 9052 }
+1508.10.18  = { owner = RUS controller = RUS add_core = RUS remove_core = LIT } # Treaty of 1508
+1550.1.1  = { citysize = 10649 }
+1596.1.1  = { fort2 = yes } # Rebuilt as a Muscovite fortress
+1598.1.1  = { unrest = 8 } # "Time of troubles"
+1600.1.1  = { citysize = 12528 }
+1613.1.1  = { unrest = 0 } # Order returned, Romanov dynasty
+1650.1.1  = { citysize = 14739 }
+1700.1.1  = { citysize = 17340 }
+1750.1.1  = { citysize = 20400 }
+1760.1.1  = { temple = yes } # Sergiev-Kazansky cathedral
+1773.1.1  = { unrest = 5 } # Emelian Pugachev, Cossack insurrection
+1774.9.14 = { unrest = 0 } # Pugachev is captured
+1800.1.1  = { citysize = 24000 }

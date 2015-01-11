@@ -2,8 +2,8 @@
 
 owner = GAU
 controller = GAU  
-culture = gothic
-religion = yavana
+culture = dacian
+religion = imperial_hellenic
 capital = "Tîrgoviste"
 trade_goods = grain
 hre = no

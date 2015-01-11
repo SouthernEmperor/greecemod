@@ -2,8 +2,8 @@
 
 owner = GAU
 controller = GAU  
-culture = gothic
-religion =  germanic_pagan
+culture = dacian
+religion =  imperial_hellenic
 capital = "Craiova"
 trade_goods = wool
 hre = no

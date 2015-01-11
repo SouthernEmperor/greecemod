@@ -1,4 +1,4 @@
-# Do not change tags in here without changing every other reference to them.
+DAc# Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
 
 # Union tags do not suffer from the 'same_culture_group' tax penalty.
@@ -397,6 +397,8 @@ hellenistic = {
 		anatolian = {
 			primary = AMI
 		}
+		dacian = {
+		}
 	
 }
 
@@ -599,6 +601,8 @@ turkic = {
 	
 
 	savir = {
+	}
+	cuman = {
 	}
 }
 
@@ -1476,6 +1480,9 @@ alani = {
 	}
 	
 	satnadi = {
+	}
+
+	roxolani = {
 	}
 	
 }
