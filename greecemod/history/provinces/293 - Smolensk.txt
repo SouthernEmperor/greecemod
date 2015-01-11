@@ -1,0 +1,18 @@
+#293 - Smolensk
+
+owner = GLI
+controller = GLI
+culture = galindian
+religion = baltic_pagan
+hre = no
+base_tax = 4
+trade_goods = grain  
+manpower = 5
+capital = "Smolensk"
+citysize = 8700	 
+fort1 = yes 
+temple = yes		# Assumption cathedral, 1150
+add_core = GLI
+discovered_by = western
+discovered_by = eastern
+discovered_by = nomad_group

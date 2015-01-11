@@ -1,12 +1,12 @@
 #Prussia
 
-graphical_culture = westerngfx
+graphical_culture = easternfx
 
 color = { 0  49  83 }
 
 historical_score = 1800
 
-preferred_religion = protestant
+preferred_religion = baltic_pagan
 
 historical_idea_groups = {
 	innovativeness_ideas

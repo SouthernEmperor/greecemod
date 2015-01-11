@@ -1,0 +1,19 @@
+#296 - Mozhaisk
+
+owner = GLI
+controller = GLI  
+culture = galindian
+religion = baltic_pagan
+hre = no
+base_tax = 2
+trade_goods = grain    
+manpower = 2
+capital = "Mozhaisk"
+citysize = 2010
+fort1 = yes
+add_core = GLI
+discovered_by = eastern
+discovered_by = western
+discovered_by = GOL
+discovered_by = KAZ
+discovered_by = nomad_group

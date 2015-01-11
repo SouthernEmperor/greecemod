@@ -2,7 +2,7 @@
 
 owner = GAU
 controller = GAU  
-culture = gothic
+culture = khazar
 religion = yavana
 capital = "Huszt"
 trade_goods = naval_supplies

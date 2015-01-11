@@ -1,0 +1,18 @@
+#2424 - Peremyshl
+
+owner = KHZ
+controller = KHZ
+culture = khazar
+religion = tengri
+hre = no
+base_tax = 2
+trade_goods = grain
+manpower = 1
+capital = "Peremyshl"
+citysize = 4100
+fort1 = yes
+add_core = KHZ
+discovered_by = eastern
+discovered_by = western
+discovered_by = ottoman
+discovered_by = muslim

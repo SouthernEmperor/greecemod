@@ -1,0 +1,18 @@
+#Belz
+
+owner = KHZ
+controller = KHZ
+capital= "Belz"
+culture = khazar
+religion = tengri
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 4500
+fort1 = yes
+add_core = KHZ
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
