@@ -1,0 +1,6 @@
+government = steppe_horde
+mercantilism = 0.1
+primary_culture = tartar
+religion = tengri
+technology_group = eastern
+capital = 302

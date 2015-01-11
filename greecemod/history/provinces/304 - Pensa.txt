@@ -1,0 +1,18 @@
+#304 - Pensa
+
+owner = PEC
+controller = PEC
+culture = cuman
+religion = tengri
+hre = no
+base_tax = 3
+trade_goods = wool   
+manpower = 2
+capital = "Atemar"
+citysize = 5200
+add_core = PEC
+discovered_by = western
+discovered_by = eastern
+discovered_by = nomad_group
+discovered_by = ottoman
+fort1 = yes

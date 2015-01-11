@@ -26,6 +26,9 @@ GLI = "countries/Galindia.txt"
 
 #Eastern Europe and Russia
 KHZ = "countries/Khazar.txt"
+ROX = "countries/Roxolani.txt"
+CMN = "countries/Cuman.txt"
+PEC = "countries/Pechenegs.txt"
 
 
 #Iberia

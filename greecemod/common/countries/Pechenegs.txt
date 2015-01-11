@@ -1,0 +1,125 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 146 134 77 }
+
+historical_idea_groups = {
+	expansion_ideas
+	offensive_ideas
+	administrative_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	muslim_cavalry_archers
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+monarch_names = {
+	"Alborz #0" = 10
+	"Arastu #0" = 10
+	"Arezu #0" = -20
+	"Ava #0" = -20
+	"Babak #0" = 10
+	"Banu #0" = -20
+	"Behruz #0" = 10
+	"Dara #0" = -20
+	"Darya #0" = -20
+	"Daryush #0" = 10
+	"Elaheh #0" = -20
+	"Eskandar #0" = 20
+	"Firuz #0" = 10
+	"Firuzeh #0" = -20
+	"Golnaz #0" = -20
+	"Golshan #0" = 10
+	"Haleh #0" = -20
+	"Jahan #0" = 25
+	"Jahangir #0" = 25
+	"Jamshid #0" = 25
+	"Katayun #0" = -25
+	"Khwaja #0" = 30
+	"Laleh #0" = -20
+	"Mahsa #0" = -20
+	"Mavarid #1" = -30
+	"Minu #0" = -20
+	"Nahid #0" = -20
+	"Nima #0" = 10
+	"Nisha #0" = -20
+	"Omid #0" = 10
+	"Pari #0" = -20
+	"Parvin #0" = -20
+	"Parviz #0" = 10
+	"Payam #0" = 10
+	"Reza #0" = 10
+	"Roxana #0" = -30
+	"Rostam #0" = 10
+	"Sahar #0" = -20
+	"Sanaz #0" = -20
+	"Sara #0" = -20
+	"Shahin #0" = 10
+	"Shariar #0" = 30
+	"Shahazad #0" = 30
+	"Shohreh #0" = -20
+	"Shir #0" = 10
+	"Siavash #0" = 10
+	"Zareen #0" = -20
+	"Zarathustra #0" = 10
+}
+
+leader_names = {
+	Ahriman
+	Ameretat
+	Arash
+	Ashtad
+	Attar
+	Bahman
+	Charmchi
+	Fereydoun
+	Govad
+	Haurvatat
+	Nairyosangha
+	Ormazd
+	Rashn
+	Rostami
+	Sarosh
+	Sohrab
+	Tahmuras
+	Zal
+}
+
+ship_names = {
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
+	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
+	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
+	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
+	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
+	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
+	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
+	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
+	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
+	"Zend-Avesta" Zurvan
+}
