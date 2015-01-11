@@ -342,6 +342,9 @@ baltic	= {
 	yotvingian = {
 		primary = YOT
 	}
+	galindian = {
+		primary = GLI
+	}
 	#dynasty_names = { 
 	#	Gediminai Radziwill Gostautas Astikas Kesgaila Chodkiewicz Olshanski Chartoryski
 	#	Giedraiciai Pac Plater Tyzenhaus Sapieha Ostrogski Oginski
@@ -592,6 +595,9 @@ turkic = {
 		dynasty_names = {
 			"Arabshahid" "Qungrat"
 		}
+	}
+	khazar = {
+		primary = KHZ
 	}
 	
 

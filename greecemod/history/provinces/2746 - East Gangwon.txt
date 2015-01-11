@@ -2,7 +2,7 @@
 
 owner = GAU
 controller = GAU
-culture = illyrian
+culture = greek
 religion = imperial_hellenic
 capital = "Vidin"
 trade_goods = grain

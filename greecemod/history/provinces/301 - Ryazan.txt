@@ -1,0 +1,19 @@
+#301 - Ryazan
+
+owner = GLI
+controller = GLI      
+culture = galindian
+religion = baltic_pagan
+hre = no
+base_tax = 6
+trade_goods = wool
+manpower = 5
+capital = "Pereyaslavl-Ryazansky"
+citysize = 3850
+fort1 = yes
+add_core = GLI
+discovered_by = eastern
+discovered_by = western
+discovered_by = GOL
+discovered_by = KAZ
+discovered_by = nomad_group

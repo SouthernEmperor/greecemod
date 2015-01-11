@@ -1,0 +1,17 @@
+#297 - Bryansk
+
+owner = GLI
+controller = GLI
+culture = galindian
+religion = baltic_pagan 
+hre = no
+base_tax = 4
+trade_goods = grain
+manpower = 3
+capital = "Bryansk"
+citysize = 8450
+add_core = GLI
+fort1 = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = nomad_group

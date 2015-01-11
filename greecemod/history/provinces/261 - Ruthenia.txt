@@ -1,0 +1,18 @@
+#261 - Ruthenia
+
+owner = KHZ
+controller = KHZ
+capital= "Lviv"
+culture = khazar
+religion = yavana
+trade_goods = dyes #Polish cochineal
+hre = no
+base_tax = 2
+manpower = 3
+citysize = 2000
+fort1 = yes
+add_core = KHZ
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

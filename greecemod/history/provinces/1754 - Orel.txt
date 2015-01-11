@@ -1,0 +1,18 @@
+#1754 - Murom ( formerly Orel)
+
+owner = GLI
+controller = GLI        
+culture = uralic
+religion = finnish_pagan 
+hre = no
+base_tax = 4
+trade_goods = grain      
+manpower = 4
+capital = "Murom"
+citysize = 4450
+add_core = GLI
+fort1 = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = GOL
+discovered_by = nomad_group
