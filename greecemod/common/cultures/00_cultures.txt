@@ -342,10 +342,10 @@ baltic	= {
 	yotvingian = {
 		primary = YOT
 	}
-	#dynasty_names = { 
-	#	Gediminai Radziwill Gostautas Astikas Kesgaila Chodkiewicz Olshanski Chartoryski
-	#	Giedraiciai Pac Plater Tyzenhaus Sapieha Ostrogski Oginski
-	#}
+	dynasty_names = { 
+		Gediminai Radziwill Gostautas Astikas Kesgaila Chodkiewicz Olshanski Chartoryski
+		Giedraiciai Pac Plater Tyzenhaus Sapieha Ostrogski Oginski
+	}
 }
 
 mustarib = {
@@ -517,7 +517,7 @@ maghrebi = {
 	}
 }
 
-iranian = {
+sarmatian = {
 
 		scythian = {
 			primary = SCY
@@ -529,6 +529,9 @@ iranian = {
 		tamanic = {
 			primary = TAM
 		}
+}		
+
+iranian = {
 		
 		babylonian = {
 			primary = BAB
@@ -1398,6 +1401,7 @@ prakrit = {
 	}
 	
 	sauraseni = {
+		primary = AVT
 	}
 }
 
@@ -1468,7 +1472,10 @@ alani = {
 	aursi = {
 	}
 	
-	yuna = {
+	yunkai = {
+	}
+	
+	satnadi = {
 	}
 	
 }

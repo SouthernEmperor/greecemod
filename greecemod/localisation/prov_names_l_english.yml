@@ -501,9 +501,9 @@
  PROV500: "St. Vincent"
  PROV501: "Barbados"
  PROV502: "Trinidad"
- PROV503: "Kutch"
+ PROV503: "Kajja" #done
  PROV504: "Patala" #done
- PROV505: "Sehwan"
+ PROV505: "Megas Shivi" #done
  PROV506: "Hesudrus" #done
  PROV507: "Sakala" #done
  PROV508: "Kashmir"
@@ -512,22 +512,22 @@
  PROV511: "Garhwal"
  PROV512: "Jangladesh"
  PROV513: "Jaisalmer"
- PROV514: "Marwar"
+ PROV514: "Abhira" #done
  PROV515: "Anarta" #done
  PROV516: "Estersand" #done
  PROV517: "Barigaza" #done
- PROV518: "Chittor"
- PROV519: "Dhundar"
+ PROV518: "Nabudis" #done
+ PROV519: "Patajar" #done 
  PROV520: "Mewat"
  PROV521: "Yensa" #done
  PROV522: "Delhi"
  PROV523: "Kashi" #done
  PROV524: "Central Doab"
  PROV525: "Gird"
- PROV526: "Mandu"
- PROV527: "Khandesh"
- PROV528: "Hadoti"
- PROV529: "North Konkan"
+ PROV526: "Kshipra" #done
+ PROV527: "Heheya" #done
+ PROV528: "Jaspur" #done
+ PROV529: "Heptanesia" #done
  PROV530: "Talakata" #done
  PROV531: "Gomanta" #done
  PROV532: "Kishkindha" #done
@@ -548,7 +548,7 @@
  PROV547: "Kolab" #done
  PROV548: "Vakataka" #done
  PROV549: "Saura" #done
- PROV550: "Mahakoshal"
+ PROV550: "Sarabhanga" #done
  PROV551: "Mekala" #done
  PROV552: "Tosali" #done
  PROV553: "Sabara" #done
@@ -738,7 +738,7 @@
  PROV737: "Jeolla"
  PROV738: "Wufuran" #done
  PROV739: "Kashgar"
- PROV740: "Chanderi"
+ PROV740: "Vitravati" #done
  PROV741: "Cumana"
  PROV742: "Angostura"
  PROV743: "Essequibo"
@@ -2033,7 +2033,7 @@
  PROV2033: "Havanur" #done
  PROV2034: "Nashik" #done
  PROV2035: "Kuntala" #done
- PROV2036: "Baglana"
+ PROV2036: "Anupa" #done
  PROV2037: "Orugallu" #done
  PROV2038: "Dantapura" #done
  PROV2039: "Mlecha" #done
@@ -2050,26 +2050,26 @@
  PROV2050: "Wardha" #done
  PROV2051: "Westersand" #done
  PROV2052: "Dwaraka" #done
- PROV2053: "Patan"
+ PROV2053: "Anhilpur" #done
  PROV2054: "Rabanastre" #done
  PROV2055: "Sakya" #done
  PROV2056: "Nalbina" #done
- PROV2057: "Bhilsa"
- PROV2058: "Mewar"
+ PROV2057: "Pulinda" #done
+ PROV2058: "Mosporan" #done
  PROV2059: "Kalpi"
  PROV2060: "Upper Doab"
  PROV2061: "Katehar"
  PROV2062: "Panipat"
  PROV2063: "Etawah"
- PROV2064: "Shekhawati"
+ PROV2064: "Shekhavati" #done
  PROV2065: "Bhattiana"
- PROV2066: "Nagaur"
- PROV2067: "Gorwar"
- PROV2068: "Siwi"
+ PROV2066: "Nagakhand" #done
+ PROV2067: "Siranva" #done
+ PROV2068: "Micros Shivi" #done
  PROV2069: "Kumaon"
  PROV2070: "Chaubisi Rajya"
  PROV2071: "Limbuwan"
- PROV2072: "Bhakkar"
+ PROV2072: "Kushab" #done
  PROV2073: "Aornos" #done
  PROV2074: "Ladakh"
  PROV2075: "Doaba"
@@ -2085,12 +2085,12 @@
  PROV2085: "Srirangam" #done
  PROV2086: "Cholistan"
  PROV2087: "Ajmer"
- PROV2088: "Umarkot"
+ PROV2088: "Amarkot" #done
  PROV2089: "Rajpuri" #done
  PROV2090: "Navabhrama" #done
  PROV2091: "Tripura"
- PROV2092: "Mahadeo"
- PROV2093: "Mandsaur"
+ PROV2092: "Varadavasi" #done
+ PROV2093: "Ozone" #done
  PROV2094: "Ayodhya" #done
  PROV2095: "Varanasi" #done
  PROV2096: "Malini" #done

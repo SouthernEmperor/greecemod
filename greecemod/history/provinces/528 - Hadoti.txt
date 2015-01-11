@@ -1,16 +1,16 @@
-#515 - Girnar
+#528 - Hadoti
 
-owner = DWA
-controller = DWA
+owner = JAS
+controller = JAS
 culture = yunkai
 religion = sarvastivada
-capital = "Kshatrapura"
-trade_goods = sugar
+capital = "Jaspur"
+trade_goods = cotton
 hre = no
-base_tax = 2
-manpower = 1
-citysize = 17000
-add_core = DWA
+base_tax = 3
+manpower = 3
+citysize = 21000
+add_core = JAS
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim 

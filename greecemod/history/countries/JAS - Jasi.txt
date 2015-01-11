@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = yunkai
+religion = sarvastivada
+technology_group = indian
+capital = 528
+
+1444.1.1 = {
+	monarch = {
+		name = "Amitabh"
+		dynasty = "Jasi"
+		birth_date = 1406.3.16
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+}

@@ -1,16 +1,16 @@
-#515 - Girnar
+#2088 - Umarkot
 
-owner = DWA
-controller = DWA
-culture = yunkai
+owner = AUR
+controller = AUR
+culture = satnadi
 religion = sarvastivada
-capital = "Kshatrapura"
-trade_goods = sugar
+capital = "Amarkot"
+trade_goods = cloth
 hre = no
 base_tax = 2
-manpower = 1
-citysize = 17000
-add_core = DWA
+manpower = 2
+citysize = 11000
+add_core = AUR
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim 

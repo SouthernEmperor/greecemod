@@ -172,7 +172,12 @@ GHA = "countries/Greatghana.txt" #union tag for post-ghana state, Old Ghana now 
 #North India
 
 #West India
+AUR = "countries/Aursisthan.txt"
 DWA = "countries/Dwaraka.txt"
+JAS = "countries/Jasi.txt"
+NBR = "countries/Nabradia.txt"
+XII = "countries/Dalmasca.txt"
+YUN = "countries/Yunasthan.txt"
 
 #East India
 BOF = "countries/Anga.txt"
@@ -186,6 +191,7 @@ VNG = "countries/Vanga.txt"
 
 #Central India
 ASM = "countries/Ashmaka.txt" #Maharashtra union
+AVT = "countries/Avanti.txt" #Sauraseni union
 GDW = "countries/Gondwana.txt"
 CHN = "countries/Chauhan.txt"
 KNK = "countries/Konkan.txt"

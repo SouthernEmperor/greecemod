@@ -1,16 +1,17 @@
-#515 - Girnar
+#740 - Chanderi
 
-owner = DWA
-controller = DWA
-culture = yunkai
+owner = YUN
+controller = YUN
+culture = sauraseni
 religion = sarvastivada
-capital = "Kshatrapura"
-trade_goods = sugar
+capital = "Chanderi"
+trade_goods = cloth #Chintz
 hre = no
 base_tax = 2
 manpower = 1
-citysize = 17000
-add_core = DWA
+citysize = 38000
+add_core = YUN
+add_core = AVT
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim 

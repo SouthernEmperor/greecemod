@@ -2,17 +2,17 @@
 
 graphical_culture = indiangfx
 
-color = { 128 170 63 }
+color = { 21  50  212 }
 
 historical_idea_groups = {
+	religious_ideas
 	defensive_ideas
+	quantity_ideas
 	offensive_ideas
-	aristocracy_ideas
+	trade_ideas
 	spy_ideas
 	economic_ideas
 	diplomatic_ideas
-	quality_ideas
-	religious_ideas
 }
 
 historical_units = {
@@ -32,12 +32,12 @@ historical_units = {
 monarch_names = {
 	"Mulraj #0" = 15
 	"Bhimdeva #0" = 15
-	"Karandeva #1" = 15
+	"Karandeva #0" = 15
 	"Siddhraj #0" = 15
-	"Jayasinh #2" = 15
+	"Jayasinh #0" = 15
 	"Kumarpal #0" = 15
-	"Arjunadeva #2" = 15
-	"Vishaldeva #1" = 10
+	"Arjunadeva #0" = 15
+	"Vishaldeva #0" = 10
 	"Bal Mulraj #0" = 10
 	"Karandeva #0" = 10
 	"Parmara #0" = 10

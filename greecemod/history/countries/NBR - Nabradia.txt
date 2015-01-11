@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = yunkai
+religion = sarvastivada
+technology_group = indian
+capital = 518
+
+1444.1.1 = {
+	monarch = {
+		name = "Rasler"
+		dynasty = "Khan"
+		birth_date = 1401.7.19
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}

@@ -1,0 +1,28 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = yunkai
+religion = sarvastivada
+technology_group = indian
+capital = 517
+
+1444.1.1 = {
+	monarch = {
+		name = "Sikandar III"
+		dynasty = "Chulata"
+		birth_date = 1388.9.10
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	
+	heir = {
+		name = "Sikandar"
+		monarch_name = "Sikandar IV"
+		dynasty = "Chulata"
+		birth_date = 1429.5.18
+		death_date = 1500.1.1
+		adm = 3
+		dip = 2
+		mil = 4	
+	}
+}

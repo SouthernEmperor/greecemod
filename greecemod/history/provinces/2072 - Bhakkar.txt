@@ -1,16 +1,16 @@
-#515 - Girnar
+#2072 - Bhakkar
 
-owner = DWA
-controller = DWA
-culture = yunkai
+owner = AUR
+controller = AUR
+culture = satnadi
 religion = sarvastivada
-capital = "Kshatrapura"
-trade_goods = sugar
+capital = "Kushab"
+trade_goods = cotton
 hre = no
 base_tax = 2
-manpower = 1
-citysize = 17000
-add_core = DWA
+manpower = 2
+citysize = 8000
+add_core = AUR
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim 

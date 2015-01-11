@@ -1,16 +1,16 @@
-#515 - Girnar
+#514 - Marwar
 
-owner = DWA
-controller = DWA
-culture = yunkai
+owner = AUR
+controller = AUR
+culture = aursi
 religion = sarvastivada
-capital = "Kshatrapura"
-trade_goods = sugar
+capital = "Mandore"
+trade_goods = wool
 hre = no
-base_tax = 2
-manpower = 1
-citysize = 17000
-add_core = DWA
+base_tax = 3
+manpower = 3
+citysize = 22000
+add_core = AUR
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim 
