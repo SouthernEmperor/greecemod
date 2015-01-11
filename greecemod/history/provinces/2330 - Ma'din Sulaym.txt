@@ -2,7 +2,7 @@
 
 owner = HED
 controller = HED
-culture = bedouin_arabic
+culture = arabic
 religion = animism
 capital = "Ma'din Sulaym"
 trade_goods = wool

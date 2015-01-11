@@ -1,7 +1,7 @@
 #393 - Jabal Shammar
 
 
-culture = bedouin_arabic
+culture = arabic
 religion = animism
 capital = "Ha'il"
 trade_goods = grain

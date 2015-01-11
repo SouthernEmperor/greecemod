@@ -2,8 +2,8 @@
 
 owner = DWA
 controller = DWA
-culture = yunkai
-religion = sarvastivada
+culture = gujarati
+religion = hinduism
 capital = "Dwaraka"
 trade_goods = cotton
 hre = no

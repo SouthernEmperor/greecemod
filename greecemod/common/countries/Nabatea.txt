@@ -1,0 +1,70 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 128 170 63 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Yehoshua #0" = 20
+	"Rut #0" = -20
+	"Shemuel #0" = 20
+	"Ezra #0" = 20
+	"Nehemiah #0" = 20
+	"Esther #0" = -20
+	"Iyov #0" = 20
+	"Tobit #0" = 20
+	"Yeshayahu #0" = 20
+	"Yirmeyahu #0" = 20
+	"Yekhezqel #0" = 20
+	"Daniel #0" = 20
+}
+
+leader_names = {
+	Reubenid
+	Simeonid
+	Levid
+	Judahid
+	Danid
+	Naphtalid
+	Gadid
+	Asherid
+	Josephid
+	Benjaminid
+}
+
+ship_names = {
+	Ark "Trei Asar" Qoheleth Mishlei Tehilim "Shir Hashirim" Ketuvim "Nevi'im" "Torah" "Bereishit" "Shemot" Vayikra Bamidbar Devarim Melakhim "Divrei Hayamim"
+}
+
+
+	

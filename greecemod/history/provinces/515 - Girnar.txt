@@ -2,7 +2,7 @@
 
 owner = DWA
 controller = DWA
-culture = yunkai
+culture = aursi
 religion = sarvastivada
 capital = "Kshatrapura"
 trade_goods = sugar

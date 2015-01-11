@@ -2,7 +2,7 @@
 
 owner = DMU
 controller = DMU
-culture = bedouin_arabic
+culture = arabic
 religion = catholic
 capital = "Sila"
 trade_goods = fish

@@ -2,7 +2,7 @@
 
 owner = OMA
 controller = OMA
-culture = bedouin_arabic
+culture = arabic
 religion = catholic
 capital = "Suhar"
 trade_goods = wool

@@ -2,7 +2,7 @@
 
 owner = ADE
 controller = ADE
-culture = bedouin_arabic
+culture = arabic
 religion = jewish
 capital = "Ahqaf"
 trade_goods = wool

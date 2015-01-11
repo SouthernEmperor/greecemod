@@ -2,7 +2,7 @@
 
 owner = DHR
 controller = DHR
-culture = bedouin_arabic
+culture = arabic
 religion = isaya
 capital = "Hadramawt"
 trade_goods = wool

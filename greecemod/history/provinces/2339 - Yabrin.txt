@@ -1,7 +1,7 @@
 #2339 - Yabrin
 
 
-culture = bedouin_arabic
+culture = arabic
 religion = animism
 capital = "Yabrin"
 trade_goods = grain

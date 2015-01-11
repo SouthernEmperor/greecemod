@@ -1,7 +1,7 @@
 #1099 - Socotra
 
-culture = bedouin_arabic
-religion = coptic
+culture = arabic
+religion = isaya
 capital = "Suqutra"
 trade_goods = fish
 hre = no

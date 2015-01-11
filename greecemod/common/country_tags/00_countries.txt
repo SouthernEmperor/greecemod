@@ -30,7 +30,6 @@ ROX = "countries/Roxolani.txt"
 CMN = "countries/Cuman.txt"
 PEC = "countries/Pechenegs.txt"
 
-
 #Iberia
 CIT = "countries/Citerior.txt"
 GAL = "countries/Gallaecia.txt"
@@ -101,6 +100,7 @@ MRC	= "countries/Marcomannia.txt"
 SCY = "countries/Scythia.txt"
 SKR = "countries/Sakartvelo.txt"
 TAM = "countries/Taman.txt"
+SRV = "countries/Shirvanshah.txt" #recycled from yoghurt
 
 #Karadicland
 CRO	= "countries/Croatia.txt" #recycled from strawberry
@@ -114,6 +114,8 @@ BYB = "countries/Byblos.txt"
 DMC = "countries/Damascus.txt"
 PLM = "countries/Palmyra.txt"
 TYR = "countries/Tyre.txt"
+YIS = "countries/Judea.txt"
+NAB = "countries/Nabatea.txt"
 
 #Mesopotamia
 ASY = "countries/Assyria.txt"
@@ -179,12 +181,7 @@ GHA = "countries/Greatghana.txt" #union tag for post-ghana state, Old Ghana now 
 #North India
 
 #West India
-AUR = "countries/Aursisthan.txt"
 DWA = "countries/Dwaraka.txt"
-JAS = "countries/Jasi.txt"
-NBR = "countries/Nabradia.txt"
-XII = "countries/Dalmasca.txt"
-YUN = "countries/Yunasthan.txt"
 
 #East India
 BOF = "countries/Anga.txt"
@@ -198,7 +195,6 @@ VNG = "countries/Vanga.txt"
 
 #Central India
 ASM = "countries/Ashmaka.txt" #Maharashtra union
-AVT = "countries/Avanti.txt" #Sauraseni union
 GDW = "countries/Gondwana.txt"
 CHN = "countries/Chauhan.txt"
 KNK = "countries/Konkan.txt"
@@ -661,7 +657,6 @@ LEB = "countries/Lebanon.txt"
 MAK = "countries/Makuria.txt"
 SHM = "countries/Shammar.txt"
 ARB = "countries/Arabia.txt"
-SRV = "countries/Shirvanshah.txt"
 
 #Indochina Additions
 AVA = "countries/Ava.txt"
