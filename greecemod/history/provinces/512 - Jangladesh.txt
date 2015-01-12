@@ -1,0 +1,19 @@
+#512 - Jangladesh
+
+owner = GND
+controller = GND
+culture = aursi
+religion = sarvastivada
+capital = "Pugal"
+trade_goods = wool
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 2000
+add_core = GND
+fort1 = yes
+discovered_by = indian
+discovered_by = muslim 
+discovered_by = ottoman
+discovered_by = nomad_group
+discovered_by = chinese

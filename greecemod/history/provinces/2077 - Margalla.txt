@@ -1,0 +1,21 @@
+#2077 - Margalla
+
+owner = GND
+controller = GND
+culture = punjabi
+religion = catholic
+capital = "Takasila"
+trade_goods = iron
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 16000
+add_core = GND
+add_core = TAX
+add_core = IND
+fort1 = yes
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = chinese

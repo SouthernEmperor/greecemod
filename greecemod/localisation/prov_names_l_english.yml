@@ -505,10 +505,10 @@
  PROV504: "Patala" #done
  PROV505: "Megas Shivi" #done
  PROV506: "Hesudrus" #done
- PROV507: "Sakala" #done
+ PROV507: "Sagala" #done
  PROV508: "Kashmir"
  PROV509: "Kangra"
- PROV510: "Sirhind"
+ PROV510: "Satudar" #done
  PROV511: "Garhwal"
  PROV512: "Jangladesh"
  PROV513: "Jaisalmer"
@@ -576,7 +576,7 @@
  PROV575: "Gwadar"
  PROV576: "Kalat"
  PROV577: "Quetta"
- PROV578: "Roh"
+ PROV578: "Peshawar" #done
  PROV579: "Mrauk U"
  PROV580: "Kale"
  PROV581: "Sagaing"
@@ -2062,7 +2062,7 @@
  PROV2062: "Panipat"
  PROV2063: "Etawah"
  PROV2064: "Shekhavati" #done
- PROV2065: "Bhattiana"
+ PROV2065: "Hisar" #done
  PROV2066: "Nagakhand" #done
  PROV2067: "Siranva" #done
  PROV2068: "Micros Shivi" #done
@@ -2072,7 +2072,7 @@
  PROV2072: "Kushab" #done
  PROV2073: "Aornos" #done
  PROV2074: "Ladakh"
- PROV2075: "Doaba"
+ PROV2075: "Jalandhar" #done
  PROV2076: "Bucephala" #done
  PROV2077: "Taxila" #done
  PROV2078: "Hydroatis" #done
@@ -2083,7 +2083,7 @@
  PROV2083: "Pinaki" #done
  PROV2084: "Telinga" #done
  PROV2085: "Srirangam" #done
- PROV2086: "Cholistan"
+ PROV2086: "Indus" #done
  PROV2087: "Ajmer"
  PROV2088: "Amarkot" #done
  PROV2089: "Rajpuri" #done
@@ -2197,7 +2197,7 @@
  PROV2197: "Kabardia"
  PROV2198: "Khundzia"
  PROV2199: "Tarki"
- PROV2200: "Suleiman Range"
+ PROV2200: "Throne of Solomon" #done
  PROV2201: "Alania"
  PROV2202: "Melikates"
  PROV2203: "Kahketi"

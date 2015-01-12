@@ -11,6 +11,7 @@ base_tax = 2
 manpower = 2
 citysize = 8000
 add_core = AUR
+add_core = SAT
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim 

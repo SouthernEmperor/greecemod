@@ -1,4 +1,4 @@
-DAc# Do not change tags in here without changing every other reference to them.
+# Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
 
 # Union tags do not suffer from the 'same_culture_group' tax penalty.
@@ -603,6 +603,30 @@ turkic = {
 	savir = {
 	}
 	cuman = {
+	}
+	
+	punjabi = {
+		primary = PUN
+		dynasty_names = {
+			"Kohkkar" "Gakhkhar" "Phulkian" "Bhullara" "Dhaliwala" "Sandhawalia" "Ahluwalia" "Langa" "Mirrani" "Abbasi"
+		}
+	}
+}
+
+peri_seric = {
+	graphical_culture = asiangfx
+	
+	bactrian = {
+	}
+	
+	tocharian = {
+	}
+	
+	kashmiri = {
+		primary = KSH
+		dynasty_names = {
+			"Shah Miri" "Sayyidi" "Mirrani"
+		}
 	}
 }
 
@@ -1337,18 +1361,6 @@ hindusthani = {
 			"Tughluq" "Lodi" "Khilji"
 		}
 	}
-	panjabi = {
-		primary = PUN
-		dynasty_names = {
-			"Kohkkar" "Gakhkhar" "Phulkian" "Bhullara" "Dhaliwala" "Sandhawalia" "Ahluwalia" "Langa" "Mirrani" "Abbasi"
-		}
-	}
-	kashmiri = {
-		primary = KSH
-		dynasty_names = {
-			"Shah Miri" "Sayyidi" "Mirrani"
-		}
-	}
 	
 }
 
@@ -1412,6 +1424,9 @@ prakrit = {
 gangetic = {
 	graphical_culture = indiangfx
 	
+	indran = {
+	}
+	
 	kalingan = {
 		primary = KAL
 	}
@@ -1446,7 +1461,7 @@ dravidian = {
 		}
 	}
 	telegu = {
-		primary = GOC
+		primary = RED
 		dynasty_names = {
 			"Aravidu" "Talpura" "Velama" "Saluva" "Tuluva" "Sangama" "Pemmasani" "Tupakula"
 		}
@@ -1474,15 +1489,19 @@ godavaric = {
 alani = {
 	
 	aursi = {
+		primary = AUR
 	}
 	
 	yunkai = {
+		primary = YUN
 	}
 	
 	satnadi = {
+		primary = SAT
 	}
 
 	roxolani = {
+		primary = ROX
 	}
 	
 }

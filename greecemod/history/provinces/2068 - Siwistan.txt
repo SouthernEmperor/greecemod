@@ -11,6 +11,7 @@ base_tax = 1
 manpower = 1
 citysize = 15000
 add_core = AUR
+add_core = SAT
 fort1 = yes
 marketplace = yes 
 discovered_by = chinese

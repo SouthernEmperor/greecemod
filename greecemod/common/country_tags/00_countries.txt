@@ -177,6 +177,12 @@ ISS = "countries/Issachar.txt"
 GHA = "countries/Greatghana.txt" #union tag for post-ghana state, Old Ghana now Dagbon
 
 #North India
+BUC = "countries/Bucephala.txt"
+GND = "countries/Gandhara.txt"
+IND = "countries/Indus.txt"
+SAG = "countries/Sagala.txt"
+SAT = "countries/Satnad.txt"
+TAX = "countries/Taxila.txt"
 
 #West India
 AUR = "countries/Aursisthan.txt"
