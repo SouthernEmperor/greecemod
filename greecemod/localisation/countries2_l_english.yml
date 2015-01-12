@@ -3,10 +3,14 @@
 l_english:
  ROX: "Roxolania"
  ROX_ADJ: "Roxolani"
- CMN: "Cumania:
+ CMN: "Cumania"
  CMN_ADJ: "Cuman"
  PEC: "Pechenegs"
  PEC_ADJ: "Pechenegs"
+ YIS: "Judea"
+ YIS_ADJ: "Judean"
+ NAB: "Nabatea"
+ NAB_ADJ: "Nabatean"
  GLI: "Galindia"
  GLI_ADJ: "Galindian"
  KHZ: "Khazaria"
@@ -235,6 +239,7 @@ l_english:
  ETH_ADJ: "Qonddarian"
  PIL: "The Pilgrims"
  PIL_ADJ: "Pilgrim"
+<<<<<<< HEAD
  BUC: "Bucephala"
  BUC_ADJ: "Bucephalan"
  GND: "Gandhara"
@@ -279,8 +284,6 @@ l_english:
  VNG_ADJ: "Vangi"
  ASM: "Ashmaka"
  ASM_ADJ: "Ashmaki"
- AVT: "Avanti"
- AVT_ADJ: "Avanti"
  CHN: "Chauhan"
  CHN_ADJ: "Chauhan"
  KNK: "Konkan"

@@ -3,7 +3,7 @@
 owner = ALH
 controller = ALH
 add_core = ALH
-culture = bedouin_arabic
+culture = arabic
 religion = catholic
 capital = "Manama"
 trade_goods = fish

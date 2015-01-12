@@ -2,7 +2,7 @@
 
 owner = ALH
 controller = ALH
-culture = bedouin_arabic
+culture = arabic
 religion = catholic
 capital = "Hofuf"
 trade_goods = wool

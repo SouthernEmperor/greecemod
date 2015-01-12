@@ -1,6 +1,6 @@
 government = merchant_republic
 mercantilism = 0.1
-primary_culture = yunkai
+primary_culture = aursi
 religion = sarvastivada
 technology_group = indian
 capital = 2052

@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -2
 technology_group = muslim
 religion = catholic
-primary_culture = bedouin_arabic
+primary_culture = arabic
 capital = 395	# Al Hasa
 
 

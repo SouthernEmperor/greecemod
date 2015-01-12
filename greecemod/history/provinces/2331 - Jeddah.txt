@@ -2,7 +2,7 @@
 
 owner = HED
 controller = HED
-culture = bedouin_arabic
+culture = arabic
 religion = ashari
 capital = "Jiddah"
 trade_goods = spices

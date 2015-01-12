@@ -2,7 +2,7 @@
 
 owner = NAJ
 controller = NAJ
-culture = bedouin_arabic
+culture = arabic
 religion = animism
 capital = "Falaj"
 trade_goods = wool
