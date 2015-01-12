@@ -22,7 +22,7 @@ l_english:
  LAT: "Latvia"
  LAT_ADJ: "Latvian"
  EST: "Estonia"
- EST: "Estonian"
+ EST_ADJ: "Estonian"
  SAM: "Sami"
  SAM_ADJ: "Sami"
  ALY: "Albiyun"
@@ -239,7 +239,6 @@ l_english:
  ETH_ADJ: "Qonddarian"
  PIL: "The Pilgrims"
  PIL_ADJ: "Pilgrim"
-<<<<<<< HEAD
  BUC: "Bucephala"
  BUC_ADJ: "Bucephalan"
  GND: "Gandhara"

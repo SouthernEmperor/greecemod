@@ -187,7 +187,12 @@ SAT = "countries/Satnad.txt"
 TAX = "countries/Taxila.txt"
 
 #West India
+AUR = "countries/Aursisthan.txt" 	
 DWA = "countries/Dwaraka.txt"
+JAS = "countries/Jasi.txt" 	
+NBR = "countries/Nabradia.txt" 	
+XII = "countries/Dalmasca.txt" 	
+YUN = "countries/Yunasthan.txt"
 
 #East India
 BOF = "countries/Anga.txt"
