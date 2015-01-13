@@ -1,17 +1,16 @@
 # 185 Nemours
 
-owner = 
-controller = FRA
+owner = CHP
+controller = CHP
 capital = "Nemours"
 citysize = 14000
-culture = cosmopolitan_french
-religion = catholic
+culture = arab_breton
+religion = ashari
 hre = no
 base_tax = 5
 trade_goods = grain
 manpower = 5
 add_core = CHP
-add_core = FRA
 fort1 = yes
 marketplace = yes
 temple = yes

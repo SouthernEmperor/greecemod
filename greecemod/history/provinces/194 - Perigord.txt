@@ -1,17 +1,16 @@
 # 194 Périgord - Principal cities: Bergerac
 
-owner = FRA
-controller = FRA
+owner = BER
+controller = BER
 capital = "Bergerac"
 citysize = 3500
-culture = aquitaine
-religion = catholic
+culture = arab_breton
+religion = ashari
 hre = no
 base_tax = 5
 trade_goods = iron
 manpower = 2
-add_core = FRA
-add_core = GUY
+add_core = BER
 fort1 = yes
 discovered_by = eastern
 discovered_by = western

@@ -1,16 +1,15 @@
 # 202 Avignon - Principal cities: Avignon
 
-owner = AVI		# The great Schism
-controller = AVI
+owner = PRO		# The great Schism
+controller = PRO
 capital = "Avignon"
 citysize = 17000
-culture = occitain
-religion = catholic
+culture = arab_breton
+religion = ashari
 hre = no
 base_tax = 3
 trade_goods = cloth
 manpower = 4
-add_core = AVI
 add_core = PRO
 courthouse = yes # Exception, Papal justice well established
 fort1 = yes

@@ -4,8 +4,8 @@ owner = GUY
 controller = GUY
 capital = "Bayonne"
 citysize = 2500
-culture = basque
-religion = catholic
+culture = arab_breton
+religion = ashari
 hre = no
 base_tax = 3
 trade_goods = wine
@@ -18,7 +18,6 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-1444.1.1 = { add_core = AMG add_core = FRA }
 1450.1.1   = { citysize = 4000 }
 1453.7.18  = { owner = FRA controller = FRA }
 1475.8.29  = { remove_core = ENG } # Treaty of Picquigny

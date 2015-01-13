@@ -1,7 +1,7 @@
 # 204 Dauphiné - Principal cities: Grenoble
 
-owner = FRA
-controller = FRA
+owner = PRO
+controller = PRO
 capital = "Grenoble"
 citysize = 9000
 culture = occitain
@@ -10,8 +10,6 @@ hre = no
 base_tax = 6
 trade_goods = wool
 manpower = 5
-add_core = FRA
-add_core = DAU
 add_core = PRO
 fort1 = yes 
 discovered_by = eastern
