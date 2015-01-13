@@ -3,6 +3,7 @@
 owner = GND
 controller = GND
 add_core = GND
+add_core = KRL
 culture = indran
 religion = hinduism
 capital = "Satudardesh"

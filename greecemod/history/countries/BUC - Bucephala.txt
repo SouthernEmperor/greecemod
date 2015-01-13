@@ -4,3 +4,4 @@ primary_culture = bactrian
 religion = catholic
 technology_group = ottoman
 capital = 2076
+fixed_capital = 2076

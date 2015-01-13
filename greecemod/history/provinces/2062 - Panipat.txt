@@ -1,16 +1,15 @@
-#2065 - Bhattiana
+#2062 - Panipat
 
-owner = GND
-controller = GND
+owner = KRL
+controller = KRL
 culture = indran
 religion = hinduism
-capital = "Agroha"
-trade_goods = grain
+capital = "Panipat"
+trade_goods = cotton
 hre = no
-base_tax = 4
-manpower = 2
-citysize = 37080
-add_core = GND
+base_tax = 5
+manpower = 3
+citysize = 25000
 add_core = KRL
 fort1 = yes
 discovered_by = indian

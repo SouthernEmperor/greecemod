@@ -1,0 +1,17 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = punjabi
+religion = sarvastivada
+technology_group = indian
+capital = 556
+
+1444.1.1 = {
+	monarch = {
+		name = "Pervana"
+		dynasty = "Choban"
+		birth_date = 1408.3.5
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}

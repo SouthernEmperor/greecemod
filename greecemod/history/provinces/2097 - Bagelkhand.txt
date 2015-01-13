@@ -1,17 +1,16 @@
-#2065 - Bhattiana
+#2097 - Bagelkhand
 
-owner = GND
-controller = GND
-culture = indran
-religion = hinduism
-capital = "Agroha"
+owner = KLI
+controller = KLI
+culture = sauraseni
+religion = sarvastivada
+capital = "Shivapurana"
 trade_goods = grain
 hre = no
-base_tax = 4
+base_tax = 1
 manpower = 2
-citysize = 37080
-add_core = GND
-add_core = KRL
+citysize = 12000
+add_core = KLI
 fort1 = yes
 discovered_by = indian
 discovered_by = nomad_group

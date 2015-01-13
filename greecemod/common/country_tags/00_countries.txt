@@ -186,10 +186,16 @@ SAG = "countries/Sagala.txt"
 SAT = "countries/Satnad.txt"
 TAX = "countries/Taxila.txt"
 
+CHB = "countries/Choban.txt"
+HLT = "countries/Harlut.txt"
+INJ = "countries/Inanji.txt"
+KLI = "countries/Khilija.txt"
+KRL = "countries/Karluk.txt"
+
 #West India
 AUR = "countries/Aursisthan.txt" 	
 DWA = "countries/Dwaraka.txt"
-JAS = "countries/Jasi.txt" 	
+JAS = "countries/Jasi.txt"
 NBR = "countries/Nabradia.txt" 	
 XII = "countries/Dalmasca.txt" 	
 YUN = "countries/Yunasthan.txt"

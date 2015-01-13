@@ -1,0 +1,28 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = punjabi
+religion = tengri
+technology_group = indian
+capital = 522
+
+1444.1.1 = {
+	monarch = {
+		name = "Arp Arslan III"
+		dynasty = "Danijmen"
+		birth_date = 1425.8.18
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+	
+	heir = {
+		name = "Arp Arslan"
+		monarch_name = "Arp Arslan IV"
+		dynasty = "Danijmen"
+		birth_date = 1430.3.10
+		death_date = 1500.1.1
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}

@@ -1,0 +1,28 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = punjabi
+religion = sarvastivada
+technology_group = indian
+capital = 559
+
+1444.1.1 = {
+	monarch = {
+		name = "Sarukhand"
+		dynasty = "Khilija"
+		birth_date = 1386.8.18
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+	
+	heir = {
+		name = "Sarukhand"
+		monarch_name = "Sarukhand II"
+		dynasty = "Khilija"
+		birth_date = 1425.10.31
+		death_date = 1500.1.1
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+}

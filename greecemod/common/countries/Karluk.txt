@@ -1,0 +1,91 @@
+#Country Name: Please see filename.
+
+graphical_culture = indiangfx
+
+color = { 139 201 108 }
+
+historical_idea_groups = {
+	administrative_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	maritime_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Arp Arslan #3" = 10
+	"Dilmaj #2" = 10
+	"Eratna #3" = 10
+	"Kaykhubad #0" = 10
+	"Kerman #1" = 10
+	"Mesud #0" = 10
+	"Musavar #0" = 10
+	"Pervana #0" = 10
+	"Saltuk #1" = 10
+	"Sarukhan #1" = 10
+	"Seljukh #0" = 10
+	"Suleyman #1" = 10
+	"Tanribermis #0" = 10
+	"Tughril #2" = 10
+	"Agni #0" = 0
+	"Periklesa #0" = 0
+	"Jesana #0" = 0
+	"Daksha #0" = 0
+	"Hemiza #0" = 0
+	"Indra #0" = 0
+	"Krishna #0" = 0
+	"Mitra #0" = 0
+	"Philipa #0" = 0
+	"Pushan #0" = 0
+	"Pala #0" = 0
+	"Rama #0" = 0
+	"Satya #0" = 0
+	"Ushas #0" = 0
+	"Varuna #0" = 0
+	"Ziusa #0" = 0
+	"Aratimisa #0" = -5
+	"Ethena #0" = -5
+	"Lakshmi #0" = -5
+	"Padma #0" = -5
+}
+
+leader_names = {
+	Abhasvara
+	Aditya
+	Anila
+	Arslan
+	Chandra
+	Ghasi
+	Gupta
+	Harikela
+	Khan
+	Maharajika
+	Manava
+	Maurya
+	Rudra
+	Sadhava
+	Samatata
+	Shah
+	Shashanka
+	Tushita
+	Yaudheya
+	Vapyata
+	Vasu
+}

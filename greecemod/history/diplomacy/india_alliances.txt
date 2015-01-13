@@ -5,3 +5,27 @@ alliance = {
 	start_date = 1444.1.1
 	end_date = 1821.1.1
 }
+
+#Final Fantasy XII
+alliance = {
+	first = XII
+	second = NBR
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}
+
+#Protection of Dvaraka
+guarantee = {
+	first = AUR
+	second = DWA
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}
+
+#Karluks and Inanjids
+vassal = {
+	first = KRL
+	second = INJ
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}

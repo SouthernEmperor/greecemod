@@ -1,16 +1,15 @@
-#2065 - Bhattiana
+#2060 - Upper Doab
 
-owner = GND
-controller = GND
+owner = KRL
+controller = KRL
 culture = indran
 religion = hinduism
-capital = "Agroha"
-trade_goods = grain
+capital = "Mayasura"
+trade_goods = cotton
 hre = no
-base_tax = 4
-manpower = 2
-citysize = 37080
-add_core = GND
+base_tax = 7
+manpower = 4
+citysize = 10000 #Recently sacked by Timur
 add_core = KRL
 fort1 = yes
 discovered_by = indian

@@ -3,7 +3,7 @@
 owner = GND
 controller = GND
 culture = bactrian
-religion = sunni
+religion = catholic
 capital = "Purushapura"
 trade_goods = grain
 hre = no

@@ -1,0 +1,17 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = punjabi
+religion = jewish
+technology_group = indian
+capital = 525
+
+1444.1.1 = {
+	monarch = {
+		name = "Eratna"
+		dynasty = "Harlut"
+		birth_date = 1359.11.13
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+}
