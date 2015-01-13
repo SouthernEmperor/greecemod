@@ -1,7 +1,7 @@
 # Narbonne - Principal cities: Narbonne
 
-owner = BOU
-controller = BOU
+owner = AMG
+controller = AMG
 capital = "Narbonne"
 citysize = 4500
 culture = arab_breton
@@ -10,7 +10,7 @@ hre = no
 base_tax = 4
 trade_goods = wine
 manpower = 1
-add_core = BOU
+add_core = AMG
 fort1 = yes
 discovered_by = eastern
 discovered_by = western

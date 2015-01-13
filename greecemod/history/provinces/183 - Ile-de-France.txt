@@ -1,7 +1,7 @@
 # 183 Île-de-France - Principal cities: Paris
 
-owner = FRA #ALE
-controller = FRA
+owner = ALE
+controller = ALE
 capital = "Paris"
 citysize = 70000
 culture = arab_breton
@@ -10,7 +10,7 @@ hre = no
 base_tax = 15
 trade_goods = cloth
 manpower = 8
-add_core = FRA
+add_core = ALE
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -22,9 +22,6 @@ marketplace = yes
 temple = yes # La Notre Dame de Paris
 university = yes # La Sorbonne
 
-
-1420.1.1 = { controller = ENG } # Captured by the English
-1437.1.1 = { controller = FRA } # Retaken by Charles VII
 1500.1.1 = { citysize = 100000 constable = yes }
 1550.1.1 = { citysize = 130000 regimental_camp = yes } #customs_house = yes
 1571.1.1 = { unrest = 5 } # Unrest spreads in catholic territory: massacres of protestants in Rouen, Orange & Paris
