@@ -145,6 +145,9 @@ HYR = "countries/Hyrcania.txt"
 PRT = "countries/Parthia.txt"
 
 #Central Asia
+GED = "countries/Gedrosia.txt"
+ARC = "countries/Arachosia.txt"
+ARI = "countries/Ariaspi.txt"
 
 #East and South Africa
 MSY = "countries/Mosyllum.txt"

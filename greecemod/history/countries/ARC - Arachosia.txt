@@ -1,0 +1,30 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = turkohephthalite
+religion = catholic
+technology_group = ottoman
+capital = 2231
+
+1444.1.1 = {
+	monarch = {
+		name = "Mehmet"
+		dynasty = "Mehmetoglu"
+		birth_date = 1398.8.11
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Ishakar"
+		monarch_name = "Ishakar the Magnamious"
+		dynasty = "Mehmetoglu"
+		birth_date = 1440.9.10
+		adm = 2
+		dip = 4
+		mil = 5
+		claim = 75
+	}
+}

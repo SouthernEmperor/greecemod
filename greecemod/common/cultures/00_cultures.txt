@@ -251,6 +251,17 @@ finno_ugric = {
 	moksha = {
 	}
 }
+
+hephthalite = {
+	graphical_culture = muslimgfx
+	
+	turkohephthalite = {
+		primary = ARA
+	}
+	iranohephthalite = {
+		primary = GED
+	}
+}
 	
 south_slavic = {
 	graphical_culture = easterngfx

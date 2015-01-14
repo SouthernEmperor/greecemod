@@ -1,0 +1,30 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = iranohephthalite
+religion = catholic
+technology_group = ottoman
+capital = 2233
+
+1444.1.1 = {
+	monarch = {
+		name = "Dariush"
+		dynasty = "Jahan"
+		birth_date = 1398.8.11
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Dariush"
+		monarch_name = "Dariush II"
+		dynasty = "Jahan"
+		birth_date = 1440.9.10
+		adm = 2
+		dip = 4
+		mil = 5
+		claim = 75
+	}
+}
