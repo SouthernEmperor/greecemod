@@ -3,28 +3,26 @@ mercantilism = 0.1
 primary_culture = bactrian
 religion = catholic
 technology_group = ottoman
-capital = 2077
+capital = 450
 
 1444.1.1 = {
 	monarch = {
-		name = "Jamshid"
+		name = "Reza II"
 		dynasty = "Kunduz"
-		birth_date = 1391.5.1
-		adm = 4
-		dip = 3
-		mil = 6
-	}
-}
-
-1444.1.1 = {
-	heir = {
-		name = "Xerxes"
-		monarch_name = "Xerxes I"
-		dynasty = "Kunduz"
-		birth_date = 1437.1.8
-		death_date = 1500.1.1
-		adm = 0
+		birth_date = 1385.3.19
+		adm = 3
 		dip = 1
+		mil = 0
+	}
+	
+	heir = {
+		name = "Khwaja"
+		monarch_name = "Khwaja IV"
+		dynasty = "Kunduz"
+		birth_date = 1421.3.4
+		death_date = 1500.1.1
+		adm = 2
+		dip = 4
 		mil = 3
 	}
 }

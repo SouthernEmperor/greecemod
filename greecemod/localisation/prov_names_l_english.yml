@@ -443,14 +443,14 @@
  PROV442: "Bukhara"
  PROV443: "Ustyurt"
  PROV444: "Charjuy"
- PROV445: "Merv"
- PROV446: "Herat"
- PROV447: "Kandahar"
- PROV448: "Gazni"
- PROV449: "Ghor"
- PROV450: "Balkh"
- PROV451: "Kabul"
- PROV452: "Badakhshan"
+ PROV445: "Margiana" #done
+ PROV446: "Ariana" #done
+ PROV447: "Arachosia" #done
+ PROV448: "Opiana" #done
+ PROV449: "Ghor" #done
+ PROV450: "Bactres" #done
+ PROV451: "Caucasus" #done
+ PROV452: "Ai-Khanoum" #done
  PROV453: "Qarshi"
  PROV454: "Marakanda" #done
  PROV455: "Kyzylkum"
@@ -506,10 +506,10 @@
  PROV505: "Megas Shivi" #done
  PROV506: "Hesudrus" #done
  PROV507: "Sagala" #done
- PROV508: "Kashmir"
- PROV509: "Kangra"
+ PROV508: "Suryanagar" #done
+ PROV509: "Nagarkot" #done
  PROV510: "Satudar" #done
- PROV511: "Garhwal"
+ PROV511: "Kuninda" #done
  PROV512: "Bhadra" #done
  PROV513: "Lodhruva" #done
  PROV514: "Abhira" #done
@@ -552,10 +552,10 @@
  PROV551: "Mekala" #done
  PROV552: "Tosali" #done
  PROV553: "Sabara" #done
- PROV554: "Baisi Rajya"
+ PROV554: "Usinara" #done
  PROV555: "Malla" #done
  PROV556: "Prayaga" #done
- PROV557: "Katmandu"
+ PROV557: "Yambu" #done
  PROV558: "Pataliputra" #done
  PROV559: "Kalinjar" #done
  PROV560: "Atavi" #done
@@ -563,7 +563,7 @@
  PROV562: "Kaksha" #done
  PROV563: "Gauda" #done
  PROV564: "Tripuri" #done
- PROV565: "Bhutan"
+ PROV565: "Monyul" #done
  PROV566: "Sonita" #done
  PROV567: "Samatata" #done
  PROV568: "Chittagong"
@@ -1783,7 +1783,7 @@
  PROV1782: "Central Siberia"
  PROV1783: "Eastern Siberia"
  PROV1784: "Tian Shan"
- PROV1785: "Pamir"
+ PROV1785: "Pamir" #done
  PROV1786: "Takla Makan"
  PROV1787: "Himalaya"
  PROV1788: "Arunachal"
@@ -1966,7 +1966,7 @@
  PROV1965: "Buzuluk"
  PROV1966: "Chelyaba"
  PROV1967: "Khujand"
- PROV1968: "Kulob"
+ PROV1968: "Dalverzin" #done
  PROV1969: "Sozak"
  PROV1970: "Syghnak"
  PROV1971: "Tsaritsyn"
@@ -2066,12 +2066,12 @@
  PROV2066: "Nagakhand" #done
  PROV2067: "Siranva" #done
  PROV2068: "Micros Shivi" #done
- PROV2069: "Kumaon"
- PROV2070: "Chaubisi Rajya"
- PROV2071: "Limbuwan"
+ PROV2069: "Katyuri" #done
+ PROV2070: "Gandaki" #done
+ PROV2071: "Limbuwan" #done
  PROV2072: "Kushab" #done
  PROV2073: "Aornos" #done
- PROV2074: "Ladakh"
+ PROV2074: "Kavthisa" #done
  PROV2075: "Jalandhar" #done
  PROV2076: "Bucephala" #done
  PROV2077: "Taxila" #done
@@ -2222,10 +2222,10 @@
  PROV2222: "Ardakan" #done
  PROV2223: "Larestan" #done
  PROV2224: "Ferah"
- PROV2225: "Bamyan"
- PROV2226: "Jalalabad"
- PROV2227: "Kunduz"
- PROV2228: "Maymana"
+ PROV2225: "Bamiyan" #done
+ PROV2226: "Nagarhara" #done
+ PROV2227: "Drapsaka" #done
+ PROV2228: "Maymana" #done
  PROV2229: "Bust"
  PROV2230: "Chagai"
  PROV2231: "Bela"

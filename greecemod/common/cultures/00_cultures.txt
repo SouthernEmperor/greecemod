@@ -1258,6 +1258,12 @@ burman= {
 	tibetan = {
 		primary = UTS
 	}
+	nepali = {
+		primary = NPL
+		dynasty_names = {
+			"Malla" "Ghorka"
+		}
+	}
 	chin = {
 		primary = MLB
 	}
@@ -1336,12 +1342,6 @@ eastern_aryan = {
 		primary = TRT
 		dynasty_names = {
 			"Sugauna" "Sharqi" "Suri" "Oinwara"
-		}
-	}
-	nepali = {
-		primary = NPL
-		dynasty_names = {
-			"Malla" "Ghorka"
 		}
 	}
 	oriya = {
@@ -1440,6 +1440,7 @@ gangetic = {
 	graphical_culture = indiangfx
 	
 	indran = {
+		primary = HRY
 	}
 	
 	kalingan = {

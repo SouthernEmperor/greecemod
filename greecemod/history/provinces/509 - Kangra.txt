@@ -1,17 +1,16 @@
-#512 - Jangladesh
+#509 - Kangra
 
-owner = GND
-controller = GND
-culture = aursi
-religion = sarvastivada
-capital = "Pugal"
-trade_goods = wool
+owner = KSH
+controller = KSH
+culture = punjabi
+religion = hinduism
+capital = "Nagarkot"
+trade_goods = cotton
 hre = no
 base_tax = 1
 manpower = 1
-citysize = 2000
-add_core = GND
-add_core = AUR
+citysize = 10000
+add_core = KSH
 fort1 = yes
 discovered_by = indian
 discovered_by = muslim 

@@ -3,7 +3,7 @@ mercantilism = 0.1
 primary_culture = turkohephthalite
 religion = catholic
 technology_group = ottoman
-capital = 2231
+capital = 447
 
 1444.1.1 = {
 	monarch = {

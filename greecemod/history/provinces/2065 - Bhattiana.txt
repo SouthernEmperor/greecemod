@@ -12,6 +12,7 @@ manpower = 2
 citysize = 37080
 add_core = GND
 add_core = KRL
+add_core = HRY
 fort1 = yes
 discovered_by = indian
 discovered_by = nomad_group

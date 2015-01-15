@@ -1,0 +1,32 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = kashmiri
+religion = manichaean
+technology_group = indian
+capital = 508	# Srinagar
+
+1444.1.1 = {
+	monarch = {
+		name = "Skalzang"
+		dynasty = "Khaplu"
+		birth_date = 1389.1.1
+		female = yes
+		ADM = 3
+		DIP = 4
+		MIL = 3
+	}
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Gyalpo"
+		monarch_name = "Gyalpo I"
+		dynasty = "Khaplu"
+		birth_date = 1415.11.11
+		death_date = 1500.1.1
+		claim = 95
+		ADM = 4
+		DIP = 4
+		MIL = 2
+	}
+}

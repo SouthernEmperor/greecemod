@@ -11,6 +11,7 @@ base_tax = 1
 manpower = 1
 citysize = 8000
 add_core = GND
+add_core = AUR
 fort1 = yes
 marketplace = yes
 discovered_by = indian
