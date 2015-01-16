@@ -1,0 +1,17 @@
+government = despotic_monarchy 
+mercantilism = 0.1
+primary_culture = armenian
+religion = imperial_hellenic
+technology_group = western
+capital = 329
+
+1444.1.1 = {
+	monarch = {
+		name = "Artaxias IV"
+		dynasty = "Arascid"
+		birth_date = 1420.1.15
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}

@@ -1,4 +1,5 @@
 # These ideas are loaded after all country ideas, but before default idea.
+#Temporarily repurposed ideas from vanilla
 
 client_ideas = {
 	start = {
@@ -130,8 +131,7 @@ rajput_ideas = {
 	}
 	
 	trigger = {
-		primary_culture = rajput
-		NOT = { religion_group = muslim }
+		primary_culture = prakrit
 	}
 	free = yes
 
@@ -171,7 +171,6 @@ dravidian_ideas = {
 	
 	trigger = {
 		culture_group = dravidian
-		religion = hinduism
 	}
 	free = yes
 	
@@ -211,9 +210,7 @@ bengali_ideas = {
 	
 	trigger = {
 		OR = {
-			primary_culture = bengali
-			TAG = KMT
-			TAG = KAC
+			religion = eastern_hellenic
 		}
 	}
     free = yes       #will be added at load.
@@ -253,7 +250,7 @@ gujarati_ideas = {
 	}
 	
 	trigger = {
-		primary_culture = gujarati
+		culture_group = alani
 	}
 	free = yes #will be added at load.
 	
@@ -292,13 +289,7 @@ indian_muslim_ideas = {
 	}
 	
 	trigger = {
-		religion_group = muslim
-		OR = {
-			culture_group = hindusthani
-			culture_group = dravidian
-			culture_group = eastern_aryan
-			culture_group = western_aryan
-		}
+		primary_culture = bactrian
 	}
 	free = yes
 	
@@ -378,7 +369,7 @@ theocracy_ideas = {
 	
 	trigger = {
 		government = theocracy
-		religion_group = christian
+		religion = catholic
 	}
 	free = yes
 	
@@ -418,17 +409,7 @@ anatolian_beyliks_ideas = {
 	}
 	
 	trigger = {
-		OR = {
-			tag = AYD
-			tag = CND
-			tag = DUL
-			tag = KAR
-			tag = SRU
-			tag = MEN
-			tag = RAM
-			tag = ERE	#Eretna, Middle East addition
-			tag = GRM	#Germiyan, Middle East addition
-		}
+		primary_culture = punjabi
 	}
 	free = yes
 	
@@ -506,7 +487,7 @@ german_ideas = {
 	}
 	
 	trigger = {
-		culture_group = germanic
+		religion = germanic
 	}
 	free = yes        #will be added at load.
 	
@@ -635,16 +616,7 @@ arabian_ideas = {
 	}
 	
 	trigger = {
-		OR = {
-			tag = ADE
-			tag = ALH
-			tag = SHR
-			tag = SYR
-			tag = IRQ
-			tag = LEB	#Lebanon, Middle East addition
-			tag = ARB	#Arabia, Middle East addition
-			tag = SHM
-		}
+		primary_culture = arabic
 	}
 	free = yes
 	
@@ -685,7 +657,6 @@ latin_ideas = {
 	
 	trigger = {
 		culture_group = latin
-		capital_scope = { region = italian_region }
 	}
 	free = yes
 	
@@ -725,7 +696,7 @@ central_indic_ideas = {
 	}
 	
 	trigger = {
-		culture_group = central_indic
+		culture_group = godavaric
 	}
 	free = yes
 	
@@ -1138,8 +1109,9 @@ caucasus_ideas = {
 	
 	trigger = {
 		OR = {
-			tag = SRV
-			tag = GAZ
+			primary_culture = kartuli
+			primary_culture = albanian
+			primary_culture = armenian
 		}
 	}
 	free = yes

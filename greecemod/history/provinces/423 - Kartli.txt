@@ -3,7 +3,7 @@
 owner = SKR
 controller = SKR
 culture = kartuli
-religion = orthodox
+religion = catholic
 capital = "T'bilisi"
 trade_goods = dyes
 hre = no

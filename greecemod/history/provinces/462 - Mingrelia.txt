@@ -3,7 +3,7 @@
 owner = SKR
 controller = SKR
 culture = kartuli
-religion = orthodox
+religion = catholic
 capital = "Zugdidi"
 trade_goods = wine
 hre = no

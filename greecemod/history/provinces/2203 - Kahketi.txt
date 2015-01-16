@@ -2,8 +2,8 @@
 
 owner = SKR
 controller = SKR
-culture = georgian
-religion = orthodox
+culture = kartuli
+religion = catholic
 capital = "Telavi"
 trade_goods = copper
 hre = no

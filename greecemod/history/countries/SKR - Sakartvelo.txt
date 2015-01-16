@@ -8,7 +8,7 @@ mercantilism = 0.1
 #quality_quantity = 3
 #serfdom_freesubjects = -5
 primary_culture = kartuli
-religion = orthodox
+religion = catholic
 technology_group = eastern
 capital = 2203 # Telavi
 

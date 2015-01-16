@@ -101,6 +101,9 @@ SCY = "countries/Scythia.txt"
 SKR = "countries/Sakartvelo.txt"
 TAM = "countries/Taman.txt"
 SRV = "countries/Shirvanshah.txt" #recycled from yoghurt
+CMG = "countries/Commagene.txt"
+SOP = "countries/Sophene.txt"
+ARM	= "countries/Armenia.txt"
 
 #Karadicland
 CRO	= "countries/Croatia.txt" #recycled from strawberry
@@ -362,9 +365,7 @@ VEN	= "countries/Venice.txt"
 #Low Countries
 
 #Russia 
-ARM	= "countries/Armenia.txt"
 AST	= "countries/Astrakhan.txt"
-GEO	= "countries/Georgia.txt"
 GOL	= "countries/GoldenHorde.txt"
 KAZ	= "countries/Kazan.txt"
 MOS	= "countries/Muscowy.txt"

@@ -3,7 +3,7 @@
 owner = SKR
 controller = SKR
 culture = azerbaijani
-religion = orthodox
+religion = catholic
 capital = "Ganja"
 trade_goods = cotton
 hre = no

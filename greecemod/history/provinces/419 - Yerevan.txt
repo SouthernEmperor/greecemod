@@ -4,7 +4,7 @@
 owner = SKR
 controller = SKR
 culture = armenian
-religion = orthodox
+religion = catholic
 capital = "Erevani"
 trade_goods = wine
 hre = no
