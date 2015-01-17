@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = sumatran
+religion = eastern_hellenic
+technology_group = indian
+capital = 621
+
+1444.1.1 = {
+	monarch = {
+		name = "Daksha"
+		dynasty = "Rudra"
+		birth_date = 1411.7.18
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}

@@ -238,6 +238,9 @@ KER = "countries/Kerala.txt"
 KRN = "countries/Karnataka.txt"
 PDY = "countries/Pandya.txt"
 
+#Reusland
+YAV = "countries/Yavadvipa.txt"
+
 #Chinese "Shogunate"
 CHX = "countries/Huaxia.txt"
 CGO = "countries/Gao.txt"
