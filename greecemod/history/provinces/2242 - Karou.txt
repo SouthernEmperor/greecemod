@@ -1,6 +1,6 @@
 # No previous file for Karou
 
-culture = dyola
+culture = whydah
 religion = west_african_pagan
 capital = "Karou"
 trade_goods = unknown

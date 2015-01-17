@@ -2,7 +2,7 @@
 
 owner = UGU #In effect independant in the wake of Mali's weakening
 controller = UGU
-culture = bozo
+culture = volta
 citysize = 18000
 manpower = 3
 religion = west_african_pagan

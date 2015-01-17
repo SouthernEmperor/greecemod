@@ -1,6 +1,6 @@
 # No previous file for Denkyira
 
-culture = aka 
+culture = whydah
 religion = west_african_pagan
 capital = "Dunkwa"
 trade_goods = coffee #Kola nuts

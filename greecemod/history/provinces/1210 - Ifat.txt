@@ -3,7 +3,7 @@
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = somali 
+culture = puntlandish
 religion = ashari
 capital = "Gende Belo"
 citysize = 4000

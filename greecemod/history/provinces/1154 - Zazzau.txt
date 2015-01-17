@@ -1,7 +1,7 @@
 #1154 - Zazzau
 
 
-culture = hausa
+culture = dagbon
 citysize = 22600
 manpower = 3
 religion = west_african_pagan

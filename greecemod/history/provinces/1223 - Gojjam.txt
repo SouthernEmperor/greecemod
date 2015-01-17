@@ -3,7 +3,7 @@
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = amhara 
+culture = qonddari
 religion = ashari
 capital = "Debre Asbo"
 citysize = 4500

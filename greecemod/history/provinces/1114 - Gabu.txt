@@ -3,7 +3,7 @@
 owner = KTR
 controller = KTR
 add_core = KTR
-culture = senegambian
+culture = kantori
 citysize = 10400
 manpower = 2
 religion = west_african_pagan

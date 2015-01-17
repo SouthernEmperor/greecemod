@@ -2,7 +2,7 @@
 owner = JOL
 controller = JOL
 add_core = JOL
-culture = fulani  
+culture = tekruri
 religion = west_african_pagan
 capital = "Kiffa"
 trade_goods = unknown

@@ -1,6 +1,6 @@
 #1208 - Degehabur
 
-culture = somali
+culture = puntlandish
 religion = ashari
 capital = "Degehabur"
 citysize = 3500

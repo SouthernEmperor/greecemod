@@ -1,7 +1,7 @@
 # - Nsoyo
 
 
-culture = kongolese
+culture = kongo_san
 religion = shamanism
 capital = "Nsoyo"
 citysize = 2000

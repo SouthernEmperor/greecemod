@@ -3,7 +3,7 @@
 owner = AGS
 controller = AGS
 add_core = AGS
-culture = kanuri  
+culture = agisymban
 religion = west_african_pagan
 capital = "Kotoko"
 trade_goods = grain

@@ -3,7 +3,7 @@
 owner = AGS
 controller = AGS
 add_core = AGS
-culture = bilala #bagirmi
+culture = agisymban
 religion = west_african_pagan
 capital = "Massenya"
 citysize = 7000

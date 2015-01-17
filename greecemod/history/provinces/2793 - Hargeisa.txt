@@ -3,7 +3,7 @@
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = somali
+culture = puntlandish
 religion = ashari
 capital = "Hargeisa"
 citysize = 4500

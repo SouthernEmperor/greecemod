@@ -2,7 +2,7 @@
 
 owner = ADE
 controller = ADE
-culture = arabic
+culture = sheban
 religion = jewish
 capital = "Al Hazm"
 trade_goods = wool

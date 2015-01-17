@@ -2,7 +2,7 @@
 
 
 citysize = 5000
-culture = yorumba 
+culture = deltan
 religion = west_african_pagan
 capital = "Warri"
 trade_goods = slaves

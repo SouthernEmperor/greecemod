@@ -1,6 +1,6 @@
 #1207 - Ogaden
 
-culture = somali
+culture = puntlandish
 religion = ashari
 capital = "Bale"
 native_size = 40

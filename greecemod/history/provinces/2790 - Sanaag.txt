@@ -1,6 +1,6 @@
 #2790 - Sanaag
 
-culture = somali
+culture = puntlandish
 religion = ashari
 capital = "Maydh"
 trade_goods = unknown

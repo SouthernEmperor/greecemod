@@ -70,6 +70,9 @@ north_germanic = {
 			"Hårfagreætta" "Bielke" "Bildt" "Galte" "Paus" "Smør" "Benkestok" "Kane" "Bonde"
 		}
 	}
+	icelandic = {
+		primary = ICE
+	}
 }
 
 british	= {
@@ -396,6 +399,9 @@ latin = {
 			primary = CRO
 		}
 		gothic-latin = {
+			dynasty_names = {
+				Electri Ferrum Aurum Argentinum Adamas
+			}
 		}
 
 }
@@ -415,7 +421,14 @@ hellenistic = {
 		}
 	
 }
-
+judeo_african = {
+		issachari = {
+			primary = ISS
+		}
+		zebuluni = {
+			primary = KBO
+		}
+}
 caucasian = {
 	graphical_culture = easterngfx
 	kartuli = {
@@ -504,7 +517,16 @@ turko_semitic	= {
 	dynasty_names = {
 	}
 }
-
+tshadi = {
+	sao = {
+	}
+	manganese = {
+	primary = MGA
+	}
+	agisymban = {
+	primary = AGS
+	}
+	
 maghrebi = {
 	graphical_culture = muslimgfx
 	berber = {
@@ -1655,7 +1677,25 @@ west_african = {
 	}
 
 }	
-
+tekrurian = {
+	tekruri = {
+		pimary = JOL
+	}
+	kantori = {
+		primary = KTR
+	}
+}
+ghanese = {
+	whydah = {
+		primary = WHY
+	}
+	dagbon = {
+		primary = GNA
+	}
+	bilangi = {
+		primary = BIL
+	}
+}
 puntlanders = {
 		graphical_culture = africangfx
 
@@ -1679,6 +1719,8 @@ azanians = {
 		exodite = {
 			primary = PRA
 		}
+		malagasy = {
+		}
 
 }
 
@@ -1701,19 +1743,13 @@ african = {	#Bantu
 			Lukeni Loanga
 		}
 	}
-	shona = {
-		primary = ZIM
-		dynasty_names = { 
-			Mwenemutapa Rozwi Mutopa
-		}
+	
+}	
+wefrican = {
+	nok = {
 	}
-	khoisan= {
-		primary = SAN
-		dynasty_names = {
-			Coma Xixo
-		}
+	gao = {
 	}
-
 cushitic = {
 	graphical_culture = africangfx
 	
@@ -1824,3 +1860,44 @@ tartar	= {
 		"Chagatay" "Edigüid" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
 	}
 }
+south_african = {
+	graphical_culture = africangfx
+	khoisan= {
+		primary = SAN
+		dynasty_names = {
+			Coma Xixo
+		}
+	}
+	shona = {
+		primary = ZIM
+		dynasty_names = { 
+			Mwenemutapa Rozwi Mutopa
+		}
+	}
+	kongo_san = {
+	}
+}
+nigeric = {
+	graphical_culture = africangfx
+	sibiridugi = {
+		primary = UGU
+	}
+	deltan = {
+	}
+	volta = {
+	}
+}
+abyssinian = {
+	qonddari = {
+		primary = ETH
+	}
+	damotic = {
+		primary = DMT
+	}
+	puntlandish = {
+	}
+	sheban = {
+		primary = ADE
+	}
+	beta_israeli = {
+	}

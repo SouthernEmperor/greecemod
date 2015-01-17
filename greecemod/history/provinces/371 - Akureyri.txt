@@ -3,7 +3,7 @@
 owner = ICE
 controller = ICE
 add_core = ICE
-culture = norwegian
+culture = icelandic
 religion = norse_pagan
 hre = no
 base_tax = 1

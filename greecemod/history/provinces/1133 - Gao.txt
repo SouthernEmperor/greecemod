@@ -3,7 +3,7 @@
 controller = ISS
 owner = ISS
 add_core = ISS
-culture = songhai
+culture = gao
 citysize = 9500
 manpower = 2
 religion = west_african_pagan

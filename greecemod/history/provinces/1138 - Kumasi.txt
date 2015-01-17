@@ -3,7 +3,7 @@
 owner = BNM
 controller = BNM
 add_core = BNM
-culture = aka
+culture = whydah
 manpower = 1
 religion = west_african_pagan
 capital = "Akyem Kotoko"

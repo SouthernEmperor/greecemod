@@ -1,6 +1,6 @@
 #2779 - Afder
 
-culture = somali
+culture = puntlandish
 religion = ashari
 capital = "Afder"
 native_size = 40

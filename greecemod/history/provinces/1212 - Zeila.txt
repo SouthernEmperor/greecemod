@@ -3,7 +3,7 @@
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = somali # issa
+culture = qonddari # issa
 religion = ashari
 capital = "Zayla"
 citysize = 4500

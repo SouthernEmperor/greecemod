@@ -3,7 +3,7 @@
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = tigray 
+culture = damotic
 religion = ashari
 capital = "Debarwa"
 citysize = 8000

@@ -2,7 +2,7 @@
 
 
 citysize = 5000
-culture = tuareg 
+culture = gao
 religion = west_african_pagan
 capital = "Walata"
 trade_goods = wool

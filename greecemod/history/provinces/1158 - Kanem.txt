@@ -3,7 +3,7 @@
 owner = MGA
 controller = MGA
 add_core = MGA
-culture = kanuri
+culture = manganese
 religion = west_african_pagan
 capital = "Ngala"
 citysize = 14000

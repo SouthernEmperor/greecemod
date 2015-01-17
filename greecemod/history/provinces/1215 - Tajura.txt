@@ -3,7 +3,7 @@
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = somali #afar
+culture = sheban
 religion = ashari
 capital = "Baylul"
 citysize = 4000

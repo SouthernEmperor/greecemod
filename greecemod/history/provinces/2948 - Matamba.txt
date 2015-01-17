@@ -1,6 +1,6 @@
 # - Matamba
 
-culture = kongolese
+culture = kongo_san
 religion = shamanism
 capital = "Matamba"
 trade_goods = slaves

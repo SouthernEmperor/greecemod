@@ -2,7 +2,7 @@
 
 owner = KTR
 controller = KTR
-culture = soninke
+culture = kantori
 citysize = 9800
 manpower = 2
 religion = west_african_pagan

@@ -35,41 +35,8 @@ historical_units = {
 }
 
 monarch_names = {
-	"Agrippa #0" = 10
-	"Appius #0" = 10
-	"Aulus #0" = 10
-	"Caeso #0" = 10
-	"Decimus #0" = 10
-	"Faustus #0" = 10
-	"Gaius #0" = 10
-	"Gnaeus #0" = 10
-	"Hostus #0" = 10
-	"Lucius #0" = 10
-	"Mamercus #0" = 10
-	"Manius #0" = 10
-	"Marcus #0" = 10
-	"Mettius #0" = 10
-	"Nonus #0" = 10
-	"Numerius #0" = 10
-	"Octavius #0" = 10
-	"Opiter #0" = 10
-	"Paullus #0" = 10
-	"Postumus #0" = 10
-	"Proculus #0" = 10
-	"Publius #0" = 10
-	"Quintus #0" = 10
-	"Septimus #0" = 10
-	"Sertor #0" = 10
-	"Servius #0" = 10
-	"Sextus #0" = 10
-	"Spurius #0" = 10
-	"Statius #0" = 10
-	"Tiberius #0" = 10
-	"Titus #0" = 10
-	"Tullus #0" = 10
-	"Vibius #0" = 10
-	"Volesus #0" = 10
-	"Vopiscus #0" = 10
+	"Rex #0" = 10
+	"Regina #0" = -10
 }
 
 leader_names = {

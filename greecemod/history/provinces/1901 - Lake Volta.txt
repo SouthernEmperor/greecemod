@@ -1,7 +1,7 @@
 # - Mpangu
 
 
-culture = kongolese
+culture = kongo_san
 religion = shamanism
 capital = "Sundi"
 trade_goods = copper

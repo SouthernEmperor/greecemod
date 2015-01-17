@@ -1,7 +1,7 @@
 #1139 - Gold Coast
 #Eastern part thereof, mostly Accra and Osu Castle
 
-culture = aka
+culture = whydah
 religion = west_african_pagan
 capital = "Accra"
 trade_goods = unknown

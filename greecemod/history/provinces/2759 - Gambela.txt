@@ -3,7 +3,7 @@
 owner = FUR
 controller = FUR
 add_core = FUR
-culture = sidamo 
+culture = beta_israeli
 religion = ashari
 capital = "Gambela"
 citysize = 4715

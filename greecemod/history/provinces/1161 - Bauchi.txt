@@ -3,7 +3,7 @@
 owner = KBO
 controller = KBO
 add_core = KBO
-culture = bantu
+culture = sao
 religion = west_african_pagan
 capital = "Bauchi"
 trade_goods = unknown

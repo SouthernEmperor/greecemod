@@ -2,7 +2,7 @@
 
 
 citysize = 5000
-culture = aka  
+culture = dagbon
 religion = west_african_pagan
 capital = "Amanvi"
 trade_goods = coffee #Kola nuts

@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -5
 technology_group = sub_saharan
 religion = west_african_pagan
-primary_culture = senegambian
+primary_culture = tekruri
 capital = 2237 # Gatiga, Gazargamu
 }
 

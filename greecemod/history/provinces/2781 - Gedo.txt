@@ -1,6 +1,6 @@
 #2781 - Gedo
 
-culture = somali
+culture = puntlandish
 religion = ashari
 capital = "Luuq"
 trade_goods = unknown

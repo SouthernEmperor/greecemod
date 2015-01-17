@@ -3,7 +3,7 @@
 owner = PAN
 controller = PAN
 add_core = PAN
-culture = somali
+culture = judeo_somali
 religion = jewish
 capital = "Garoowe"
 citysize = 3500

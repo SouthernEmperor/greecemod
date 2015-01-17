@@ -1,7 +1,7 @@
 #1150 - Zamfara
 
 
-culture = hausa
+culture = nok
 citysize = 7000
 manpower = 1
 religion = west_african_pagan

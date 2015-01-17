@@ -1,7 +1,7 @@
 #1171 - Ndongo
 
 
-culture = kongolese
+culture = kongo_san
 religion = shamanism
 capital = "Kabasa"
 trade_goods = slaves

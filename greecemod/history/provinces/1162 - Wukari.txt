@@ -1,6 +1,6 @@
 #1162 - Wukari
 
-culture = bantu #Jukun 
+culture = deltan
 religion = west_african_pagan
 capital = "Wukari"
 trade_goods = unknown

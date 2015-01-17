@@ -1,7 +1,7 @@
 # No previous file for Yao
 
 
-culture = bilala  
+culture = manganese
 religion = west_african_pagan
 capital = "Yao"
 trade_goods = fish #lake fishing

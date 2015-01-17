@@ -2,7 +2,7 @@
 
 owner = UGU
 controller = UGU
-culture = mali
+culture = sibiridugi
 citysize = 14000
 manpower = 2
 religion = west_african_pagan

@@ -3,7 +3,7 @@
 owner = DEN
 controller = DEN
 add_core = DEN
-culture = songhai
+culture = bilangi
 citysize = 7000
 manpower = 1
 religion = west_african_pagan

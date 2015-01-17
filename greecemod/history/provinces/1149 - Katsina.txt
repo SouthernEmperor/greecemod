@@ -3,7 +3,7 @@
 owner = KBO
 controller = KBO
 add_core = KBO
-culture = hausa
+culture = nok
 citysize = 18000
 manpower = 3
 religion = west_african_pagan

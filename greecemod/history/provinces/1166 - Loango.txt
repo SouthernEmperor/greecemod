@@ -1,7 +1,7 @@
 #1166 - Loango
 
 
-culture = kongolese
+culture = kongo_san
 religion = shamanism
 capital = "Loango"
 trade_goods = ivory

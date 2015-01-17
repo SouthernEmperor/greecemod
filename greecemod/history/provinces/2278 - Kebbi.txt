@@ -2,7 +2,7 @@
 
 
 citysize = 5000
-culture = hausa 
+culture = bilangi
 religion = west_african_pagan
 capital = "Sorko"
 trade_goods = grain

@@ -3,7 +3,7 @@
 
 
 citysize = 5000
-culture = nupe   
+culture = dagbon
 religion = west_african_pagan
 capital = "Lafia"
 native_size = 40

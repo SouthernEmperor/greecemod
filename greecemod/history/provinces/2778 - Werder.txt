@@ -1,7 +1,7 @@
 #2778 - Werder
 
 
-culture = somali
+culture = puntlandish
 religion = ashari
 capital = "Wardheer"
 trade_goods = unknown

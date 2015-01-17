@@ -3,7 +3,7 @@
 owner = FUR
 controller = FUR
 add_core = FUR
-culture = amhara 
+culture = beta_israeli
 religion = ashari
 capital = "Assosa"
 citysize = 2425

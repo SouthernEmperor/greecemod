@@ -3,7 +3,7 @@
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = sidamo 
+culture = beta_israeli
 religion = ashari
 capital = "Irgalem"
 citysize = 7000

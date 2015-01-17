@@ -1,7 +1,7 @@
 #1130 - Tadimekket
 
 
-culture = tuareg
+culture = gao
 citysize = 4000
 manpower = 1
 religion = west_african_pagan

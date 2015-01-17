@@ -3,7 +3,7 @@
 owner = KBO
 controller = KBO
 add_core = KBO
-culture = tuareg
+culture = manganese
 religion = west_african_pagan
 capital = "Mashina"
 citysize = 7500

@@ -1,6 +1,6 @@
 #2792 - Togdheer
 
-culture = somali
+culture = puntlandish
 religion = ashari
 capital = "Togdheer"
 citysize = 2500

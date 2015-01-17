@@ -1,6 +1,6 @@
 #2776 - Afgooye
 
-culture = somali
+culture = puntlandish
 religion = ashari
 capital = "Afgooye"
 trade_goods = unknown

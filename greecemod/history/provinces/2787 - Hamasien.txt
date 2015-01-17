@@ -3,7 +3,7 @@
 owner = DMT
 controller = DMT
 add_core = DMT
-culture = amhara
+culture = damotic
 religion = ashari
 capital = "Debarwa"
 citysize = 2315

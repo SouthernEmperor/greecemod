@@ -1,7 +1,7 @@
 #1147 - Benin
 
 
-culture = yorumba
+culture = deltan
 religion = west_african_pagan
 capital = "Oredo"
 citysize = 14000

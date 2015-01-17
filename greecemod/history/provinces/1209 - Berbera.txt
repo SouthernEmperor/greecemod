@@ -1,6 +1,6 @@
 #1209 - Berbera
 
-culture = somali
+culture = puntlandish
 religion = ashari
 capital = "Berbera"
 citysize = 7500

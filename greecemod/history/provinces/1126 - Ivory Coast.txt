@@ -1,6 +1,6 @@
 #1126 - Ivory Coast
 
-culture = aka
+culture = whydah
 religion = west_african_pagan
 capital = "Assinie"
 trade_goods = unknown

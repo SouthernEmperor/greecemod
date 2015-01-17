@@ -1,7 +1,7 @@
 #2777 - Bardera
 
 
-culture = somali
+culture = puntlandish
 religion = ashari
 capital = "Baardheere"
 trade_goods = unknown

@@ -1,7 +1,7 @@
 #1169 - Anziku
 
 
-culture = kongolese
+culture = kongo_san
 religion = shamanism
 capital = "Anziku"
 trade_goods = copper

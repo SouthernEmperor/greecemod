@@ -3,7 +3,7 @@
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = amhara 
+culture = damotic
 religion = ashari
 capital = "Dabareq"
 citysize = 3000

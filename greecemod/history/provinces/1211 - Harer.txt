@@ -3,7 +3,7 @@
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = somali # Harerge
+culture = puntlandish
 religion = ashari
 capital = "Deker"
 citysize = 5000

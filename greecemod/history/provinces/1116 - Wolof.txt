@@ -2,7 +2,7 @@
 
 owner = JOL
 controller = JOL
-culture = senegambian
+culture = tekruri
 citysize = 7000
 manpower = 2
 religion = west_african_pagan

@@ -1,7 +1,7 @@
 # No previous file for Cape Coast
 #Represents forts in western Ghana, from Axim to Elmina, mostly Elmina
 
-culture = aka
+culture = whydah
 religion = west_african_pagan
 capital = "Axim"
 trade_goods = unknown

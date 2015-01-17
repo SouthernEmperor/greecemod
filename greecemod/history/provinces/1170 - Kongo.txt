@@ -1,7 +1,7 @@
 #1170 - Kongo
 
 
-culture = kongolese
+culture = kongo_san
 religion = shamanism
 capital = "M'banza Kongo"
 trade_goods = iron

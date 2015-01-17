@@ -1,6 +1,6 @@
 # - Mbata
 
-culture = kongolese
+culture = kongo_san
 religion = shamanism
 capital = "Mbata"
 trade_goods = slaves

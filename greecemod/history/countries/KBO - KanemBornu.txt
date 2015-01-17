@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -5
 technology_group = sub_saharan
 religion = jewish
-primary_culture = mali
+primary_culture = zebuluni
 capital = 1157	# Gatiga, Gazargamu
 historical_rival = YAO
 

@@ -3,7 +3,7 @@
 owner = ZIM
 controller = ZIM
 add_core = ZIM
-culture = bantu
+culture = shona
 religion = exodite_islam
 capital = "Quelimane"
 citysize = 2800

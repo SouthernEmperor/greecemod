@@ -3,7 +3,7 @@
 owner = KBO
 controller = KBO
 add_core = KBO
-culture = hausa
+culture = nok
 citysize = 21000
 manpower = 3
 religion = jewish

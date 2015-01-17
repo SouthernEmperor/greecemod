@@ -2,7 +2,7 @@
 
 owner = DHR
 controller = DHR
-culture = arabic
+culture = sheban
 religion = isaya
 capital = "Aden"
 trade_goods = spices

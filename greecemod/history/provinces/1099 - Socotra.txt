@@ -1,6 +1,6 @@
 #1099 - Socotra
 
-culture = arabic
+culture = sheban
 religion = isaya
 capital = "Suqutra"
 trade_goods = fish

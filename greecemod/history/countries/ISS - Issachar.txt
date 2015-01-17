@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -5
 technology_group = sub_saharan
 religion = jewish
-primary_culture = mali
+primary_culture = issachari
 capital = 2262	# Gatiga, Gazargamu
 
 

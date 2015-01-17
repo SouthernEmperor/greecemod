@@ -3,7 +3,7 @@
 owner = ISS
 controller = ISS
 add_core = ISS
-culture = tuareg
+culture = gao
 citysize = 14000
 manpower = 2
 religion = west_african_pagan

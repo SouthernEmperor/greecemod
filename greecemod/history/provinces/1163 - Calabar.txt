@@ -1,6 +1,6 @@
 #1163 - Calabar
 
-culture = bantu
+culture = deltan
 religion = west_african_pagan
 capital = "Calabar"
 trade_goods = slaves

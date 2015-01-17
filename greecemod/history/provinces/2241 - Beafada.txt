@@ -1,6 +1,6 @@
 # No previous file for Beafada
 
-culture = senegambian  
+culture = kantori
 religion = west_african_pagan
 capital = "Beafada"
 trade_goods = slaves

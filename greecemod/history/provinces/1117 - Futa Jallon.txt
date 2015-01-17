@@ -2,7 +2,7 @@
 
 owner = KTR
 controller = KTR
-culture = fulani
+culture = kantori
 citysize = 14500
 manpower = 3
 religion = west_african_pagan

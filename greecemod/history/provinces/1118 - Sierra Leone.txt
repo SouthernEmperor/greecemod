@@ -1,6 +1,6 @@
 #1118 - Sierra Leone
 
-culture = dyola
+culture = whydah
 religion = west_african_pagan
 capital = "Sherbro"
 trade_goods = unknown

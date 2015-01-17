@@ -1,7 +1,7 @@
 # No previous file for Haayre
 
 citysize = 5000
-culture = bozo  
+culture = volta
 religion = west_african_pagan
 capital = "Douentza"
 trade_goods = ivory

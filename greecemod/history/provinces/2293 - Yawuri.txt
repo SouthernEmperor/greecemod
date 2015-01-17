@@ -1,7 +1,7 @@
 # No previous file for Yawuri
 
 citysize = 5000
-culture = hausa 
+culture = dagbon
 religion = west_african_pagan
 capital = "Birnin Yawuri"
 trade_goods = coffee #Kola nuts

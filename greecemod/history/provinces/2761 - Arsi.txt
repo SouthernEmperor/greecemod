@@ -3,7 +3,7 @@
 owner = ETH
 controller = ETH
 add_core = ETH
-culture = amhara 
+culture = beta_israeli
 religion = ashari
 capital = "Assela"
 citysize = 6254

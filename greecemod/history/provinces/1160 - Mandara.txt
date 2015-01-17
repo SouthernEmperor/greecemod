@@ -3,7 +3,7 @@
 owner = KBO
 controller = KBO
 add_core = KBO
-culture = kanuri
+culture = sao
 religion = west_african_pagan
 capital = "Wandala"
 citysize = 7000
