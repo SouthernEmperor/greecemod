@@ -618,13 +618,6 @@ iranian = {
 turkic = {
 	graphical_culture = muslimgfx
 
-	turkish = {
-		primary = TUR
-		dynasty_names = {
-			"Osmanoglu" "Karamanoglu" "Menteseoglu" "Ramazanoglu" "Saruhanoglu"
-			"Dulkadiroglu" "Candaroglu" "Germiyanoglu" "Aydinoglu" "Eretnaoglu"
-		}
-	}
 	turkmeni = {
 		primary = KHI
 		dynasty_names = {
@@ -647,6 +640,9 @@ turkic = {
 			Afridun Choban Danijmen Germinyan Harlut Isreva Inanji
 			Karasi Karaman Khilija Koyunlu Ramadan 
 		}
+	}
+	uyghur = {
+		primary = KAS
 	}
 }
 
@@ -684,9 +680,6 @@ altaic = {
 	}
 	uzbehk = {
 		primary = SHY
-	}
-	uyghur = {
-		primary = KAS
 	}
 	khazak = {
 		primary = KZH

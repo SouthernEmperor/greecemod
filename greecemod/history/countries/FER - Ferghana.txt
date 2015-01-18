@@ -1,0 +1,17 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = bactrian
+religion = catholic
+technology_group = ottoman
+capital = 1967
+
+1444.1.1 = {
+	monarch = {
+		name = "Muhammad II"
+		dynasty = "Kunduz"
+		birth_date = 1399.9.31
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}

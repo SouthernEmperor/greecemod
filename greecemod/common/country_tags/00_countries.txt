@@ -148,6 +148,7 @@ HYR = "countries/Hyrcania.txt"
 PRT = "countries/Parthia.txt"
 
 #Central Asia
+FER = "countries/Ferghana.txt"
 BAC = "countries/Bactria.txt"
 GED = "countries/Gedrosia.txt"
 ARC = "countries/Arachosia.txt"

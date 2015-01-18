@@ -455,10 +455,10 @@
  PROV454: "Marakanda" #done
  PROV455: "Kyzylkum"
  PROV456: "Turkestan"
- PROV457: "Tashkent"
- PROV458: "Kokand"
+ PROV457: "Chach" #done
+ PROV458: "Khavakend" #done
  PROV459: "Taraz"
- PROV460: "Uzkend"
+ PROV460: "Mavarannahr" #done
  PROV461: "Almaty"
  PROV462: "Mingrelia"
  PROV463: "Circassia"
@@ -1965,7 +1965,7 @@
  PROV1964: "Ust-Sysolsk"
  PROV1965: "Buzuluk"
  PROV1966: "Chelyaba"
- PROV1967: "Khujand"
+ PROV1967: "Eschate" #done
  PROV1968: "Dalverzin" #done
  PROV1969: "Sozak"
  PROV1970: "Syghnak"
@@ -2124,7 +2124,7 @@
  PROV2124: "Yarkand"
  PROV2125: "Kochkor"
  PROV2126: "Chuy"
- PROV2127: "Ferghana" #done
+ PROV2127: "Khorogh" #done
  PROV2128: "Ngari"
  PROV2129: "Changtang"
  PROV2130: "Nyingchi"
