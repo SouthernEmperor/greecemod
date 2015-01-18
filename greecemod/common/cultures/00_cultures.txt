@@ -419,8 +419,14 @@ hellenistic = {
 		}
 		dacian = {
 		}
-	
+		armenian = {
+			primary = ARM
+			dynasty_names = { 
+				Bagratuni Rubenid Pahlavuni
+			}
+		}
 }
+	
 judeo_african = {
 		issachari = {
 			primary = ISS
@@ -442,12 +448,6 @@ caucasian = {
 	}
 	dagestani = {
 		primary = GAZ
-	}
-	armenian = {
-		primary = ARM
-		dynasty_names = { 
-			Bagratuni Rubenid Pahlavuni
-		}
 	}
 	
 	avar = {
@@ -586,29 +586,13 @@ iranian = {
 		medean = {
 		}
 		
-		gedrosian = {
-		}
-		
 		khorasani = {
 			primary = KHO
 		}
-		baluchi = {
-			primary = BAL
-			dynasty_names = { Rind Lashari Kambarani Mirwari }
-		}
-		afghani= {
-			primary = AFG
-		}
-		kurdish = {
-			primary = ARD
-			dynasty_names = { "Hazaraspid" "Marwanid" "Soran" "Hasanawayhid" }
-		}
-		mazandarani = {
-			primary = TAB
-			dynasty_names = { "Afrasiyab" "Alid" "Bavand" }
-		}
 		azerbaijani = {
 			primary = SRV
+		}
+		kushan = {
 		}
 		dynasty_names = {
 			Durrani Ghilzai Zand Qajar Afsharid Safavid
@@ -620,9 +604,6 @@ turkic = {
 
 	turkmeni = {
 		primary = KHI
-		dynasty_names = {
-			"Arabshahid" "Qungrat"
-		}
 	}
 	
 	khazar = {
@@ -631,6 +612,7 @@ turkic = {
 
 	savir = {
 	}
+	
 	cuman = {
 	}
 	
@@ -643,6 +625,17 @@ turkic = {
 	}
 	uyghur = {
 		primary = KAS
+	}
+	
+	kirgiz = {
+		primary = KYR
+	}
+	
+	oghuz = {
+		primary = OGH
+		dynasty_names = {
+			"Arabshahid" "Qungrat"
+		}
 	}
 }
 
@@ -684,11 +677,14 @@ altaic = {
 	khazak = {
 		primary = KZH
 	}
-	kirgiz = {
-		primary = CHG
-	}
 	dynasty_names = {
 		"Chagatay" "Edigüid" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
+	}
+}
+
+jushen = {
+	khitan = {
+		primary = LAO
 	}
 }
 	

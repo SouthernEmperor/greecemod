@@ -3,7 +3,7 @@
 owner = FER
 controller = FER
 culture = bactrian
-religion = sarvastivada
+religion = yavana
 capital = "Mavarannahr"
 trade_goods = wool
 hre = no

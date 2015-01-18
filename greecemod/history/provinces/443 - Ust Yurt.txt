@@ -1,0 +1,19 @@
+#443 - Ust Yurt
+
+owner = LAO
+controller = LAO
+culture = oghuz
+religion = yavana
+capital = "Ust Yurt"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 1200
+add_core = LAO
+add_core = OGH
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = nomad_group
+fort1 = yes

@@ -149,6 +149,14 @@ HYR = "countries/Hyrcania.txt"
 PRT = "countries/Parthia.txt"
 
 #Central Asia
+BUK = "countries/Bukhara.txt"
+KYR = "countries/Kyrgyz.txt"
+LAO = "countries/Liao.txt"
+MRG = "countries/Margiana.txt"
+OGH = "countries/Oghuz.txt"
+SMK = "countries/Marakanda.txt"
+SOG = "countries/Sogdiana.txt"
+
 FER = "countries/Ferghana.txt"
 BAC = "countries/Bactria.txt"
 GED = "countries/Gedrosia.txt"
@@ -414,7 +422,6 @@ KZH	= "countries/Kazakh.txt"
 KHI	= "countries/Khiva.txt"
 SHY	= "countries/Shaybanid.txt"
 KOK	= "countries/Kokkand.txt"
-BUK = "countries/Bukhara.txt"
 
 #Persia	
 AFG	= "countries/Afghanistan.txt"

@@ -1,0 +1,168 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 155 216 0 }
+
+historical_idea_groups = {
+	influence_ideas
+	diplomatic_ideas
+	economic_ideas
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	administrative_ideas
+	quality_ideas
+}
+
+historical_units = {
+	ottoman_yaya
+	ottoman_musellem
+	ottoman_azab
+	ottoman_timariot
+	ottoman_janissary
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Abbas #0" = 10
+	"Bail #0" = 10		
+	"Dariush #0" = 10
+	"Ebrahim #0" = 10
+	"Eskandar #0" = 10
+	"Esmail #0" = 10
+	"Faruq #0" = 10
+	"Firuz #0" = 10
+	"Harun #0" = 10
+	"Kambiz #0" = 10
+	"Khrosrow #0" = 10
+	"Jamshid #0" = 10
+	"Kaveh #0" = 10
+	"Khwaja #0" = 10
+	"Mahdi #0" = 10
+	"Muhammad #0" = 10
+	"Navid #0" = 10
+	"Parviz #0" = 10
+	"Reza #0" = 10
+	"Sargon #0" = 10
+	"Xerxes #0" = 10
+	"Vahid #0" = 10
+	"Younes #0" = 10
+	"Yousef #0" = 10
+	
+	"Arian #0" = -5
+	"Astar #0" = -5
+	"Ava #0" = -5
+	"Banu #0" = -5
+	"Laleh #0" = -5
+	"Leia #0" = -5
+	"Leila #0" = -5
+	"Mina #0" = -5
+	"Roxana #0" = -5
+	"Sara #0" = -5
+	"Yasmin #0" = -5
+}
+
+leader_names = {
+	Ahriman
+	Ameretat
+	Arach
+	Achtad
+	Attar
+	Bahman
+	Charmchi
+	Fereidoun
+	Govad
+	Gilgamesh
+	Jahan
+	Jahangir
+	Haurvatat
+	Nairiosangha
+	Ormazd
+	Rachn
+	Rostami
+	Saroch
+	Sassani
+	Sohrab
+	Tahmuras
+	Tamatarkhan
+	Zal
+}
+
+ship_names = {
+	Aither
+	Ananke
+	Aphrodite
+	Apollon
+	Ares
+	Aretmis
+	Asteria
+	Astraios
+	Athena
+	Atlas
+	Aura
+	Chaos
+	Chronos
+	Clymene
+	Demeter
+	Dione
+	Dionysos
+	Eos
+	Epimetheus
+	Erebos
+	Eros
+	Eurybia
+	Eurynome
+	Gaia
+	Hades
+	Helios
+	Hephaistos
+	Hera
+	Hermera
+	Hermes
+	Hestia
+	Hyperion
+	Hypnos
+	Iapetos
+	Koios
+	Kreios
+	Lelantos
+	Leto
+	Menoitios
+	Metis
+	Mnemosyne
+	Nesoi
+	Nyx
+	Oceanos
+	Ophion
+	Ouranos
+	Ourea
+	Pallas
+	Perses
+	Phanes
+	Phoibe
+	Pontus
+	Poseidon
+	Prometheus
+	Rhea
+	Selene
+	Styx
+	Tartarus
+	Tethys
+	Thalassa
+	Thanatos
+	Theia
+	Themis
+	Zeus
+}
