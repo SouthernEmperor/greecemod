@@ -1,0 +1,20 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = dacian
+religion = imperial_hellenic
+technology_group = western
+capital = 160 #Temes
+
+1423.7.3 = {
+	Monarch = {
+		name = "Alex"
+		monarch_name = "Alex VI"
+		dynasty = "Grigorescu"
+		birth_date = 1423.7.3
+		death_date = 1483.8.30
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}

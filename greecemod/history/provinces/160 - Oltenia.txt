@@ -12,6 +12,7 @@ manpower = 2
 citysize = 7050
 fort1 = yes
 add_core = GAU
+add_core = DAC
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
