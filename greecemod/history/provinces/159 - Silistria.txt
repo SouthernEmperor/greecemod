@@ -2,7 +2,7 @@
 
 owner = THR
 controller = THR
-culture = greek
+culture = thracian
 religion = zoroastrian
 capital = "Odessos"
 trade_goods = fish

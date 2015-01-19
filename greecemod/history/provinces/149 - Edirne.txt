@@ -2,7 +2,7 @@
 
 owner = THR
 controller = THR
-culture = greek
+culture = thracian
 religion = imperial_hellenic
 capital = "Orestias"
 trade_goods = grain

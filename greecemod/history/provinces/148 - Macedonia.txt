@@ -2,7 +2,7 @@
 
 owner = MAC
 controller = MAC
-culture = greek
+culture = macedonian
 religion = imperial_hellenic
 capital = "Pella"
 trade_goods = grain

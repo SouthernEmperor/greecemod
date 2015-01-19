@@ -2,7 +2,7 @@
 
 owner = GAU
 controller = GAU
-culture = greek
+culture = dacian
 religion = imperial_hellenic
 capital = "Vidin"
 trade_goods = grain

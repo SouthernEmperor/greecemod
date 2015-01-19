@@ -418,6 +418,13 @@ hellenistic = {
 			primary = AMI
 		}
 		dacian = {
+			primary = DAC
+		}
+		macedonian = {
+			primary = MAC
+		}
+		thracian = {
+			primary = THR
 		}
 		armenian = {
 			primary = ARM

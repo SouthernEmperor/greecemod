@@ -1,6 +1,6 @@
 government = despotic_monarchy
 mercantilism = 0.1
-primary_culture = greek
+primary_culture = thracian
 religion = catholic
 technology_group = western
 historical_rival = TUR

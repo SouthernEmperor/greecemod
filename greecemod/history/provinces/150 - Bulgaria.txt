@@ -2,7 +2,7 @@
 
 owner = THR
 controller = THR
-culture = greek
+culture = thracian
 religion = yavana
 capital = "Krobypolis"
 trade_goods = iron
