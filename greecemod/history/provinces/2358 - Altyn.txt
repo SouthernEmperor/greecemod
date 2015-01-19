@@ -1,0 +1,17 @@
+# 2358 - Altyn
+
+owner = UYG
+controller = UYG
+culture = uyghur
+religion = manichaean
+capital = "Altyn"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 1100
+add_core = UYG
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = ottoman
+discovered_by = muslim

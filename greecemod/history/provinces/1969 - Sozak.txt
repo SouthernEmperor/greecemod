@@ -1,0 +1,18 @@
+#1969 - Syghnak
+
+owner = SOG
+controller = SOG
+culture = uyghur
+religion = manichaean
+capital = "Sozak"
+trade_goods = salt
+base_tax = 1
+manpower = 1
+hre = no
+citysize = 3210
+add_core = SOG
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+fort1 = yes

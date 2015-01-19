@@ -110,7 +110,6 @@ CRO	= "countries/Croatia.txt" #recycled from strawberry
 GAU = "countries/Goths.txt" 
 MON	= "countries/Montenegro.txt" #recycled from peanuts
 HIS = "countries/Histri.txt"
-DAC = "countries/Dacia.txt"
 
 #Levant
 ANT = "countries/Antioch.txt"
@@ -156,6 +155,7 @@ MRG = "countries/Margiana.txt"
 OGH = "countries/Oghuz.txt"
 SMK = "countries/Marakanda.txt"
 SOG = "countries/Sogdiana.txt"
+UYG = "countries/Uyghur.txt"
 
 FER = "countries/Ferghana.txt"
 BAC = "countries/Bactria.txt"
