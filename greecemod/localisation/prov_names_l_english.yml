@@ -708,10 +708,10 @@
  PROV707: "Yumen"
  PROV708: "Zhangye"
  PROV709: "Alxa"
- PROV710: "Hotan"
- PROV711: "Qarqan"
- PROV712: "Aksu"
- PROV713: "Bechbaliq"
+ PROV710: "Hotan" #done
+ PROV711: "Qarqan" #done
+ PROV712: "Tumshuk" #done
+ PROV713: "Turfan" #done
  PROV714: "Hoboksar"
  PROV715: "Urumqi"
  PROV716: "Tannu Uriankhai"
@@ -2189,7 +2189,7 @@
  PROV2189: "Tsetserleg"
  PROV2190: "Qaraqorum"
  PROV2191: "Ejin"
- PROV2192: "Korla"
+ PROV2192: "Karashar" #don3
  PROV2193: "Govi"
  PROV2194: "Kunlun"
  PROV2195: "Adyghe"

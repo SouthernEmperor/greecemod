@@ -1,0 +1,17 @@
+#711 - Qarqan
+
+owner = QRQ
+controller = QRQ
+add_core = QRQ
+culture = tocharian
+religion = manichaean
+capital = "Qarqan"
+trade_goods = wool
+hre = no
+base_tax = 1
+manpower = 2
+fort1 = yes
+marketplace = yes
+citysize = 5670
+discovered_by = chinese
+discovered_by = nomad_group

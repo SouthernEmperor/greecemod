@@ -1,0 +1,16 @@
+#713 - Kuruk Tag
+
+owner = TRF
+controller = TRF
+add_core = TRF
+culture = tocharian
+religion = manichaean
+capital = "Turfan"
+trade_goods = salt
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 6580
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

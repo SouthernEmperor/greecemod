@@ -1,0 +1,6 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = tocharian
+religion = manichaean
+technology_group = chinese
+capital = 2121

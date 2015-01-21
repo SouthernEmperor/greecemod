@@ -1,0 +1,17 @@
+#710 - Hotan
+
+owner = HOT
+controller = HOT
+add_core = HOT
+culture = tocharian
+religion = manichaean
+capital = "Hotan"
+trade_goods = cloth
+hre = no
+base_tax = 2
+manpower = 3
+citysize = 8100
+fort1 = yes
+marketplace = yes
+discovered_by = chinese
+discovered_by = nomad_group

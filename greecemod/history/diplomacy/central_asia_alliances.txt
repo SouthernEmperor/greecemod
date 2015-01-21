@@ -5,3 +5,11 @@ vassal = {
 	start_date = 1444.1.1
 	end_date = 1821.1.1
 }
+
+#Kashgar and Khotan
+vassal = {
+	first = KSG
+	second = HOT
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}

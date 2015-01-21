@@ -163,6 +163,12 @@ GED = "countries/Gedrosia.txt"
 ARC = "countries/Arachosia.txt"
 ARI = "countries/Ariaspi.txt"
 
+HOT = "countries/Khotan.txt"
+KCH = "countries/Kucha.txt"
+KSG = "countries/Kashgar.txt"
+QRQ = "countries/Qarqan.txt"
+TRF = "countries/Turfan.txt"
+
 #East and South Africa
 MSY = "countries/Mosyllum.txt"
 IRA = "countries/Raphta.txt"
