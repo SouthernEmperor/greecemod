@@ -257,6 +257,12 @@ PDY = "countries/Pandya.txt"
 #Reusland
 YAV = "countries/Yavadvipa.txt"
 
+#Tibet
+TIB	= "countries/Tibet.txt"
+UTS = "countries/Utsang.txt"
+KAM = "countries/Mdokhams.txt"
+GUG = "countries/Guge.txt"
+
 #Chinese "Shogunate"
 CHX = "countries/Huaxia.txt"
 CGO = "countries/Gao.txt"
@@ -545,7 +551,6 @@ SST	= "countries/Shan.txt"
 SUK	= "countries/Sukhothai.txt"
 SUL	= "countries/Sulu.txt"
 TAU	= "countries/Taungu.txt"
-TIB	= "countries/Tibet.txt"
 TOK	= "countries/Tonkin.txt"
 VIE	= "countries/Vientiane.txt"
 CZH = "countries/Zhou.txt"
@@ -569,9 +574,6 @@ CHH = "countries/Chahar.txt"
 #Great Tibet tags
 KSD = "countries/Khoshuud.txt"
 SYG = "countries/Sarigyogir.txt"
-UTS = "countries/Utsang.txt"
-KAM = "countries/Mdokhams.txt"
-GUG = "countries/Guge.txt"
 
 #Non-Han China proper tags
 CDL = "countries/Dali.txt"

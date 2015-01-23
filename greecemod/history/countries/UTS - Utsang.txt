@@ -1,0 +1,13 @@
+cottagovernment = despotic_monarchy
+#aristocracy_plutocracy = 0
+#centralization_decentralization = 5
+#innovative_narrowminded = 1
+mercantilism = 0.2
+#offensive_defensive = 3
+#land_naval = -2
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+primary_culture = tibetan
+religion = sarvastivada
+technology_group = chinese
+capital = 677 # Lhasa

@@ -1264,7 +1264,7 @@ thai = {
 	}
 }
 
-burman= { 
+tibetoburman= { 
 	graphical_culture = asiangfx
 
 	burmese = {
@@ -1275,6 +1275,8 @@ burman= {
 	}
 	tibetan = {
 		primary = UTS
+	}
+	qiang = {
 	}
 	nepali = {
 		primary = NPL
