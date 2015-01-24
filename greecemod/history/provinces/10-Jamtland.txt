@@ -2,7 +2,7 @@
 
 owner = SWE
 controller = SWE
-culture = sweedish # They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
+culture = swedish # They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
 religion = norse_pagan
 hre = no
 base_tax = 1

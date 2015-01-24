@@ -3,7 +3,7 @@
 owner = MAN
 controller = MAN
 culture = komi
-religion = finnish_pagagan
+religion = finnish_pagan
 capital = "Bashkort"
 trade_goods = wool
 hre = no

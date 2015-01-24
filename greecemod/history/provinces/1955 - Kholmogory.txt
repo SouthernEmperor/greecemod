@@ -2,8 +2,8 @@
 
 owner = HOL
 controller = HOL  
-culture = swedish
-religion = norse_pagan
+culture = vespian
+religion = finnish_pagan
 hre = no
 base_tax = 2
 trade_goods = fur  
