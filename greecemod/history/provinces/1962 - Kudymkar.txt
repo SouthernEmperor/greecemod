@@ -1,0 +1,16 @@
+#Kudymkar
+
+owner = KOM
+controller = KOM
+capital = "Kudymkar"
+culture = komi
+religion = finnish_pagan
+trade_goods = fur
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 1000
+add_core = KOM
+discovered_by = western
+discovered_by = eastern
+discovered_by = nomad_group

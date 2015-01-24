@@ -1,0 +1,15 @@
+#2441 - Iglino
+
+owner = MAN
+controller = MAN
+capital = "Iglino"
+culture = mansi
+religion = finnish_pagan
+trade_goods = fur
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 1840
+add_core = MAN
+discovered_by = nomad_group
+unrest = 15

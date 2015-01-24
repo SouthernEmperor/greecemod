@@ -1,0 +1,16 @@
+#1074 - Sibir
+
+owner = MAN
+controller = MAN
+culture = mansi
+religion = finnish_pagan
+capital = "Qashliq"
+trade_goods = fur
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 2900
+fort1 = yes
+add_core = MAN
+discovered_by = nomad_group
+revolt_risk = 15

@@ -1,0 +1,18 @@
+#1966 - Chelyaba
+
+owner = MAN
+controller = MAN
+capital = "Chelyaba"
+culture = slavic
+religion = orthodox
+trade_goods = fur
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 1840
+add_core = MAN
+add_core = SLA
+discovered_by = nomad_group
+discovered_by = muslim
+fort1 = yes
+unrest = 15

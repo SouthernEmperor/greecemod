@@ -1,17 +1,17 @@
-#1778 - Kasimov
+#Galich
 
-owner = GLI
-controller = GLI
+owner = KOM
+controller = KOM
+capital = "Galich"
 culture = komi
 religion = finnish_pagan
+trade_goods = fur
 hre = no
-base_tax = 4
-trade_goods = wool
-manpower = 5
-capital = "Novy Nizovoy"
-citysize = 2000
+base_tax = 2
+manpower = 2
+citysize = 1040
 fort1 = yes
-add_core = GLI
+add_core = KOM
 discovered_by = eastern
 discovered_by = western
 discovered_by = GOL

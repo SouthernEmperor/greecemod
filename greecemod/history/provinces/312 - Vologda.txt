@@ -1,0 +1,17 @@
+#312 - Beloozero
+
+owner = HOL
+controller = HOL
+culture = swedish
+religion = norse_pagan
+hre = no
+base_tax = 4
+trade_goods = naval_supplies  
+manpower = 3
+capital = "Beloozero"
+citysize = 3100
+fort1 = yes 
+add_core = HOL
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group

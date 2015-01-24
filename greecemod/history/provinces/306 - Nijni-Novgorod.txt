@@ -1,17 +1,19 @@
-#Suzdal
+#306 - Nijni-Novgorod
 
-owner = GLI
-controller = GLI
+owner = KOM
+controller = KOM
 culture = komi
 religion = finnish_pagan
 hre = no
-base_tax = 3
+base_tax = 5
 trade_goods = grain    
 manpower = 3
-capital = "Suzdal"
+capital = "Nizhny Novgorod"
 citysize = 6700
 fort1 = yes
-add_core = GLI
+add_core = KOM
+discovered_by = GOL
+discovered_by = KAZ
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group

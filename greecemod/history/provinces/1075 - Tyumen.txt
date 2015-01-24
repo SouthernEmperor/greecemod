@@ -1,0 +1,16 @@
+#1075 - Tyumen
+
+owner = MAN
+controller = MAN
+capital = "Chimgi-Tura"
+culture = mansi
+religion = finnish_pagan
+trade_goods = fur
+hre = no
+base_tax = 4
+manpower = 4
+fort1 = yes
+citysize = 1270
+add_core = MAN
+discovered_by = nomad_group
+revolt_risk = 15

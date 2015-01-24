@@ -1,0 +1,16 @@
+#Kargopol
+
+owner = HOL
+controller = HOL   
+culture = vespian
+religion = finnish_pagan
+hre = no
+base_tax = 2
+trade_goods = naval_supplies
+manpower = 1
+capital = "Kargopol"
+citysize = 2000
+add_core = HOL
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group

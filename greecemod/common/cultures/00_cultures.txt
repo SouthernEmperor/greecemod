@@ -253,6 +253,12 @@ finno_ugric = {
 	
 	moksha = {
 	}
+	komi = {
+	}
+	vespian = {
+	}
+	mansi = {
+	}
 }
 
 hephthalite = {
@@ -265,6 +271,12 @@ hephthalite = {
 		primary = GED
 	}
 }
+
+slavs = {
+	graphical_culture = easterngfx
+
+	slavic = {
+	}
 	
 south_slavic = {
 	graphical_culture = easterngfx

@@ -1,0 +1,16 @@
+#1076 - Kurgan
+
+owner = MAN
+controller = MAN
+capital = "Kurgan"
+culture = mansi
+religion = finnish_pagan
+trade_goods = fur
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 1840
+add_core = mansi
+discovered_by = nomad_group
+fort1 = yes
+revolt_risk = 15

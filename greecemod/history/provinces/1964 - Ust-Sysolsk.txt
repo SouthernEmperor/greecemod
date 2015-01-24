@@ -1,0 +1,16 @@
+#Ust-Sysolsk
+
+owner = KOM
+controller = KOM
+culture = komi
+religion = finnish_pagan
+hre = no
+base_tax = 1
+trade_goods = fur
+manpower = 1
+capital = "Ust-Sysola"
+citysize = 1000
+add_core = KOM
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group

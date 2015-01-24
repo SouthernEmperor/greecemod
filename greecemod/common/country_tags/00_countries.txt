@@ -29,6 +29,11 @@ KHZ = "countries/Khazar.txt"
 ROX = "countries/Roxolani.txt"
 CMN = "countries/Cuman.txt"
 PEC = "countries/Pechenegs.txt"
+HOL = "countries/Holmguard.txt"
+KOM = "countries/Komi.txt"
+MOK = "countries/Moksha.txt"
+SLA = "countries/Slavia.txt"
+MAN = "countries/Mansi.txt"
 
 #Iberia
 CIT = "countries/Citerior.txt"

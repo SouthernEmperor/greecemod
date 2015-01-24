@@ -3,4 +3,4 @@ mercantilism = 0.1
 primary_culture = komi
 religion = finnish_pagan
 technology_group = eastern
-capital = 1963	# Cherdyn
+capital = 306	# nintzy novgorod
