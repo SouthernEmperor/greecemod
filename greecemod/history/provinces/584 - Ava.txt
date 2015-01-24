@@ -1,0 +1,16 @@
+#584 - Ava
+
+owner = KSE
+controller = KSE
+culture = pyu
+religion = hinduism
+capital = "Ava"
+trade_goods = ivory
+hre = no
+base_tax = 6
+manpower = 4
+fort1 = yes
+citysize = 4200
+add_core = KSE
+discovered_by = chinese
+discovered_by = indian

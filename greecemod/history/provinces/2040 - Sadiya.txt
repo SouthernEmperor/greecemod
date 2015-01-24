@@ -2,7 +2,7 @@
 
 owner = KMA
 controller = KMA
-culture = tai_pong
+culture = tai_luang
 religion = eastern_hellenic
 capital = "Lauhiti"
 trade_goods = tea

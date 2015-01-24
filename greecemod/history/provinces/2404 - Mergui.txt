@@ -1,0 +1,18 @@
+#2404 - Mergui
+
+owner = KSE
+controller = KSE
+culture = mon
+religion = hinduism
+capital = "Mergui"
+trade_goods = chinaware
+hre = no
+base_tax = 4
+manpower = 2
+fort1 = yes
+citysize = 4000
+add_core = KSE
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

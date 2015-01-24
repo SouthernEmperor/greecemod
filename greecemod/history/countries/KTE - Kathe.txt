@@ -1,0 +1,18 @@
+government = tribal_kingdom
+mercantilism = 0.1
+primary_culture = tai_pong
+religion = animism
+technology_group = indian
+capital = 2041
+
+
+1440.1.1 = {
+	monarch = {
+		name = "Chingkhong Lamgai"
+		dynasty = "Ngamba"
+		birth_date = 1390.5.5
+		ADM = 5
+		DIP = 4
+		MIL = 2
+	}
+}

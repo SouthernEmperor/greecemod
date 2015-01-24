@@ -1,0 +1,17 @@
+#2399 - Pagan
+
+owner = KSE
+controller = KSE
+culture = pyu
+religion = hinduism
+capital = "Pagan"
+trade_goods = tropical_wood
+hre = no
+base_tax = 4
+manpower = 3
+fort1 = yes
+citysize = 6200
+add_core = KSE
+discovered_by = chinese
+discovered_by = indian
+temple = yes

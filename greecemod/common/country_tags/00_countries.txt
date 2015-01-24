@@ -232,8 +232,11 @@ BOF = "countries/Anga.txt"
 GAN = "countries/Gangaridai.txt"
 KAL = "countries/Kalinga.txt"
 KMA = "countries/Kamarupa.txt"
+KTE = "countries/Kathe.txt"
 MGH = "countries/Magadha.txt"
+MIZ = "countries/Mizoram.txt"
 PNR = "countries/Pundra.txt"
+POG = "countries/Pong.txt"
 SUH = "countries/Suhma.txt"
 VNG = "countries/Vanga.txt"
 
@@ -253,6 +256,9 @@ COA = "countries/Chola.txt"
 KER = "countries/Kerala.txt"
 KRN = "countries/Karnataka.txt"
 PDY = "countries/Pandya.txt"
+
+#Burma
+KSE = "countries/Ksetra.txt"
 
 #Reusland
 YAV = "countries/Yavadvipa.txt"

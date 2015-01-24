@@ -1,0 +1,17 @@
+#573 - Cachar
+
+owner = MIZ
+controller = MIZ
+culture = sein
+religion = eastern_hellenic
+capital = "Maibang"
+trade_goods = grain
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 1000
+fort1 = yes
+add_core = MIZ
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese

@@ -1,0 +1,17 @@
+government = tribal_kingdom
+mercantilism = 0.1
+primary_culture = tai_pong
+religion = animism
+technology_group = indian
+capital = 570
+
+1440.1.1 = {
+	monarch = {
+		name = "Chukapha"
+		dynasty = "Aham"
+		birth_date = 1409.12.12
+		ADM = 3
+		DIP = 2
+		MIL = 3
+	}
+}

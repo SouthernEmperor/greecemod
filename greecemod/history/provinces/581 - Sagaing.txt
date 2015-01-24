@@ -1,0 +1,17 @@
+#581 - Sagaing
+
+owner = KSE
+controller = KSE
+culture = pyu
+religion = hinduism
+capital = "Sagaing"
+trade_goods = cotton
+hre = no
+base_tax = 5
+manpower = 4
+fort1 = yes
+citysize = 6200
+add_core = KSE
+discovered_by = chinese
+discovered_by = indian
+temple = yes

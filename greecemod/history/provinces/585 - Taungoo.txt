@@ -1,0 +1,16 @@
+#585 - Toungoo
+
+owner = KSE
+controller = KSE
+culture = pyu
+religion = hinduism
+capital = "Sri Ksetra"
+trade_goods = chinaware
+hre = no
+base_tax = 5
+manpower = 4
+fort1 = yes
+citysize = 17487
+add_core = KSE
+discovered_by = chinese
+discovered_by = indian

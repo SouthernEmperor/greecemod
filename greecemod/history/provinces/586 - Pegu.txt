@@ -1,0 +1,18 @@
+#586 - Pegu
+
+owner = KSE
+controller = KSE
+culture = pyu
+religion = hinduism
+capital = "Pegu"
+trade_goods = spices
+hre = no
+base_tax = 5
+manpower = 3
+fort1 = yes
+citysize = 40200
+add_core = KSE
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

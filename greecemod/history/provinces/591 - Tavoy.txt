@@ -1,0 +1,18 @@
+#591 - Tavoy
+
+owner = KSE
+controller = KSE
+culture = mon
+religion = hinduism
+capital = "Tavoy"
+trade_goods = tropical_wood
+hre = no
+base_tax = 4
+manpower = 2
+fort1 = yes
+citysize = 4000
+add_core = KSE
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

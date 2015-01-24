@@ -1267,11 +1267,11 @@ thai = {
 tibetoburman= { 
 	graphical_culture = asiangfx
 
-	burmese = {
-		primary = TAU
-		dynasty_names = {
-			Taungu Ava Pagan Prome "Myede Mong" Sagaing Kyaukse Pinya Myinsaing Konbaung
-		}
+	sein = {
+	}
+	pyu = {
+	}
+	nuosu = {
 	}
 	tibetan = {
 		primary = UTS
@@ -1282,6 +1282,15 @@ tibetoburman= {
 		primary = NPL
 		dynasty_names = {
 			"Malla" "Ghorka"
+		}
+	}
+}
+
+burman = {
+	burmese = {
+		primary = TAU
+		dynasty_names = {
+			Taungu Ava Pagan Prome "Myede Mong" Sagaing Kyaukse Pinya Myinsaing Konbaung
 		}
 	}
 	chin = {
@@ -1340,6 +1349,12 @@ pacific = {
 tai = {
 	tai_pong = {
 		primary = KMA
+	}
+	tai_luang = {
+	}
+	tai_noi = {
+	}
+	tai_rau = {
 	}
 }
 
