@@ -1,0 +1,28 @@
+#850 - Tlaxcala
+
+owner = NMO
+controller = NMO
+culture = western_olmec
+religion = animism
+capital = "Tlaxcala"
+trade_goods = sugar
+hre = no 
+base_tax = 4
+manpower = 1
+citysize = 1100
+add_core = NMO
+discovered_by = mesoamerican
+
+1450.1.1  = { citysize = 1350 }
+1500.1.1  = { citysize = 1564 }
+1519.1.1  = { discovered_by = SPA } # Hernán Cortés
+1520.1.1  = { owner = SPA controller = SPA add_core = SPA remove_core = TLX} #Form a strong and long-lasting alliance with Spain
+1525.1.1  = { religion = catholic } #Dominican friars arrive, but Tlaxcala largely retain its own government under Spanish rule & protection (protectorate in-game)
+1550.1.1  = { citysize = 2940 }
+1600.1.1  = { citysize = 3555 }
+1650.1.1  = { citysize = 3780 }
+1700.1.1  = { citysize = 4470 }
+1750.1.1  = { citysize = 5008 }
+1800.1.1  = { citysize = 6500 }
+1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1812.8.10 = { controller = MEX } # Conquered by José María Morelos

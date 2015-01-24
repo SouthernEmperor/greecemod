@@ -1,0 +1,35 @@
+#853 - Huastec
+
+owner = NMO
+controller = NMO
+add_core = NMO
+culture = western_ olmec
+religion = animism 
+capital = "Huastec" 
+trade_goods = gold 
+hre = no 
+base_tax = 3
+manpower = 1 
+citysize = 2000
+discovered_by = AZT
+discovered_by = MAY
+discovered_by = ZAP
+discovered_by = mesoamerican
+
+1450.1.1  = { citysize = 2500 }
+1500.1.1  = { citysize = 2850 }
+1519.1.1  = { discovered_by = SPA } 
+1521.8.13 = {	owner = SPA 
+		controller = SPA 
+		citysize = 6580
+		religion = catholic
+		culture = castillian
+	    } # The last Aztec emperor surrendered, end of the Aztec Empire
+1546.1.1  = { add_core = SPA } 
+1600.1.1  = { citysize = 4750 } 
+1650.1.1  = { citysize = 5640 } 
+1700.1.1  = { citysize = 6877 } 
+1750.1.1  = { citysize = 7100 } 
+1800.1.1  = { citysize = 8230 }
+1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1812.8.10 = { controller = MEX } # Conquered by José María Morelos

@@ -253,12 +253,6 @@ finno_ugric = {
 	
 	moksha = {
 	}
-	komi = {
-	}
-	vespian = {
-	}
-	mansi = {
-	}
 }
 
 hephthalite = {
@@ -271,12 +265,6 @@ hephthalite = {
 		primary = GED
 	}
 }
-
-slavs = {
-	graphical_culture = easterngfx
-
-	slavic = {
-	}
 	
 south_slavic = {
 	graphical_culture = easterngfx
@@ -707,52 +695,65 @@ jushen = {
 	}
 }
 	
-central_american = {
-	graphical_culture = southamericagfx
 
-	tecos = {
+insular_carib = {
+	graphical_culture = southamericagfx
+	
+	boriken = {
+		primary = BOR
 	}
-	aztek = {
-		primary = AZT
+	coba = {
+		primary = COB
 	}
-	purepecha = {
-		primary = TAR
-	}
-	totonac = {
-		primary = TOT
-	}
-	chichimecan = {
+	guaney = {
+		primary = CAJ
 	}
 }
-
-maya = {
+tainomaya = {
 	graphical_culture = southamericagfx
-
-	yucatec = {
-		primary = XIU
+	
+	floridan = {
 	}
-	putun = {
-		primary = ITZ
+	kuna = {
 	}
-	mayan = {
-		primary = MAY
-	} 
-	highland_mayan = {
+	yucatan = {
 	}
-} 
-
-otomanguean = {
+	jamayca = {
+	}
+	
+}
+mexica = {
 	graphical_culture = southamericagfx
-	zapotek = {
-		primary = ZAP
+	nahuatl = {
 	}
-	mixtec = {
-		primary = MIX
+	cahita = {
 	}
-	tlapanec = {
-		primary = TLA
+	cochimi = {
+	}
+	chichimec = {
+	}
+	acaxee = {
 	}
 }
+olmec = {
+	graphical_culture = southamericagfx
+	western_olmec = {
+	}
+	yucatan_olmec = {
+	}
+	tarascan = {
+	}
+	huetamo = {
+	}
+}
+mayan = {
+	graphical_culture = southamericagfx
+	yucatan_maya = {
+	}
+	mosquitan = {
+	}
+	central_maya = {
+	}
 
 
 andean_group = {

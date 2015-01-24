@@ -1,0 +1,26 @@
+# No previous file for Tehuantepec
+
+culture = yucatan_olmec
+owner = CUI
+controller = CUI
+add_core = CUI
+is_city = yes
+religion = animism
+capital = "Tehuantepec"
+trade_goods = cocoa
+hre = no
+base_tax = 2
+manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = mesoamerican
+
+1524.1.1   = {	discovered_by = SPA 
+		owner = SPA 
+		controller = SPA }
+1529.1.1   = {	culture = castillian
+		religion = catholic
+	     } # First settlers
+1549.1.1   = { add_core = SPA }
+1810.9.16  = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence

@@ -1,0 +1,24 @@
+# No previous file for Guamares
+
+culture = western_olmec
+religion = animism
+capital = "Guamares"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+owner = NMO
+controller = NMO
+add_core = NMO
+discovered_by = mesoamerican
+
+1548.1.1   = {	discovered_by = SPA 
+		owner = SPA 
+		controller = SPA 
+		citysize = 500 
+		culture = castillian
+		capital = "Guanajuato"
+		religion = catholic }
+1558.1.1   = {	citysize = 1500 } # Estimated
+1573.1.1   = { add_core = SPA }
+1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence

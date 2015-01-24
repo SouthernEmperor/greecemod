@@ -1,0 +1,34 @@
+#848 - Tohancapan
+
+owner = ZOT
+controller = ZOT
+culture = western_olmec
+religion = animism
+capital = "Tohancapan"
+trade_goods = sugar
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1670
+add_core = ZOT
+discovered_by = mesoamerican
+
+1450.1.1 = { 	owner = AZT
+		controller = AZT } #Moctezuma I expand the empire along the coast
+1500.1.1  = { add_core = AZT }
+1519.3.13 = { discovered_by = SPA } # Hernán Cortés
+1521.8.13  = {	owner = SPA
+		controller = SPA
+		citysize = 2150
+		culture = castillian
+		religion = catholic
+	    } # Fall of Tenochtitlan
+1546.1.1  = { add_core = SPA }
+1550.1.1  = { citysize = 2546 }
+1600.1.1  = { citysize = 3187 }
+1636.1.1  = { fort1 = yes }
+1650.1.1  = { citysize = 3650 }
+1700.1.1  = { citysize = 4360 }
+1750.1.1  = { citysize = 4860 }
+1800.1.1  = { citysize = 5640 }
+1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence

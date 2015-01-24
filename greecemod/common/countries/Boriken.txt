@@ -1,0 +1,56 @@
+#Country Name: Please see filename.
+
+graphical_culture = southamericagfx
+
+color = { 63 71 56 }
+
+historical_idea_groups = {
+	religious_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+}
+
+historical_units = {
+	mesoamerican_spearmen
+	central_american_horsemen
+	maya_tribal_warfare
+	maya_forest_warfare
+	maya_gunpowder_warfare
+	westernized_mayan
+	maya_guerilla_warfare
+}
+
+leader_names = {
+}
+
+monarch_names = {
+	"Abey #0" = 10
+	"Acanorex #0" = 10
+	"Agueybana #1" = 20
+	"Amanex #0" = 10
+	"Aramana #0" = 10
+	"Arasibo #0" = 10
+	"Aymamon #0" = 10
+	"Bojekio #0" = 10
+	"Cacicana #0" = 10
+	"Caguax #0" = 20
+	"Cayacoa #0" = 10
+	"Guarocuya #0" = 10
+	"Guacanagarix #0" = 10
+	"Habaguanex #0" = 25
+	"Mayobanex #0" = 10
+	"Mayneri #0" = 10
+	"Yuquibo #0" = 10
+	
+	"Anacaona #0" = -10
+	"Yuisa #0" - 10
+}
+
+ship_names = {
+	Tuna Wokyry Urapa Areku Irupa Tuna Wypy Konopo Pepeito Wewe Wajamaka Pawu Topu Oma
+}

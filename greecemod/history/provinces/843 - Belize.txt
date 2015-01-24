@@ -1,0 +1,39 @@
+#843 - Belize
+
+owner = BEL
+controller = BEL
+culture = yucatan_olmec
+religion = animism 
+capital = "Belize" 
+trade_goods = sugar 
+hre = no 
+base_tax = 4 
+manpower = 1 
+citysize = 1500 
+add_core = BEL
+discovered_by = mesoamerican
+
+1450.1.1  = { citysize = 1900 }
+1500.1.1  = { citysize = 2400 }
+1502.1.1  = { discovered_by = CAS } # Christopher Columbus, no attempt to colonize
+1516.1.23 = { discovered_by = SPA }
+1550.1.1  = { citysize = 3800 }
+1600.1.1  = { citysize = 4100 }
+1638.1.1  = {	owner = ENG
+		controller = ENG
+		culture = english
+		religion = protestant
+		citysize = 4340 
+	    } # British privateers settled in the area 
+1650.1.1  = { citysize = 4750 capital = "Belize town" }
+1663.1.1  = { add_core = ENG }
+1700.1.1  = { citysize = 5190 }
+1707.5.12  = {
+	discovered_by = GBR
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = ENG
+}
+1750.1.1  = { citysize = 5860 }
+1800.1.1  = { citysize = 6500 } 

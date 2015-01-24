@@ -14,3 +14,40 @@ panic_republic = {
 	diplomatic_reputation = 1
 	global_spy_defence = 0.10
 	global_autonomy = -0.5
+}
+cacique = {
+	monarchy = yes
+	tribal = yes
+	
+	valid_for_new_country = yes
+	
+	ai_will_do = {
+		factor = 0
+	}
+
+	#bonus
+	core_creation = -0.1
+	
+	#malus
+	global_unrest = 1
+	#malus
+	diplomatic_upkeep = -1
+}
+olmec_council = {
+	republic = yes
+	
+	valid_for_new_country = yes
+	
+	duration = 8
+
+	republican_name = yes
+	
+	ai_will_do = {
+		factor = 0
+	}
+	ai_importance = 1
+
+	#bonus
+	land_morale = 0.2
+	global_autonomy = -0.05
+}

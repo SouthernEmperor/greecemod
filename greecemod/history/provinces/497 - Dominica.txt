@@ -1,0 +1,36 @@
+#497 - Dominica
+
+culture = boriken
+religion = animism
+capital = "Dominica"
+trade_goods = unknown 
+hre = no
+base_tax = 6
+manpower = 1
+native_size = 25
+native_ferocity = 2 
+native_hostileness = 4
+
+1493.11.3 = {	discovered_by = CAS } # Columbus names the island "Sunday" but doesn't settle it for fierce Carib resistance
+1516.1.23 = {	discovered_by = SPA }
+1715.1.1  = {	owner = FRA 
+		controller = FRA 
+		culture = cosmopolitan_french
+		religion = catholic 
+		trade_goods = dyes
+		citysize = 1100
+} # Colonized by France
+1761.11.1 = {	owner = GBR
+		controller = GBR
+		culture = english
+		religion = reformed
+	    } # The English took control at the end of the year
+1778.1.1  = {	owner = FRA
+		controller = FRA
+		religion = catholic
+		culture = cosmopolitan_french
+	    } # French attack, inspired by the American revolution
+1782.1.1  = { owner = GBR controller = GBR } # The Battle of the Saints, the French administration was over
+1785.1.1  = { unrest = 5 } # Escaped slaves were beginning to start revolts
+1800.1.1  = { citysize = 4700 } # Hurrican in 1779
+1807.1.1  = { add_core = GBR }

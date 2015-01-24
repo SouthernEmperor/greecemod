@@ -1,0 +1,41 @@
+#835 - Panama 
+
+culture = kuna
+discovered_by = south_american
+discovered_by = MCA
+religion = animism
+capital = "Panama"
+trade_goods = unknown
+hre = no
+base_tax = 5
+manpower = 1
+owner = KUN
+controller = KUN
+add_core = KUN
+
+1503.1.9   = { discovered_by = CAS } # Christopher Columbus's last voyage
+1509.1.1   = {	owner = CAS
+		controller = CAS
+	     	religion = catholic
+	     	culture = castillian
+		citysize = 560
+		trade_goods = naval_supplies
+	     } # Alonso de Ojeda established a settlement at Darien 
+1514.1.1   = {	is_city = yes
+	     } # about 1500 Spanish settlers arrives
+1516.1.23  = {	discovered_by = SPA
+		owner = SPA
+		controller = SPA
+	     }
+1530.1.1   = { marketplace = yes } # Panama became a marketplace for goods, contraband & slaves 
+1534.1.1   = { add_core = SPA }
+1600.1.1   = { fort1 = yes } # Fortified to prevent raids 
+1671.1.1   = { unrest = 7 } # Henry Morgan, believing England to still be at war with Spain took the city of Panama 
+1671.6.6   = { unrest = 0 } # Morgan is arrested and Panama returned to Spain 
+1739.11.22 = { controller = GBR } # Portobelo & Chagres are seized by the English 
+1742.1.1   = { controller = SPA } # Treaty of Aix-la-Chapelle, returned to Spain 
+1810.7.20  = {	owner = COL
+		controller = COL
+		add_core = COL
+	     } # Colombia declares independence
+1819.8.7   = { remove_core = SPA } # Colombia's independence is recongnized

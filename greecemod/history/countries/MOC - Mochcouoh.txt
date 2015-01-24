@@ -1,0 +1,17 @@
+government = olmec_council
+mercantilism = 0.1
+technology_group = mesoamerican
+religion = animism
+primary_culture = yucatan_olmec
+capital = 2635
+
+1444.1.1 = {
+	monarch = {
+		name = "Mochcouoh"
+		dynasty = "Mochcouoh"
+		birth_date = 1417.3.31
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+}

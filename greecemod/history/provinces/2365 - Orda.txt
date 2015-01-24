@@ -3,7 +3,7 @@
 owner = MOK
 controller = MOK
 culture = moksha
-religion = yavana
+religion = Yavana
 capital = "Orda"
 trade_goods = wool
 hre = no

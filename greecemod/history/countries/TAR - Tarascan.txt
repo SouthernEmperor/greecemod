@@ -1,0 +1,7 @@
+government = olmec_council
+mercantilism = 0.1
+primary_culture = tarascan
+religion = animism
+technology_group = mesoamerican
+capital = 2624
+

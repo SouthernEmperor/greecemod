@@ -2,7 +2,7 @@
 
 owner = GLI
 controller = GLI
-culture = komi
+culture = uralic
 religion = finnish_pagan
 hre = no
 base_tax = 3

@@ -1,0 +1,32 @@
+#844 - Zapotec
+
+owner = HUE
+controller = HUE
+culture = western_olmec
+religion = animism
+capital = "Zaachila"
+trade_goods = sugar
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 2500
+add_core = HUE
+discovered_by = mesoamerican
+
+1450.1.1  = { citysize = 2650 }
+1500.1.1  = { citysize = 2870 }
+1524.1.1   = {	discovered_by = SPA 
+		owner = SPA 
+		controller = SPA }
+1529.1.1   = {	capital = "Oaxaca"
+		culture = castillian
+		religion = catholic
+	     } # First settlers
+1549.1.1   = { add_core = SPA }
+1567.1.1  = { add_core = SPA }
+1600.1.1  = { citysize = 3978 }
+1650.1.1  = { citysize = 4244 }
+1700.1.1  = { citysize = 4810 }
+1750.1.1  = { citysize = 5564 }
+1800.1.1  = { citysize = 6200 }
+1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence

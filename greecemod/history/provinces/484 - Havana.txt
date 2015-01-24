@@ -1,0 +1,39 @@
+#484 - Havana
+
+culture = coba
+religion = animism
+capital = "Havana"
+trade_goods = unknown
+hre = no
+base_tax = 6
+manpower = 1
+owner = HAV
+controller = HAV
+add_core = HAV
+add_core = COB
+
+1492.10.24 = { discovered_by = CAS } # Christopher Columbus's arrival
+1515.1.1   = {	owner = CAS 
+		controller = CAS
+		culture = castillian
+		religion = catholic
+	   	citysize = 600
+		trade_goods = tobacco
+	     } # Founded by Diego Velázquez de Cuéllar
+1516.1.23  = {	discovered_by = SPA
+		owner = SPA
+		controller = SPA
+	     }
+1517.1.1   = { add_core = SPA }
+1522.1.1   = { unrest = 2 } # Guama lead a relatively small attack against the conquistadors 
+1532.1.1   = { unrest = 0 } # Guama is killed 
+1550.1.1   = { citysize = 3430 } 
+1600.1.1   = { citysize = 16190 }
+1650.1.1   = { citysize = 21370 } 
+1700.1.1   = { citysize = 24500 }
+1750.1.1   = { citysize = 29230 }
+1762.8.12  = { controller = GBR } # Seized by Great Britain in the Seven years' war 
+1763.1.1   = { citysize = 36400 } # Port opened to free trade, thousands of slaves was brought in 
+1763.2.10  = { controller = SPA } # Exchanged for Florida, made it the most heavily fortified city in the Americas 
+1770.1.1   = { tax_assessor = yes fort1 = yes }
+1800.1.1   = { citysize = 44000 fort2 = yes }
