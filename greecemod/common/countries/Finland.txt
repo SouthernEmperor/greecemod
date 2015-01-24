@@ -1,6 +1,6 @@
 #Finland
 
-graphical_culture = westerngfx
+graphical_culture = easterngfx
 
 color = { 146  134  77 }
 

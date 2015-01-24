@@ -1,0 +1,18 @@
+#303 - Saratow
+
+owner = MOK
+controller = MOK       
+culture = moksha
+religion = yavana
+hre = no
+base_tax = 3
+trade_goods = grain     
+manpower = 3
+capital = "Ukek"
+citysize = 4337
+add_core = MOK
+discovered_by = eastern
+discovered_by = western
+discovered_by = ottoman
+discovered_by = nomad_group
+fort1 = yes

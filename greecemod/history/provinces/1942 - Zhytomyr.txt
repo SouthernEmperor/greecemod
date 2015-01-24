@@ -3,7 +3,7 @@
 owner = ROX
 controller = ROX     
 culture = roxolani
-religion = yarvana
+religion = yavana
 hre = no
 base_tax = 3
 trade_goods = grain  

@@ -1,0 +1,8 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = slavic
+religion = orthodox
+technology_group = eastern
+historical_rival = NOV
+capital = 473 #Samara
+national_focus = ADM

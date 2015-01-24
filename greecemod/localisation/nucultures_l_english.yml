@@ -1,6 +1,8 @@
 ﻿#cultures should go here, I guess?
 
 l_english:
+ slavs: "Slavs"
+ slavic: "Slavic"
  roxolani: "Roxolani"
  cuman: "Tartar"
  galindian: "Galindian"
@@ -68,6 +70,9 @@ l_english:
  medean: "Medean"
  kushan: "Kushan"
  moksha: "Moksha"
+ komi: "Komi"
+ vespian: "Vespian"
+ mansi: "Mansi"
  avar: "Avar"
  oghuz: "Oghuz"
  jushen: "Jushen"
