@@ -290,9 +290,14 @@ KER = "countries/Kerala.txt"
 KRN = "countries/Karnataka.txt"
 PDY = "countries/Pandya.txt"
 
-#Burma
+#Mainland SE Asia
+CHA	= "countries/Champa.txt"
+KEN = "countries/Kengtung.txt"
+KHM	= "countries/Khmer.txt"
 KSE = "countries/Ksetra.txt"
 LNG = "countries/Luang.txt"
+MGL = "countries/Manglon.txt"
+YAI = "countries/Yai.txt"
 
 #Reusland
 YAV = "countries/Yavadvipa.txt"
@@ -540,7 +545,6 @@ AYU	= "countries/Ayutthaya.txt"
 BLI	= "countries/Bali.txt"
 BAN	= "countries/Banten.txt"
 BEI	= "countries/Brunei.txt"
-CHA	= "countries/Champa.txt"
 CHG	= "countries/ChagataiKhanate.txt"
 CHK	= "countries/Champassak.txt"
 DAI	= "countries/DaiViet.txt"
@@ -571,7 +575,6 @@ YMN = "countries/Yamana.txt"
 ANU = "countries/Ainu.txt"
 
 KHA	= "countries/MongolKhanate.txt"
-KHM	= "countries/Khmer.txt"
 KOR	= "countries/Korea.txt"
 LNA	= "countries/LanNa.txt"
 LUA	= "countries/LuangPrabang.txt"

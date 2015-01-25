@@ -1,0 +1,16 @@
+#588 - Mong Nai
+
+owner = KEN
+controller = KEN
+culture = tai_noi
+religion = hinduism
+capital = "Mong Nai"
+trade_goods = cotton
+hre = no
+base_tax = 3
+manpower = 2
+fort1 = yes
+citysize = 6700
+add_core = KEN
+discovered_by = chinese
+discovered_by = indian

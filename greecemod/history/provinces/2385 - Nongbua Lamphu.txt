@@ -1,0 +1,16 @@
+#2385 - Nongbua Lamphu
+
+owner = KHM
+controller = KHM
+culture = tai_noi
+religion = hinduism
+capital = "Nongbua Lamphu"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 2
+fort1 = yes
+citysize = 4900
+add_core = KHM
+discovered_by = chinese
+discovered_by = indian

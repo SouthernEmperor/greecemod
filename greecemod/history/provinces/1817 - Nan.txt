@@ -1,0 +1,16 @@
+#1817 - Nan
+
+owner = YAI
+controller = YAI
+culture = tai_noi
+religion = hinduism
+capital = "Nan"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 2
+fort1 = yes
+citysize = 5000
+add_core = YAI
+discovered_by = chinese
+discovered_by = indian

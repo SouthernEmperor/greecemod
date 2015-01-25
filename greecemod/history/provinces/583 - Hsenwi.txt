@@ -1,0 +1,16 @@
+#583 - Hsenwi
+
+owner = MGL
+controller = MGL
+culture = tai_luang
+religion = hinduism
+capital = "Hsenwi"
+trade_goods = tropical_wood
+hre = no
+base_tax = 3
+manpower = 3
+fort1 = yes
+citysize = 4500
+add_core = MGL
+discovered_by = chinese
+discovered_by = indian

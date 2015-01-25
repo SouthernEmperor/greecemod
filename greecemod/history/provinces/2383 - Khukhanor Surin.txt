@@ -1,0 +1,16 @@
+#2383 - Khukhanor Surin
+
+owner = KHM
+controller = KHM
+culture = khmer
+religion = hinduism
+capital = "Khukhan"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 2
+fort1 = yes
+citysize = 4900
+add_core = KHM
+discovered_by = chinese
+discovered_by = indian

@@ -1,0 +1,16 @@
+#2400 - Hsipaw
+
+owner = MGL
+controller = MGL
+culture = tai_luang
+religion = hinduism
+capital = "Hsipaw"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 2
+fort1 = yes
+citysize = 6700
+add_core = MGL
+discovered_by = chinese
+discovered_by = indian

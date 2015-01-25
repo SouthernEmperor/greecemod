@@ -1,0 +1,16 @@
+#2382 - Savanh Nakhone
+
+owner = KHM
+controller = KHM
+culture = nam_yuet
+religion = shenist
+capital = "Luang Namtha"
+trade_goods = copper
+hre = no
+base_tax = 3
+manpower = 2
+fort1 = yes
+citysize = 4900
+add_core = KHM
+discovered_by = chinese
+discovered_by = indian

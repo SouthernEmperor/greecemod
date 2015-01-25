@@ -1,0 +1,16 @@
+#2401 - Mong Pai
+
+owner = KEN
+controller = KEN
+culture = tai_noi
+religion = hinduism
+capital = "Mong Pai"
+trade_goods = tropical_wood
+hre = no
+base_tax = 2
+manpower = 1
+fort1 = yes
+citysize = 3200
+add_core = KEN
+discovered_by = chinese
+discovered_by = indian

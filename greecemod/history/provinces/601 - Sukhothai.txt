@@ -1,0 +1,16 @@
+#601 - Sukhothai
+
+owner = YAI
+controller = YAI
+culture = tai_noi
+religion = hinduism
+capital = "Sukhothai"
+trade_goods = chinaware
+hre = no
+base_tax = 4
+manpower = 3
+citysize = 7870
+fort1 = yes
+add_core = YAI
+discovered_by = chinese
+discovered_by = indian

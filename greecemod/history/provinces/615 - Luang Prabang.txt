@@ -1,0 +1,16 @@
+#615 - Luang Prabang
+
+owner = YAI
+controller = YAI
+culture = nam_yuet
+religion = shenist
+capital = "Xieng Tong"
+trade_goods = chinaware
+hre = no
+base_tax = 4
+manpower = 3
+fort1 = yes
+citysize = 4900
+add_core = YAI
+discovered_by = chinese
+discovered_by = indian

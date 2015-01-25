@@ -1375,104 +1375,18 @@ tai = {
 		primary = LNG
 	}
 	tai_noi = {
+		primary = YAI
 	}
 	tai_rau = {
 	}
 }
 
-eastern_aryan = {
-	graphical_culture = indiangfx
-
-	assamese = {
-		primary = ASS
-		dynasty_names = {
-			"Khen" "Ahom" "Nagas" "Chutiyas" "Raikat" "Koch"
-		}
+bak_yuet = {
+	hmao = {
 	}
-	bengali = {
-		primary = BNG
-		dynasty_names = {
-			"Ilyas Shahi" "Ganesha" "Hussein Shahi"  "Najafi" "Afshari" "Nasiri" "Karrani"
-		}
+	min_yuet = {
 	}
-	bihari = {
-		primary = TRT
-		dynasty_names = {
-			"Sugauna" "Sharqi" "Suri" "Oinwara"
-		}
-	}
-	oriya = {
-		primary = ORI
-		dynasty_names = {
-			"Chindaka Naga" "Gajapati" "Eastern Ganga" "Bhoi" "Chagi" "Pusapati" "Bhanja"
-			"Chindaka-Naga" "Rathore" "Singha" "Gangavanshi" "Chauhan" "Kadamba" "Keshari"
-			"Silavamsi" "Gangabasi" "Sankara" "Parmar"
-		}
-	}
-	sinhala = {
-		primary = CEY
-		dynasty_names = {
-			"Kotteid" "Konnapu Bandara" "Gampolan" "Savulu"
-		}
-	}
-	
-}
-
-hindusthani = {
-	graphical_culture = indiangfx
-
-	avadhi = {
-		primary = ODH
-		dynasty_names = {
-			"ud Daula" "Awadhi" "Chand" "Bundela" "Malikzada" "Tomara" "Raghuvansi" "Parmari"
-		}
-	}
-	kanauji = {
-		primary = DLH
-		dynasty_names = {
-			"Tughluq" "Lodi" "Khilji"
-		}
-	}
-	
-}
-
-western_aryan = {
-	graphical_culture = indiangfx
-
-	gujarati = {
-		primary = GUJ
-		dynasty_names = {
-			"Muzaffarid" "Ahmad Shahi" "Vadher" "Babi" "Rawal" "Jadeja" "Gohil" "Jethwa"
-		}
-	}
-	marathi = {
-		primary = MAR
-		dynasty_names = {
-			"Bhonsle" "Gaikwar" "Bhat" "Sindhia" "Koli"
-		}
-	}
-	sindhi = {
-		primary = SND
-		dynasty_names = {
-			"Samma" "Kalhora" "Soomra"
-		}
-	}
-	rajput = {
-		primary = MER
-		dynasty_names = {
-			"Sisodiya" "Faruqi" "Rastraudha" "Solanki" "Khan Zada" "Kachwaha"
-
-			"Satnami" "Rathore" "Hada" "Holkar" "Qadirid" "Shaja'atid"
-			"Khalji" "Tomara" "Jadeja" "Khirwara" "Nauhwara" "Sinsiniwar" "Balhara"
-			"Panwara"
-		}
-
-	}
-	malvi = {
-		primary = MLW
-		dynasty_names = {
-			"Holkar" "Qadirid" "Shaja'atid" "Khalji"
-		}
+	nam_yuet = {
 	}
 }
 
@@ -1537,6 +1451,12 @@ dravidian = {
 		primary = RED
 		dynasty_names = {
 			"Aravidu" "Talpura" "Velama" "Saluva" "Tuluva" "Sangama" "Pemmasani" "Tupakula"
+		}
+	}
+	sinhala = {
+		primary = CEY
+		dynasty_names = {
+			"Kotteid" "Konnapu Bandara" "Gampolan" "Savulu"
 		}
 	}
 	

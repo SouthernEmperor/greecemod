@@ -1,0 +1,16 @@
+#2389 - Phra Bang
+
+owner = KHM
+controller = KHM
+culture = mon
+religion = hinduism
+capital = "Phra Bang"
+trade_goods = tropical_wood
+hre = no
+base_tax = 3
+manpower = 3
+fort1 = yes
+citysize = 7870
+add_core = KHM
+discovered_by = chinese
+discovered_by = indian

@@ -1,0 +1,16 @@
+#587 - Kengtung
+
+owner = KEN
+controller = KEN
+culture = tai_noi
+religion = hinduism
+capital = "Kengtung"
+trade_goods = tropical_wood
+hre = no
+base_tax = 3
+manpower = 2
+fort1 = yes
+citysize = 6700
+add_core = KEN
+discovered_by = chinese
+discovered_by = indian

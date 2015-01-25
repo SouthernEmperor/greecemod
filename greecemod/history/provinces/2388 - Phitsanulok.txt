@@ -1,0 +1,16 @@
+#2388 - Phitsanulok
+
+owner = KHM
+controller = KHM
+culture = tai_noi
+religion = hinduism
+capital = "Phitsanulok"
+trade_goods = grain
+hre = no
+base_tax = 4
+manpower = 3
+fort1 = yes
+citysize = 10350
+add_core = KHM
+discovered_by = chinese
+discovered_by = indian

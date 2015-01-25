@@ -1,0 +1,16 @@
+#608 - Champasak
+
+owner = KHM
+controller = KHM
+culture = khmer
+religion = hinduism
+capital = "Champasak"
+trade_goods = tea
+hre = no
+base_tax = 3
+manpower = 3
+fort1 = yes
+citysize = 4500
+add_core = KHM
+discovered_by = chinese
+discovered_by = indian

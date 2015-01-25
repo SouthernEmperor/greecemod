@@ -1,0 +1,39 @@
+government = despotic_monarchy 
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = tai_luang
+religion = hinduism
+capital = 583
+technology_group = indian
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Radzathu II"
+		dynasty = "Launggyet"
+		birth_date = 1402.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Thinggathu"
+		monarch_name = "Thinggathu"
+		dynasty = "Launggyet"
+		birth_date = 1435.1.1
+		death_Date = 1500.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}

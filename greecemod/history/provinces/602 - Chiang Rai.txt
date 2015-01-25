@@ -1,0 +1,16 @@
+#602 - Chiang Rai
+
+owner = YAI
+controller = YAI
+culture = tai_noi
+religion = hinduism
+capital = "Chiang Rai"
+trade_goods = grain 
+hre = no
+base_tax = 3
+manpower = 2
+fort1 = yes
+citysize = 22500
+add_core = YAI
+discovered_by = chinese
+discovered_by = indian

@@ -1,0 +1,16 @@
+#2384 - Nong Khai
+
+owner = KHM
+controller = KHM
+culture = khmer
+religion = hinduism
+capital = "Nong Khai"
+trade_goods = silk
+hre = no
+base_tax = 2
+manpower = 1
+fort1 = yes
+citysize = 4900
+add_core = KHM
+discovered_by = chinese
+discovered_by = indian

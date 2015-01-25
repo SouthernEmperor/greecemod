@@ -1,0 +1,33 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = indian
+religion = hinduism
+primary_culture = tai_noi
+capital = 587
+
+# Kengtung Dynasty (as representant)
+
+1444.1.1 = {
+	monarch = {
+		name = "Sao Hsam"
+		dynasty = "Kengtung"
+		birth_date = 1399.1.1
+		ADM = 2
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Sao Hsam Si-Li"
+		monarch_name = "Sao Hsam Si-Li"
+		dynasty = "Kengtung"
+		birth_date = 1410.1.1
+		death_date = 1456.1.1
+		claim = 95
+		ADM = 2
+		DIP = 3
+		MIL = 2
+	}
+}

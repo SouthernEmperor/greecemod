@@ -1,0 +1,38 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+technology_group = indian
+primary_culture = tai_noi
+religion = hinduism
+capital = 589
+
+1444.1.1 = {
+	monarch = {
+		name = "Samsenethai"
+		dynasty = "Khun Lo"
+		birth_date = 1392.1.1
+		dip = 2
+		adm = 1
+		mil = 0
+	}
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Lan Kham Deng"
+		monarch_name = "Lan Kham Deng"
+		dynasty = "Khun Lo"
+		birth_date = 1435.1.1
+		death_Date = 1500.1.1
+		claim = 95
+		dip = 1
+		adm = 3
+		mil = 2
+	}
+}
