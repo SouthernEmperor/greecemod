@@ -284,6 +284,7 @@ PDY = "countries/Pandya.txt"
 
 #Burma
 KSE = "countries/Ksetra.txt"
+LNG = "countries/Luang.txt"
 
 #Reusland
 YAV = "countries/Yavadvipa.txt"

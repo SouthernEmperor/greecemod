@@ -1,0 +1,16 @@
+#2396 - Mong Kawng
+
+owner = LNG
+controller = LNG
+culture = tai_luang
+religion = hinduism
+capital = "Mong Kawng"
+trade_goods = gold
+hre = no
+base_tax = 3
+manpower = 3
+fort1 = yes
+citysize = 5400
+add_core = LNG
+discovered_by = chinese
+discovered_by = indian

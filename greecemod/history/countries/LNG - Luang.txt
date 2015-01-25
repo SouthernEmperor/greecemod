@@ -1,0 +1,38 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 3
+#innovative_narrowminded = 2
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = 0
+#quality_quantity = 3
+#serfdom_freesubjects = -2
+primary_culture = tai_luang
+religion = hinduism
+technology_group = indian
+capital = 582
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Kin Kitsarat"
+		dynasty = "Prabang"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1444.1.1 = {
+	heir = {
+		name = "Ong Kham"
+		monarch_name = "Ong Kham"
+		dynasty = "Prabang"
+		birth_date = 1700.1.1
+		death_Date = 1723.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}

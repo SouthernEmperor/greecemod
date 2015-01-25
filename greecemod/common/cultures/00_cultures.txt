@@ -1364,6 +1364,7 @@ tai = {
 		primary = KMA
 	}
 	tai_luang = {
+		primary = LNG
 	}
 	tai_noi = {
 	}

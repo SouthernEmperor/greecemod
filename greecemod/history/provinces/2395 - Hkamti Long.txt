@@ -1,0 +1,16 @@
+#2395 - Hkamti Long
+
+owner = LNG
+controller = LNG
+culture = nuosu
+religion = shenist
+capital = "Hkamti Long"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+fort1 = yes
+citysize = 5400
+add_core = LNG
+discovered_by = chinese
+discovered_by = indian

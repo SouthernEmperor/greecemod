@@ -1,0 +1,16 @@
+#2397 - Tamanthi
+
+owner = LNG
+controller = LNG
+culture = tai_luang
+religion = hinduism
+capital = "Tamanthi"
+trade_goods = tea
+hre = no
+base_tax = 2
+manpower = 2
+fort1 = yes
+citysize = 5800
+add_core = LNG
+discovered_by = chinese
+discovered_by = indian
