@@ -39,6 +39,14 @@ west_germanic = {
 		primary = ALL
 	}
 }
+westmarker = {
+	graphical_culture = westerngfx
+	
+	vinlander = {
+	}
+	skraeling = {
+	}
+}
 
 north_germanic = {
 	graphical_culture = westerngfx

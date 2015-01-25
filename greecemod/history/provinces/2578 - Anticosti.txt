@@ -1,0 +1,29 @@
+# No previous file for Anticosti
+
+owner = VIN
+controller = VIN
+add_core = VIN
+culture = vinlander
+religion = norse_pagan
+capital = "Anticosti"
+trade_goods = unknown
+hre = no
+base_tax = 1
+manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1681.1.1  = {	owner = FRA
+		controller = FRA
+		citysize = 100
+		culture = cosmopolitan_french
+		religion = catholic
+	    }
+1706.1.1  = {	add_core = FRA }
+1707.5.12 = { discovered_by = GBR }
+1763.2.10  = { owner = GBR controller = GBR citysize = 500 trade_goods = fish }
+1788.2.10 = { add_core = GBR }
+1800.1.1  = { citysize = 700 }
+

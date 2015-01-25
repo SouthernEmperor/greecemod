@@ -5,6 +5,10 @@ NAT = "countries/Natives.txt"
 
 #Vinland
 ICE = "countries/Iceland.txt"
+MAH = "countries/Mahican.txt" #recycled
+MIK = "countries/Mikmaq.txt" #recycled
+ABE = "countries/Abenaki.txt" #recycled
+VIN = "countries/Vinland.txt"
 
 #Caribs and Mexico
 MAT = "countries/Matacumbe.txt"
@@ -690,7 +694,7 @@ KOJ = "countries/Jerusalem.txt"
 MSA = "countries/Malaya.txt"
 HIN = "countries/Hindustan.txt"
 
-ABE = "countries/Abenaki.txt"
+
 APA = "countries/Apache.txt"
 ASI = "countries/Assiniboine.txt"
 BLA = "countries/Blackfoot.txt"
@@ -702,8 +706,6 @@ COM = "countries/Comanche.txt"
 FOX = "countries/Fox.txt"
 ILL = "countries/Illinewek.txt"
 LEN = "countries/Lenape.txt"
-MAH = "countries/Mahican.txt"
-MIK = "countries/Mikmaq.txt"
 MMI = "countries/Miami.txt"
 NAH = "countries/Navajo.txt"
 OJI = "countries/Ojibwa.txt"

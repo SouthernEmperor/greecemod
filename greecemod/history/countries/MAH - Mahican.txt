@@ -1,0 +1,17 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = skraeling
+religion = norse_pagan
+technology_group = north_american
+capital = 969 # Pocumtuk
+
+
+1444.11.11 = {
+	monarch = {
+		name = "Chingachgook"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
