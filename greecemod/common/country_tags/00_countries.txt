@@ -25,6 +25,10 @@ TAR = "countries/Tarascan.txt"
 ZOT = "countries/Zotz.txt"
 NMO = "countries/Kanbahlunmo.txt"
 HUE = "countries/Huetamo.txt"
+YUC = "countries/Yucatan.txt"
+MEC = "countries/Chichimec.txt"
+TOL = "countries/Tologalpa.txt"
+TAG = "countries/Taguzgalpa.txt"
 
 #Britain
 ALY = "countries/Albiyun.txt"

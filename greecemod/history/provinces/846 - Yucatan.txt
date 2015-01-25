@@ -1,0 +1,35 @@
+#846 - Yucatan
+
+owner = YUC
+controller = YUC
+culture = yucatan
+religion = animism 
+capital = "Sotuta" 
+trade_goods = fish 
+hre = no 
+base_tax = 4 
+manpower = 1 
+citysize = 1500
+add_core = YUC
+temple = yes
+discovered_by = mesoamerican
+
+1450.1.1  = { citysize = 1770 }
+1500.1.1  = { citysize = 1980 }
+1517.1.1  = { discovered_by = SPA } # Francisco Hernandez de Cordoba
+1547.1.1  = {	owner = SPA 
+		controller = SPA 
+		unrest = 5
+	    } # final defeat of eastern Yucatan alliance
+1572.1.1  = { 	unrest = 0
+		add_core = SPA
+		culture = castillian
+		religion = catholic }
+1600.1.1  = { citysize = 3400 } 
+1650.1.1  = { citysize = 4540 } 
+1700.1.1  = { citysize = 5005 } 
+1750.1.1  = { citysize = 6340 } 
+1761.1.1  = { unrest = 6 } # Natives revolt against Spanish rule, led by CapEk 
+1763.1.1  = { unrest = 0 } 
+1800.1.1  = { citysize = 7400 }
+1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence

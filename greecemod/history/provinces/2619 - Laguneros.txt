@@ -1,0 +1,28 @@
+# No previous file for Laguneros
+
+culture = chichimec
+religion = animism
+capital = "Laguneros"
+trade_goods = unknown
+hre = no
+base_tax = 1
+manpower = 1
+owner = MEC
+controller = MEC
+add_core = MEC
+discovered_by = north_american
+discovered_by = mesoamerican
+
+1540.1.1   = {	discovered_by = SPA    } # Francisco Vásquez de Coronado
+1577.1.1   = {
+		capital = "Saltillo"
+		owner = SPA
+		controller = SPA
+		citysize = 1260
+		culture = castillian
+		religion = catholic
+		trade_goods = wool
+} # Colonized
+1600.1.1   = { citysize = 1570 } 
+1602.1.1   = { add_core = SPA }
+1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence

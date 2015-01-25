@@ -1,0 +1,17 @@
+government = cacique
+mercantilism = 0.1
+technology_group = north_american
+religion = animism
+primary_culture = yucatan
+capital = 846
+
+1444.1.1 = {
+	monarch = {
+		name = "Pacal"
+		dynasty = "Olmecson"
+		birth_date = 1417.3.31
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+}

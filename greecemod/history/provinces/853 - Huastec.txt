@@ -3,7 +3,7 @@
 owner = NMO
 controller = NMO
 add_core = NMO
-culture = western_ olmec
+culture = western_olmec
 religion = animism 
 capital = "Huastec" 
 trade_goods = gold 

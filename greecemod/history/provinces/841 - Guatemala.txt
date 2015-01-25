@@ -1,0 +1,41 @@
+#841 - Guatemala
+
+owner = KIC 
+controller = KIC
+culture = yucatan_maya
+religion = animism 
+capital = "Guatemala" 
+trade_goods = cocoa 
+hre = no 
+base_tax = 3
+manpower = 1 
+citysize = 2400
+add_core = KIC
+temple = yes
+discovered_by = MAY
+discovered_by = ZAP
+discovered_by = AZT
+
+1450.1.1  = { citysize = 2600 }
+1500.1.1  = { citysize = 2820 }
+1524.1.1  = {	discovered_by = SPA 
+		owner = SPA 
+		controller = SPA
+		culture = castillian
+		religion = catholic
+		citysize = 3290
+	    } # Colonized and conquered by Spanish armies 
+1527.1.1  = { capital = "Ciudad Vieja" citysize = 3450 }
+1541.1.1  = { citysize = 1340 } # Volcano, Ciudad Vieja is destroyed 
+1542.1.1  = { capital = "Antigua" } 
+1549.1.1  = { add_core = SPA }
+1550.1.1  = { citysize = 1530 } 
+1578.1.1  = { discovered_by = ENG } # Drake 
+1600.1.1  = { citysize = 1750 } 
+1650.1.1  = { citysize = 2135 } 
+1700.1.1  = { citysize = 2400 }
+1750.1.1  = { citysize = 4008 } 
+1773.1.1  = { citysize = 3100 } # Earthquakes 
+1776.1.1  = { capital = "Guatemala city" } 
+1800.1.1  = { citysize = 6540 }
+1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence

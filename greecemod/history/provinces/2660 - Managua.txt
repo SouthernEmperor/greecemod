@@ -1,0 +1,24 @@
+# No previous file for Managua
+
+culture = mosquitan
+religion = animism
+capital = "Managua"
+trade_goods = unknown
+hre = no
+base_tax = 3
+manpower = 1
+owner = TOL
+controller = TOL
+add_core = TOL
+discovered_by = mesoamerican
+
+1523.1.1   = {	owner = SPA
+		controller = SPA
+		capital = "Managua"
+		culture = castillian
+		religion = catholic
+		citysize = 2995
+		trade_goods = coffee
+	     } # First permanent Spanish settlement 
+1548.1.1   = { add_core = SPA }
+1810.9.16  = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence

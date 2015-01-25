@@ -1,0 +1,27 @@
+# No previous file for Cotoname
+
+culture = chichimec
+religion = animism
+capital = "Cotoname"
+trade_goods = unknown
+hre = no
+base_tax = 1
+manpower = 1
+owner = MEC
+controller = MEC
+add_core = MEC
+discovered_by = north_american
+discovered_by = mesoamerican
+
+1519.3.13 = { discovered_by = SPA } # Hernán Cortés
+1582.1.1   = {	owner = SPA
+		controller = SPA
+		citysize = 350
+		religion = catholic
+		capital = "San Luis Rey de Francia"
+		culture = castillian
+		trade_goods = wool 
+	     } # First Spanish colonists
+1596.1.1   = { capital = "Monterrey" }
+1607.1.1   = { add_core = SPA citysize = 1200 }
+1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence

@@ -1,0 +1,31 @@
+#858 - Tamaulipas
+
+culture = chichimec
+religion = animism
+capital = "Tamaulipas"
+trade_goods = unknown
+hre = no
+base_tax = 2
+manpower = 2 
+owner = MEC
+controller = MEC
+add_core = MEC
+discovered_by = mesoamerican
+discovered_by = north_american
+
+1519.3.13 = { discovered_by = SPA } # Hernán Cortés
+1554.1.1  = {	owner = SPA
+		controller = SPA
+		citysize = 4850
+		capital = "Tampico Alto"
+		culture = castillian
+		trade_goods = sugar
+		religion = catholic
+	    } # First permanent settlement
+1579.1.1  = { add_core = SPA }
+1600.1.1  = { citysize = 5344 }
+1650.1.1  = { citysize = 5865 }
+1700.1.1  = { citysize = 6080 }
+1750.1.1  = { citysize = 6765 }
+1800.1.1  = { citysize = 7200 }
+1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence

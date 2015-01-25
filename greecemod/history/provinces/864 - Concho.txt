@@ -1,0 +1,32 @@
+#864 - Concho
+
+culture = nahuatl
+religion = animism 
+capital = "Concho" 
+trade_goods = unknown 
+hre = no 
+base_tax = 1 
+manpower = 1 
+owner = AZT
+controller = AZT
+add_core = AZT
+discovered_by = north_american
+discovered_by = mesoamerican
+
+1540.1.1   = { 	discovered_by = SPA } # Francisco Vasquez de Coronado
+1569.1.1   = {
+		owner = SPA
+		controller = SPA
+		citysize = 400
+		religion = catholic 
+		culture = castillian
+		capital = "Chihuahua"
+		trade_goods = wool 
+	     } # Francisco de Ibarra 
+1594.1.1   = { add_core = SPA }
+1600.1.1   = { citysize = 1500 } 
+1650.1.1   = { citysize = 1830 } 
+1700.1.1   = { citysize = 2040 } 
+1750.1.1   = { citysize = 2580 } 
+1800.1.1   = { citysize = 2900 }
+1810.9.16  = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence

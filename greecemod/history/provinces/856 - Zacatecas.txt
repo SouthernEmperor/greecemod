@@ -1,0 +1,30 @@
+#856 - Zacatecas
+
+culture = acaxee
+religion = animism 
+capital = "Zacatecas" 
+trade_goods = unknown
+hre = no
+base_tax = 3
+manpower = 3 
+owner = MEC
+controller = MEC
+add_core = MEC
+add_core = ACA
+discovered_by = mesoamerican
+
+1546.1.1  = {	discovered_by = SPA
+		owner = SPA
+		controller = SPA
+		culture = castillian
+		religion = catholic
+		trade_goods = gold
+	    } # First discoveries of silver 
+1550.1.1  = { citysize = 6150 } # Silver rush 
+1571.1.1  = { add_core = SPA }
+1600.1.1  = { citysize = 8700 } 
+1650.1.1  = { citysize = 10504 } 
+1700.1.1  = { citysize = 12400 } 
+1750.1.1  = { citysize = 18750 } 
+1800.1.1  = { citysize = 30200 }
+1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence

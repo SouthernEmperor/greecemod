@@ -1,0 +1,36 @@
+#840 - Honduras
+
+culture = central_maya
+religion = animism 
+capital = "Honduras" 
+trade_goods = unknown
+hre = no 
+base_tax = 3
+manpower = 1 
+owner = TAG
+controller = TAG
+add_core = TAG
+discovered_by = mesoamerican
+discovered_by = MAY
+discovered_by = ZAP
+discovered_by = AZT
+
+1502.1.1  = { discovered_by = CAS } # Christopher Columbus 
+1516.1.23 = { discovered_by = SPA }
+1525.1.1  = { 	owner = SPA
+		controller = SPA
+		capital = "Trujillo"
+		culture = castillian
+		trade_goods = fish
+		religion = catholic
+		citysize = 2250 } # de Olid
+1548.1.1  = { unrest = 5 } # Slave rebellion 
+1549.1.1  = { unrest = 0 } 
+1550.1.1  = { citysize = 3250 }
+1550.1.1  = { add_core = SPA }
+1600.1.1  = { citysize = 3570 }
+1650.1.1  = { citysize = 4935 }
+1700.1.1  = { citysize = 5180 }
+1750.1.1  = { citysize = 5470 }
+1800.1.1  = { citysize = 6500 }
+1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
