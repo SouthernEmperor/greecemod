@@ -1,0 +1,16 @@
+# 2153 - Tingzhou
+
+owner = MYU
+controller = MYU
+add_core = MYU
+culture = min_yuet
+religion = shanzen
+capital = "Tingzhou"
+trade_goods = chinaware
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 5000
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

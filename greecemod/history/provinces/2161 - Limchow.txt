@@ -1,0 +1,17 @@
+# 2161 - Limchow
+
+owner = NYU
+controller = NYU
+add_core = NYU
+culture = nam_yuet
+religion = shenist
+capital = "Limchow"
+trade_goods = fish
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 5000
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
+discovered_by = indian

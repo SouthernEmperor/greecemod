@@ -1385,8 +1385,10 @@ bak_yuet = {
 	hmao = {
 	}
 	min_yuet = {
+		primary = MYU
 	}
 	nam_yuet = {
+		primary = NYU
 	}
 }
 

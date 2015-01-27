@@ -1,0 +1,16 @@
+#2372 - Hai Phong
+
+owner = NYU
+controller = NYU
+culture = nam_yuet
+religion = shenist
+capital = "Hai Phong"
+trade_goods = naval_supplies
+hre = no
+base_tax = 4
+manpower = 3
+fort1 = yes
+citysize = 4000
+add_core = NYU
+discovered_by = chinese
+discovered_by = indian

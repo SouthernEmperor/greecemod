@@ -1,0 +1,16 @@
+# 2152 - Jianning
+
+owner = MYU
+controller = MYU
+add_core = MYU
+culture = min_yuet
+religion = shanzen
+capital = "Jianning"
+trade_goods = tea
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 5000
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

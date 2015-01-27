@@ -1,0 +1,17 @@
+#1844 - Xiankhouang
+
+owner = NYU
+controller = NYU
+culture = tai_noi
+religion = hinduism
+capital = "Muang Khoun"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 2
+fort1 = yes
+citysize = 14300
+add_core = NYU
+add_core = YAI
+discovered_by = chinese
+discovered_by = indian

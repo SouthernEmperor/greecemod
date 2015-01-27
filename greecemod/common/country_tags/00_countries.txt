@@ -300,13 +300,19 @@ MGL = "countries/Manglon.txt"
 YAI = "countries/Yai.txt"
 
 #Reusland
-YAV = "countries/Yavadvipa.txt"
+MTR	= "countries/Mataram.txt"
+YAV = "countries/Yavadvipa.txt" #Sumatra - I f'ed the names
 
 #Tibet
 TIB	= "countries/Tibet.txt"
 UTS = "countries/Utsang.txt"
 KAM = "countries/Mdokhams.txt"
 GUG = "countries/Guge.txt"
+
+#South China
+MYU = "countries/Minyue.txt"
+NYU = "countries/Nanyue.txt"
+TNH = "countries/Tuunghai.txt"
 
 #Chinese "Shogunate"
 CHX = "countries/Huaxia.txt"
@@ -584,7 +590,6 @@ MCH	= "countries/Manchu.txt"
 MKS	= "countries/Makassar.txt"
 MLC	= "countries/Malacca.txt"
 MNG	= "countries/Ming.txt"
-MTR	= "countries/Mataram.txt"
 OIR	= "countries/OiratHorde.txt"
 PAT	= "countries/Pattani.txt"
 PEG	= "countries/Pegu.txt"

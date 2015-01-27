@@ -1,0 +1,18 @@
+#610 - Thanh Hoa
+
+owner = NYU
+controller = NYU
+culture = nan_yuet
+religion = shenist
+capital = "Thanh Hoa"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 2
+fort1 = yes
+citysize = 3600
+add_core = NYU
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
