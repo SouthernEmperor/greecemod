@@ -1,0 +1,18 @@
+#678 - Kham
+
+owner = SHU
+controller = SHU
+add_core = SHU
+add_core = KAM
+culture = shuhan
+religion = wuxing_bagua
+capital = "Tachienlu"
+trade_goods = tea
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 6402
+fort1 = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

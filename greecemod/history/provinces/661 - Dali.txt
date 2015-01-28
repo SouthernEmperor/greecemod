@@ -1,0 +1,17 @@
+#661 - Dali
+
+owner = GYT
+controller = GYT
+add_core = GYT
+culture = nuosu
+religion = shenist
+capital = "Dali"
+trade_goods = tea
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 12400
+fort1 = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

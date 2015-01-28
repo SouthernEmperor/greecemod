@@ -1,0 +1,6 @@
+government = despotic_monarchy
+primary_culture = hmao
+religion = shenist
+technology_group = chinese
+capital = 674
+

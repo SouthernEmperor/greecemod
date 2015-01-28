@@ -1,0 +1,17 @@
+#660 - Xishuan Banna
+
+owner = GYT
+controller = GYT
+add_core = GYT
+culture = nuosu
+religion = shenist
+capital = "Sibsongbanna"
+trade_goods = tea
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 7907
+discovered_by = chinese
+discovered_by = indian
+fort1 = yes
+discovered_by = nomad_group

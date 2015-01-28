@@ -1,0 +1,18 @@
+#679 - Sichuan Pendi
+
+owner = SHU
+controller = SHU
+add_core = SHU
+culture = shuhan
+religion = wuxing_bagua
+capital = "Chengdu"
+trade_goods = silk
+hre = no
+base_tax = 10
+manpower = 3
+citysize = 68700
+add_core = CXI
+add_core = SHU
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

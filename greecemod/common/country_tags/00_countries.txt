@@ -310,8 +310,11 @@ KAM = "countries/Mdokhams.txt"
 GUG = "countries/Guge.txt"
 
 #South China
+GYT = "countries/GyongTsrag.txt"
+NGC = "countries/MengChu.txt"
 MYU = "countries/Minyue.txt"
 NYU = "countries/Nanyue.txt"
+SHU = "countries/Shu.txt"
 TNH = "countries/Tuunghai.txt"
 
 #Chinese "Shogunate"

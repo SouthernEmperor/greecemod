@@ -1,0 +1,16 @@
+#2371 - Song La
+
+owner = GYT
+controller = GYT
+culture = hmao
+religion = shenist
+capital = "Song La"
+trade_goods = tea
+hre = no
+base_tax = 2
+manpower = 2
+fort1 = yes
+citysize = 2000
+add_core = GYT
+discovered_by = chinese
+discovered_by = indian

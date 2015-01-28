@@ -1,0 +1,16 @@
+#616 - Cao Bang
+
+owner = GYT
+controller = GYT
+culture = tai_rau
+religion = wuxing_bagua
+capital = "Cao Bang"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 3
+fort1 = yes
+citysize = 4000
+add_core = GYT
+discovered_by = chinese
+discovered_by = indian

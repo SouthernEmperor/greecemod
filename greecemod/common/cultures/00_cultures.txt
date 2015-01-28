@@ -1053,6 +1053,7 @@ hanculture = {
 		}
 	}
 	shuhan = {
+		primary = SHU
 		dynasty_names = {
 			Dan Fu Gong He Ju Kaiming Lang Li Nu Pu Rang Sou Zong Yi
 		}
@@ -1383,6 +1384,7 @@ tai = {
 
 bak_yuet = {
 	hmao = {
+		primary = MGC
 	}
 	min_yuet = {
 		primary = MYU

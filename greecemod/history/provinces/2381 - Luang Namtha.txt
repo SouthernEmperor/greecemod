@@ -1,0 +1,16 @@
+#2381 - Luang Namtha
+
+owner = GYT
+controller = GYT
+culture = nuosu
+religion = shenist
+capital = "Luang Namtha"
+trade_goods = tea
+hre = no
+base_tax = 2
+manpower = 2
+fort1 = yes
+citysize = 4900
+add_core = GYT
+discovered_by = chinese
+discovered_by = indian

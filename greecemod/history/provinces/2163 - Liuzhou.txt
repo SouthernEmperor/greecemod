@@ -1,0 +1,16 @@
+# 2163 - Liuzhou
+
+owner = MGC
+controller = MGC
+add_core = MGC
+culture = chuhan
+religion = wuxing_bagua
+capital = "Liuzhou"
+trade_goods = salt
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 5000
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
