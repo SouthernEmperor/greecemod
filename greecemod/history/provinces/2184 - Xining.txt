@@ -1,0 +1,17 @@
+# 2184 - Xining
+
+owner = XIE
+controller = XIE
+add_core = XIE
+culture = qinhan
+religion = eastern_hellenic
+capital = "Xining"
+trade_goods = salt
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 5000
+add_core = CSH
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

@@ -311,11 +311,12 @@ GUG = "countries/Guge.txt"
 
 #South China
 GYT = "countries/GyongTsrag.txt"
-NGC = "countries/MengChu.txt"
+MGC = "countries/MengChu.txt"
 MYU = "countries/Minyue.txt"
 NYU = "countries/Nanyue.txt"
 SHU = "countries/Shu.txt"
 TNH = "countries/Tuunghai.txt"
+XIE = "countries/Xie.txt"
 
 #Chinese "Shogunate"
 CHX = "countries/Huaxia.txt"
