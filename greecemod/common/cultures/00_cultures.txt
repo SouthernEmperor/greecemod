@@ -697,7 +697,7 @@ altaic = {
 	}
 }
 
-jushen = {
+khitan_group = {
 	khitan = {
 		primary = LAO
 	}
@@ -1076,6 +1076,15 @@ hanculture = {
 		dynasty_names = {
 			Amori Fukasa Hakata Hata Itsuki Kado Kara Kure Kuzu Mamori Masa Omomuro Oroka Oto Sakazuki Tsuzura Tani Tomoe
 		}
+	}
+}
+
+joseon = {
+	malgal = (
+		primary = BLH
+	}
+	
+	ye = {
 	}
 }
 

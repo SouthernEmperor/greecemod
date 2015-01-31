@@ -1,0 +1,16 @@
+#730 - Girin
+
+owner = BLH
+controller = BLH
+add_core = BLH
+culture = malgal
+religion = shanzen
+capital = "Girin"
+trade_goods = grain
+hre = no
+base_tax = 5
+manpower = 3
+citysize = 19400
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

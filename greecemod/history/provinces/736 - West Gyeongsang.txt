@@ -1,0 +1,16 @@
+#736 - Gyeongsang
+
+owner = SLL
+controller = SLL
+culture = ye
+religion = shinto
+capital = "Sangju"
+trade_goods = chinaware
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 5240
+add_core = SLL
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

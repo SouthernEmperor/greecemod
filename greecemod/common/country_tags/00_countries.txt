@@ -332,6 +332,12 @@ CNI = "countries/Nei.txt"
 CPG = "countries/Ping.txt"
 CYE = "countries/Ye.txt"
 
+#Korea
+BKJ = "countries/Baekje.txt"
+BLH = "countries/Balhae.txt"
+GOG = "countries/Goguryeo.txt"
+SLL = "countries/Silla.txt"
+
 #grorious nippon
 HTA = "countries/Hata.txt"
 

@@ -1,0 +1,16 @@
+#732 - Hamgyeong
+
+owner = BLH
+controller = BLH
+culture = malgal
+religion = shanzen
+capital = "Hamheung"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 5688
+add_core = BLH
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

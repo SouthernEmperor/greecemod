@@ -1,0 +1,16 @@
+#2694 - East Gangwon
+
+owner = GOG
+controller = GOG
+culture = ye
+religion = shinto
+capital = "Gangneung"
+trade_goods = fish
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 11900
+add_core = GOG
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

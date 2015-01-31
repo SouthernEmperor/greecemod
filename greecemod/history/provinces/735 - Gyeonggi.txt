@@ -1,0 +1,16 @@
+#735 - Gyeonggi
+
+owner = GOG
+controller = GOG
+culture = ye
+religion = shinto
+capital = "Hanseong"
+trade_goods = grain
+hre = no
+base_tax = 5
+manpower = 3
+citysize = 19870
+add_core = GOG
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

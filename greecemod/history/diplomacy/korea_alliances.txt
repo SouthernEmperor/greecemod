@@ -1,0 +1,15 @@
+#Balhae-Goguryeo
+vassal = {
+	first = BLH
+	second = GOG
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+
+#Silla-Baekje
+alliance = {
+	first = SLL
+	second = BKJ
+	start_date = 1444.11.11
+	end_date = 1821.1.1	
+}
