@@ -1,7 +1,7 @@
 government = tribal_despotism
 mercantilism = 0.1
-primary_culture = true_maori
+primary_culture = aborigine
 religion = animism
 technology_group = chinese
-capital = 1109
+capital = 1086
 
