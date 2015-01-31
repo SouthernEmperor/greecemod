@@ -767,9 +767,7 @@ mayan = {
 andean_group = {
 	graphical_culture = southamericagfx
 	
-	inca = { #Quechua
-		primary = CSU
-	}
+	
 	aimara = {
 		primary = CRA
 	}
@@ -780,6 +778,12 @@ andean_group = {
 		primary = CHM
 	}
 }
+
+pacific_rim = {
+	graphical_culture = southamericagfx
+	inca = { #Quechua
+		primary = INC
+	}
 
 je_tupi = { #Tupi
 	graphical_culture = northamericagfx
@@ -792,6 +796,15 @@ je_tupi = { #Tupi
 	}
 }
 
+aussie = {
+	graphical_culture = northamericagfx
+	
+	sinomaori = {
+	}
+	aborigine = {
+	}
+	true_maori = {
+	}
 je = {
 	graphical_culture = northamericagfx
 	charruan = {

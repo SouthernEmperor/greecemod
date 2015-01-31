@@ -34,6 +34,11 @@ MEC = "countries/Chichimec.txt"
 TOL = "countries/Tologalpa.txt"
 TAG = "countries/Taguzgalpa.txt"
 
+#Pacific
+INC = "countries/Inca.txt"
+NUK = "countries/Nukini.txt"
+TEW = "countries/Waipounamu.txt"
+
 #Britain
 ALY = "countries/Albiyun.txt"
 BRC = "countries/Bernicia.txt"
@@ -503,7 +508,7 @@ CHE = "countries/Cherokee.txt"
 CHM = "countries/Chimu.txt"
 CRE = "countries/Creek.txt"
 HUR = "countries/Huron.txt"
-INC = "countries/Inca.txt"
+
 IRO = "countries/Iroquois.txt"
 MAY = "countries/Maya.txt"
 SHA = "countries/Shawnee.txt"

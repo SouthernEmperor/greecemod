@@ -1,0 +1,15 @@
+#1240 - Hawaii
+
+owner = INC
+controller = INC
+add_core = INC
+culture = inca
+religion = animism
+capital = "Hawaii"
+trade_goods = unknown
+hre = no
+base_tax = 3
+manpower = 1
+
+
+1555.1.1 = { discovered_by = SPA }

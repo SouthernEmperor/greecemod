@@ -1,0 +1,17 @@
+#1246 - Waihopai
+
+owner = TEW
+controller = TEW
+add_core = TEW
+religion = animism
+culture = true_maori
+capital = "Waihopai"
+trade_goods = unknown
+hre = no
+base_tax = 2
+manpower = 1
+native_size = 10
+native_ferocity = 4
+native_hostileness = 9
+
+1642.1.1 = { discovered_by = NED } # Abel Tasman

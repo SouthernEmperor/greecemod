@@ -1238,11 +1238,11 @@
  PROV1237: "Hanuabada"
  PROV1238: "Solomon Islands"
  PROV1239: "Vanuatu"
- PROV1240: "Hawaii"
+ PROV1240: "Wat'a Hatun" #done
  PROV1241: "Kiribati"
  PROV1242: "Fiji"
  PROV1243: "Samoa"
- PROV1244: "Tahiti"
+ PROV1244: "Sipiy" #done
  PROV1245: "Manokwari"
  PROV1246: "Waihopai"
  PROV1247: "Corsica"
@@ -1700,7 +1700,7 @@
  PROV1699: "Central Pacific Basin"
  PROV1700: "Cocos Ridge"
  PROV1701: "Guatemala Basin"
- PROV1702: "Galapagos Islands"
+ PROV1702: "Mat'a Qarapara"
  PROV1703: "Nazca Ridge"
  PROV1704: "San Felix Island"
  PROV1705: "Juan Fernandez Islands"
