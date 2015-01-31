@@ -38,6 +38,8 @@ TAG = "countries/Taguzgalpa.txt"
 INC = "countries/Inca.txt"
 NUK = "countries/Nukini.txt"
 TEW = "countries/Waipounamu.txt"
+NRJ = "countries/Ngarrindjeri.txt"
+NOO = "countries/Noongar.txt"
 
 #Britain
 ALY = "countries/Albiyun.txt"

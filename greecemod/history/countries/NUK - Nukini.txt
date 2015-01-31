@@ -2,6 +2,6 @@ government = tribal_despotism
 mercantilism = 0.1
 primary_culture = true_maori
 religion = animism
-technology_group = mesoamerican
-capital = 1237# Mexico
+technology_group = chinese
+capital = 1237
 
