@@ -953,22 +953,18 @@ iroquoian = {
 	}
 }
 
-siouan = {
+moundbuilder = {
 	graphical_culture = northamericagfx
-	
-	dakota = {
-		primary = SIO
+	cahokian = {
+		primary = CAH
 	}
-	nakota = {
-		primary = ASI
+	oneota = {
 	}
-	chiwere = {
-		primary = FOX
+	mississippian = {
 	}
-	osage = {
-		primary = OSA
+	plaquemine = {
 	}
-	catawba = {
+	sunwatch = {
 	}
 }
 

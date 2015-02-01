@@ -1,0 +1,27 @@
+#1090 - Eora
+
+owner = DIM
+controller = DIM
+add_core = DIM
+culture = sinomaori
+religion = animism
+capital = "Eora"
+trade_goods = unknown
+hre = no
+base_tax = 4
+manpower = 2
+native_size = 10
+native_ferocity = 1
+native_hostileness = 2
+
+1770.1.1 = { discovered_by = GBR } # James Cook
+1788.1.26 = {	discovered_by = GBR
+		owner = GBR
+		controller = GBR
+		culture = english
+		religion = protestant
+		citysize = 350
+		trade_goods = naval_supplies
+		capital = "Sydney"
+	    }
+1813.1.1 = { citysize = 1200 add_core = GBR }

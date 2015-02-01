@@ -1,0 +1,9 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = cahokian
+religion = totemism
+technology_group = north_american
+capital = 917
+
+
+

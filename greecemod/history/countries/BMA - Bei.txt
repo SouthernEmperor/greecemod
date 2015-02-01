@@ -1,0 +1,7 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = sinomaori
+religion = animism
+technology_group = chinese
+capital = 2728
+

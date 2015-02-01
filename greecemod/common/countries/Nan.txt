@@ -1,0 +1,38 @@
+graphical_culture = north_american_gfx
+
+color = { 14 162 248 }
+
+historical_idea_groups = {
+
+	exploration_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+	expansion_ideas
+}
+
+monarch_names = {
+	"Turi #0" = 5
+	"Uenuku #0" = 25
+	"Toto #0" = 10
+	"Ruanui #0" = 10
+	"Pohatu #0" = 10
+	"Kopaka #0" = 10
+	"Tahu #0" = 10
+	"Matau #0" = 25
+	"Onewa #0" = 10
+	"Whenua #0" = 10
+	"Matura #0" = 25
+	"Kongu #0" = 10
+
+	"Rongorongo" #0" = -1
+}
+
+leader_names = {
+	"Ngati Hei"
+	"Ngati Koata"
+	"Ngati Manawa"
+}

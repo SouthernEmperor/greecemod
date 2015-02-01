@@ -10,6 +10,10 @@ MIK = "countries/Mikmaq.txt" #recycled
 ABE = "countries/Abenaki.txt" #recycled
 VIN = "countries/Vinland.txt"
 
+#Cahokia
+CAH = "countries/Cahokia.txt"
+MMI = "countries/Miami.txt" #recycled
+
 #Caribs and Mexico
 MAT = "countries/Matacumbe.txt"
 KUN = "countries/Kuna.txt"
@@ -40,6 +44,10 @@ NUK = "countries/Nukini.txt"
 TEW = "countries/Waipounamu.txt"
 NRJ = "countries/Ngarrindjeri.txt"
 NOO = "countries/Noongar.txt"
+TSI = "countries/Tasiman.txt"
+NAN = "countries/Nan.txt"
+BMA = "countries/Bei.txt"
+DIM = "countries/Di.txt"
 
 #Britain
 ALY = "countries/Albiyun.txt"
@@ -731,7 +739,6 @@ COM = "countries/Comanche.txt"
 FOX = "countries/Fox.txt"
 ILL = "countries/Illinewek.txt"
 LEN = "countries/Lenape.txt"
-MMI = "countries/Miami.txt"
 NAH = "countries/Navajo.txt"
 OJI = "countries/Ojibwa.txt"
 OSA = "countries/Osage.txt"

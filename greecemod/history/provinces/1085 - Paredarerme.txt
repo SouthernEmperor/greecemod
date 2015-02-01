@@ -1,0 +1,20 @@
+#1085 - Paredarerme
+
+owner = TSI
+controller = TSI
+add_core = TSI
+culture = sinomaori
+religion = animism
+capital = "Paredarerme"
+hre = no
+trade_goods = unknown
+base_tax = 2
+manpower = 2
+
+
+1642.11.24 = { discovered_by = NED } # Abel Tasman
+1803.1.1   = {	owner = GBR
+		controller = GBR
+		capital = "Hobart Town"
+	     	citysize = 100
+	     } # Penal colony

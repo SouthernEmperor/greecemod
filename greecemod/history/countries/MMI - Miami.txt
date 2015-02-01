@@ -1,0 +1,7 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = sunwatch
+religion = totemism
+technology_group = north_american
+capital = 943 # Miami
+
