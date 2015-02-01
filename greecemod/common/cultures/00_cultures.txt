@@ -1088,6 +1088,7 @@ shiwei = {
 	graphical_culture = asiangfx
 
 	syanbi = {
+		primary = XBI
 	}
 	hiungnu = {
 	}

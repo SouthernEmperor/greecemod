@@ -1,7 +1,13 @@
-#Balhae-Goguryeo
+#Balhae-Goguryeo/Syanbi
 vassal = {
 	first = BLH
 	second = GOG
+	start_date = 1444.11.11
+	end_date = 1821.1.1
+}
+vassal = {
+	first = BLH
+	second = XBI
 	start_date = 1444.11.11
 	end_date = 1821.1.1
 }

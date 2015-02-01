@@ -1,0 +1,17 @@
+# 2107 - Ningguta
+
+owner = XBI
+controller = XBI
+add_core = XBI
+culture = malgal
+religion = shanzen
+capital = "Ningguta"
+trade_goods = iron
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 5000
+fort1 = yes
+fort2 = yes
+discovered_by = chinese
+discovered_by = nomad_group

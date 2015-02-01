@@ -60,6 +60,15 @@ GUB = "countries/Alba.txt"
 IRE	= "countries/Ireland.txt"
 RHE = "countries/Rheged.txt"
 
+#Scandinavia
+SWE	= "countries/Sweden.txt"
+DAN	= "countries/Denmark.txt"
+FIN	= "countries/Finland.txt"
+GOT	= "countries/Gotland.txt"
+NOR	= "countries/Norway.txt"
+SHL	= "countries/Holstein.txt"
+SCA	= "countries/Scandinavia.txt"
+
 #Baltic
 LAT = "countries/Latvia.txt"
 EST = "countries/Estonia.txt"
@@ -342,26 +351,20 @@ CNI = "countries/Nei.txt"
 CPG = "countries/Ping.txt"
 CYE = "countries/Ye.txt"
 
+#North China
+
 #Korea
 BKJ = "countries/Baekje.txt"
 BLH = "countries/Balhae.txt"
 GOG = "countries/Goguryeo.txt"
 SLL = "countries/Silla.txt"
+XBI = "countries/Syanbi.txt"
 
 #grorious nippon
 HTA = "countries/Hata.txt"
 
 #ABOVE THIS LINE IS GREECEMOD STUFF
 #BELOW THIS LINE IS OLD COUNTRIES
-
-#Scandinavia
-SWE	= "countries/Sweden.txt"
-DAN	= "countries/Denmark.txt"
-FIN	= "countries/Finland.txt"
-GOT	= "countries/Gotland.txt"
-NOR	= "countries/Norway.txt"
-SHL	= "countries/Holstein.txt"
-SCA	= "countries/Scandinavia.txt"
 
 #Balkans
 ACH	= "countries/PrincipalityOfAchaia.txt"
@@ -463,23 +466,10 @@ SAV	= "countries/Savoy.txt"
 TUS	= "countries/Tuscany.txt"
 VEN	= "countries/Venice.txt"
 
-#Low Countries
+#Low Countries is cleansed
 
-#Russia 
-AST	= "countries/Astrakhan.txt"
-GOL	= "countries/GoldenHorde.txt"
-KAZ	= "countries/Kazan.txt"
-MOS	= "countries/Muscowy.txt"
-NOV	= "countries/Novgorod.txt"
-PSK	= "countries/Pskov.txt"
-QAS	= "countries/QasimKhanate.txt"
-RUS	= "countries/Russia.txt"
-RYA	= "countries/Ryazan.txt"
-TVE	= "countries/Tver.txt"
-YAR	= "countries/Yaroslavl.txt"
-NOG	= "countries/Nogai.txt"
+#Russia is cleansed
 SIB	= "countries/Sibir.txt"
-PLT	= "countries/Polotsk.txt"
 PRM = "countries/Perm.txt"
 BSH	= "countries/Bashkiria.txt"
 
@@ -653,77 +643,10 @@ CDL = "countries/Dali.txt"
 CYI = "countries/Yi.txt"
 CMI = "countries/Miao.txt"
 
-#India
-BAL	= "countries/Baluchistan.txt"
-BNG = "countries/Bengal.txt"
-BIJ = "countries/Bijapur.txt"
-BAH	= "countries/Bahmanis.txt"
-DLH = "countries/Delhi.txt"
-GOC = "countries/Golconda.txt"
-DEC = "countries/Deccan.txt"
-MAR = "countries/Marathas.txt"
-MUG = "countries/Mughal.txt"
-MYS = "countries/Mysore.txt"
-VIJ = "countries/Vijaynagara.txt"
-AHM = "countries/Ahmadnagar.txt"
-ASS = "countries/Assam.txt"
-GUJ = "countries/Gujarat.txt"
-JNP = "countries/Jaunpur.txt"
-MAD = "countries/Madurai.txt"
-MLW = "countries/Malwa.txt"
-MAW = "countries/Marwar.txt"
-MER = "countries/Mewar.txt"
-MUL = "countries/Multan.txt"
-NAG = "countries/Nagpur.txt"
-ORI = "countries/Orissa.txt"
-PUN = "countries/Punjab.txt"
-SND = "countries/Sind.txt"
-BRR = "countries/Berar.txt"
-JAN = "countries/Jangladesh.txt"
-KRK = "countries/Carnatic.txt"
-GRJ = "countries/Garjat.txt"
-GWA = "countries/Gwalior.txt"
-DHU = "countries/Dhundhar.txt"
-KLN = "countries/Keladi.txt"
-KHD = "countries/Khandesh.txt"
-ODH = "countries/Oudh.txt"
-VND = "countries/Venad.txt"
-MAB = "countries/Malabar.txt"
-MEW = "countries/Mewat.txt"
-BDA = "countries/Baroda.txt"
-BST = "countries/Bastar.txt"
-BHU = "countries/Bhutan.txt"
-BND = "countries/Bundelkhand.txt"
-CEY = "countries/Ceylon.txt"
-JSL = "countries/Jaisalmer.txt"
-KAC = "countries/Kachar.txt"
-KMT = "countries/Koch.txt"
-KGR = "countries/Kangra.txt"
-KAT = "countries/Kathiawar.txt"
-KOC = "countries/Kochin.txt"
-MLB = "countries/Manipur.txt"
-HAD = "countries/Hadoti.txt"
-NGA = "countries/Nagaur.txt"
-RMP = "countries/Rohilkandh.txt"
-LDK = "countries/Ladakh.txt"
-BGL = "countries/Bagelkhand.txt"
-JFN = "countries/Jaffna.txt"
-PTA = "countries/Patiala.txt"
-GHR = "countries/Garhwal.txt"
-CHD	= "countries/Chanda.txt"
-NGP	= "countries/Jharkhand.txt"
-JAJ	= "countries/Janjira.txt"
-TRT = "countries/Tirhut.txt"
-CMP	= "countries/RewaKantha.txt"
-BGA	= "countries/Baglana.txt"
-TPR = "countries/Tripura.txt"
-SDY = "countries/Sadiya.txt"
+#India is cleaned
 
+#Others
 BAR	= "countries/Bar.txt"
-HSA	= "countries/Hansa.txt"
-SMO = "countries/Smolensk.txt"
-NZH = "countries/NizhnyNovgorod.txt"
-KOJ = "countries/Jerusalem.txt"
 MSA = "countries/Malaya.txt"
 HIN = "countries/Hindustan.txt"
 
@@ -754,11 +677,7 @@ SIO = "countries/Sioux.txt"
 SUS = "countries/Susquehannock.txt"
 WCR = "countries/Cree.txt"
 
-#Persian Additions
-CIR = "countries/Circassia.txt"
-GAZ = "countries/Gazikumukh.txt"
-IME = "countries/Imereti.txt"
-TAB = "countries/Tabarestan.txt"
+#Persian Additions cleansing is real
 
 #African Additions
 
