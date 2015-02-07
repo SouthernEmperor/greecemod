@@ -2,9 +2,10 @@
 
 owner = NRM
 controller = NRM
+core = NRM
 capital = "Rouen"
 citysize = 29000
-culture = arab_breton
+culture = breton
 religion = ashari
 hre = no
 base_tax = 4

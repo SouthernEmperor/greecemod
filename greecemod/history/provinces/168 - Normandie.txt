@@ -2,9 +2,10 @@
 
 owner = NRM
 controller = NRM
+core = NRM
 capital = "Caen"
 citysize = 9500
-culture = normand
+culture = breton
 religion = ashari
 hre = no
 base_tax = 6
