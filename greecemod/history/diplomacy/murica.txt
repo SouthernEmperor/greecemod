@@ -1,0 +1,16 @@
+#Navajo Empire
+vassal = {
+	first = NAH
+	second = PIM
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}
+vassal = {
+	first = NAH
+	second = PUE
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}
+
+
+

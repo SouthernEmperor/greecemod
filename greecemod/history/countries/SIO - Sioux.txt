@@ -1,0 +1,8 @@
+government = steppe_horde
+mercantilism = 0.1
+primary_culture = lakota
+religion = totemism
+technology_group = north_american
+capital = 2517
+
+

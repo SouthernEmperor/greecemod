@@ -1,0 +1,25 @@
+# No previous file for Chiricahua
+
+owner = PUE
+controller = PUE
+add_core = PUE
+culture = pueblo
+religion = totemism
+capital = "Chiricahua"
+trade_goods = unknown
+hre = no
+base_tax = 1
+manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+
+1541.1.1  = { discovered_by = SPA } # Francisco Vásquez de Coronado
+1710.1.1 = { 	owner = APA
+		controller = APA
+		is_city = yes
+		trade_goods = wool
+		culture = navajo
+		add_core = APA } #Plains tribe expand
+

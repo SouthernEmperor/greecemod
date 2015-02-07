@@ -1,0 +1,12 @@
+name = "Uto-Navajo War"
+war_goal = {
+	type = imperialism
+	casus_belli = cb_annex
+}
+
+1444.1.1 = {
+	add_attacker = KIO
+	add_defender = NAH
+	add_defender = PIM
+	add_defender = PUE
+}

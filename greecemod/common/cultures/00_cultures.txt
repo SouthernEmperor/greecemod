@@ -967,7 +967,13 @@ moundbuilder = {
 	sunwatch = {
 	}
 }
-
+uto = {
+	graphical_culture = northamericagfx
+	ute = {
+	}
+	pomo = {
+	}
+}
 caddoan = {
 	graphical_culture = northamericagfx
 
@@ -1013,7 +1019,17 @@ sonoran = {
 		primary = KIO
 	}
 }
-
+sioux = {
+	graphical_culture = northamericagfx
+	santee = {
+	}
+	yankton = {
+	}
+	lakota = {
+	}
+	fox = {
+	}
+}
 na_dene = {
 	graphical_culture = northamericagfx
 

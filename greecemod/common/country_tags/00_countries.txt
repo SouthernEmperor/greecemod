@@ -13,6 +13,22 @@ VIN = "countries/Vinland.txt"
 #Cahokia
 CAH = "countries/Cahokia.txt"
 MMI = "countries/Miami.txt" #recycled
+PAW = "countries/Pawnee.txt" #recycled
+OSA = "countries/Osage.txt" #recycled
+ILL = "countries/Illinewek.txt" #recycled
+CHI = "countries/Chickasaw.txt" #recycled
+CAD = "countries/Caddo.txt" #recycled
+
+#other North America
+SIO = "countries/Sioux.txt" #recycled as LAKOTA
+ASI = "countries/Assiniboine.txt" #recycled as SANTEE
+ARP = "countries/Arapaho.txt" #recycled as YANKTON
+FOX = "countries/Fox.txt" #recycled
+SHO = "countries/Shoshone.txt"#recycled
+KIO = "countries/Kiowa.txt" #recycled as UTE
+PIM = "countries/Pima.txt" #recycled
+NAH = "countries/Navajo.txt" #recycled
+PUE = "countries/Pueblo.txt" #recycled
 
 #Caribs and Mexico
 MAT = "countries/Matacumbe.txt"
@@ -652,28 +668,16 @@ HIN = "countries/Hindustan.txt"
 
 
 APA = "countries/Apache.txt"
-ASI = "countries/Assiniboine.txt"
 BLA = "countries/Blackfoot.txt"
-CAD = "countries/Caddo.txt"
-CHI = "countries/Chickasaw.txt"
 CHO = "countries/Choctaw.txt"
 CHY = "countries/Cheyenne.txt"
 COM = "countries/Comanche.txt"
-FOX = "countries/Fox.txt"
-ILL = "countries/Illinewek.txt"
 LEN = "countries/Lenape.txt"
-NAH = "countries/Navajo.txt"
 OJI = "countries/Ojibwa.txt"
-OSA = "countries/Osage.txt"
 OTT = "countries/Ottawa.txt"
-PAW = "countries/Pawnee.txt"
 PEQ = "countries/Pequot.txt"
-PIM = "countries/Pima.txt"
 POT = "countries/Potawatomi.txt"
 POW = "countries/Powhatan.txt"
-PUE = "countries/Pueblo.txt"
-SHO = "countries/Shoshone.txt"
-SIO = "countries/Sioux.txt"
 SUS = "countries/Susquehannock.txt"
 WCR = "countries/Cree.txt"
 
@@ -709,14 +713,12 @@ KMC = "countries/Kamchadals.txt"
 BRT = "countries/Buryats.txt"
 
 #North American Additions
-ARP = "countries/Arapaho.txt"
 CLM = "countries/Colima.txt"
 CNK = "countries/Chinook.txt"
 COC = "countries/Cocomes.txt"
 HDA = "countries/Haida.txt"
 ITZ = "countries/Itza.txt"
 KIC = "countries/Kiche.txt"
-KIO = "countries/Kiowa.txt"
 MIX = "countries/Mixtec.txt"
 SAL = "countries/Salish.txt"
 TLA = "countries/Tlapanec.txt"

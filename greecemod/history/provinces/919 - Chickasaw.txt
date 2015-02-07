@@ -1,0 +1,28 @@
+#919 - Chickasaw
+
+
+culture = plaquemine
+religion = totemism
+capital = "Chickasaw"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+is_city = yes
+native_size = 20
+native_ferocity = 8
+native_hostileness = 2
+discovered_by = north_american
+
+1450.1.1  = { citysize = 1900 }
+1500.1.1  = { citysize = 2130 }
+1540.1.1  = { discovered_by = SPA } # Hernando De Soto
+1550.1.1  = { citysize = 2988 }
+1600.1.1  = { citysize = 3540 }
+1650.1.1  = { citysize = 4800 }
+1670.1.1  = { discovered_by = FRA } # Robert Cavelier de La Salle
+1786.1.10= { owner = USA
+		controller = USA
+		add_core = USA
+		culture = american
+		religion = protestant } #Treaty of Hopewell (with the Chickasaw), come under US authority
