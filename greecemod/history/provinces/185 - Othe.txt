@@ -1,7 +1,7 @@
 # 185 Nemours
 
-owner = CHP
-controller = CHP
+owner = ALE
+controller = ALE
 capital = "Nemours"
 citysize = 14000
 culture = breton
@@ -10,7 +10,7 @@ hre = no
 base_tax = 5
 trade_goods = grain
 manpower = 5
-add_core = CHP
+add_core = ALE
 fort1 = yes
 marketplace = yes
 temple = yes

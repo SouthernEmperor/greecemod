@@ -1,0 +1,75 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 34 177 76 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_carabinier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Mahomet #0" = 80
+	"Ahmed #1" = 60
+	"Ali #0" = 40
+	"Oussama #0" = 40
+	"Abdoullah #0" = 20
+}
+
+ship_names = {
+        Amboise Amilly Artenay Azay-le-Rideau
+        Beaune-la-Rolande Beauregard Bellegarde Blois Briare
+        Chalette Chambord Chamerolles Châteauneuf Château-Renard Châtillon-Coligny Chécy  Chenonceau Cheverny Chevilly Cléry-Saint-André Combleux Courtenay
+        Dunois
+        "Fay aux Loges" Ferrières "Ferté Saint Aubin" Fleury-les-Aubrais
+        Germigny Gien
+        Jargeau
+        "La Bussière"
+        Malesherbes "Meung sur Loire" Montargis
+        Neuville-Aux-Bois
+        Olivet Outarville Ouzouer
+        Patay Pithiviers Pontchevron Puiseaux
+        "Saint Benoît" "Saint Jean de Braye" "Saint Jean le Blanc" Sully
+        Talcy
+        Vendôme Villesavin
+}
+
+leader_names = {
+        Mahometid
+        Ahmedid
+        Abdoullid 
+        Alid
+        Oussamid
+}
+
+army_names = { 
+         "Armée du Blésois"   "Armée de la Beauce" 
+         "Armée du Dunois"    "Armée du Gâtinais"
+         "Armée de Sologne"      "Armée du Vendômois" "Armée de la Loire"
+	 "Armée de $PROVINCE$" 
+}

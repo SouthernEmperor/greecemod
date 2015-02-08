@@ -1,0 +1,14 @@
+government = merchant_republic
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 2
+#innovative_narrowminded = -1
+mercantilism = 0.1
+#offensive_defensive = -3
+#land_naval = 4
+#quality_quantity = -1
+#serfdom_freesubjects = -2
+primary_culture = aquitainian
+religion = ashari
+technology_group = muslim
+capital = 201 # Aix-en-Provence
+

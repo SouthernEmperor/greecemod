@@ -1,7 +1,7 @@
 # 177 Maine - Principal cities: Le Mans, Alençon, Laval
 
-owner = ALE
-controller = ALE
+owner = AUV
+controller = AUV
 capital = "Le Mans"
 citysize = 11000
 culture = breton
@@ -10,7 +10,7 @@ hre = no
 base_tax = 6
 trade_goods = cloth
 manpower = 4
-add_core = ALE
+add_core = AUV
 fort1 = yes
 temple = yes # La Cathédrale Saint-Julien
 discovered_by = eastern
