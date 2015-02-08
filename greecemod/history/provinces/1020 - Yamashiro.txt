@@ -1,0 +1,15 @@
+#1020 - Kyoto
+
+owner = JKU
+controller = JKU
+culture = wa
+religion = shinto
+capital = "Kyoto"
+trade_goods = grain
+hre = no
+base_tax = 7
+manpower = 3
+citysize = 50000
+add_core = JKU
+fort1 = yes
+discovered_by = chinese

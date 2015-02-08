@@ -1,0 +1,14 @@
+#1852 - Tokachi
+
+owner = HKI
+controller = HKI
+add_core = HKI
+citysize = 1000
+culture = emisi
+religion = shinto
+capital = "Tokachi"
+trade_goods = fish
+hre = no
+base_tax = 1
+manpower = 1
+discovered_by = chinese

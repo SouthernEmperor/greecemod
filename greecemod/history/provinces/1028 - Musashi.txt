@@ -1,0 +1,15 @@
+#1028 - Musashi
+
+owner = JHI
+controller = JHI
+culture = saeki
+religion = shinto
+capital = "Kawagoe"
+trade_goods = fish
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 12000
+add_core = JHI
+fort1 = yes
+discovered_by = chinese

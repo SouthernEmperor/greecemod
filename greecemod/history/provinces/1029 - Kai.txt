@@ -1,0 +1,15 @@
+#1029 - Kai
+
+owner = JHI
+controller = JHI
+culture = saeki
+religion = shinto
+capital = "Kofu"
+trade_goods = gold
+hre = no
+base_tax = 4
+manpower = 3
+citysize = 5200
+add_core = JHI
+fort1 = yes
+discovered_by = chinese

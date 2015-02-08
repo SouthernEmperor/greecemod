@@ -378,6 +378,12 @@ XBI = "countries/Syanbi.txt"
 
 #grorious nippon
 HTA = "countries/Hata.txt"
+JBA = "countries/Baraku.txt"
+JHI = "countries/Hinomoto.txt"
+JKU = "countries/Kuroba.txt"
+JMI = "countries/Mitsukoshi.txt"
+JYA = "countries/Yamato.txt"
+HKI = "countries/Hitakami.txt"
 
 #ABOVE THIS LINE IS GREECEMOD STUFF
 #BELOW THIS LINE IS OLD COUNTRIES
@@ -587,27 +593,7 @@ CHK	= "countries/Champassak.txt"
 DAI	= "countries/DaiViet.txt"
 JAP	= "countries/Japan.txt"
 
-#Daimyos
-AMA = "countries/Amago.txt"
-ASA = "countries/Asakura.txt"
-CSK = "countries/Chosokabe.txt"
-DTE = "countries/Date.txt"
-HJO = "countries/Hojo.txt"
-HSK = "countries/Hosokawa.txt"
-HTK = "countries/Hatakeyama.txt"
-IKE = "countries/Ikeda.txt"
-IMG = "countries/Imagawa.txt"
-MAE = "countries/Maeda.txt"
-MRI = "countries/Mori.txt"
-ODA = "countries/Oda.txt"
-OTM = "countries/Otomo.txt"
-OUC = "countries/Ouchi.txt"
-SBA = "countries/Shiba.txt"
-SMZ = "countries/Shimazu.txt"
-TKD = "countries/Takeda.txt"
-TKG = "countries/Tokugawa.txt"
-UES = "countries/Uesugi.txt"
-YMN = "countries/Yamana.txt"
+#Daimyos hahahahaha they don't exist
 
 ANU = "countries/Ainu.txt"
 

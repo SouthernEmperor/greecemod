@@ -1,0 +1,15 @@
+#1819 - Tosa
+
+owner = JYA
+controller = JYA
+culture = wa
+religion = shinto
+capital = "Nakamura"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 5234
+add_core = JYA
+fort1 = yes
+discovered_by = chinese

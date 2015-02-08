@@ -1,0 +1,14 @@
+#1033 - Sakhalin
+
+owner = HKI
+controller = HKI
+add_core = HKI
+culture = sushen
+religion = shamanism
+capital = "Sakhalin"
+trade_goods = fish
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 1320
+discovered_by = chinese

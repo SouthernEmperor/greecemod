@@ -1,0 +1,15 @@
+#1027 - Hitachi
+
+owner = JHI
+controller = JHI
+culture = saeki
+religion = shinto
+capital = "Ota"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 15650
+add_core = JHI
+fort1 = yes
+discovered_by = chinese

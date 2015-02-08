@@ -1,0 +1,15 @@
+#1023 - Echizen
+
+owner = JBA
+controller = JBA
+culture = wa
+religion = shinto
+capital = "Takefu"
+trade_goods = chinaware
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 10000
+add_core = JBA
+fort1 = yes
+discovered_by = chinese

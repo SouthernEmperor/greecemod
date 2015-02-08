@@ -1,0 +1,17 @@
+government = administrative_monarchy
+mercantilism = 0.1
+primary_culture = wa
+religion = shinto
+technology_group = chinese
+capital = 1830
+
+1444.1.1 = {
+	monarch = {
+		name = "Housei"
+		dynasty = "Baraku"
+		birth_date = 1401.4.8
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}

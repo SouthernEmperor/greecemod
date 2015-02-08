@@ -1,0 +1,15 @@
+#1025 - Dewa
+
+owner = HKI
+controller = HKI
+culture = emisi
+religion = shinto
+capital = "Yamagata"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 4250
+add_core = HKI
+fort1 = yes
+discovered_by = chinese

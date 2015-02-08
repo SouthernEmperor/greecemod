@@ -1,0 +1,17 @@
+government = administrative_monarchy
+mercantilism = 0.1
+primary_culture = wa
+religion = shinto
+technology_group = chinese
+capital = 1020
+
+1444.1.1 = {
+	monarch = {
+		name = "Momohiro"
+		dynasty = "Kuroba"
+		birth_date = 1425.1.1
+		adm = 5
+		dip = 6
+		mil = 5
+	}
+}

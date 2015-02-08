@@ -1,0 +1,18 @@
+government = administrative_monarchy
+mercantilism = 0.1
+primary_culture = wa
+religion = shinto
+technology_group = chinese
+capital = 1014
+
+1444.1.1 = {
+	monarch = {
+		name = "Nadeshiko"
+		dynasty = "Yamato"
+		birth_date = 1415.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+		female = yes
+	}
+}

@@ -1,0 +1,15 @@
+#1026 - Mutsu
+
+owner = HKI
+controller = HKI
+culture = emisi
+religion = shinto
+capital = "Aizu"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 4200
+add_core = HKI
+fort1 = yes
+discovered_by = chinese

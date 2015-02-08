@@ -1,0 +1,15 @@
+#1843 - Kozuke
+
+owner = JHI
+controller = JHI
+culture = saeki
+religion = shinto
+capital = "Utsunomiya"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 7000
+add_core = JHI
+fort1 = yes
+discovered_by = chinese

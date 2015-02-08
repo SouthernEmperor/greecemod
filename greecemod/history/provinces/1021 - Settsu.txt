@@ -1,0 +1,15 @@
+#1021 - Settsu
+
+owner = JKU
+controller = JKU
+culture = wa
+religion = shinto
+capital = "Naniwa"
+trade_goods = chinaware
+hre = no
+base_tax = 6
+manpower = 4
+citysize = 25000
+add_core = JKU
+fort1 = yes
+discovered_by = chinese

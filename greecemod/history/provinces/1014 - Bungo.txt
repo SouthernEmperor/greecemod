@@ -1,0 +1,15 @@
+#1014 - Bungo
+
+owner = JYA
+controller = JYA
+culture = wa
+religion = shinto
+capital = "Funai"
+trade_goods = fish
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 6000
+add_core = JYA
+fort1 = yes
+discovered_by = chinese

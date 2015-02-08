@@ -1,0 +1,15 @@
+#1024 - Echigo
+
+owner = JMI
+controller = JMI
+culture = saeki
+religion = shinto
+capital = "Naoetsu"
+trade_goods = grain
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 10000
+add_core = JMI
+fort1 = yes
+discovered_by = chinese

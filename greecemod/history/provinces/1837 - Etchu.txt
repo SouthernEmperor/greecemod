@@ -1,0 +1,15 @@
+#1837 - Etchu
+
+owner = JMI
+controller = JMI
+culture = saeki
+religion = shinto
+capital = "Kanazawa"
+trade_goods = grain
+hre = no
+base_tax = 4
+manpower = 3
+citysize = 5250
+add_core = JMI
+fort1 = yes
+discovered_by = chinese

@@ -1,0 +1,16 @@
+#1832 - Yamato
+
+owner = JKU
+controller = JKU
+culture = wa
+religion = shinto
+capital = "Nara"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 8000
+add_core = JKU
+add_core = JYA
+fort1 = yes
+discovered_by = chinese

@@ -1,0 +1,15 @@
+#1830 - Tajima
+
+owner = JBA
+controller = JBA
+culture = wa
+religion = shinto
+capital = "Tottori"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 7050
+add_core = JBA
+fort1 = yes
+discovered_by = chinese

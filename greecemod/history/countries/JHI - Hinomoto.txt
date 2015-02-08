@@ -1,0 +1,18 @@
+government = administrative_monarchy
+mercantilism = 0.1
+primary_culture = saeki
+religion = shinto
+technology_group = chinese
+capital = 1027
+
+1444.1.1 = {
+	monarch = {
+		name = "Hinomoto"
+		dynasty = "Oniko"
+		birth_date = 1425.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+		female = yes
+	}
+}

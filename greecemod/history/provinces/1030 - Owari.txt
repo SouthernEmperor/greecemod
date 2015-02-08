@@ -1,0 +1,15 @@
+#1030 - Owari
+
+owner = JKU
+controller = JKU
+culture = wa
+religion = shinto
+capital = "Kiyosu"
+trade_goods = grain
+hre = no
+base_tax = 5
+manpower = 2
+citysize = 10710
+add_core = JKU
+fort1 = yes
+discovered_by = chinese
