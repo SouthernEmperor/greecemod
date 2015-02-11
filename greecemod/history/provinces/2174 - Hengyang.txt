@@ -1,0 +1,16 @@
+# 2174 - Hengyang
+
+owner = CJG
+controller = CJG
+add_core = CJG
+culture = tai_rau
+religion = shanzen
+capital = "Hengyang"
+trade_goods = gold
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 5000
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

@@ -1,0 +1,16 @@
+# 2148 - Shaoxin
+
+owner = CYE
+controller = CYE
+add_core = CYE
+culture = qihan
+religion = shanzen
+capital = "Shaoxin"
+trade_goods = tea
+hre = no
+base_tax = 6
+manpower = 2
+citysize = 5000
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

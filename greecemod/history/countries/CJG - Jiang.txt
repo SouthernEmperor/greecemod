@@ -1,0 +1,5 @@
+government = daimyo
+primary_culture = chuhan
+religion = shanzen
+technology_group = chinese
+capital = 680
