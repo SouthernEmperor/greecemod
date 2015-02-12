@@ -1,0 +1,51 @@
+graphical_culture = muslimgfx
+
+color = { 255 169 112 }
+
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	religious_ideas
+	spy_ideas	
+}
+
+
+historical_units = {
+	mongol_bow
+	mongol_swarm
+	mongol_steppe
+}
+
+monarch_names = {
+	"Álmos #0" = 10
+	"Árpád #0" = 10
+	"Ezeleg #0" = 10
+	"Fajsz #0" = 10
+	"Géza #0" = 10
+	"Jelek #0" = 10
+	"Jutotzas #0" = 10
+	"Liüntika #0" = 10
+	"Levedi #0" = 10
+	"Ménmarót #0" = 10
+	"Solt #0" = 10
+	"Taksony #0" = 10
+	"Tarkatzus #0" = 10
+	"Tas #0" = 10
+	"Vajk #0" = 10
+	"Zoltán #0" = 10
+}
+
+leader_names = {
+	Jeno
+	Kabar
+	Kér
+	Keszi
+	Kürt-Gyarmat
+	Megyer
+	Nyék
+	Tarján
+}

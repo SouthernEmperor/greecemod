@@ -1,0 +1,14 @@
+#1057 - Udinsky
+
+owner = MAG
+controller = MAG
+add_core = MAG
+culture = hiungnu
+religion = shamanism
+capital = "Udinskoye"
+trade_goods = fish
+hre = no
+base_tax = 3
+manpower = 4
+citysize = 1087
+discovered_by = nomad_group

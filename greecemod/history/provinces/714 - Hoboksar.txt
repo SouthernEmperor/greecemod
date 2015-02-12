@@ -1,0 +1,15 @@
+#714 - Dzungaria
+
+owner = YUE
+controller = YUE
+add_core = YUE
+culture = magyar
+religion = tengri
+capital = "Hoboksar"
+trade_goods = wool
+hre = no
+base_tax = 1
+manpower = 2
+citysize = 9800
+discovered_by = chinese
+discovered_by = nomad_group

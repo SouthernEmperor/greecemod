@@ -1,0 +1,17 @@
+government = steppe_horde
+mercantilism = 0.1
+primary_culture = magyar
+religion = tengri
+technology_group = nomad_group
+capital = 2190
+
+1444.1.1 = {
+	monarch = {
+		name = "Captios"
+		dynasty = "Testveri"
+		birth_date = 1427.1.1
+		adm = 6
+		dip = 6
+		mil = 4
+	}
+}

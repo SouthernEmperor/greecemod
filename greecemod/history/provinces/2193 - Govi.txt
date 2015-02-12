@@ -1,0 +1,16 @@
+# 2193 - Govi
+
+owner = MAG
+controller = MAG
+add_core = MAG
+culture = magyar
+religion = tengri
+capital = "Govi"
+trade_goods = wool
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 5000
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group

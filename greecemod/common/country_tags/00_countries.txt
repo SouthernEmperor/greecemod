@@ -368,6 +368,8 @@ CPG = "countries/Ping.txt"
 CYE = "countries/Ye.txt"
 
 #North China
+MAG = "countries/Magyar.txt"
+YUE = "countries/Yueban.txt"
 
 #Korea
 BKJ = "countries/Baekje.txt"

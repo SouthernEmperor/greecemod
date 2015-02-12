@@ -1,0 +1,14 @@
+#1066 - Altai
+
+owner = YUE
+controller = YUE
+add_core = YUE
+culture = tengri
+religion = manichaean
+capital = "Altai Uriankhai"
+trade_goods = fur
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 1000
+discovered_by = nomad_group

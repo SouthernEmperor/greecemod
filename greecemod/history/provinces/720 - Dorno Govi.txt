@@ -1,0 +1,16 @@
+#720 - Tshiyet Noyan
+
+owner = MAG
+controller = MAG
+add_core = MAG
+culture = hiungnu
+religion = shenist
+capital = "Dornogovi"
+trade_goods = wool
+hre = no
+base_tax = 1
+manpower = 2
+citysize = 7850
+fort1 = yes
+discovered_by = chinese
+discovered_by = nomad_group
