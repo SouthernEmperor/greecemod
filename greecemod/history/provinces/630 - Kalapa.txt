@@ -1,7 +1,7 @@
 #630 - Kalapa
 
 owner = MTR
-controller = STR
+controller = MTR
 add_core = MTR
 culture = javanese
 religion = hinduism
