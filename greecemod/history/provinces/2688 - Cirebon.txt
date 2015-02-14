@@ -1,0 +1,18 @@
+#2688 - Cirebon
+
+owner = MTR
+controller = MTR
+add_core = MTR
+culture = javanese
+religion = hinduism
+capital = "Cirebon"
+trade_goods = spices
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 12005
+fort1 = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

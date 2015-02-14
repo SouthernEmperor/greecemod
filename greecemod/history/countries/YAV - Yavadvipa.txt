@@ -3,7 +3,7 @@ mercantilism = 0.1
 primary_culture = sumatran
 religion = eastern_hellenic
 technology_group = indian
-capital = 621
+capital = 593
 
 1444.1.1 = {
 	monarch = {

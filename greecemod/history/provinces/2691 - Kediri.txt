@@ -1,0 +1,18 @@
+#2691 - Kediri
+
+owner = SNG
+controller = SNG
+add_core = SNG
+culture = javanese
+religion = animism
+capital = "Kediri"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 12005
+fort1 = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

@@ -1,0 +1,19 @@
+#2394 - Kedah
+
+owner = KED
+controller = KED
+culture = malayan
+religion = eastern_hellenic
+capital = "Kedah"
+trade_goods = grain
+hre = no
+base_tax = 4
+manpower = 2
+fort1 = yes
+citysize = 1100
+add_core = KED
+add_core = LGK
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

@@ -1,0 +1,95 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 163  68  149 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Airlangga #0" = 5
+	"Arjuna #0" = 5
+	"Aryyeswara #0" = 5
+	"Balitung #0" = 20
+	"Daksa #0" = 20
+	"Dawendra #0" = 20
+	"Dharanindra #0" = 20
+	"Gandra #0" = 5
+	"Jatiningrat #0" = 20
+	"Janggala #0" = 5
+	"Jayabhaya #0" = 5
+	"Kamecwara #0" = 5
+	"Kertajaya #0" = 5
+	"Lokapala #0" = 20
+	"Pancapana #0" = 20
+	"Panjalu #0" = 5
+	"Samaragrawira #0" = 20
+	"Samaratungga #0" = 20
+	"Sanjaya #0" = 20
+	"Sarwweswara #0" = 5
+	"Srngga #0" = 5
+	"Tulodong #0" = 20
+	"Wawa #0" = 20
+	"Wijayamreta #0" = 20
+	
+	"Mahendratta #0" = -20
+}
+
+leader_names = {
+	Garung
+	Hino
+	Isyana
+	Kadiri
+	Kayuwangi
+	Kuripan
+	Layang
+	Limus
+	Panang
+	Saliendra
+	Sanjaya
+	Sindok
+	Warak
+	Wardhana
+}
+
+ship_names = {
+	Surakarta Yogyakarta Semarang Salatiga
+	"Gunung Merbabu" Sragen Sukoharjo Wonosari
+	"Gunung Lawu" Delanggu Cepu Purwodarli
+	Ngawi Grobogan Boja Amgarawa
+}

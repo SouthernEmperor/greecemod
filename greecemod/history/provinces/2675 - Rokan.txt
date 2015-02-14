@@ -1,0 +1,19 @@
+#2675 - Rokan
+
+owner = DRY
+controller = DRY
+culture = sumatran
+religion = hinduism
+capital = "Rokan"
+trade_goods = fish
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 2500
+add_core = ANK
+add_core = DRY
+fort1 = yes
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

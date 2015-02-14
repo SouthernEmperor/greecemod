@@ -1,0 +1,99 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 170  72  67 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	religious_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	indian_footsoldier
+	rajput_hill_fighters
+	indian_arquebusier
+	south_indian_musketeer
+	reformed_mughal_musketeer
+	indian_elephant
+	bhonsle_infantry
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	sikh_rifle
+	tipu_sultan_rocket
+}
+
+monarch_names = {
+	"Gopala #0" = 15
+	"Sikandara #0" = 15
+	"Agnimitra #0" = 15
+	"Mahendra #0" = 15
+	"Vasumitra #0" = 15
+	"Vigraha #0" = 15
+	"Narayan #0" = 15
+	"Andhraka #0" = 10
+	"Pulindaka #0" = 10
+	"Ghosha #0" = 10
+	"Devabhuti #0" = 10
+	"Kumara #0" = 10
+	"Mandana #0" = 10
+	"Govinda #0" = 10
+	"Chandragupta #0" = 10
+	"Bindusara #0" = 10
+	"Ashoka #0" = 10
+	"Dasaratha #0" = 10
+	"Samprati #0" = 10
+	"Salisuka #0" = 10
+	"Devavarman #0" = 10
+	"Satadhanvan #0" = 10
+	"Brihadratha #0" = 10
+	"Vikramaditya #0" = 10
+	"Ghatotkacha #0" = 10
+	"Kharavela #0" = 10
+	"Agni #0" = 0
+	"Periklesa #0" = 0
+	"Jesana #0" = 0
+	"Daksha #0" = 0
+	"Hemiza #0" = 0
+	"Indra #0" = 0
+	"Krishna #0" = 0
+	"Mitra #0" = 0
+	"Philipa #0" = 0
+	"Pushan #0" = 0
+	"Pala #0" = 0
+	"Rama #0" = 0
+	"Satya #0" = 0
+	"Ushas #0" = 0
+	"Varuna #0" = 0
+	"Ziusa #0" = 0
+	"Aratimisa #0" = -5
+	"Ethena #0" = -5
+	"Lakshmi #0" = -5
+	"Padma #0" = -5
+}
+
+leader_names = {
+	Abhasvara
+	Aditya
+	Anila
+	Chandra
+	Gupta
+	Harikela
+	Maharajika
+	Manava
+	Maurya
+	Rudra
+	Sadhava
+	Samatata
+	Shashanka
+	Tushita
+	Yaudheya
+	Vapyata
+	Vasu
+}

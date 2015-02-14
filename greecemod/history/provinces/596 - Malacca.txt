@@ -1,0 +1,26 @@
+#596 - Malacca
+
+owner = DRY
+controller = DRY
+culture = malayan
+religion = eastern_hellenic
+capital = "Malacca"
+trade_goods = spices
+hre = no
+base_tax = 7
+manpower = 3
+fort1 = yes
+citysize = 32500
+add_core = DRY
+add_core = TSK
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+
+1000.1.1 = {
+		add_permanent_province_modifier = {
+			name = center_of_trade_modifier
+			duration = -1
+		}
+}

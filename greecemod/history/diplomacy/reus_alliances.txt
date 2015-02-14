@@ -1,0 +1,13 @@
+#Langkasuka and her pet cats
+vassal = {
+	first = LGK
+	second = KLN
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}
+vassal = {
+	first = LGK
+	second = KED
+	start_date = 1444.1.1
+	end_date = 1821.1.1
+}

@@ -1,0 +1,20 @@
+#599 - Kelantan
+
+owner = KLN
+controller = KLN
+culture = malayan
+religion = hinduism
+capital = "Kelantan"
+trade_goods = naval_supplies
+hre = no
+base_tax = 2
+manpower = 2
+fort1 = yes
+citysize = 2200
+add_core = KLN
+add_core = LGK
+add_core = PHG
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
