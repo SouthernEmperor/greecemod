@@ -11,3 +11,17 @@ vassal = {
 	start_date = 1444.1.1
 	end_date = 1821.1.1
 }
+
+#Mataram and her pet cats
+vassal = {
+	first = MTR
+	second = TSK
+	start_date = 1444.1.1
+	end_date = 1821.1.1	
+}
+vassal = {
+	first = MTR
+	second = KLM
+	start_date = 1444.1.1
+	end_date = 1821.1.1	
+}

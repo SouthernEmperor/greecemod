@@ -1,0 +1,18 @@
+#2704 - Sibu
+
+owner = BEI
+controller = BEI
+culture = bornean
+religion = hinduism
+capital = "Sibu"
+trade_goods = spices
+hre = no
+base_tax = 4
+manpower = 3
+fort1 = yes
+citysize = 34100
+add_core = BEI
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman

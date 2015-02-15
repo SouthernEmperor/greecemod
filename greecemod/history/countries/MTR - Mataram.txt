@@ -7,8 +7,8 @@ capital = 2689
 
 1444.1.1 = {
 	monarch = {
-		name = "Reus Pelangi"
-		dynasty = "Tanaka"
+		name = "Devara Daviant Pelangi"
+		dynasty = "Tanaya"
 		birth_date = 1422.5.31
 		adm = 4
 		dip = 6

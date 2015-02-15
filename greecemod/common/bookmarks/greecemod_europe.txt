@@ -10,5 +10,12 @@ bookmark =
 	country = FRK
 	country = SAX
 	country = ALL
+	country = RHA
 	country = NOR
+	country = FIN
+	country = PRU
+	country = GAU
+	country = LIT
+	country = EST
+	country = KHZ
 }

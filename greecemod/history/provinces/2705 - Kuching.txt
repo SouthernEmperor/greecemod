@@ -1,18 +1,17 @@
-#2687 - Pakuan
+#2705 - Kuching
 
-owner = MTR
-controller = MTR
-add_core = MTR
-add_core = SUN
-culture = javanese
-religion = eastern_hellenic
-capital = "Pakuan"
+owner = BEI
+controller = BEI
+culture = bornean
+religion = hinduism
+capital = "Kuching"
 trade_goods = spices
 hre = no
 base_tax = 3
 manpower = 2
-citysize = 12005
 fort1 = yes
+citysize = 34100
+add_core = BEI
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

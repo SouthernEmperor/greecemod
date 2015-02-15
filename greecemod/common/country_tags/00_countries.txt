@@ -354,6 +354,11 @@ YAV = "countries/Yavadvipa.txt" #Sumatra - I f'ed the names
 JNG = "countries/Janggala.txt"
 MTR	= "countries/Mataram.txt"
 SNG = "countries/Singhasari.txt"
+SUN = "countries/Sunda.txt"
+
+BEI	= "countries/Brunei.txt"
+KLM = "countries/Kalimantan.txt"
+KUT = "countries/Kutai.txt"
 
 BLI	= "countries/Bali.txt"
 
@@ -404,33 +409,16 @@ HKI = "countries/Hitakami.txt"
 #ABOVE THIS LINE IS GREECEMOD STUFF
 #BELOW THIS LINE IS OLD COUNTRIES
 
-#Balkans
-ACH	= "countries/PrincipalityOfAchaia.txt"
+#Balkans are partly cleansed
 ALB	= "countries/Albania.txt"
-BOS	= "countries/Bosnia.txt"
-BUL	= "countries/Bulgaria.txt"
 CEP	= "countries/Corfu.txt"
 CRT	= "countries/Crete.txt"
 CYP	= "countries/Cyprus.txt"
-KNI	= "countries/Knights.txt"
-MOE	= "countries/Morea.txt"
-MOL	= "countries/Moldavia.txt"
-NAX	= "countries/Naxos.txt"
 RAG	= "countries/Ragusa.txt"
-RMN	= "countries/Romania.txt"
-SER	= "countries/Serbia.txt"
-TRA	= "countries/Transylvania.txt"
-WAL	= "countries/Wallachia.txt"
-HUN	= "countries/Hungary.txt"
-TUR	= "countries/Ottomans.txt"
 
-#British Isles 
+#British Isles are partly cleansed - union tags?
 ENG	= "countries/England.txt"
-LAN	= "countries/Lancaster.txt"
 SCO	= "countries/Scotland.txt"
-WLS	= "countries/Wales.txt"
-YOR	= "countries/York.txt"
-NOL = "countries/Northumberland.txt"
 GBR	= "countries/GreatBritain.txt"
 
 #Colonies
@@ -495,13 +483,7 @@ HLR = "countries/HolyRomanEmpire.txt"
 	
 #Spain is cleansed
 
-#Italy
-AQU	= "countries/Aquileia.txt"
-ETR	= "countries/Etruria.txt"
-MLO	= "countries/Milan.txt"
-PIS	= "countries/Pisa.txt"
-SAV	= "countries/Savoy.txt"
-TUS	= "countries/Tuscany.txt"
+#Italy is cleansed
 VEN	= "countries/Venice.txt"
 
 #Low Countries is cleansed
@@ -515,18 +497,9 @@ BSH	= "countries/Bashkiria.txt"
 
 SHR	= "countries/Sharjah.txt"
 		
-#Asia Minor		
-AKK	= "countries/AkKoyunlu.txt"
-AYD	= "countries/Aydin.txt"
-CND	= "countries/Candar.txt"
-DUL	= "countries/Dulkadir.txt"
+#Asia Minor is cleansed
 IRQ	= "countries/Iraq.txt"
-KAR	= "countries/Karaman.txt"
 SYR	= "countries/Syria.txt"
-TRE	= "countries/Trebizond.txt"
-SRU	= "countries/Saruhan.txt"
-MEN	= "countries/Mentese.txt"
-RAM	= "countries/Ramazan.txt"
 	
 #Maghreb
 MAM	= "countries/Burgi.txt"
@@ -539,12 +512,7 @@ KHI	= "countries/Khiva.txt"
 SHY	= "countries/Shaybanid.txt"
 KOK	= "countries/Kokkand.txt"
 
-#Persia	
-AFG	= "countries/Afghanistan.txt"
-KHO	= "countries/Khorasan.txt"
-JAI	= "countries/Jalayirid.txt"
-QAR	= "countries/QaraKoyunlu.txt"
-TIM	= "countries/Timurid.txt"
+#Persia	is cleansed
 
 #Americas
 AZT = "countries/Aztec.txt"
@@ -602,63 +570,34 @@ ARK	= "countries/Arakan.txt"
 ATJ	= "countries/Atjeh.txt"
 AYU	= "countries/Ayutthaya.txt"
 BAN	= "countries/Banten.txt"
-BEI	= "countries/Brunei.txt"
-CHG	= "countries/ChagataiKhanate.txt"
 CHK	= "countries/Champassak.txt"
 DAI	= "countries/DaiViet.txt"
 JAP	= "countries/Japan.txt"
 
-#Daimyos hahahahaha they don't exist
+#Daimyos hahahahaha what daimyos
 
-ANU = "countries/Ainu.txt"
-
-KHA	= "countries/MongolKhanate.txt"
 KOR	= "countries/Korea.txt"
-LNA	= "countries/LanNa.txt"
-LUA	= "countries/LuangPrabang.txt"
-LXA	= "countries/LanXang.txt"
-MAJ	= "countries/Majapahit.txt"
 MCH	= "countries/Manchu.txt"
 MKS	= "countries/Makassar.txt"
 MLC	= "countries/Malacca.txt"
-MNG	= "countries/Ming.txt"
-OIR	= "countries/OiratHorde.txt"
-PAT	= "countries/Pattani.txt"
 PEG	= "countries/Pegu.txt"
-QNG = "countries/Qing.txt"
-RYU	= "countries/Ryukyu.txt"
 SST	= "countries/Shan.txt"
 SUK	= "countries/Sukhothai.txt"
 SUL	= "countries/Sulu.txt"
 TAU	= "countries/Taungu.txt"
 TOK	= "countries/Tonkin.txt"
 VIE	= "countries/Vientiane.txt"
-CZH = "countries/Zhou.txt"
-CSH = "countries/Shun.txt"
-CXI = "countries/Xi.txt"
 
 #Manchuria tags
 MYR = "countries/Yeren.txt"
 MHX = "countries/Haixi.txt"
 MJZ = "countries/Jianzhou.txt"
 
-#Mongol tags
-KRC = "countries/Khorchin.txt"
-KLK = "countries/Khalkha.txt"
-DGL = "countries/Doughlat.txt"
-HMI = "countries/Karadel.txt"
-ZUN = "countries/Zunghar.txt"
-KAS = "countries/Yarkand.txt"
-CHH = "countries/Chahar.txt"
+#Mongol tags what are these Mongols you speak of?
 
-#Great Tibet tags
-KSD = "countries/Khoshuud.txt"
-SYG = "countries/Sarigyogir.txt"
+#Great Tibet tags nop
 
-#Non-Han China proper tags
-CDL = "countries/Dali.txt"
-CYI = "countries/Yi.txt"
-CMI = "countries/Miao.txt"
+#Non-Han China proper tags nop
 
 #India is cleaned
 
@@ -735,10 +674,6 @@ DMK = "countries/Demak.txt"
 PGR = "countries/Pagarruyung.txt"
 PSA = "countries/Pasai.txt"
 SAK = "countries/Siak.txt"
-SUN = "countries/Sunda.txt"
-KUT = "countries/Kutai.txt"
-BNJ = "countries/Banjar.txt"
-LFA = "countries/Lanfang.txt"
 LNO = "countries/Lanao.txt"
 LUW = "countries/Luwu.txt"
 MGD = "countries/Maguindanao.txt"

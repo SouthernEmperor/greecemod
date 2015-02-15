@@ -1,0 +1,6 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = bornean
+technology_group = indian
+religion = hinduism
+capital = 639

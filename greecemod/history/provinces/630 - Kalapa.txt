@@ -3,6 +3,7 @@
 owner = MTR
 controller = MTR
 add_core = MTR
+add_core = SUN
 culture = javanese
 religion = hinduism
 capital = "Kalapa"

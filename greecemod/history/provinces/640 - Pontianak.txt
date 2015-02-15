@@ -1,18 +1,20 @@
-#624 - Banten
+#640 - Pontianak
 
 owner = MTR
 controller = MTR
 add_core = MTR
-add_core = SUN
-culture = javanese
-religion = eastern_hellenic
-capital = "Banten"
+add_core = BEI
+add_core = KLM
+culture = bornean
+religion = hinduism
+capital = "Pontianak"
 trade_goods = unknown
 hre = no
 base_tax = 4
 manpower = 3
-citysize = 12005
 fort1 = yes
+citysize = 10000
+trade_goods = gold
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim

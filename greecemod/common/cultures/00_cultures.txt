@@ -536,16 +536,16 @@ tshadi = {
 	sao = {
 	}
 	manganese = {
-	primary = MGA
+		primary = MGA
 	}
 	agisymban = {
-	primary = AGS
+		primary = AGS
 	}
+}
 	
 maghrebi = {
 	graphical_culture = muslimgfx
 	berber = {
-		primary = TLC
 		dynasty_names = {
 			"al-Ilighi" "al-Tadsi" "Zayyanid"
 		}

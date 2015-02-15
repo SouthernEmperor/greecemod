@@ -6,5 +6,17 @@ bookmark =
 
 	center = 409
 	
+	country = TIB
+	country = MTR
+	country = KSE
+	country = KHM
+	country = GYT
+	country = NYU
+	country = MYU
 	country = CHX
+	country = TNH
+	country = BLH
+	country = HTA
+	country = JKU
+	country = JHI
 }

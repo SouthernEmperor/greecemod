@@ -8,4 +8,10 @@ bookmark =
 	
 	country = SCY
 	country = TAM
+	country = MOK
+	country = LAO
+	country = KYR
+	country = UYG
+	country = YUE
+	country = MAG
 }

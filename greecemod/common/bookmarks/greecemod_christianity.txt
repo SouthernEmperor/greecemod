@@ -6,9 +6,13 @@ bookmark =
 
 	center = 409
 	
+	country = PAP
 	country = PER
+	country = ECB
+	country = SSA
 	country = ASY
 	country = PLM
 	country = SKR
 	country = BYZ
+	country = GND
 }

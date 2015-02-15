@@ -7,8 +7,14 @@ bookmark =
 	center = 1157
 	
 	country = JOL
+	country = KTR
+	country = ISS
 	country = GNA
+	country = AGS
 	country = KBO
+	country = CHS
 	country = IRA
+	country = PRA
+	country = NCN
 	country = MSY
 }
