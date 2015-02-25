@@ -64,6 +64,7 @@ TSI = "countries/Tasiman.txt"
 NAN = "countries/Nan.txt"
 BMA = "countries/Bei.txt"
 DIM = "countries/Di.txt"
+BJI = "countries/Baijinzhou.txt"
 
 #Britain
 ALY = "countries/Albiyun.txt"
@@ -225,6 +226,7 @@ BUK = "countries/Bukhara.txt"
 KYR = "countries/Kyrgyz.txt"
 LAO = "countries/Liao.txt"
 MRG = "countries/Margiana.txt"
+NNI = "countries/Nanai.txt"
 OGH = "countries/Oghuz.txt"
 SMK = "countries/Marakanda.txt"
 SOG = "countries/Sogdiana.txt"
@@ -387,7 +389,9 @@ CPG = "countries/Ping.txt"
 CYE = "countries/Ye.txt"
 
 #North China
+EVE = "countries/Evenkil.txt"
 MAG = "countries/Magyar.txt"
+SSH = "countries/Sushen.txt"
 YUE = "countries/Yueban.txt"
 
 #Korea

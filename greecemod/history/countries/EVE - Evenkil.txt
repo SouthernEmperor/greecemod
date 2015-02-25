@@ -1,0 +1,5 @@
+government = steppe_horde
+technology_group = nomad_group
+religion = shamanism
+primary_culture = evenkil
+capital = 1053

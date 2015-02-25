@@ -1,0 +1,14 @@
+#2731 - Guugu Yimithirr
+
+owner = BJI
+controller = BJI
+add_core = BJI
+fort1 = yes
+is_city = yes
+culture = qihan
+religion = animism
+capital = "Guugu Yimithirr"
+trade_goods = gold
+hre = no
+base_tax = 2
+manpower = 1

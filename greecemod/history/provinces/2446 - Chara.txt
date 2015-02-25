@@ -1,0 +1,17 @@
+#2446 - Chara
+
+owner = EVE
+controller = EVE
+add_core = EVE
+culture = evenkil
+religion = shamanism
+capital = "Chara"
+trade_goods = wool
+hre = no
+base_tax = 4
+manpower = 7
+native_size = 3
+native_ferocity = 1
+native_hostileness = 3
+citysize = 1087
+discovered_by = nomad_group

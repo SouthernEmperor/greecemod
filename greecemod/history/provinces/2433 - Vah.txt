@@ -1,0 +1,15 @@
+#2433 - Kemerovo
+
+owner = NNI
+controller = NNI
+culture = ostyaki
+religion = shamanism
+capital = "Vah"
+trade_goods = fur
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 2900
+add_core = NNI
+discovered_by = nomad_group
+unrest = 15

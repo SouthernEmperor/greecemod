@@ -261,6 +261,17 @@ finno_ugric = {
 	
 	moksha = {
 	}
+	komi = {
+	}
+	vespian = {
+	}
+	mansi = {
+	}
+}
+
+slavs = {
+	slavic = {
+	}
 }
 
 hephthalite = {
@@ -697,12 +708,15 @@ altaic = {
 	}
 }
 
-khitan_group = {
+hezhen = {
 	khitan = {
 		primary = LAO
 	}
+
+	nanai = {
+		primary = NNI
+	}
 }
-	
 
 insular_carib = {
 	graphical_culture = southamericagfx
@@ -1113,6 +1127,7 @@ shiwei = {
 	magyar = {
 	}
 	evenkil = {
+		primary = EVE
 	}
 	
 	dynasty_names = {
@@ -1177,6 +1192,7 @@ yashima = {
 	graphical_culture = asiangfx
 
 	sushen = {
+		primary = SSH
 	}
 	emisi = {
 	}
