@@ -1,0 +1,38 @@
+# - Macaya
+
+owner = CSU
+controller = CSU
+add_core = CSU
+citysize = 2800
+discovered_by = south_american
+discovered_by = andean
+culture = lima
+religion = animism
+capital = "Macaya"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+
+
+1476.1.1 = {
+	owner = INC
+	controller = INC
+	add_core = INC
+}
+1500.1.1  = { citysize = 3650 }
+1533.8.29 = {	discovered_by = SPA
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	culture = castillian
+	religion = catholic
+}# The death of Atahualpa
+1550.1.1  = { citysize = 4362 }
+1558.8.29 = { add_core = SPA }
+1600.1.1  = { citysize = 6655 }
+1650.1.1  = { citysize = 8670 }
+1700.1.1  = { citysize = 12870 }
+1750.1.1  = { citysize = 15400 }
+1800.1.1  = { citysize = 17560 }
+1809.7.16 = { revolt = { type = nationalist_rebels size = 3 } controller = REB } # Bolivian War of Independence

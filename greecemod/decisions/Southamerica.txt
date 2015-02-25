@@ -1,0 +1,72 @@
+limaunion = {
+		major = yes
+		potential = {
+			NOT = { exists = LIM }
+			culture = lima
+		}
+		allow = { 
+			is_subject = no
+			is_at_war = no
+			owns = 809
+			owns = 2828
+			owns = 2830
+			owns = 811
+			owns = 808
+			owns = 807
+			owns = 810
+			
+			is_core = 809
+			is_core = 2828
+			is_core = 2830
+			is_core = 811
+			is_core = 808
+			is_core = 807
+			is_core = 810
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = LIM
+			LIM = {
+				set_capital = 809 # Lima
+			}
+		}
+	}
+nazcaunion = {
+		major = yes
+		potential = {
+			NOT = { exists = NZC }
+			culture = nazca
+		}
+		allow = { 
+			is_subject = no
+			is_at_war = no
+			owns = 804
+			owns = 793
+			owns = 2841
+			owns = 2840
+			owns = 792
+			owns = 796
+
+			is_core = 804
+			is_core = 793
+			is_core = 2841
+			is_core = 2840
+			is_core = 792
+			is_core = 796
+		}
+		effect = {
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			change_tag = NZC
+			NZC = {
+				set_capital = 796
+			}
+		}
+	}

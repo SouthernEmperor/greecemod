@@ -258,19 +258,13 @@ finno_ugric = {
 	}
 	ostyaki = {
 	}
-	
-	moksha = {
-	}
 	komi = {
 	}
 	vespian = {
 	}
 	mansi = {
 	}
-}
-
-slavs = {
-	slavic = {
+	moksha = {
 	}
 }
 
@@ -712,11 +706,11 @@ hezhen = {
 	khitan = {
 		primary = LAO
 	}
-
 	nanai = {
 		primary = NNI
 	}
 }
+	
 
 insular_carib = {
 	graphical_culture = southamericagfx
@@ -757,6 +751,21 @@ mexica = {
 	acaxee = {
 	}
 }
+sudamericano = {
+	graphical_culture = southamericagfx
+	moche = {
+	}
+	chimu = {
+	}
+	lima = {
+	}
+	nazca = {
+	}
+	chavin = {
+	}
+	cupisnique = {
+	}
+}
 olmec = {
 	graphical_culture = southamericagfx
 	western_olmec = {
@@ -775,21 +784,6 @@ mayan = {
 	mosquitan = {
 	}
 	central_maya = {
-	}
-
-
-andean_group = {
-	graphical_culture = southamericagfx
-	
-	
-	aimara = {
-		primary = CRA
-	}
-	diaguita = {
-		primary = CCQ
-	}
-	chimuan = {
-		primary = CHM
 	}
 }
 

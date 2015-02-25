@@ -66,6 +66,15 @@ BMA = "countries/Bei.txt"
 DIM = "countries/Di.txt"
 BJI = "countries/Baijinzhou.txt"
 
+#Sudamericanos
+WKA = "countries/Wanka.txt" #Recycled as CAMANA
+CSU = "countries/Cusco.txt" #Recycled as QUERO
+LIM = "countries/Lima.txt" #Lima culture union of sorts
+CLA = "countries/Colla.txt" #Recycled
+PCJ = "countries/Pacajes.txt" #Recycled
+NZC = "countries/Nazca.txt" #union for Nazca states
+CCQ = "countries/Calchaqui.txt" #Recycled as Cupisnique
+
 #Britain
 ALY = "countries/Albiyun.txt"
 BRC = "countries/Bernicia.txt"
@@ -223,10 +232,10 @@ PRT = "countries/Parthia.txt"
 
 #Central Asia
 BUK = "countries/Bukhara.txt"
+NNI = "countries/Nanai.txt"
 KYR = "countries/Kyrgyz.txt"
 LAO = "countries/Liao.txt"
 MRG = "countries/Margiana.txt"
-NNI = "countries/Nanai.txt"
 OGH = "countries/Oghuz.txt"
 SMK = "countries/Marakanda.txt"
 SOG = "countries/Sogdiana.txt"
@@ -685,8 +694,6 @@ TER = "countries/Ternate.txt"
 TID  = "countries/Tidore.txt"
 
 #South American Additions
-CSU = "countries/Cusco.txt"
-CCQ = "countries/Calchaqui.txt"
 MPC = "countries/Mapuche.txt"
 MCA = "countries/Muisca.txt"
 QTO = "countries/Quito.txt"
@@ -698,9 +705,6 @@ TPA = "countries/Tupinamba.txt"
 TUA = "countries/Tapuia.txt"
 GUA = "countries/Guarani.txt"
 CUA = "countries/Charrua.txt"
-WKA = "countries/Wanka.txt"
 CYA = "countries/Chachapoya.txt"
-CLA = "countries/Colla.txt"
 CRA = "countries/Charca.txt"
-PCJ = "countries/Pacajes.txt"
 ARW = "countries/Arawak.txt"
