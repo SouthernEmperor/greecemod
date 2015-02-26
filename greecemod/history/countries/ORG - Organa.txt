@@ -2,7 +2,7 @@ government = merchant_republic
 mercantilism = 0.1
 primary_culture = persian
 religion = catholic
-technology_group = ottoman
+technology_group = eastern
 capital = 431
 
 1444.1.1 = {

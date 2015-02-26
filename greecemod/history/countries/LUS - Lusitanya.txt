@@ -2,7 +2,7 @@ government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = arab_iberian
 religion = ashari
-technology_group = muslim
+technology_group = ottoman
 capital = 229
 
 1444.1.1 = {

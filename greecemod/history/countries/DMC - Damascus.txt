@@ -2,7 +2,7 @@ government = administrative_republic
 mercantilism = 0.1
 primary_culture = syriac
 religion = catholic
-technology_group = ottoman
+technology_group = eastern
 capital = 382
 
 1444.1.1 = {

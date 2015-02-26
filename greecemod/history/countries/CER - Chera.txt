@@ -3,5 +3,5 @@ mercantilism = 0.1
 primary_culture = malayalam
 add_accepted_culture = tamil
 religion = mithraic
-technology_group = indian
+technology_group = muslim
 capital = 535

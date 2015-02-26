@@ -2,7 +2,7 @@ government = theocratic_government
 mercantilism = 0.1
 primary_culture = phoenician
 religion = catholic
-technology_group = ottoman
+technology_group = eastern
 capital = 2313
 
 1444.1.1 = {

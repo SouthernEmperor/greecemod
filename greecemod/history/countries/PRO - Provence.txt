@@ -9,6 +9,6 @@ mercantilism = 0.1
 #serfdom_freesubjects = -2
 primary_culture = aquitainian
 religion = ashari
-technology_group = muslim
+technology_group = ottoman
 capital = 201 # Aix-en-Provence
 

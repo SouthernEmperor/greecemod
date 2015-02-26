@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -2
 primary_culture = tai_luang
 religion = hinduism
-technology_group = indian
+technology_group = muslim
 capital = 582
 
 

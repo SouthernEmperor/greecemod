@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -2
 primary_culture = nan_yuet
 religion = shenist
-technology_group = chinese
+technology_group = indian
 capital = 2372
 
 # Tran Dynasty, Later Le Dynasty, Mac Dynasty and Tay Son Dynasty

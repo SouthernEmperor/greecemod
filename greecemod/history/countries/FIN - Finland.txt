@@ -1,5 +1,5 @@
 government = despotic_monarchy
-technology_group = western
+technology_group = chinese
 religion = finnish_pagan
 primary_culture = finnish
 capital = 27	# Åbo

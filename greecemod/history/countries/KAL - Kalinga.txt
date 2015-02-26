@@ -2,7 +2,7 @@ government = feudal_monarchy
 mercantilism = 0.1
 primary_culture = kalingan
 religion = eastern_hellenic
-technology_group = indian
+technology_group = muslim
 capital = 552
 
 1444.1.1 = {

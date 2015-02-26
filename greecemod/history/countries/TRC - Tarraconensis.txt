@@ -3,7 +3,7 @@ mercantilism = 0.1
 primary_culture = hispanic
 add_accepted_culture = arab_iberian
 religion = ashari
-technology_group = muslim
+technology_group = ottoman
 capital = 213
 
 1444.1.1 = {

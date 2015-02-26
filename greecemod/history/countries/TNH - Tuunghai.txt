@@ -2,7 +2,7 @@ government = merchant_republic
 mercantilism = 0.25
 religion = shinto
 primary_culture = shimagwa
-technology_group = chinese
+technology_group = indian
 capital = 1015
 
 1444.1.1 = {

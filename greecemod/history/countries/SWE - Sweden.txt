@@ -1,7 +1,7 @@
 government = feudal_monarchy
 mercantilism = 0.1
-technology_group = western
-unit_type = western
+technology_group = chinese
+unit_type = chinese
 primary_culture = swedish
 religion = norse_pagan
 add_accepted_culture = finnish

@@ -2,7 +2,7 @@ government = feudal_monarchy
 mercantilism = 0.1
 primary_culture = magadhi
 religion = sarvastivada
-technology_group = indian
+technology_group = muslim
 capital = 558
 
 1444.1.1 = {

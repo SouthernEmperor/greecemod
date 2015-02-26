@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -2
 primary_culture = babylonian
 religion = catholic
-technology_group = ottoman
+technology_group = eastern
 capital = 409
 fixed_capital = 409  # Cannot move capital away from this province & no power cost to move to it
 

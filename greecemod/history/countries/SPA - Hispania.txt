@@ -2,6 +2,6 @@ government = imperial_government
 mercantilism = 0.1
 primary_culture = roman
 religion = ashari
-technology_group = muslim
+technology_group = ottoman
 historical_rival = ITA
 capital = 213

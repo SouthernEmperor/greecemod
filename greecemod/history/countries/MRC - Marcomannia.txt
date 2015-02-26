@@ -2,7 +2,7 @@ government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = thuringii
 religion = germanic_pagan
-technology_group = western
+technology_group = chinese
 capital = 266 #Bohemia
 
 

@@ -1,6 +1,6 @@
 government = despotic_monarchy
 primary_culture = hmao
 religion = shenist
-technology_group = chinese
+technology_group = indian
 capital = 674
 

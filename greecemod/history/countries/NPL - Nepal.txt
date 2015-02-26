@@ -1,6 +1,6 @@
 government = feudal_monarchy
 mercantilism = 0.1
-technology_group = indian
+technology_group = muslim
 primary_culture = nepali
 religion = eastern_hellenic
 capital = 557	# Kathmandu

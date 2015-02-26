@@ -2,7 +2,7 @@ government = merchant_republic
 mercantilism = 0.1
 primary_culture = isian
 religion = isaya
-technology_group = muslim
+technology_group = ottoman
 capital = 1205
 
 1444.1.1 = {

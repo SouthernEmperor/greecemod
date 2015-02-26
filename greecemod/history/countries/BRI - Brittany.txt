@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -2
 primary_culture = breton
 religion = celtic_pagan
-technology_group = muslim
+technology_group = ottoman
 capital = 170	# Nantes
 
 

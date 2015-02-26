@@ -2,7 +2,7 @@ government = merchant_republic
 mercantilism = 0.1
 primary_culture = malayalam
 religion = mithraic
-technology_group = indian
+technology_group = muslim
 capital = 535
 
 1444.1.1 = {

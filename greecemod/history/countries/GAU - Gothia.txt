@@ -2,7 +2,7 @@ government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = gothic
 religion = yavana
-technology_group = western
+technology_group = chinese
 capital = 156 #Temes
 
 1423.7.3 = {

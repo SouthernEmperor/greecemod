@@ -1,6 +1,6 @@
 government = iqta 
 mercantilism = 0.1
-technology_group = muslim
+technology_group = ottoman
 religion = ashari
 primary_culture = zenadi
 capital = 336

@@ -1,5 +1,5 @@
 government = despotic_monarchy
-technology_group = eastern
+technology_group = chinese
 religion = finnish_pagan
 primary_culture = estonian
 capital = 36	# Estland

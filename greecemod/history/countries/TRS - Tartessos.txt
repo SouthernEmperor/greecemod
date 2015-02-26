@@ -10,7 +10,7 @@ mercantilism = 0.1
 primary_culture = tartessian
 religion = ashari
 add_accepted_culture = berber
-technology_group = muslim
+technology_group = ottoman
 capital = 224	# Tartessos
 
 1444.1.1 = {

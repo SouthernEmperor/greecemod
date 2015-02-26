@@ -2,7 +2,7 @@ government = tribal_federation
 mercantilism = 0.1
 primary_culture = numidian
 religion = ashari
-technology_group = muslim
+technology_group = ottoman
 capital = 352
 
 1444.1.1 = {

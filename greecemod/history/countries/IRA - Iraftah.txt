@@ -2,7 +2,7 @@ government = merchant_republic
 mercantilism = 0.1
 primary_culture = exodite
 religion = exodite_islam
-technology_group = muslim
+technology_group = ottoman
 capital = 1195
 
 1444.1.1 = {

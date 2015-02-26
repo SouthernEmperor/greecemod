@@ -2,7 +2,7 @@ government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = qonddari
 religion = ashari
-technology_group = muslim
+technology_group = ottoman
 unit_type = sub_saharan
 capital = 1224		# Gonder
 

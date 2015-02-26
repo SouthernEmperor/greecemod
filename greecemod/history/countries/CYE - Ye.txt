@@ -2,7 +2,7 @@ government = daimyo
 mercantilism = 0.15
 primary_culture = qihan
 religion = shenist
-technology_group = chinese
+technology_group = indian
 capital = 1821
 
 1444.1.1 = {

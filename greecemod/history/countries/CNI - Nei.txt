@@ -1,7 +1,7 @@
 government = daimyo
 primary_culture = qinhan
 religion = shanzen
-technology_group = chinese
+technology_group = indian
 capital = 699
 
 1444.1.1 = {

@@ -2,7 +2,7 @@ government = feudal_monarchy
 mercantilism = 0.1
 primary_culture = maharashtri
 religion = hinduism
-technology_group = indian
+technology_group = muslim
 capital = 569
 
 1444.1.1 = {

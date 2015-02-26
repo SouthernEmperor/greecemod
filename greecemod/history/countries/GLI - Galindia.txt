@@ -2,8 +2,7 @@ government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = galindian
 religion = baltic_pagan
-technology_group = eastern
-historical_rival = NOV
+technology_group = chinese
 capital = 295 # Moskva
 
 national_focus = ADM

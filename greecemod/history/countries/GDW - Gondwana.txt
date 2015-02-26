@@ -1,6 +1,6 @@
 government = tribal_kingdom
 mercantilism = 0.1
-technology_group = indian
+technology_group = muslim
 religion = hinduism
 primary_culture = gondi
 capital = 2082

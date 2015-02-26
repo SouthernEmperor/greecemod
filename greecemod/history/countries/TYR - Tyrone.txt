@@ -2,7 +2,7 @@ government = merchant_republic
 mercantilism = 0.1
 primary_culture = phoenician
 religion = catholic
-technology_group = ottoman
+technology_group = eastern
 capital = 1855
 
 1444.1.1 = {

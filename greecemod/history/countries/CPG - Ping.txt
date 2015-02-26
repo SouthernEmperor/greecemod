@@ -1,7 +1,7 @@
 government = daimyo
 primary_culture = qihan
 religion = wuxing_bagua
-technology_group = chinese
+technology_group = indian
 capital = 2138
 
 1444.1.1 = {

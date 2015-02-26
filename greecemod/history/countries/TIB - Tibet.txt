@@ -9,7 +9,7 @@ mercantilism = 0.2
 #serfdom_freesubjects = 0
 primary_culture = tibetan
 religion = sarvastivada
-technology_group = chinese
+technology_group = indian
 capital = 677 # Lhasa
 
 1443.1.1 = {

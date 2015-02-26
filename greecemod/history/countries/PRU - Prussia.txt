@@ -2,7 +2,7 @@ government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = prussian
 religion = baltic_pagan
-technology_group = western
+technology_group = chinese
 capital = 41	# Königsberg
 
 1510.12.14 = {

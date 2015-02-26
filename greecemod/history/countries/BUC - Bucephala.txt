@@ -2,6 +2,6 @@ government = noble_republic
 mercantilism = 0.1
 primary_culture = bactrian
 religion = catholic
-technology_group = ottoman
+technology_group = eastern
 capital = 2076
 fixed_capital = 2076

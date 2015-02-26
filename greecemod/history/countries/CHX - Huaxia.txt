@@ -1,7 +1,7 @@
 government = shogunate
 primary_culture = qinhan
 religion = shenist
-technology_group = chinese
+technology_group = indian
 capital = 692
 
 1444.1.1 = {

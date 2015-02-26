@@ -2,5 +2,5 @@ government = tribal_kingdom
 mercantilism = 0.1
 primary_culture = sein
 religion = eastern_hellenic
-technology_group = indian
+technology_group = muslim
 capital = 2091

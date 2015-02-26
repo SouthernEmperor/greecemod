@@ -2,7 +2,7 @@ government = merchant_republic
 mercantilism = 0.1
 primary_culture = helleno_somali
 religion = imperial_hellenic
-technology_group = muslim
+technology_group = ottoman
 capital = 2786
 
 1444.1.1 = {

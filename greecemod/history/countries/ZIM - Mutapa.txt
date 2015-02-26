@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -5
 primary_culture = shona
 religion = exodite_islam
-technology_group = indian
+technology_group = muslim
 unit_type = sub_saharan
 capital = 1184	# Khami
 

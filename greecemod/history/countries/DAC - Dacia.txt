@@ -2,7 +2,7 @@ government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = dacian
 religion = imperial_hellenic
-technology_group = western
+technology_group = eastern
 capital = 160 #Temes
 
 1423.7.3 = {

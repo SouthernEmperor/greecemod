@@ -2,7 +2,7 @@ government = feudal_monarchy
 mercantilism = 0.1
 primary_culture = kashmiri
 religion = manichaean
-technology_group = indian
+technology_group = muslim
 capital = 508	# Srinagar
 
 1444.1.1 = {

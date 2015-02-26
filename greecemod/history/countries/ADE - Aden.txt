@@ -2,7 +2,7 @@ government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = sheban
 religion = jewish
-technology_group = muslim
+technology_group = eastern
 capital = 390	# Sana'a
 
 #Imams of Yemen
@@ -14,7 +14,6 @@ capital = 390	# Sana'a
 		dip = 2
 		mil = 1
 	}
-	add_piety = 0.25
 }
 
 1377.1.1 = {

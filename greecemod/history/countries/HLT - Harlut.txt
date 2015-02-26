@@ -2,7 +2,7 @@ government = feudal_monarchy
 mercantilism = 0.1
 primary_culture = punjabi
 religion = jewish
-technology_group = indian
+technology_group = muslim
 capital = 525
 
 1444.1.1 = {

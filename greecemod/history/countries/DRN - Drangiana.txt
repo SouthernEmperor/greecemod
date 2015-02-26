@@ -2,7 +2,7 @@ government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = persian
 religion = catholic
-technology_group = ottoman
+technology_group = eastern
 capital = 2221
 
 1444.1.1 = {

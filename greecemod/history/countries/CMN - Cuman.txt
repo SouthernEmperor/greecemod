@@ -2,5 +2,5 @@ government = steppe_horde
 mercantilism = 0.1
 primary_culture = tartar
 religion = zoroastrian
-technology_group = eastern
+technology_group = nomad_group
 capital = 298

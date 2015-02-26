@@ -2,7 +2,7 @@ government = administrative_monarchy
 mercantilism = 0.1
 primary_culture = saeki
 religion = shinto
-technology_group = chinese
+technology_group = indian
 capital = 1027
 
 1444.1.1 = {

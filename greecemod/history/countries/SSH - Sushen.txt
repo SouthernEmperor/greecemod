@@ -1,5 +1,5 @@
 government = despotic_monarchy
-technology_group = chinese
+technology_group = indian
 religion = shamanism
 primary_culture = sushen
 capital = 1850

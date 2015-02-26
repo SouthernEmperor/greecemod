@@ -2,5 +2,5 @@ government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = malgal
 religion = shanzen
-technology_group = chinese
+technology_group = indian
 capital = 1845

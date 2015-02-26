@@ -2,7 +2,7 @@ government = theocratic_government
 mercantilism = 0.1
 primary_culture = cumbric
 religion = catholic
-technology_group = muslim
+technology_group = ottoman
 capital = 246
 
 1444.1.1 = {

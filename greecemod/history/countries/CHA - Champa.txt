@@ -9,7 +9,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -1
 primary_culture = cham
 religion = hinduism
-technology_group = indian
+technology_group = muslim
 capital = 607	# Vijaya
 
 
