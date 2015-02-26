@@ -1,0 +1,19 @@
+government = tribal_kingdom
+mercantilism = 0.1
+primary_culture = chavin
+religion = animism
+technology_group = andean
+unit_type = south_american
+capital = 2820
+
+1444.1.1 = {
+	monarch = {
+		name = "Paco"
+		dynasty = "Chavinescaraca"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+#1467 - annexed by Incas

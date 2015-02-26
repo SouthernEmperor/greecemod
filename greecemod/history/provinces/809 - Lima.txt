@@ -1,0 +1,54 @@
+#809 - Lima
+
+owner = HCV
+controller = HCV
+culture = lima
+religion = animism
+capital = "Lima"
+trade_goods = fish
+hre = no
+base_tax = 3
+manpower = 1
+add_local_autonomy = 50
+citysize = 2844
+add_core = HCV
+discovered_by = south_american
+discovered_by = andean
+discovered_by = CHM
+
+1000.1.1 = {
+	add_permanent_province_modifier = {
+		name = center_of_trade_modifier
+		duration = -1
+	}
+}
+1450.1.1  = { citysize = 4000 }
+1470.1.1 = {
+	owner = INC
+	controller = INC
+	add_core = INC
+}
+1500.1.1  = { citysize = 5322 }
+1533.8.29 = {	discovered_by = SPA
+		owner = SPA
+		controller = SPA
+		add_core = SPA
+		culture = castillian
+		religion = catholic
+	    }# The death of Atahualpa
+1535.6.1  = { unrest = 4 } # Manco Inca Yupanqui rebellion, the fort of Lima is attacked 
+1537.1.1  = { unrest = 8 } # Fighting breaks out when Almagro seizes Cuzco
+1538.1.1  = { unrest = 5 } # Almagro is defeated & executed
+1541.1.1  = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumes control
+1548.1.1  = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
+1550.1.1  = { citysize = 10015 }
+1558.8.29 = { add_core = SPA }
+1578.1.1  = { unrest = 4 } # Slave rebellion
+1579.1.1  = { unrest = 0 }
+1600.1.1  = { citysize = 25760 } # Rapid development because of the harbour at Callao
+1630.1.1  = { marketplace = yes } # Centre of the Spanish trade monopoly
+1650.1.1  = { citysize = 32280 }
+1700.1.1  = { citysize = 37000 }
+1746.1.1  = { citysize = 28500 } # Most of the city is destroyed in an earthquake
+1750.1.1  = { citysize = 42600 }
+1800.1.1  = { citysize = 53000 }

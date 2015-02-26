@@ -1,0 +1,44 @@
+#816 - Tumbes
+
+owner = CCH
+controller = CCH
+culture = chavin
+religion = animism
+capital = "Tumbes"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1500
+add_core = CCH
+discovered_by = south_american
+discovered_by = andean
+discovered_by = CHM
+
+1450.1.1  = { citysize = 1800 }
+1470.1.1 = {
+	owner = INC
+	controller = INC
+	add_core = INC
+}
+1528.1.1  = { discovered_by = SPA } # Francisco Pizarro
+1532.1.1  = {	owner = SPA
+		controller = SPA
+		culture = castillian
+		religion = catholic
+	   	citysize = 2160
+	    } # Battle of Cajamarca
+1537.1.1  = { unrest = 8 } # Fighting breaks out when Almagro seizes Cuzco
+1538.1.1  = { unrest = 5 } # Almagro is defeated & executed
+1550.1.1  = { citysize = 3510 }
+1557.1.1  = { add_core = SPA }
+1600.1.1  = { citysize = 4970 }
+1650.1.1  = { citysize = 5570 }
+1700.1.1  = { citysize = 6040 }
+1750.1.1  = { citysize = 6555 }
+1800.1.1  = { citysize = 6980 }
+1810.7.20 = {	owner = COL
+		controller = COL
+		add_core = COL
+	    } # Colombia declares independence
+1819.8.7  = { remove_core = SPA } # Colombia's independence is recongnized

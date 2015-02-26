@@ -74,6 +74,16 @@ CLA = "countries/Colla.txt" #Recycled
 PCJ = "countries/Pacajes.txt" #Recycled
 NZC = "countries/Nazca.txt" #union for Nazca states
 CCQ = "countries/Calchaqui.txt" #Recycled as Cupisnique
+CJA = "countries/Cajamarca.txt" #recycled
+CSC = "countries/Chavinescara.txt" 
+CCH = "countries/Chavinchuray.txt"
+QTO = "countries/Quito.txt" #recycled
+CHM = "countries/Chimu.txt" #recycled as north chimu
+SCH = "countries/Southchimu.txt"
+HJA = "countries/Huyla.txt" #recycled
+HCV = "countries/Huancaviya.txt" 
+CAY = "countries/Ucayali.txt"
+JIV = "countries/Jivaro.txt"
 
 #Britain
 ALY = "countries/Albiyun.txt"
@@ -530,7 +540,6 @@ KOK	= "countries/Kokkand.txt"
 #Americas
 AZT = "countries/Aztec.txt"
 CHE = "countries/Cherokee.txt"
-CHM = "countries/Chimu.txt"
 CRE = "countries/Creek.txt"
 HUR = "countries/Huron.txt"
 
@@ -696,9 +705,6 @@ TID  = "countries/Tidore.txt"
 #South American Additions
 MPC = "countries/Mapuche.txt"
 MCA = "countries/Muisca.txt"
-QTO = "countries/Quito.txt"
-CJA = "countries/Cajamarca.txt"
-HJA = "countries/Huyla.txt"
 PTG = "countries/Potiguara.txt"
 TPQ = "countries/Tupiniquim.txt"
 TPA = "countries/Tupinamba.txt"

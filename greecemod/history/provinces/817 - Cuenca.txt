@@ -1,0 +1,43 @@
+#817 - Cuenca
+
+owner = CCH
+controller = CCH
+add_core = CCH
+culture = chavin
+discovered_by = south_american
+discovered_by = andean
+religion = animism
+capital = "Tumibamba"
+citysize = 1900
+trade_goods = wool
+hre = no
+base_tax = 3
+manpower = 2
+discovered_by = QTO
+
+1487.1.1  = {
+	owner = INC
+	controller = INC
+	add_core = INC
+}
+1533.1.1  = {	discovered_by = SPA
+		owner = SPA
+		controller = SPA
+		capital = "Cuenca"
+		culture = castillian
+		religion = catholic
+	    } # Conquered by the Spanish
+1537.1.1  = { unrest = 8 } # Fighting breaks out when Almagro seizes Cuzco
+1538.1.1  = { unrest = 5 } # Almagro is defeated & executed
+1557.1.1  = { citysize = 2400 } # Spanish settlement
+1558.1.1  = { add_core = SPA }
+1600.1.1  = { citysize = 3400 }
+1650.1.1  = { citysize = 4210 }
+1700.1.1  = { citysize = 4100 }
+1750.1.1  = { citysize = 7600 }
+1800.1.1  = { citysize = 24570 }
+1810.7.20 = {	owner = COL
+		controller = COL
+		add_core = COL
+	    } # Colombia declares independence
+1819.8.7  = { remove_core = SPA } # Colombia's independence is recongnized

@@ -823,13 +823,15 @@ je = {
 	}
 }
 
-maranon = {
-	graphical_culture = southamericagfx
-	jivaro = {
-	
+jivaro = {
+	graphical_culture = northamericagfx
+	shuar = {
 	}
-	chachapoyan = {
-		primary = CYA
+	achuar = {
+	}
+	humabisa = {
+	}
+	agaruna = {
 	}
 }
 

@@ -1,0 +1,36 @@
+#822 - Caqueta
+
+culture = humabisa
+discovered_by = south_american
+discovered_by = andean
+discovered_by = MCA
+religion = animism
+capital = "Mocoa"
+trade_goods = unknown
+hre = no
+base_tax = 1
+manpower = 1
+native_size = 10
+native_ferocity = 1 
+native_hostileness = 1
+
+1533.8.29 = {	discovered_by = SPA
+		owner = SPA
+		controller = SPA
+		culture = castillian
+		trade_goods = cocoa
+		is_city = yes
+		religion = catholic
+	    } # The death of Atahualpa
+1550.1.1  = { citysize = 4700 }
+1558.8.29 = { add_core = SPA }
+1600.1.1  = { citysize = 5270 }
+1650.1.1  = { citysize = 5700 }
+1700.1.1  = { citysize = 6241 }
+1750.1.1  = { citysize = 7270 }
+1800.1.1  = { citysize = 7900 }
+1810.7.20 = {	owner = COL
+		controller = COL
+		add_core = COL
+	    } # Colombia declares independence
+1819.8.7  = { remove_core = SPA } # Colombia's independence is recongnized

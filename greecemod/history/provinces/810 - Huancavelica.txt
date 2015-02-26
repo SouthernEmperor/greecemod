@@ -1,0 +1,46 @@
+#810 - Huancavelica
+
+owner = HCV
+controller = HCV
+culture = lima
+religion = animism
+capital = "Huancavelica"
+trade_goods = gold
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1100
+add_core = HCV
+discovered_by = south_american
+discovered_by = andean
+
+1450.1.1  = { citysize = 1300 }
+1460.1.1 = {
+	owner = CSU
+	controller = CSU
+	add_core = CSU
+}
+1467.1.1 = {
+	owner = INC
+	controller = INC
+	add_core = INC
+}
+1500.1.1  = { citysize = 1440 }
+1533.8.29 = {	discovered_by = SPA
+		owner = SPA
+		controller = SPA
+		add_core = SPA
+		culture = castillian
+		religion = catholic
+	    }# The death of Atahualpa
+1537.1.1  = { unrest = 8 } # Fighting breaks out when Almagro seizes Cuzco
+1538.1.1  = { unrest = 5 } # Almagro is defeated & executed
+1541.1.1  = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumes control
+1548.1.1  = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
+1550.1.1  = { citysize = 2480 }
+1558.8.29 = { add_core = SPA }
+1600.1.1  = { citysize = 2764 }
+1650.1.1  = { citysize = 3130 }
+1700.1.1  = { citysize = 3766 }
+1750.1.1  = { citysize = 4150 }
+1800.1.1  = { citysize = 4890 }

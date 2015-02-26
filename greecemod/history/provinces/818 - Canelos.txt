@@ -1,0 +1,37 @@
+#818 - Canelos
+
+owner = QTO
+controller = QTO
+add_core = QTO
+culture = chavin
+religion = animism
+capital = "Canelos"
+trade_goods = unknown
+hre = no
+base_tax = 2
+manpower = 1
+native_size = 20
+native_ferocity = 1 
+native_hostileness = 1
+discovered_by = south_american
+discovered_by = andean
+
+1533.8.29 = {	discovered_by = SPA
+		owner = SPA
+		controller = SPA
+		culture = castillian
+		religion = catholic
+		trade_goods = grain
+	    } # The death of Atahualpa
+1550.1.1  = { citysize = 2433 }
+1559.8.29 = { add_core = SPA }
+1600.1.1  = { citysize = 3540 }
+1650.1.1  = { citysize = 4120 }
+1700.1.1  = { citysize = 5782 }
+1750.1.1  = { citysize = 6550 }
+1800.1.1  = { citysize = 7210 }
+1810.7.20 = {	owner = COL
+		controller = COL
+		add_core = COL
+	    } # Colombia declares independence
+1819.8.7  = { remove_core = SPA } # Colombia's independence is recongnized

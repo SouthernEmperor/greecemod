@@ -1,0 +1,40 @@
+# - Popayan
+
+owner = CSC
+controller = CSC
+add_core = CSC
+culture = chavin
+discovered_by = south_american
+discovered_by = andean
+religion = animism
+capital = "Popayan"
+trade_goods = unknown
+hre = no
+base_tax = 2
+manpower = 1
+native_size = 15
+native_ferocity = 1
+native_hostileness = 3
+
+1525.1.1   = {	discovered_by = SPA
+		owner = SPA
+		controller = SPA
+		citysize = 540
+		culture = castillian
+		religion = catholic
+		trade_goods = cocoa
+	     } # Spanish conquest, Francisco Pizarro
+1537.1.1   = {
+		citysize = 1711
+	     } # Founded by Sebastian de Belalcazar
+1550.1.1   = { citysize = 2170 add_core = SPA }
+1600.1.1   = { citysize = 2564 }
+1650.1.1   = { citysize = 2870 }
+1700.1.1   = { citysize = 5210 }
+1750.1.1   = { citysize = 5830 }
+1800.1.1   = { citysize = 7120 }
+1810.7.20  = {	owner = COL
+		controller = COL
+		add_core = COL
+	     } # Colombia declares independence
+1819.8.7   = { remove_core = SPA } # Colombia's independence is recongnized

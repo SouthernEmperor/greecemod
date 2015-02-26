@@ -1,0 +1,20 @@
+government = tribal_kingdom
+mercantilism = 0.1
+primary_culture = shuar
+religion = animism
+technology_group = andean
+unit_type = south_american
+capital = 2943 # Chan Chan
+
+
+1399.1.1 = {
+	monarch = {
+		name = "Luyes"
+		dynasty = "Jivarron"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+#Annexed in 1470
