@@ -4,7 +4,7 @@
 culture = nazca
 discovered_by = south_american
 discovered_by = andean
-religion = animism
+religion = inti
 citysize = 2600
 capital = "Chichas"
 trade_goods = salt

@@ -3,7 +3,7 @@
 owner = CHM
 controller = CHM
 culture = chimu
-religion = animism
+religion = inti
 capital = "Tucume"
 trade_goods = grain
 hre = no

@@ -3,7 +3,7 @@
 owner = SCH
 controller = SCH
 culture = chimu
-religion = animism
+religion = inti
 capital = "Chimbote"
 trade_goods = cocoa
 hre = no

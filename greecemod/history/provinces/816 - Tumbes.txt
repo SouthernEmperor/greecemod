@@ -3,7 +3,7 @@
 owner = CCH
 controller = CCH
 culture = chavin
-religion = animism
+religion = inti
 capital = "Tumbes"
 trade_goods = grain
 hre = no

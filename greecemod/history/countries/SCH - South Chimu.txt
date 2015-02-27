@@ -1,7 +1,7 @@
 government = tribal_democracy
 mercantilism = 0.1
 primary_culture = chimu
-religion = animism
+religion = inti
 technology_group = andean
 unit_type = south_american
 capital = 2826 # Chan Chan

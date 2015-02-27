@@ -3,7 +3,7 @@
 owner = CLA
 controller = CLA
 culture = nazca
-religion = animism
+religion = inti
 capital = "Hatuncolla"
 trade_goods = gold
 is_city = yes

@@ -3,7 +3,7 @@
 owner = CJA
 controller = CJA
 culture = chavin
-religion = animism
+religion = inti
 capital = "Cajamarca"
 trade_goods = cocoa
 hre = no

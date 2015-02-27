@@ -3,7 +3,7 @@
 owner = CSC
 controller = CSC
 culture = chavin
-religion = animism
+religion = inti
 capital = "Esmeraldas"
 citysize = 1900
 trade_goods = fish

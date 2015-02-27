@@ -3,7 +3,7 @@
 owner = JIV
 controller = JIV
 culture = shuar
-religion = animism
+religion = inti
 capital = "Kuelap"
 trade_goods = grain
 hre = no

@@ -2,7 +2,7 @@
 
 culture = humabisa
 discovered_by = south_american
-religion = animism
+religion = amazonian
 capital = "Guaviare"
 trade_goods = unknown
 hre = no

@@ -3,7 +3,7 @@
 owner = CJA
 controller = CJA
 culture = chavin
-religion = animism
+religion = inti
 capital = "Wankapampa"
 trade_goods = wool
 hre = no

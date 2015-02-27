@@ -542,3 +542,32 @@ west_african_pagan = {
 		heretic = { DARK_SPIRIT }
 	}
 }
+south_american = {
+	amazonian = {
+		icon = 17
+		color = { 1.0 0.0 0.0 }
+		country = {
+			infantry_power = 0.2
+			tolerance_own = 1
+		}
+		heretic = {SHRINKER}
+	}
+	patagonian = {
+		icon = 20
+		color = { 0.93 0.95 0.40 }
+		country = {
+			infantry_power = 0.2
+			cavalry_power = 0.2
+		}
+		heretic = {ANDES}
+	}
+	para = {
+		icon = 17
+		color = { 0.72 0.46 0.31 }
+		country = {
+			tolerance_ own = 1
+			tolerance_heretic = -1
+		}
+		heretic = {GUA}
+	}
+}

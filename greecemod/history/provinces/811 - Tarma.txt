@@ -3,7 +3,7 @@
 owner = SCH
 controller = SCH
 culture = lima
-religion = animism
+religion = inti
 capital = "Jauja"
 trade_goods = wool
 hre = no

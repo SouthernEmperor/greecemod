@@ -3,7 +3,7 @@
 owner = CAY
 controller = CAY
 culture = moche
-religion = animism
+religion = inti
 capital = "Cuzco"
 trade_goods = gold
 hre = no

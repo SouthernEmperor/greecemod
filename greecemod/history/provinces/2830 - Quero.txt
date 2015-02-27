@@ -3,7 +3,7 @@
 owner = CSU
 controller = CSU
 culture = lima
-religion = animism
+religion = inti
 capital = "Quero"
 trade_goods = wool
 hre = no

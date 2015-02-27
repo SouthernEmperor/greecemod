@@ -1,7 +1,7 @@
 government = tribal_kingdom
 mercantilism = 0.1
 primary_culture = moche
-religion = animism
+religion = inti
 technology_group = andean
 unit_type = south_american
 capital = 2944 # Chan Chan

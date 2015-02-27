@@ -2,7 +2,7 @@
 
 culture = agaruna
 discovered_by = south_american
-religion = animism
+religion = amazonian
 capital = "Manaus"
 trade_goods = unknown
 hre = no

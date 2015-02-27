@@ -1,0 +1,38 @@
+#768 - Guayra
+
+culture = guarani
+discovered_by = south_american
+religion = para
+capital = "Guayra"
+trade_goods = unknown
+hre = no
+base_tax = 1
+manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 5
+
+1556.1.1  = {
+	discovered_by = SPA
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	citysize = 500
+	trade_goods = tobacco
+} # Estimate
+1600.1.1  = { citysize = 1520 }
+1622.1.1 = {
+	owner = GUA
+	controller = GUA
+	add_core = GUA
+}
+1638.1.1 = {
+	owner = POR
+	controller = POR
+	add_core = POR
+	culture = portugese
+}
+1650.1.1  = { citysize = 1805 }
+1700.1.1  = { citysize = 2260 }
+1750.1.1  = { citysize = 3810 } 
+1800.1.1  = { citysize = 4200 }

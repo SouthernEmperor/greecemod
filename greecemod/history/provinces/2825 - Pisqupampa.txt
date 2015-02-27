@@ -3,7 +3,7 @@
 owner = HJA
 controller = HJA
 culture = moche
-religion = animism
+religion = inti
 capital = "Pisqupampa"
 trade_goods = grain
 hre = no

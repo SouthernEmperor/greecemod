@@ -3,7 +3,7 @@
 owner = SCH
 controller = SCH
 culture = moche
-religion = animism
+religion = inti
 capital = "Huaraz"
 trade_goods = grain
 hre = no

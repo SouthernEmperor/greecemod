@@ -3,7 +3,7 @@
 owner = HCV
 controller = HCV
 culture = lima
-religion = animism
+religion = inti
 capital = "Huancavelica"
 trade_goods = gold
 hre = no

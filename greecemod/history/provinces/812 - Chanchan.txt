@@ -3,7 +3,7 @@
 owner = CHM
 controller = CHM
 culture = chimu
-religion = animism
+religion = inti
 capital = "Chanchan"
 trade_goods = cocoa
 hre = no
