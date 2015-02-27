@@ -370,7 +370,7 @@ TSK = "countries/Temasek.txt"
 ANK = "countries/Angkola.txt"
 DRY = "countries/Dharmasraya.txt"
 PLB = "countries/Palembang.txt"
-YAV = "countries/Yavadvipa.txt" #Sumatra - I f'ed the names
+YAV = "countries/Yavadvipa.txt" #Not actually called Yavadvipa - I f'ed the names
 
 JNG = "countries/Janggala.txt"
 MTR	= "countries/Mataram.txt"
