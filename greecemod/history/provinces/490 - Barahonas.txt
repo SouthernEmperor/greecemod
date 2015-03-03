@@ -1,7 +1,7 @@
 #490 - Barahonas
 
 culture = guaney
-religion = animism
+religion = oldcarib
 capital = "Barahona"
 trade_goods = unknown 
 hre = no

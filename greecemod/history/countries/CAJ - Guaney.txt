@@ -1,7 +1,7 @@
 government = cacique
 mercantilism = 0.1
 technology_group = south_american
-religion = animism
+religion = oldcarib
 primary_culture = guaney
 capital = 490
 

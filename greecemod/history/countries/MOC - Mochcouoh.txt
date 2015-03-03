@@ -1,7 +1,7 @@
 government = olmec_council
 mercantilism = 0.1
 technology_group = mesoamerican
-religion = animism
+religion = mesoamerican_religion
 primary_culture = yucatan_olmec
 capital = 2635
 

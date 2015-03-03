@@ -1,7 +1,7 @@
 # No previous file for Camaguey
 
 culture = coba
-religion = animism
+religion = oldcarib
 capital = "Camaguey"
 trade_goods = unknown
 hre = no

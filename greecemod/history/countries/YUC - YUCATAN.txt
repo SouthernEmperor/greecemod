@@ -1,7 +1,7 @@
 government = cacique
 mercantilism = 0.1
 technology_group = north_american
-religion = animism
+religion = mesoamerican_religion
 primary_culture = yucatan
 capital = 846
 

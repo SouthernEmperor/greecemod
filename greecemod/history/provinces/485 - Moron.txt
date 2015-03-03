@@ -1,7 +1,7 @@
 #485 - Moron
 
 culture = coba
-religion = animism
+religion = oldcarib
 capital = "Moron"
 trade_goods = unknown 
 hre = no

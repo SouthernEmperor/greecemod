@@ -1,7 +1,7 @@
 #487 - Jamaica
 
 culture = jamayca
-religion = animism
+religion = mesoamerican_religion
 capital = "Jamaica"
 trade_goods = unknown
 hre = no

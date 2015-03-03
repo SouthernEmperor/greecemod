@@ -1,7 +1,7 @@
 # No previous file for Maguana
 
 culture = guaney
-religion = animism
+religion = oldcarib
 capital = "Maguana"
 trade_goods = unknown
 hre = no

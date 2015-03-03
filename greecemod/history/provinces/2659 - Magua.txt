@@ -1,7 +1,7 @@
 # No previous file for Magua
 
 culture = guaney
-religion = animism
+religion = oldcarib
 capital = "Magua"
 trade_goods = unknown
 hre = no

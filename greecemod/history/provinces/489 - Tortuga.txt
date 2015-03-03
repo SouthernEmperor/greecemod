@@ -1,7 +1,7 @@
 #489 - Tortuga
 
 culture = guaney
-religion = animism
+religion = oldcarib
 capital = "Tortuga"
 trade_goods = unknown 
 hre = no

@@ -1,7 +1,7 @@
 government = despotic_monarchy
 mercantilism = 0.1
 primary_culture = cochimi
-religion = animism
+religion = nahuatl
 technology_group = mesoamerican
 capital = 865 # Mexico
 

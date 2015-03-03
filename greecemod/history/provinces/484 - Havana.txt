@@ -1,7 +1,7 @@
 #484 - Havana
 
 culture = coba
-religion = animism
+religion = mesoamerican_religion
 capital = "Havana"
 trade_goods = unknown
 hre = no

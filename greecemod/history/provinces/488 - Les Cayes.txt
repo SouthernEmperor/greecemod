@@ -1,7 +1,7 @@
 #488 - Les Cayes
 
 culture = jamayca
-religion = animism
+religion = mesoamerican_religion
 capital = "Les Cayes"
 trade_goods = unknown
 hre = no

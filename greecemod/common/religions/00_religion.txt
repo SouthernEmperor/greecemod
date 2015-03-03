@@ -367,7 +367,7 @@ pagan = {
 meso = {
 	inti = {
 		color = { 0.25 0.45 0.45 }
-		icon = 18
+		icon = 23
 		country = {
 			tolerance_own = 1
 			global_autonomy = -0.05
@@ -385,7 +385,7 @@ meso = {
 	
 	nahuatl = {
 		color = { 0.25 0.45 0.25 }
-		icon = 17
+		icon = 23
 		country = {
 			land_morale = 0.1
 			global_unrest = -2
@@ -394,7 +394,6 @@ meso = {
 			local_missionary_strength = 0.02
 		}
 		
-		doom = yes
 		declare_war_in_regency = yes
 		religious_reforms = yes
 		reform_tooltip = NAHUATL_REFORM_TOOLTIP
@@ -404,7 +403,7 @@ meso = {
 	
 	mesoamerican_religion = {
 		color = { 0.45 0.45 0.25 }
-		icon = 19
+		icon = 23
 		country = {
 			tolerance_own = 1
 			advisor_pool = 1

@@ -1,7 +1,7 @@
 # No previous file for Baracoa
 
 culture = coba
-religion = animism
+religion = oldcarib
 capital = "Baracoa"
 trade_goods = unknown
 hre = no
