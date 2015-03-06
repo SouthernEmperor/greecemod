@@ -610,4 +610,13 @@ north_american_totemism = {
 		}
 		heretic = {PLAQUEMINE}
 	}
+	plainslord = {
+		icon = 14
+		color = { 0.3 0.06 0.39 }
+		country = {
+			tolerance_ own = 1
+			tolerance_ heretic = -2
+		}
+		heretic = {FOOTMAN}
+	}
 }

@@ -1,7 +1,7 @@
 #493 - St. Thomas
 
 culture = boriken
-religion = animism
+religion = old_carib
 capital = "St. Thomas"
 trade_goods = unknown
 hre = no

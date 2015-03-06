@@ -1,7 +1,7 @@
 # No previous file for Borrado
 
 culture = chichimec
-religion = animism
+religion = nahuatl
 capital = "Borrado"
 trade_goods = unknown
 hre = no

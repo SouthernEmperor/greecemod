@@ -1,7 +1,7 @@
 # No previous file for Huichol
 
 culture = tarascan
-religion = animism
+religion = mesoamerican_religion
 capital = "Huichol"
 trade_goods = wool
 hre = no

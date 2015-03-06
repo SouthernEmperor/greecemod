@@ -1,9 +1,9 @@
 #855 - Huichol
 
 culture = tarascan
-religion = animism 
+religion = mesoamerican_religion
 capital = "Huichol" 
-trade_goods = unknown 
+trade_goods = gold
 hre = no 
 base_tax = 3
 manpower = 1 

@@ -1,7 +1,7 @@
 government = tribal_despotism
 mercantilism = 0.1
 primary_culture = skraeling
-religion = norse_pagan
+religion = skraeling
 technology_group = north_american
 capital = 2568
 

@@ -1,7 +1,7 @@
 #926 - Seminole
 
 culture = floridan
-religion = animism
+religion = mesoamerican_religion
 capital = "Seminole"
 trade_goods = unknown
 hre = no

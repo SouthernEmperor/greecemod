@@ -3,7 +3,7 @@
 owner = FOX
 controller = FOX
 culture = fox
-religion = totemism
+religion = plainslord
 capital = "Niagara"
 trade_goods = fur
 hre = no

@@ -1,7 +1,7 @@
 # No previous file for Mayaimi
 
 culture = floridan
-religion = animism
+religion = mesoamerican_religion
 capital = "Mayaimi"
 trade_goods = unknown
 hre = no

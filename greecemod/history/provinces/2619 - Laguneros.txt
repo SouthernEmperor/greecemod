@@ -1,7 +1,7 @@
 # No previous file for Laguneros
 
 culture = chichimec
-religion = animism
+religion = nahuatl
 capital = "Laguneros"
 trade_goods = unknown
 hre = no

@@ -1,7 +1,7 @@
 #863 - Suma
 
 culture = nahuatl
-religion = animism
+religion = nahuatl
 capital = "Suma"
 trade_goods = unknown
 hre = no

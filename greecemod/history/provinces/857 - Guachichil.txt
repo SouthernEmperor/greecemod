@@ -1,7 +1,7 @@
 #857 - Guachichil
 
 culture = chichimec
-religion = animism 
+religion = nahuatl
 capital = "Guachichil" 
 trade_goods = unknown 
 hre = no 

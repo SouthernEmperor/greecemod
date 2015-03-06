@@ -1,7 +1,7 @@
 #862 - Yaqui
 
 culture = cahita
-religion = animism 
+religion = nahuatl
 capital = "Yaqui" 
 trade_goods = unknown 
 hre = no 

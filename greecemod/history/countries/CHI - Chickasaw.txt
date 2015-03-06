@@ -1,7 +1,7 @@
 government = tribal_despotism
 mercantilism = 0.1
 primary_culture = mississippian
-religion = totemism
+religion = moundbuilder
 technology_group = north_american
 capital = 939 # Chickasaw
 

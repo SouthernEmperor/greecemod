@@ -1,7 +1,7 @@
 #492 - Puerto Rico
 
 culture = boriken
-religion = animism
+religion = old_carib
 capital = "Boriken"
 trade_goods = unknown 
 hre = no

@@ -1,7 +1,7 @@
 #859 - Sinaloa
 
 culture = cahita
-religion = animism 
+religion = nahuatl
 capital = "Sinaloa" 
 trade_goods = unknown 
 hre = no 

@@ -1,7 +1,7 @@
 #866 - Guaycura
 
 culture = cochimi
-religion = animism 
+religion = nahuatl
 capital = "Guaycura" 
 trade_goods = unknown 
 hre = no 

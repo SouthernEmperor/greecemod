@@ -1,7 +1,7 @@
 #861 - Coahuila
 
 culture = nahuatl
-religion = animism 
+religion = nahuatl
 capital = "Coahuila" 
 trade_goods = unknown
 hre = no 

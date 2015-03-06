@@ -1,7 +1,7 @@
 # No previous file for Jumao
 
 culture = nahuatl
-religion = animism
+religion = nahuatl
 capital = "Jumano"
 trade_goods = unknown
 hre = no

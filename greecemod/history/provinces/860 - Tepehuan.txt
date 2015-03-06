@@ -1,7 +1,7 @@
 #860 - Tepehuan
 
 culture = acaxee
-religion = animism 
+religion = nahuatl
 capital = "Tepehuan" 
 trade_goods = unknown
 hre = no 

@@ -3,7 +3,7 @@
 owner = CHI
 controller = CHI
 culture = mississippian
-religion = totemism
+religion = moundbuilder
 capital = "Tennessee"
 trade_goods = grain
 hre = no

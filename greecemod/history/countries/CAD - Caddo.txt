@@ -1,7 +1,7 @@
 government = tribal_despotism
 mercantilism = 0.1
 primary_culture = plaquemine
-religion = totemism
+religion = moundbuilder
 technology_group = north_american
 capital = 895 # Caddo
 

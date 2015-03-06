@@ -1,7 +1,7 @@
 # No previous file for Cacaxtes
 
 culture = nahuatl
-religion = animism
+religion = nahuatl
 capital = "Cacaxtes"
 trade_goods = unknown
 hre = no

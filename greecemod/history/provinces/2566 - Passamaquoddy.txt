@@ -1,7 +1,7 @@
 # No previous file for Passamaquoddy
 
 culture = skraeling
-religion = totemism
+religion = skraeling
 capital = "Passamaquoddy"
 trade_goods = unknown
 owner = ABE

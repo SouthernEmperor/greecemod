@@ -1,7 +1,7 @@
 #856 - Zacatecas
 
 culture = acaxee
-religion = animism 
+religion = nahuatl
 capital = "Zacatecas" 
 trade_goods = unknown
 hre = no

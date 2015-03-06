@@ -1,7 +1,7 @@
 #858 - Tamaulipas
 
 culture = chichimec
-religion = animism
+religion = nahuatl
 capital = "Tamaulipas"
 trade_goods = unknown
 hre = no

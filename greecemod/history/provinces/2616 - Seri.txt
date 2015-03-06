@@ -1,7 +1,7 @@
 # No previous file for Seri
 
 culture = cochimi
-religion = animism
+religion = nahuatl
 capital = "Seri"
 trade_goods = unknown
 hre = no

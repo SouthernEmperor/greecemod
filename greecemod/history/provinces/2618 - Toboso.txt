@@ -1,7 +1,7 @@
 # No previous file for Toboso
 
 culture = acaxee
-religion = animism
+religion = nahuatl
 capital = "Toboso"
 trade_goods = unknown
 hre = no
