@@ -1,6 +1,6 @@
 name = "greecemod"
 path = "mod/greecemod"
-supported_version = "1.10"
+supported_version = "1.11"
 replace_path = "decisions"
 replace_path = "events"
 replace_path = "missions"
