@@ -1,0 +1,8 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = arab_breton
+add_accepted_culture = aquitanian
+religion = ashari
+technology_group = muslim
+capital = 190	# Bourges
+fixed_capital = 190 # Cannot move capital away from this province & no power cost to move to it
