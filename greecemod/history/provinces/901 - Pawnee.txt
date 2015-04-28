@@ -1,7 +1,7 @@
 #901 - Pawnee
 
 culture = oneota
-religion = totemism
+religion = moundbuilder
 capital = "Pawnee"
 trade_goods = grain
 hre = no

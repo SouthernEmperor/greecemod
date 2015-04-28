@@ -2,7 +2,7 @@
 
 
 culture = plaquemine
-religion = totemism
+religion = moundbuilder
 capital = "Chickasaw"
 trade_goods = grain
 hre = no

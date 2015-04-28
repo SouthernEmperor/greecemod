@@ -1,0 +1,18 @@
+#127 - Sardinia
+
+owner = PIL
+controller = PIL
+culture = roman
+religion = catholic 
+hre = no 
+base_tax = 4
+trade_goods = copper
+manpower = 2
+fort1 = yes 
+capital = "Cagliari" 
+citysize = 25000 # Estimated 
+add_core = PIL
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
